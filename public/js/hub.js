@@ -212,43 +212,50 @@ export async function render(container) {
       </div>
     </div>
 
-    <!-- Modal Adicionar Concurso Personalizado -->
-    <div id="modal-custom-exam" class="modal" style="display:none;">
-      <div class="modal-content" style="max-width:540px;">
+    <!-- Modal Adicionar Concurso Personalizado (Modal Overlay Centralizado) -->
+    <div id="modal-custom-exam" class="modal-overlay" style="display:none;">
+      <div class="modal" style="max-width:560px;">
         <div class="modal-header">
-          <h3>➕ Cadastrar Novo Concurso</h3>
-          <button class="btn-close" id="btn-close-exam-modal">✕</button>
+          <h3 style="margin:0; font-size:1.15rem; color:var(--text-primary); display:flex; align-items:center; gap:0.5rem;">
+            <span>➕</span> Cadastrar Novo Concurso & Edital
+          </h3>
+          <button class="btn-close" id="btn-close-exam-modal" style="background:none; border:none; font-size:1.2rem; cursor:pointer; color:var(--text-muted);">✕</button>
         </div>
-        <div class="modal-body" style="display:flex; flex-direction:column; gap:1rem; padding:1.25rem;">
+        <div class="modal-body">
+          <p class="text-muted" style="font-size:0.85rem; margin-top:-0.25rem;">
+            Cadastre os dados do certame para criar seu Workspace de estudos e calibrar a inteligência da IA.
+          </p>
           <div>
-            <label style="font-size:0.85rem; font-weight:700;">Nome do Órgão / Concurso:</label>
-            <input type="text" id="custom-exam-name" class="form-control" placeholder="Ex: TJ-RJ, PF Administrativo, EBSERH...">
+            <label style="font-size:0.85rem; font-weight:700; display:block; margin-bottom:0.35rem;">Nome do Órgão / Concurso:</label>
+            <input type="text" id="custom-exam-name" class="form-control" placeholder="Ex: TJ-SP, Polícia Federal, EBSERH, Bacen...">
+          </div>
+          <div class="grid-2">
+            <div>
+              <label style="font-size:0.85rem; font-weight:700; display:block; margin-bottom:0.35rem;">Cargo / Especialidade:</label>
+              <input type="text" id="custom-exam-role" class="form-control" placeholder="Ex: Analista Judiciário, Enfermeiro...">
+            </div>
+            <div>
+              <label style="font-size:0.85rem; font-weight:700; display:block; margin-bottom:0.35rem;">Banca Examinadora:</label>
+              <input type="text" id="custom-exam-banca" class="form-control" placeholder="Ex: FGV, Cebraspe, FCC, Vunesp...">
+            </div>
           </div>
           <div>
-            <label style="font-size:0.85rem; font-weight:700;">Cargo / Especialidade:</label>
-            <input type="text" id="custom-exam-role" class="form-control" placeholder="Ex: Técnico Judiciário, Enfermeiro...">
-          </div>
-          <div>
-            <label style="font-size:0.85rem; font-weight:700;">Banca Examinadora:</label>
-            <input type="text" id="custom-exam-banca" class="form-control" placeholder="Ex: FGV, Cebraspe, FCC, IBFC...">
-          </div>
-          <div>
-            <label style="font-size:0.85rem; font-weight:700;">Área do Concurso:</label>
+            <label style="font-size:0.85rem; font-weight:700; display:block; margin-bottom:0.35rem;">Área do Concurso:</label>
             <select id="custom-exam-category" class="form-control">
-              <option value="saude">Saúde & Enfermagem</option>
-              <option value="militar">Militar & Forças Armadas</option>
-              <option value="administrativo">Administrativo & Tribunais</option>
-              <option value="policial">Policial & Segurança</option>
-              <option value="fiscal">Fiscal & Controle</option>
+              <option value="administrativo">🏢 Administrativo & Tribunais</option>
+              <option value="saude">🏥 Saúde & Enfermagem</option>
+              <option value="militar">⚓ Militar & Forças Armadas</option>
+              <option value="policial">👮 Policial & Segurança</option>
+              <option value="fiscal">🏛️ Fiscal & Controle</option>
             </select>
           </div>
-          <div style="background:var(--color-primary-bg); border-left:3px solid var(--color-primary); padding:0.75rem; border-radius:4px; font-size:0.82rem;">
-            💡 <strong>Dica:</strong> Após cadastrar, você poderá enviar as apostilas e PDFs no módulo <strong>Biblioteca</strong> para calibração automática da IA.
+          <div style="background:var(--color-primary-bg, rgba(27,54,93,0.08)); border-left:3px solid var(--color-primary); padding:0.85rem; border-radius:6px; font-size:0.82rem; color:var(--text-secondary);">
+            💡 <strong>Próximo Passo:</strong> Após cadastrar, você poderá enviar o edital em PDF no módulo <strong>Biblioteca (RAG)</strong> para gerar simulados e resumos específicos da sua banca.
           </div>
         </div>
-        <div class="modal-footer" style="padding:1rem 1.25rem; display:flex; justify-content:flex-end; gap:0.5rem;">
+        <div class="modal-footer">
           <button class="btn btn-secondary" id="btn-cancel-custom-exam">Cancelar</button>
-          <button class="btn btn-primary" id="btn-save-custom-exam">Salvar Concurso</button>
+          <button class="btn btn-primary" id="btn-save-custom-exam" style="background:var(--color-primary); border-color:var(--color-primary);">Salvar & Entrar no Workspace</button>
         </div>
       </div>
     </div>
@@ -402,7 +409,15 @@ function setupHubEvents() {
 
   if (btnOpenModal && modal) {
     btnOpenModal.addEventListener('click', () => {
+      // Limpar campos
+      const nameEl = document.getElementById('custom-exam-name');
+      const roleEl = document.getElementById('custom-exam-role');
+      const bancaEl = document.getElementById('custom-exam-banca');
+      if (nameEl) nameEl.value = '';
+      if (roleEl) roleEl.value = '';
+      if (bancaEl) bancaEl.value = '';
       modal.style.display = 'flex';
+      if (nameEl) nameEl.focus();
     });
   }
 
@@ -412,6 +427,11 @@ function setupHubEvents() {
 
   if (btnCloseModal) btnCloseModal.addEventListener('click', closeModal);
   if (btnCancelModal) btnCancelModal.addEventListener('click', closeModal);
+  if (modal) {
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) closeModal();
+    });
+  }
 
   if (btnSaveModal) {
     btnSaveModal.addEventListener('click', () => {

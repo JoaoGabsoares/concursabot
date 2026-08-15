@@ -91,14 +91,14 @@ export async function render(container) {
       </div>
     </div>
 
-    <!-- Modal: Edit User Profile -->
-    <div id="modal-edit-user" class="modal" style="display:none;">
-      <div class="modal-content" style="max-width:540px;">
-        <div class="modal-header" style="display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid var(--border-color); padding:1rem 1.25rem;">
+    <!-- Modal: Edit User Profile (Overlay Centralizado) -->
+    <div id="modal-edit-user" class="modal-overlay" style="display:none;">
+      <div class="modal" style="max-width:540px;">
+        <div class="modal-header">
           <h3 style="margin:0; font-size:1.15rem; color:var(--text-primary);">✏️ Editar Perfil de Estudante</h3>
           <button class="btn-close" id="btn-close-edit-user-modal" style="background:none; border:none; font-size:1.2rem; cursor:pointer; color:var(--text-muted);">✕</button>
         </div>
-        <div class="modal-body" style="display:flex; flex-direction:column; gap:1rem; padding:1.25rem; max-height:75vh; overflow-y:auto;">
+        <div class="modal-body" style="display:flex; flex-direction:column; gap:1rem; padding:1.25rem;">
           <input type="hidden" id="edit-user-id">
 
           <!-- Nome -->
@@ -189,7 +189,7 @@ export async function render(container) {
           </div>
         </div>
 
-        <div class="modal-footer" style="display:flex; justify-content:space-between; align-items:center; padding:1rem 1.25rem; border-top:1px solid var(--border-color); background:var(--bg-tertiary);">
+        <div class="modal-footer">
           <button class="btn btn-danger btn-sm" id="btn-delete-user-profile" style="display:none;">🗑️ Excluir Perfil</button>
           <div style="display:flex; gap:0.5rem; margin-left:auto;">
             <button class="btn btn-secondary" id="btn-cancel-edit-user">Cancelar</button>
@@ -231,6 +231,11 @@ function setupUserEvents(users, container) {
 
   if (btnCloseEdit) btnCloseEdit.addEventListener('click', closeEditModal);
   if (btnCancelEdit) btnCancelEdit.addEventListener('click', closeEditModal);
+  if (editModal) {
+    editModal.addEventListener('click', (e) => {
+      if (e.target === editModal) closeEditModal();
+    });
+  }
 
   // Edit Emoji Picker
   document.querySelectorAll('.edit-emoji-btn').forEach(btn => {
