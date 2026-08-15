@@ -1,0 +1,27 @@
+{
+  "name": "concursabot",
+  "version": "2.5.0",
+  "description": "ConcursaBot — Seu Cérebro IA Pessoal para Concursos Públicos",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "build": "node server/ensure-native.js",
+    "start": "node server/index.js",
+    "dev": "node server/index.js",
+    "ingest": "node server/ingest.js",
+    "preload": "node server/preload-library.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "better-sqlite3": "^11.10.0",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0",
+    "express": "^4.21.0",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

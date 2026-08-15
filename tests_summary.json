@@ -1,0 +1,459 @@
+{
+  "timestamp": "2026-08-14T04:36:38.148Z",
+  "total": 50,
+  "passed": 50,
+  "failed": 0,
+  "passRate": "100.0%",
+  "results": [
+    {
+      "category": "Dashboard",
+      "testName": "GET /api/dashboard/stats",
+      "status": 200,
+      "latency": "445ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"answered\":3,\"accuracy\":67,\"pendingCards\":2,\"simulados\":0,\"questions\":{\"totalAnswered\":3,\"correctPct\":67},\"flashcards\":{\"dueCount\":2},\"simuladosStats\":{\"totalC"
+    },
+    {
+      "category": "Dashboard",
+      "testName": "POST /api/dashboard/stats (Unregistered method)",
+      "status": 404,
+      "latency": "77ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /api/dashboard/stats</pre>\n</body>\n</html>\n"
+    },
+    {
+      "category": "Study Room",
+      "testName": "GET /api/study-room/materials",
+      "status": 200,
+      "latency": "38ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"materials\":[{\"id\":4,\"filename\":\"aula01.pdf\",\"filepath\":\"/tmp/aula01.pdf\",\"subject\":\"Direito Tributário\",\"lesson_number\":null,\"title\":\"Aula 01 Tributário\",\"sum"
+    },
+    {
+      "category": "Study Room",
+      "testName": "POST /api/study-room/materials (Unregistered direct POST)",
+      "status": 404,
+      "latency": "37ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /api/study-room/materials</pre>\n</body>\n</ht"
+    },
+    {
+      "category": "Questions",
+      "testName": "POST /api/questions/generate (count=2)",
+      "status": 200,
+      "latency": "14571ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"success\":true,\"questions\":[{\"id\":129,\"question_text\":\"Assinale a alternativa em que a regência verbal e o emprego do sinal indicativo de crase atendem rigoros"
+    },
+    {
+      "category": "Questions",
+      "testName": "GET /api/questions/generate (Method Not Allowed / 404)",
+      "status": 404,
+      "latency": "28ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/questions/generate</pre>\n</body>\n</html>"
+    },
+    {
+      "category": "Questions",
+      "testName": "POST /api/questions/answer (valid)",
+      "status": 200,
+      "latency": "19ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"isCorrect\":false,\"correctIndex\":1,\"explanation\":\"A alternativa B está correta. O verbo 'visar' no sentido de 'almejar/objetivar' é transitivo indireto e exige"
+    },
+    {
+      "category": "Questions",
+      "testName": "GET /api/questions/answer (404 Not Found)",
+      "status": 404,
+      "latency": "13ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/questions/answer</pre>\n</body>\n</html>\n"
+    },
+    {
+      "category": "Simulados",
+      "testName": "POST /api/simulados/generate (Route alias check)",
+      "status": 404,
+      "latency": "19ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /api/simulados/generate</pre>\n</body>\n</html"
+    },
+    {
+      "category": "Simulados",
+      "testName": "POST /api/simulados/create (Canonical Route)",
+      "status": 200,
+      "latency": "12416ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"success\":true,\"simuladoId\":2,\"banca\":\"IBDO\",\"questionType\":\"multiple_choice\"}"
+    },
+    {
+      "category": "Simulados",
+      "testName": "GET /api/simulados",
+      "status": 200,
+      "latency": "27ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "[{\"id\":2,\"banca\":\"IBDO\",\"subjects\":\"[\\\"Língua Portuguesa\\\"]\",\"question_count\":2,\"time_limit_minutes\":15,\"time_spent_seconds\":null,\"score\":0,\"status\":\"in_progres"
+    },
+    {
+      "category": "Schedule",
+      "testName": "GET /api/schedule/today",
+      "status": 200,
+      "latency": "344ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"success\":true,\"careerId\":\"atrfb\",\"careerName\":\"🏛️ Receita Federal do Brasil (ATRFB)\",\"currentIsoDay\":5,\"currentDayName\":\"Sexta-feira\",\"schedule\":null,\"tasks\""
+    },
+    {
+      "category": "Schedule",
+      "testName": "POST /api/schedule/today (404 Not Found)",
+      "status": 404,
+      "latency": "18ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /api/schedule/today</pre>\n</body>\n</html>\n"
+    },
+    {
+      "category": "Schedule",
+      "testName": "POST /api/schedule/generate (Smart Schedule AI)",
+      "status": 200,
+      "latency": "10843ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"success\":true,\"scheduleId\":5,\"strategy_summary\":\"Este cronograma foi planejado estrategicamente para o concurso SES-RJ / IASERJ 2026, focando no perfil da ban"
+    },
+    {
+      "category": "Schedule",
+      "testName": "GET /api/schedule/generate (404 Not Found)",
+      "status": 404,
+      "latency": "20ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Not found\"}"
+    },
+    {
+      "category": "Flashcards",
+      "testName": "GET /api/flashcards/decks",
+      "status": 200,
+      "latency": "10ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "[{\"id\":2,\"topic\":\"Princípios do SUS (Universalidade e Integralidade)\",\"subject\":\"Legislação do SUS\",\"total_cards\":2,\"due_cards\":2}]"
+    },
+    {
+      "category": "Flashcards",
+      "testName": "POST /api/flashcards/decks (404 / use /generate)",
+      "status": 404,
+      "latency": "18ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /api/flashcards/decks</pre>\n</body>\n</html>\n"
+    },
+    {
+      "category": "Flashcards",
+      "testName": "POST /api/flashcards/generate",
+      "status": 200,
+      "latency": "5688ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"success\":true,\"message\":\"Deck created\"}"
+    },
+    {
+      "category": "Users",
+      "testName": "GET /api/users/profiles (Route alias check)",
+      "status": 404,
+      "latency": "24ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Perfil não encontrado.\"}"
+    },
+    {
+      "category": "Users",
+      "testName": "GET /api/users (Canonical Profile List)",
+      "status": 200,
+      "latency": "17ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "[{\"id\":\"user_joao\",\"name\":\"João\",\"avatar_emoji\":\"👨‍🎓\",\"active_career_id\":\"atrfb\",\"color_theme\":\"primary\",\"is_default\":1,\"created_at\":\"2026-08-13 11:36:06\",\"la"
+    },
+    {
+      "category": "Users",
+      "testName": "POST /api/users (Create User Profile)",
+      "status": 201,
+      "latency": "14ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"id\":\"user_1786682180713\",\"name\":\"QA Test Agent User\",\"avatar_emoji\":\"🧪\",\"active_career_id\":\"ses_rj\",\"color_theme\":\"success\",\"is_default\":0,\"created_at\":\"2026"
+    },
+    {
+      "category": "System Logs",
+      "testName": "GET /api/system/logs",
+      "status": 200,
+      "latency": "31ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"success\":true,\"total\":32,\"logs\":[{\"id\":\"1786682136305zid82\",\"timestamp\":\"2026-08-14 04:35:36\",\"level\":\"HTTP\",\"tag\":\"HTTP\",\"message\":\"GET /api/dashboard/stats "
+    },
+    {
+      "category": "System Logs",
+      "testName": "GET /api/system/logs/download",
+      "status": 200,
+      "latency": "27ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "\n[2026-08-14 04:23:29] [HTTP ] [HTTP      ] GET /api/dashboard -> 200 (12ms)\n[2026-08-14 04:23:30] [HTTP ] [HTTP      ] GET /api/gamification/status -> 304 (8ms"
+    },
+    {
+      "category": "System Logs",
+      "testName": "POST /api/system/logs (Unregistered method)",
+      "status": 404,
+      "latency": "8ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot POST /api/system/logs</pre>\n</body>\n</html>\n"
+    },
+    {
+      "category": "Auth PIN",
+      "testName": "POST /api/verify-pin (No PIN required in local dev)",
+      "status": 200,
+      "latency": "9ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"valid\":true,\"required\":false}"
+    },
+    {
+      "category": "Auth PIN",
+      "testName": "GET /api/verify-pin (404 Not Found)",
+      "status": 404,
+      "latency": "8ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/verify-pin</pre>\n</body>\n</html>\n"
+    },
+    {
+      "category": "Career Isolation",
+      "testName": "Catalog Context: ses_rj (SES-RJ / IASERJ 2026)",
+      "status": 200,
+      "latency": "20ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"careerId\":\"ses_rj\",\"careerName\":\"🏥 SES-RJ / IASERJ 2026 (IBDO Projetos)\",\"catalog\":[{\"subject\":\"Língua Portuguesa\",\"wave\":1,\"weightQuestions\":15,\"percentage\""
+    },
+    {
+      "category": "Career Isolation",
+      "testName": "Schedule Context: ses_rj",
+      "status": 200,
+      "latency": "326ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"success\":true,\"careerId\":\"ses_rj\",\"careerName\":\"🏥 SES-RJ / IASERJ 2026 (IBDO Projetos)\",\"currentIsoDay\":5,\"currentDayName\":\"Sexta-feira\",\"schedule\":{\"id\":5,\""
+    },
+    {
+      "category": "Career Isolation",
+      "testName": "Benchmarks Context: ses_rj",
+      "status": 200,
+      "latency": "20ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"careerId\":\"ses_rj\",\"total_editions\":3,\"editions\":[{\"id\":28,\"career_id\":\"ses_rj\",\"edition_year\":2026,\"banca\":\"Instituto IBDO Projetos\",\"role\":\"Técnico de Enfer"
+    },
+    {
+      "category": "Career Isolation",
+      "testName": "Catalog Context: marinha_rm2 (Marinha RM2 / SMV)",
+      "status": 200,
+      "latency": "18ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"careerId\":\"marinha_rm2\",\"careerName\":\"⚓ Marinha do Brasil (Praças RM2 / SMV)\",\"catalog\":[{\"subject\":\"Língua Portuguesa\",\"wave\":1,\"weightQuestions\":25,\"percent"
+    },
+    {
+      "category": "Career Isolation",
+      "testName": "Schedule Context: marinha_rm2",
+      "status": 200,
+      "latency": "186ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"success\":true,\"careerId\":\"marinha_rm2\",\"careerName\":\"⚓ Marinha do Brasil (Praças RM2 / SMV)\",\"currentIsoDay\":5,\"currentDayName\":\"Sexta-feira\",\"schedule\":null,"
+    },
+    {
+      "category": "Career Isolation",
+      "testName": "Benchmarks Context: marinha_rm2",
+      "status": 200,
+      "latency": "22ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"careerId\":\"marinha_rm2\",\"total_editions\":3,\"editions\":[{\"id\":31,\"career_id\":\"marinha_rm2\",\"edition_year\":2025,\"banca\":\"DEnsM / Marinha do Brasil\",\"role\":\"Cabo"
+    },
+    {
+      "category": "Career Isolation",
+      "testName": "Catalog Context: atrfb (Receita Federal ATRFB)",
+      "status": 200,
+      "latency": "13ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"careerId\":\"atrfb\",\"careerName\":\"🏛️ Receita Federal do Brasil (ATRFB)\",\"catalog\":[{\"subject\":\"Direito Tributário\",\"wave\":1,\"weightQuestions\":16,\"percentage\":\""
+    },
+    {
+      "category": "Career Isolation",
+      "testName": "Schedule Context: atrfb",
+      "status": 200,
+      "latency": "183ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"success\":true,\"careerId\":\"atrfb\",\"careerName\":\"🏛️ Receita Federal do Brasil (ATRFB)\",\"currentIsoDay\":5,\"currentDayName\":\"Sexta-feira\",\"schedule\":null,\"tasks\""
+    },
+    {
+      "category": "Career Isolation",
+      "testName": "Benchmarks Context: atrfb",
+      "status": 200,
+      "latency": "23ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"careerId\":\"atrfb\",\"total_editions\":3,\"editions\":[{\"id\":25,\"career_id\":\"atrfb\",\"edition_year\":2023,\"banca\":\"FGV (Fundação Getulio Vargas)\",\"role\":\"Analista-Tri"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "POST /api/questions/generate (Missing Subject)",
+      "status": 400,
+      "latency": "17ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Subject is required\"}"
+    },
+    {
+      "category": "Boundary/SafeCount",
+      "testName": "POST /api/questions/generate (count=-10 -> clamp to 1)",
+      "status": 200,
+      "latency": "16272ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"success\":true,\"questions\":[{\"id\":133,\"question_text\":\"Considerando as relações de coesão, a regência e a coerência do texto, assinale a opção em que a propost"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "POST /api/questions/answer (Empty Body)",
+      "status": 400,
+      "latency": "14ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Missing parameters\"}"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "POST /api/questions/answer (Non-existent ID)",
+      "status": 404,
+      "latency": "12ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Question not found\"}"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "POST /api/simulados/create (Empty subjects array)",
+      "status": 400,
+      "latency": "9ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Subjects array is required\"}"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "POST /api/schedule/generate (Missing subjects)",
+      "status": 400,
+      "latency": "9ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Disciplinas obrigatórias para gerar o cronograma.\"}"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "POST /api/flashcards/generate (Missing topic)",
+      "status": 400,
+      "latency": "14ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Topic is required\"}"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "POST /api/flashcards/review (rating=5 out of bounds)",
+      "status": 400,
+      "latency": "13ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Invalid cardId or rating (1-4)\"}"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "POST /api/flashcards/review (rating=0 out of bounds)",
+      "status": 400,
+      "latency": "11ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Invalid cardId or rating (1-4)\"}"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "POST /api/users (Missing name)",
+      "status": 400,
+      "latency": "10ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Nome do estudante é obrigatório.\"}"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "GET /api/users/:id (Non-existent user ID)",
+      "status": 404,
+      "latency": "8ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Perfil não encontrado.\"}"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "DELETE /api/users/user_joao (Block deleting default user)",
+      "status": 400,
+      "latency": "8ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"O perfil padrão titular não pode ser removido.\"}"
+    },
+    {
+      "category": "Cleanup",
+      "testName": "DELETE /api/users/user_1786682180713 (Cascade cleanup)",
+      "status": 200,
+      "latency": "10ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"success\":true,\"message\":\"Perfil e histórico removidos com sucesso em cascata.\"}"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "GET /api/study-room/materials/999999 (Non-existent ID)",
+      "status": 404,
+      "latency": "7ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Material não encontrado.\"}"
+    },
+    {
+      "category": "Error Handling",
+      "testName": "GET /api/simulados/999999 (Non-existent ID)",
+      "status": 404,
+      "latency": "9ms",
+      "passed": true,
+      "validationMessage": "OK",
+      "payloadSnippet": "{\"error\":\"Not found\"}"
+    }
+  ]
+}

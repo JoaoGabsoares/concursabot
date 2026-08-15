@@ -1,0 +1,165 @@
+import express from 'express';
+import db from '../database.js';
+import { CAREER_SUBJECTS } from '../gamification.js';
+
+const router = express.Router();
+
+function getDashboardData(req, res) {
+    try {
+        const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
+        const careerId = req.headers['x-exam-id'] || req.query.careerId || req.query.career_id || null;
+        const subjects = careerId && CAREER_SUBJECTS[careerId] ? CAREER_SUBJECTS[careerId] : null;
+
+        let qStats = { total: 0, correct: 0 };
+        let fStats = { due: 0 };
+        let sStats = { total: 0, avg_score: 0 };
+        let subStats = [];
+        let recentActivity = [];
+
+        if (careerId && subjects) {
+            const placeholders = subjects.map(() => '?').join(',');
+
+            // Questões respondidas nesta carreira
+            qStats = db.prepare(`
+                SELECT 
+                    COUNT(*) as total,
+                    SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) as correct
+                FROM question_answers qa
+                JOIN questions q ON qa.question_id = q.id
+                WHERE (qa.user_id = ? OR qa.user_id IS NULL)
+                  AND (qa.career_id = ? OR q.subject IN (${placeholders}))
+            `).get(userId, careerId, ...subjects);
+
+            // Flashcards desta carreira
+            fStats = db.prepare(`
+                SELECT COUNT(*) as due
+                FROM flashcards f
+                JOIN flashcard_decks fd ON f.deck_id = fd.id
+                WHERE (fd.career_id = ? OR fd.subject IN (${placeholders}))
+                  AND f.next_review <= datetime('now')
+            `).get(careerId, ...subjects);
+
+            // Simulados desta carreira
+            sStats = db.prepare(`
+                SELECT 
+                    COUNT(*) as total,
+                    AVG(score) as avg_score
+                FROM simulados 
+                WHERE status = 'completed' 
+                  AND (user_id = ? OR user_id IS NULL)
+                  AND career_id = ?
+            `).get(userId, careerId);
+
+            // Subject stats (weakest/strongest)
+            subStats = db.prepare(`
+                SELECT 
+                    q.subject,
+                    COUNT(qa.id) as total,
+                    SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) * 100.0 / COUNT(qa.id) as correct_pct
+                FROM question_answers qa
+                JOIN questions q ON qa.question_id = q.id
+                WHERE (qa.user_id = ? OR qa.user_id IS NULL)
+                  AND (qa.career_id = ? OR q.subject IN (${placeholders}))
+                GROUP BY q.subject
+                HAVING total >= 3
+                ORDER BY correct_pct ASC
+            `).all(userId, careerId, ...subjects);
+
+            // Recent Activity
+            recentActivity = db.prepare(`
+                SELECT * FROM activity_log 
+                WHERE (user_id = ? OR user_id IS NULL)
+                  AND (career_id = ? OR career_id IS NULL)
+                ORDER BY created_at DESC 
+                LIMIT 10
+            `).all(userId, careerId);
+
+        } else {
+            // Questões gerais
+            qStats = db.prepare(`
+                SELECT 
+                    COUNT(*) as total,
+                    SUM(CASE WHEN is_correct = 1 THEN 1 ELSE 0 END) as correct
+                FROM question_answers
+                WHERE (user_id = ? OR user_id IS NULL)
+            `).get(userId);
+
+            // Flashcards
+            fStats = db.prepare(`
+                SELECT COUNT(*) as due
+                FROM flashcards 
+                WHERE next_review <= datetime('now')
+            `).get();
+
+            // Simulados
+            sStats = db.prepare(`
+                SELECT 
+                    COUNT(*) as total,
+                    AVG(score) as avg_score
+                FROM simulados 
+                WHERE status = 'completed' AND (user_id = ? OR user_id IS NULL)
+            `).get(userId);
+
+            // Subject stats
+            subStats = db.prepare(`
+                SELECT 
+                    q.subject,
+                    COUNT(qa.id) as total,
+                    SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) * 100.0 / COUNT(qa.id) as correct_pct
+                FROM question_answers qa
+                JOIN questions q ON qa.question_id = q.id
+                WHERE (qa.user_id = ? OR qa.user_id IS NULL)
+                GROUP BY q.subject
+                HAVING total >= 5
+                ORDER BY correct_pct ASC
+            `).all(userId);
+
+            // Recent Activity
+            recentActivity = db.prepare(`
+                SELECT * FROM activity_log 
+                WHERE (user_id = ? OR user_id IS NULL)
+                ORDER BY created_at DESC 
+                LIMIT 10
+            `).all(userId);
+        }
+
+        const weakest = (subStats || []).slice(0, 3);
+        const strongest = (subStats || []).slice(-3).reverse();
+
+        const totalAnswered = qStats?.total || 0;
+        const correctCount = qStats?.correct || 0;
+        const accuracyPct = totalAnswered > 0 ? Math.round((correctCount / totalAnswered) * 100) : 0;
+
+        res.json({
+            // Legacy / direct keys
+            answered: totalAnswered,
+            accuracy: accuracyPct,
+            pendingCards: fStats?.due || 0,
+            simulados: sStats?.total || 0,
+            // Nested object keys
+            questions: {
+                totalAnswered,
+                correctPct: accuracyPct
+            },
+            flashcards: {
+                dueCount: fStats?.due || 0
+            },
+            simuladosStats: {
+                totalCompleted: sStats?.total || 0,
+                avgScore: sStats?.avg_score || 0
+            },
+            weakSubjects: weakest,
+            strongSubjects: strongest,
+            recentActivity
+        });
+
+    } catch (error) {
+        console.error('Dashboard stats error:', error);
+        res.status(500).json({ error: error.message });
+    }
+}
+
+router.get('/', getDashboardData);
+router.get('/stats', getDashboardData);
+
+export default router;

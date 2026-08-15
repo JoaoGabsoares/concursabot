@@ -1,0 +1,17 @@
+services:
+  concursabot:
+    build: .
+    container_name: concursabot-app
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - INVITE_PIN=${INVITE_PIN}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-3.7-flash}
+      - GEMINI_EMBEDDING_MODEL=${GEMINI_EMBEDDING_MODEL:-gemini-embedding-001}
+    volumes:
+      - ./concursabot.db:/app/concursabot.db
+      - ./uploads:/app/uploads

@@ -1,0 +1,602 @@
+[
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Princípios do SUS (CF/88 e Lei 8.080/90)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "De acordo com o art. 196 da Constituição Federal de 1988, a saúde é direito de todos e dever do Estado, garantido mediante:",
+    "options": "[\"Políticas sociais e econômicas que visem à redução do risco de doença e ao acesso universal e igualitário.\",\"Seguro-saúde obrigatório contributivo gerenciado por cooperativas médicas privadas.\",\"Atendimento exclusivo aos cidadãos que comprovem recolhimento previdenciário prévio.\",\"Coparticipação financeira obrigatória dos usuários em consultas e exames de média complexidade.\"]",
+    "correct_index": 0,
+    "explanation": "Art. 196 da CF/88: \"A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.\""
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Princípios do SUS (Lei 8.080/90)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "O princípio doutrinário do SUS que assegura ações de promoção, proteção e recuperação da saúde de forma articulada e contínua, em todos os níveis de complexidade, denomina-se:",
+    "options": "[\"Descentralização político-administrativa.\",\"Integralidade da assistência.\",\"Participação da comunidade.\",\"Regionalização hierarquizada.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 7º, II da Lei nº 8.080/90: \"Integralidade de assistência, entendida como conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema.\""
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Competências das Esferas (Lei 8.080/90)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Nos termos do art. 18 da Lei nº 8.080/1990, compete à direção MUNICIPAL do Sistema Único de Saúde (SUS):",
+    "options": "[\"Definir e coordenar os sistemas de vigilância sanitária de portos, aeroportos e fronteiras.\",\"Executar serviços de vigilância epidemiológica, vigilância sanitária, alimentação e nutrição, e de saúde do trabalhador no âmbito municipal.\",\"Formular e executar a política nacional de sangue e hemoderivados.\",\"Estabelecer critérios para repasses internacionais de cooperação médica.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 18, IV, 'a' a 'e' da Lei nº 8.080/90: À direção municipal compete planejar, organizar, controlar e avaliar as ações de saúde e EXECUTAR os serviços de vigilância epidemiológica, sanitária, saúde do trabalhador e saneamento básico no município."
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Controle Social (Lei 8.142/90)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Conforme a Lei nº 8.142/1990, a representação dos USUÁRIOS nos Conselhos de Saúde e Conferências de Saúde deve ser:",
+    "options": "[\"De 25%, dividindo-se o restante igualmente entre médicos e gestores.\",\"Paritária em relação ao conjunto dos demais segmentos (50% do total).\",\"Minoritária, cabendo a maioria aos gestores públicos indicados pelo Poder Executivo.\",\"Facultativa, a critério do Secretário Municipal ou Estadual de Saúde.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 1º, § 2º da Lei nº 8.142/90: A representação dos usuários nos Conselhos de Saúde e Conferências de Saúde será paritária em relação ao conjunto dos demais segmentos (50% usuários, 25% trabalhadores de saúde e 25% gestores/prestadores de serviço)."
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Conferências de Saúde (Lei 8.142/90)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "A Conferência de Saúde reunir-se-á com que periodicidade regular para avaliar a situação de saúde e propor diretrizes para a formulação da política de saúde:",
+    "options": "[\"A cada dois anos, por convocação exclusiva do Conselho Federal de Medicina.\",\"Anualmente, no mês de outubro, em cada capital de estado.\",\"A cada quatro anos, com a representação dos vários segmentos sociais.\",\"Apenas em situações emergenciais de calamidade pública ou epidemias.\"]",
+    "correct_index": 2,
+    "explanation": "Art. 1º, § 1º da Lei nº 8.142/90: \"A Conferência de Saúde reunir-se-á a cada quatro anos com a representação dos vários segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes.\""
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Decreto 7.508/2011 (Regiões de Saúde)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Segundo o Decreto Federal nº 7.508/2011, para ser instituída, uma Região de Saúde deve conter, no mínimo, ações e serviços de:",
+    "options": "[\"Atenção primária, urgência e emergência, atenção psicossocial, atenção ambulatorial especializada/hospitalar e vigilância em saúde.\",\"Apenas hospital quaternário de alta complexidade e laboratório central.\",\"Somente Unidades Básicas de Saúde e farmácias comunitárias.\",\"Hospital universitário e centro de transplante de órgãos.\"]",
+    "correct_index": 0,
+    "explanation": "Art. 5º do Decreto nº 7.508/2011: Para ser instituída, a Região de Saúde deve conter, no mínimo, ações e serviços de: I - atenção primária; II - urgência e emergência; III - atenção psicossocial; IV - atenção ambulatorial especializada e hospitalar; e V - vigilância em saúde."
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Decreto 7.508/2011 (Portas de Entrada)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Nos termos do Decreto nº 7.508/2011, constituem Portas de Entrada oficiais às ações e aos serviços de saúde nas Redes de Atenção à Saúde:",
+    "options": "[\"Os serviços de atenção primária, de urgência e emergência, de atenção psicossocial e os especiais de acesso aberto.\",\"Exclusivamente os hospitais de retaguarda cirúrgica e clínicas particulares conveniadas.\",\"Apenas as centrais estaduais de regulação de leitos (NIR).\",\"Os laboratórios de análises clínicas e farmácias privadas credenciadas.\"]",
+    "correct_index": 0,
+    "explanation": "Art. 9º do Decreto nº 7.508/2011: São Portas de Entrada às ações e aos serviços de saúde nas Redes de Atenção à Saúde os serviços: I - de atenção primária; II - de atenção de urgência e emergência; III - de atenção psicossocial; e IV - especiais de acesso aberto."
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Lei Complementar 141/2012 (Financiamento)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "De acordo com a Lei Complementar nº 141/2012, os Estados e o Distrito Federal aplicarão, anualmente, em ações e serviços públicos de saúde, no mínimo:",
+    "options": "[\"10% da receita de impostos e transferências constitucionais.\",\"12% da arrecadação dos impostos a que se refere o art. 155 e dos recursos de que tratam os arts. 157 e 159 da CF.\",\"15% do produto da arrecadação de tributos próprios municipais.\",\"20% da receita corrente líquida total sem deduções.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 6º da LC nº 141/2012: Os Estados e o Distrito Federal aplicarão, anualmente, em ações e serviços públicos de saúde, no mínimo, 12% (doze por cento) da arrecadação dos impostos estaduais deduzidas as parcelas constitucionais. Os Municípios aplicam no mínimo 15% (Art. 7º)."
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Participação Complementar Privada (CF/88)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "No que concerne à participação da iniciativa privada no SUS (art. 199 da CF/88), é CORRETO afirmar que:",
+    "options": "[\"As instituições privadas poderão participar do SUS de forma complementar, tendo preferência as entidades filantrópicas e as sem fins lucrativos.\",\"É permitida a destinação de recursos públicos para auxílios ou subvenções a instituições privadas com fins lucrativos.\",\"A participação privada é vedada terminantemente em qualquer nível de assistência médica no Brasil.\",\"Hospitais privados podem cobrar taxas adicionais dos pacientes atendidos via encaminhamento do SUS.\"]",
+    "correct_index": 0,
+    "explanation": "Art. 199, § 1º da CF/88: As instituições privadas poderão participar de forma complementar do SUS, mediante contrato de direito público ou convênio, tendo preferência as entidades filantrópicas e as sem fins lucrativos. O § 2º veda a destinação de recursos públicos a entidades privadas lucrativas."
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Vigilância em Saúde (Lei 8.080/90)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Entende-se por Vigilância Sanitária, conforme a Lei nº 8.080/1990:",
+    "options": "[\"O controle contínuo de doenças transmissíveis e crônicas não transmissíveis.\",\"Um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde.\",\"A fiscalização exclusiva de estabelecimentos prisionais e delegacias de polícia.\",\"O monitoramento da cobertura vacinal infantil nos postos de saúde municipais.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 6º, § 1º da Lei nº 8.080/90: Entende-se por vigilância sanitária um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde."
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Política Nacional de Atenção Básica (PNAB)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Na Atenção Básica à Saúde, a Estratégia Saúde da Família (ESF) tem como diretriz estruturante:",
+    "options": "[\"A centralização do atendimento exclusivamente em hospitais gerais de grande porte.\",\"A adscrição de clientela e territorialização, com vínculo longitudinal entre profissionais e comunidade.\",\"O atendimento sob livre demanda sem qualquer delimitação geográfica de cobertura.\",\"A substituição de consultas médicas por encaminhamentos telefônicos automatizados.\"]",
+    "correct_index": 1,
+    "explanation": "A Portaria de Consolidação nº 2/2017 (PNAB) define a ESF como estratégia prioritária, tendo como diretrizes operacionais a territorialização, a adscrição de clientela, o cuidado centrado na pessoa e a longitudinalidade do cuidado."
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Diretrizes Organizativas do SUS",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa que contém EXCLUSIVAMENTE princípios organizativos (ou operacionais) do SUS:",
+    "options": "[\"Universalidade, Integralidade e Equidade.\",\"Descentralização, Regionalização, Hierarquização e Participação da Comunidade.\",\"Gratuidade, Humanização e Moralidade.\",\"Legalidade, Impessoalidade e Eficiência.\"]",
+    "correct_index": 1,
+    "explanation": "Princípios Doutrinários: Universalidade, Integralidade e Equidade. Princípios Organizativos/Operacionais: Descentralização com direção única em cada esfera, Regionalização, Hierarquização, Participação Popular/Controle Social e Resolubilidade."
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Comissões Intergestores (CIT e CIB)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "O espaço de pactuação consensual e negociação entre os gestores estadual e municipais no âmbito do Estado do Rio de Janeiro é a:",
+    "options": "[\"Comissão Intergestores Tripartite (CIT).\",\"Comissão Intergestores Bipartite (CIB).\",\"Conferência Nacional de Saúde.\",\"Câmara de Arbitragem Médica do CREMERJ.\"]",
+    "correct_index": 1,
+    "explanation": "Decreto nº 7.508/11 e Lei 8.080/90: A CIB (Comissão Intergestores Bipartite) é o fórum estadual de pactuação entre a Secretaria de Estado de Saúde (SES) e as Secretarias Municipais de Saúde (COSEMS). A CIT atua no nível federal."
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "HumanizaSUS (PNH)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "A Política Nacional de Humanização (HumanizaSUS) tem como uma de suas diretrizes operacionais fundamentais o Acolhimento, que consiste em:",
+    "options": "[\"Uma triagem administrativa sumária para dispensar usuários sem sintomas graves.\",\"Uma postura ética de escuta qualificada, responsabilização e classificação de risco para atender a necessidade do cidadão.\",\"Um procedimento restrito à recepção física dos hospitais durante a noite.\",\"A priorização de atendimento baseada em critérios socioeconômicos dos pacientes.\"]",
+    "correct_index": 1,
+    "explanation": "HumanizaSUS (PNH): O acolhimento é uma postura ética e diretriz operacional que envolve escuta ativa, criação de vínculo, responsabilização e acolhimento com classificação de risco em toda a rede de saúde."
+  },
+  {
+    "subject": "Legislação do SUS & Saúde Pública",
+    "topic": "Regulamentação e Conselhos no RJ",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "O Conselho Estadual de Saúde do Rio de Janeiro (CES-RJ) possui caráter:",
+    "options": "[\"Meramente opinativo, sem poder de deliberação sobre despesas.\",\"Permanente e deliberativo, atuando na formulação de estratégias e no controle da execução da política estadual de saúde.\",\"Temporário, dissolvendo-se ao final de cada mandato de governador.\",\"Vinculado hierarquicamente ao Tribunal de Justiça do Estado do Rio de Janeiro.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 1º, § 2º da Lei nº 8.142/90: O Conselho de Saúde, em cada esfera de governo, é órgão colegiado de caráter PERMANENTE e DELIBERATIVO, que atua na formulação de estratégias e no controle da execução da política de saúde, inclusive nos aspectos econômicos e financeiros."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Acentuação Gráfica",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa em que a palavra em destaque é acentuada por ser PROPAROXÍTONA:",
+    "options": "[\"O relatório de **saúde** foi protocolado.\",\"O prontuário **médico** do paciente é sigiloso.\",\"A enfermeira atendeu o paciente com **rapidez**.\",\"O servidor público tem direito a **férias** anuais.\"]",
+    "correct_index": 1,
+    "explanation": "\"Médico\" tem a antepenúltima sílaba tônica (mé-di-co), sendo proparoxítona. \"Saúde\" é acentuada pela regra do hiato; \"férias\" é paroxítona terminada em ditongo crescente."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Emprego do Sinal de Crase",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Assinale a frase em que o uso do acento indicativo de crase está CORRETO:",
+    "options": "[\"O técnico de enfermagem dirigiu-se à recepção para buscar as fichas.\",\"O médico estava disposto à prescrever o medicamento alternativo.\",\"O processo foi entregue à ele durante o expediente matutino.\",\"A vacinação ocorrerá de segunda à sexta no posto de saúde.\"]",
+    "correct_index": 0,
+    "explanation": "\"Dirigiu-se à recepção\": quem se dirige, dirige-se A (preposição) + a recepção (substantivo feminino com artigo) = à. Nas demais opções: crase proibida antes de verbo (\"prescrever\"), antes de pronome pessoal masculino (\"ele\") e em locuções com preposição repetida (\"de segunda a sexta\")."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Concordância Verbal",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa em que a concordância verbal está em conformidade com a norma culta:",
+    "options": "[\"Houveram muitos casos de dengue notificados no município.\",\"Fazem três meses que o novo protocolo de acolhimento foi implantado.\",\"Devem existir critérios claros para a triagem hospitalar.\",\"Trata-se de exames complementares que foram extraviados.\"]",
+    "correct_index": 2,
+    "explanation": "\"Existir\" é verbo pessoal e admite sujeito no plural (\"critérios claros\"). Logo, o verbo auxiliar varia: \"Devem existir\". Em A e B, \"haver\" (no sentido de existir) e \"fazer\" (tempo decorrido) são impessoais e ficam no singular (Houve / Faz)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Concordância Nominal",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Em relação à concordância nominal, assinale a frase CORRETA:",
+    "options": "[\"Seguem anexas ao processo as certidões de nascimento solicitadas.\",\"A técnica de enfermagem estava meia preocupada com o plantão.\",\"É proibido a permanência de acompanhantes no CTI sem autorização.\",\"Os funcionários mesmos organizaram os prontuários arquivados.\"]",
+    "correct_index": 0,
+    "explanation": "\"Anexas\" concorda com \"as certidões\" (feminino plural). Em B, \"meio\" advérbio é invariável (\"meio preocupada\"). Em C, havendo artigo \"a\", o adjetivo concorda: \"É proibida a permanência\". Em D, a frase também seria aceitável gramaticalmente, mas a opção A é a resposta clássica de concordância de anexo/incluso."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Regência Verbal",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Assinale a opção em que a regência do verbo em destaque atende rigorosamente à norma-padrão:",
+    "options": "[\"O assistente administrativo visava o cargo com dedicação diária.\",\"Todos os servidores públicos devem obedecer ao regulamento interno da unidade.\",\"O enfermeiro assistiu o paciente durante toda a noite sem descanso.\",\"A equipe médica aspirava o sucesso da intervenção cirúrgica.\"]",
+    "correct_index": 1,
+    "explanation": "O verbo \"obedecer\" é transitivo indireto e exige preposição \"a\" (\"obedecer ao regulamento\"). \"Visar\" (almejar) e \"aspirar\" (desejar) são VTI com \"a\" (visava ao cargo / aspirava ao sucesso)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Sintaxe — Período Composto",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Na oração \"O paciente informou **que não sentia dor no tórax**\", a oração destacada classifica-se como:",
+    "options": "[\"Subordinada substantiva objetiva direta.\",\"Subordinada substantiva subjetiva.\",\"Subordinada adjetiva restritiva.\",\"Subordinada adverbial causal.\"]",
+    "correct_index": 0,
+    "explanation": "O verbo \"informar\" é transitivo direto: Quem informa, informa algo (O paciente informou ISSO). A oração introduzida por \"que\" completa o verbo como objeto direto = Subordinada Substantiva Objetiva Direta."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Pontuação",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Assinale a frase em que o emprego da vírgula está INCORRETO:",
+    "options": "[\"Na manhã de ontem, o secretário visitou as instalações do IASERJ.\",\"Os técnicos de enfermagem, realizaram o curativo com técnica estéril.\",\"O SUS, sistema universal e gratuito, atende milhões de brasileiros.\",\"Enfermeiro, compareça imediatamente à sala de estabilização!\"]",
+    "correct_index": 1,
+    "explanation": "É proibido separar o sujeito (\"Os técnicos de enfermagem\") do predicado verbal (\"realizaram o curativo...\") por vírgula."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Colocação Pronominal",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa em que a colocação do pronome oblíquo átono obedece à norma culta:",
+    "options": "[\"Não entregaram-me o resultado dos exames laboratoriais.\",\"O técnico dedicou-se integralmente aos pacientes do ambulatório.\",\"Me disseram que a escala de serviço foi alterada hoje.\",\"O diretor administrativo tinha demorado-se na reunião clínica.\"]",
+    "correct_index": 1,
+    "explanation": "\"Dedicou-se\": ênclise correta após o verbo. Em A, a palavra negativa \"Não\" exige próclise (\"Não me entregaram\"). Em C, é proibido iniciar período com pronome oblíquo (\"Disseram-me\"). Em D, não se usa pronome enclítico a particípio (\"tinha se demorado\")."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e Relações Lexicais",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Assinale a opção que apresenta um par de vocábulos PARÔNIMOS (grafia e pronúncia semelhantes, significados diferentes):",
+    "options": "[\"Ratificar (confirmar) / Retificar (corrigir).\",\"Sessão (reunião) / Seção (departamento).\",\"Alto (elevado) / Baixo (pequeno).\",\"Casa (moradia) / Residência (lar).\"]",
+    "correct_index": 0,
+    "explanation": "Ratificar e Retificar são parônimos (palavras parecidas com sentidos distintos). \"Sessão\" e \"seção\" são homófonos; \"alto\" e \"baixo\" são antônimos; \"casa\" e \"residência\" são sinônimos."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Conjunções e Valores Semânticos",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Na frase \"A vacinação foi ampliada, **porquanto** o número de casos de gripe aumentou\", a conjunção destacada expressa valor semântico de:",
+    "options": "[\"Conclusão.\",\"Causa / Explicação.\",\"Concessão.\",\"Condição.\"]",
+    "correct_index": 1,
+    "explanation": "\"Porquanto\" é conjunção causal/explicativa, equivalente a \"visto que\", \"já que\", \"porque\". Não confundir com \"conquanto\", que expressa concessão."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Figuras de Linguagem",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Na frase \"O hospital **respirou aliviado** após a chegada dos insumos cirúrgicos\", a figura de linguagem presente em atribuir ação humana ao hospital é:",
+    "options": "[\"Metáfora pura.\",\"Prosopopeia (ou Personificação).\",\"Eufemismo.\",\"Hipérbole.\"]",
+    "correct_index": 1,
+    "explanation": "A prosopopeia ou personificação consiste em atribuir sentimentos, ações ou qualidades humanas a seres inanimados ou irracionais (neste caso, \"o hospital respirou aliviado\")."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Ortografia Oficial",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa em que TODAS as palavras estão grafadas CORRETAMENTE:",
+    "options": "[\"Exceção, paralisar, privilégio, beneficência.\",\"Excessão, paralizar, previlégio, beneficência.\",\"Exceção, paralisar, previlégio, beneficência.\",\"Excessão, paralizar, privilégio, beneficiente.\"]",
+    "correct_index": 0,
+    "explanation": "Grafias corretas: Exceção (com 'xc' e 'ç'), paralisar (com 's', derivado de paralisia), privilégio (com 'i') e beneficência (e não beneficiente)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Novo Acordo Ortográfico",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Conforme as regras do Acordo Ortográfico vigente, assinale a palavra que perdeu o acento gráfico:",
+    "options": "[\"Ideia (ditongo aberto 'ei' em palavra paroxítona).\",\"Herói (ditongo aberto 'oi' em palavra oxítona).\",\"Público (palavra proparoxítona).\",\"Caráter (palavra paroxítona terminada em 'r').\"]",
+    "correct_index": 0,
+    "explanation": "O Acordo Ortográfico aboliu o acento gráfico nos ditongos abertos \"ei\" e \"oi\" das palavras PAROXÍTONAS (ideia, colmeia, assembleia, jiboia, heroico). As oxítonas continuam acentuadas (herói, troféu, anéis)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Interpretação e Tipologia Textual",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Um manual de instruções de lavagem de mãos e desinfecção hospitalar com passos sequenciais e verbos no imperativo exemplifica a tipologia:",
+    "options": "[\"Injuntiva (ou Instrucional).\",\"Narrativa.\",\"Dissertativa-argumentativa.\",\"Descritiva estética.\"]",
+    "correct_index": 0,
+    "explanation": "O texto injuntivo/instrucional tem por objetivo instruir, orientar ou prescrever comportamentos ao leitor, com uso frequente de verbos no imperativo ou infinitivo."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Funções da Linguagem",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Na frase de campanha pública \"Vacine seu filho contra a poliomielite neste sábado; proteja quem você ama!\", predomina a função da linguagem:",
+    "options": "[\"Referencial (ou Denotativa).\",\"Conativa (ou Apelativa).\",\"Metalinguística.\",\"Fática.\"]",
+    "correct_index": 1,
+    "explanation": "A função conativa ou apelativa tem como foco o receptor/leitor, buscando convencê-lo, orientá-lo ou persuadi-lo a adotar uma conduta (uso de verbos imperativos e pronomes de 2ª pessoa)."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Cálculo de Medicamentos e Gotejamento",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Foi prescrito para um paciente internado no hospital estadual 1.000 mL de Soro Fisiológico a 0,9% para correr em 8 horas. Qual deve ser o gotejamento em GOTAS POR MINUTO:",
+    "options": "[\"42 gotas/min.\",\"35 gotas/min.\",\"50 gotas/min.\",\"28 gotas/min.\"]",
+    "correct_index": 0,
+    "explanation": "Fórmula de gotas/minuto: G = Volume (mL) / (Tempo (horas) * 3) -> G = 1000 / (8 * 3) = 1000 / 24 = 41,66 -> aproximando para 42 gotas/minuto."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Cálculo de Medicamentos e Microgotas",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Para administrar 500 mL de Soro Glicosado a 5% em 6 horas utilizando equipo de MICROGOTAS, o cálculo correto do gotejamento será de:",
+    "options": "[\"28 microgotas/min.\",\"83 microgotas/min.\",\"125 microgotas/min.\",\"60 microgotas/min.\"]",
+    "correct_index": 1,
+    "explanation": "Fórmula de microgotas/minuto: Microgotas = Volume (mL) / Tempo (horas) -> Microgotas = 500 / 6 = 83,33 -> 83 microgotas/minuto."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Sinais Vitais e Terminologia",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "O termo técnico utilizado para descrever a frequência cardíaca do paciente adulto em repouso superior a 100 batimentos por minuto (bpm) é:",
+    "options": "[\"Bradicardia.\",\"Taquicardia.\",\"Eupneia.\",\"Taquipneia.\"]",
+    "correct_index": 1,
+    "explanation": "Taquicardia é a frequência cardíaca elevada (> 100 bpm em adultos). Bradicardia é frequência baixa (< 60 bpm). Taquipneia refere-se à respiração acelerada."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Programa Nacional de Imunizações (PNI)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "A vacina BCG, indicada para prevenir formas graves de tuberculose (miliar e meníngea), deve ser administrada por qual via e local anatômico:",
+    "options": "[\"Via Intramuscular (IM) no vasto lateral da coxa esquerda.\",\"Via Intradérmica (ID) na inserção inferior do músculo deltoide direito.\",\"Via Subcutânea (SC) na região periumbilical.\",\"Via Oral (VO) em dose única fracionada.\"]",
+    "correct_index": 1,
+    "explanation": "Manual de Normas de Vacinação do Ministério da Saúde: A vacina BCG é administrada por via intradérmica (ID) rigorosa, na inserção inferior do músculo deltoide direito, na dose padrão de 0,1 mL (ou 0,05 mL conforme fabricante)."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Programa Nacional de Imunizações (PNI)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "No calendário básico de vacinação da criança, a vacina Pentavalente protege contra as seguintes doenças:",
+    "options": "[\"Difteria, Tétano, Coqueluche, Hepatite B e infecções por Haemophilus influenzae tipo b (Hib).\",\"Sarampo, Caxumba, Rubéola, Varicela e Febre Amarela.\",\"Poliomielite, Rotavírus, Meningite C, Pneumonia e Hepatite A.\",\"Tuberculose, Tétano, Difteria, Coqueluche e Influenza sazonal.\"]",
+    "correct_index": 0,
+    "explanation": "A vacina Pentavalente combina antígenos contra: Difteria, Tétano, Pertussis (Coqueluche), Hepatite B recombinante e Haemophilus influenzae tipo b conjugada."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Biossegurança e NR-32",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "De acordo com a Norma Regulamentadora nº 32 (NR-32) e as precauções padrão de biossegurança, o descarte de materiais perfurocortantes (agulhas, lâminas) deve ser feito:",
+    "options": "[\"Em saco plástico branco leitoso de lixo infectante comum após reencape manual.\",\"Em recipientes rígidos, resistentes a perfuração e vazamento, identificados com símbolo de risco biológico, sendo expressamente PROIBIDO o reencape manual de agulhas.\",\"Em lixeira comum com pedal junto com papéis toalha e gazes secas.\",\"Em caixas de papelão simples reutilizáveis após esterilização química.\"]",
+    "correct_index": 1,
+    "explanation": "NR-32 e Anvisa: Perfurocortantes devem ser descartados em caixas coletoras rígidas específicas (Descarpax/Descarpack) no próprio local do procedimento, sendo vedado o reencape e a desconexão manual de agulhas."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Precauções de Isolamento",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Para um paciente com diagnóstico confirmado de Tuberculose Pulmonar ativa, o profissional de saúde deve utilizar obrigatoriamente como EPI para precaução por AEROSSÓIS:",
+    "options": "[\"Máscara cirúrgica simples descartável.\",\"Máscara de proteção respiratória tipo N95 / PFF2.\",\"Apenas luvas de procedimento sem necessidade de máscara.\",\"Óculos de proteção sem cobrir o nariz.\"]",
+    "correct_index": 1,
+    "explanation": "Precaução para aerossóis (Tuberculose, Sarampo, Varicela): Exige quarto privativo com pressão negativa e uso de máscara PFF2/N95 pelos profissionais de saúde antes de entrar no quarto."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Urgência e Emergência (SBV / AHA)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Segundo as diretrizes de Suporte Básico de Vida (SBV) da American Heart Association (AHA), a relação correta de compressões torácicas e ventilações na RCP em adultos com um socorrista é de:",
+    "options": "[\"15 compressões para 2 ventilações.\",\"30 compressões para 2 ventilações a uma frequência de 100 a 120 compressões por minuto.\",\"50 compressões contínuas sem ventilações.\",\"10 compressões para 1 ventilação profunda.\"]",
+    "correct_index": 1,
+    "explanation": "Diretrizes AHA para RCP em adultos: Relação 30 compressões para 2 ventilações (30:2), com profundidade de 5 a 6 cm e frequência de 100 a 120 compressões/minuto, permitindo o retorno total do tórax."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Protocolo de Manchester",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "No Sistema de Triagem de Manchester, a cor VERMELHA indica prioridade clínica:",
+    "options": "[\"Emergência com risco iminente de morte e tempo de espera alvo de 0 minuto (atendimento imediato).\",\"Muito urgente com tempo de espera alvo de até 30 minutos.\",\"Urgente com tempo de espera de até 120 minutos.\",\"Pouco urgente com tempo de espera de até 240 minutos.\"]",
+    "correct_index": 0,
+    "explanation": "Protocolo de Manchester: Vermelho = Emergência (0 min / Imediato); Laranja = Muito Urgente (10 min); Amarelo = Urgente (50 min); Verde = Pouco Urgente (120 min); Azul = Não Urgente (240 min)."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Vias de Administração de Medicamentos",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "O ângulo correto da agulha em relação à pele para administração de medicamentos por via SUBCUTÂNEA (SC) em paciente com panículo adiposo normal com agulha de 13 x 4,5 mm é de:",
+    "options": "[\"10 a 15 graus com bisel para cima.\",\"90 graus (ou 45 graus com agulhas mais longas).\",\"180 graus paralelo à musculatura profunda.\",\"Exclusivamente 25 graus no músculo deltoide.\"]",
+    "correct_index": 1,
+    "explanation": "Administração Subcutânea: Ângulo de 90° para agulhas curtas (13 x 4,5 mm) ou 45° para agulhas maiores para atingir o tecido adiposo subcutâneo. A via intradérmica utiliza 10° a 15°."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Sondagem Vesical e Cuidados",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Durante o procedimento e a manutenção de sonda vesical de demora (Foley) em paciente hospitalizado, o cuidado essencial para prevenção de infecção do trato urinário (ITU) é:",
+    "options": "[\"Manter a bolsa coletora de urina sempre abaixo do nível da bexiga do paciente em sistema fechado estéril.\",\"Desconectar a sonda da bolsa coletora diariamente para higienização com água corrente.\",\"Posicionar a bolsa coletora pendurada na cabeceira da cama acima do paciente.\",\"Trocar a sonda vesical de rotina a cada 24 horas independentemente de indicação clínica.\"]",
+    "correct_index": 0,
+    "explanation": "Para prevenir ITU relacionada a cateter vesical, a bolsa coletora deve ser mantida em sistema fechado, abaixo do nível da bexiga (evitando refluxo de urina), e esvaziada periodicamente."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Assistência ao Paciente Cirúrgico",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "No período pré-operatório imediato, o procedimento que visa reduzir a flora bacteriana transitória da pele do paciente antes da incisão cirúrgica denomina-se:",
+    "options": "[\"Degermação e antissepsia cirúrgica.\",\"Cauterização química tecidual.\",\"Desinfecção de alto nível por autoclave.\",\"Esterilização por radiação ionizante.\"]",
+    "correct_index": 0,
+    "explanation": "Antissepsia da pele do paciente e degermação das mãos da equipe cirúrgica são os procedimentos padronizados com antissépticos (Clorexidina alcoólica/degermante ou PVPI) para eliminação de microrganismos transitórios."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Saúde da Mulher (Pré-Natal)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "No acompanhamento pré-natal de baixo risco na Atenção Primária, a verificação da Altura Uterina (AU) e dos Batimentos Cardiofetais (BCF) tem como objetivo principal:",
+    "options": "[\"Avaliar o crescimento fetal e a vitalidade do feto durante a gestação.\",\"Determinar o sexo biológico do feto no primeiro trimestre.\",\"Substituir a realização de exames sorológicos de sífilis e HIV.\",\"Prescrever antibióticos profiláticos para a gestante.\"]",
+    "correct_index": 0,
+    "explanation": "A mensuração da altura uterina (curva de crescimento em relação à idade gestacional) e a ausculta de BCF (com sonar Doppler ou estetoscópio de Pinard) avaliam a evolução do crescimento e a vitalidade fetal."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Ética de Enfermagem (Resolução COFEN)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "De acordo com o Código de Ética dos Profissionais de Enfermagem (Resolução COFEN nº 564/2017), é um DEVER do Técnico de Enfermagem:",
+    "options": "[\"Prestar assistência de enfermagem livre de danos decorrentes de imperícia, negligência ou imprudência.\",\"Divulgar prontuários e fotos de pacientes em redes sociais sem identificação formal.\",\"Executar prescrições médicas ilegíveis ou verbais em situações que não sejam de urgência.\",\"Recusar-se a prestar atendimento de socorro em caso de catástrofe ou emergência coletiva.\"]",
+    "correct_index": 0,
+    "explanation": "Art. 45 do Código de Ética dos Profissionais de Enfermagem: É dever prestar assistência de enfermagem livre de danos decorrentes de imperícia, negligência ou imprudência. Divulgar imagens é vedado (Art. 86)."
+  },
+  {
+    "subject": "Enfermagem e Cuidados Clínicos",
+    "topic": "Classificação de Feridas e Curativos",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Na avaliação de lesões por pressão (LPP), o estágio caracterizado por perda total da espessura da pele com exposição de tecido adiposo visível, sem exposição de osso ou tendão, classifica-se como:",
+    "options": "[\"Estágio 1 (eritema não branqueável).\",\"Estágio 2 (perda parcial da espessura da derme).\",\"Estágio 3 (perda total da espessura da pele e tecido adiposo visível).\",\"Estágio 4 (exposição direta de osso, tendão ou músculo).\"]",
+    "correct_index": 2,
+    "explanation": "NPUAP/EPUAP: Estágio 3 caracteriza-se pela perda da espessura total da pele com visualização do tecido subcutâneo (gordura), sem exposição óssea ou tendínea. O estágio 4 atinge ossos/músculos."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Regime Jurídico dos Servidores do RJ (Dec.-Lei 220/75)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "De acordo com o Estatuto dos Funcionários Públicos Civis do Poder Executivo do Estado do Rio de Janeiro (Decreto-Lei nº 220/1975), a investidura em cargo público ocorre com a:",
+    "options": "[\"Nomeação.\",\"Posse.\",\"Publicação da homologação do concurso.\",\"Conclusão do estágio probatório.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 7º do Decreto-Lei nº 220/1975 e doutrina administrativa: A posse é o ato formal que completa a investidura no cargo público."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Regime Jurídico dos Servidores do RJ (Dec.-Lei 220/75)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Segundo o Decreto-Lei nº 220/1975 do Estado do Rio de Janeiro, o prazo legal para o funcionário nomeado tomar posse no cargo público é de:",
+    "options": "[\"15 dias improrrogáveis.\",\"30 dias a contar da publicação do ato de provimento, prorrogável por mais 30 dias mediante requerimento.\",\"60 dias corridos sem possibilidade de adiamento.\",\"5 dias úteis contados da inspeção médica.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 8º do Decreto-Lei nº 220/75: A posse verificar-se-á no prazo de 30 (trinta) dias contados da data da publicação do decreto de provimento, podendo o prazo ser prorrogado por mais 30 (trinta) dias a pedido do interessado."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Princípios da Administração Pública (CF/88)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "O princípio constitucional da Administração Pública que veda a promoção pessoal de autoridades em publicidades oficiais de programas e serviços de saúde é o da:",
+    "options": "[\"Legalidade.\",\"Impessoalidade.\",\"Publicidade.\",\"Eficiência.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 37, § 1º da CF/88: A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores (Princípio da Impessoalidade)."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Gestão de Documentos e Arquivologia",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Na teoria das três idades da Arquivologia, os documentos que estão em curso, são frequentemente consultados e tramitam pelos setores da instituição hospitalar pertencem ao:",
+    "options": "[\"Arquivo Corrente (ou de 1ª Idade).\",\"Arquivo Intermediário (ou de 2ª Idade).\",\"Arquivo Permanente (ou Histórico / 3ª Idade).\",\"Arquivo Morto descartável.\"]",
+    "correct_index": 0,
+    "explanation": "Lei nº 8.159/91 (Lei de Arquivos): Consideram-se documentos correntes aqueles em curso ou que, mesmo sem movimentação, são frequentemente consultados em razão de suas finalidades administrativas primárias."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Gestão de Documentos e Arquivologia",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "O instrumento arquivístico que determina os prazos de guarda dos documentos nas fases corrente e intermediária e define sua destinação final (eliminação ou guarda permanente) denomina-se:",
+    "options": "[\"Índice remissivo alfabético.\",\"Tabela de Temporalidade Documental (TTD).\",\"Protocolo de recebimento geral.\",\"Guia de tramitação física.\"]",
+    "correct_index": 1,
+    "explanation": "A Tabela de Temporalidade Documental (TTD) é o instrumento formal aprovado pela autoridade arquivística que define os prazos de retenção nas fases corrente e intermediária e sua destinação final."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Prontuários Médicos e Sigilo",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "No que concerne à posse e guarda dos prontuários médicos dos pacientes atendidos na rede SES-RJ / IASERJ, é CORRETO afirmar que:",
+    "options": "[\"O prontuário é propriedade exclusiva do médico assistente, que pode retê-lo consigo.\",\"As informações pertencem ao paciente, cabendo à unidade de saúde a responsabilidade pela guarda, custódia e sigilo do prontuário.\",\"O prontuário pode ser disponibilizado a qualquer cidadão mediante simples solicitação verbal.\",\"Prontuários físicos devem ser incinerados após 1 ano do encerramento do tratamento.\"]",
+    "correct_index": 1,
+    "explanation": "Resolução CFM e normas do SUS: Os dados e informações do prontuário médico pertencem ao paciente. A instituição de saúde é a guardiã fiel e depositária do documento, tendo o dever legal de manter o sigilo."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Redação Oficial (Padrão Presidência da República)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "De acordo com o Manual de Redação da Presidência da República, os fechos oficiais utilizados para autoridades de mesma hierarquia ou de hierarquia inferior e para autoridades de hierarquia superior são, respectivamente:",
+    "options": "[\"\\\"Atenciosamente\\\" (mesma hierarquia/inferior) e \\\"Respeitosamente\\\" (hierarquia superior).\",\"\\\"Cordialmente\\\" e \\\"Saudações fraternas\\\".\",\"\\\"Com estima\\\" e \\\"Sem mais para o momento\\\".\",\"\\\"Grato\\\" e \\\"Votos de estima e consideração\\\".\"]",
+    "correct_index": 0,
+    "explanation": "Manual de Redação da Presidência da República (3ª edição): São estabelecidos apenas dois fechos para todas as comunicações oficiais: a) \"Respeitosamente\", para autoridades superiores; b) \"Atenciosamente\", para autoridades de mesma hierarquia ou inferior."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Redação Oficial (Pronomes de Tratamento)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "O pronome de tratamento formal empregado para se dirigir ao Governador do Estado do Rio de Janeiro em uma comunicação oficial é:",
+    "options": "[\"Vossa Senhoria (V. Sa.).\",\"Vossa Excelência (V. Exa.).\",\"Vossa Magnificência (V. Maga.).\",\"Vossa Eminência (V. Ema.).\"]",
+    "correct_index": 1,
+    "explanation": "Vossa Excelência é o pronome de tratamento utilizado para os Chefes do Poder Executivo (Presidente, Governadores e Prefeitos), membros do Poder Legislativo e do Poder Judiciário."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Atos Administrativos",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "São atributos (ou características) dos atos administrativos que lhes conferem eficácia imediata e presunção de conformidade com a ordem jurídica:",
+    "options": "[\"Presunção de legitimidade, autoexecutoriedade, tipicidade e imperatividade.\",\"Sigilo obrigatório, onerosidade, transitoriedade e pessoalidade.\",\"Bilateralidade, revogabilidade judicial e discricionariedade absoluta.\",\"Imunidade tributária, presunção de culpa e informalidade.\"]",
+    "correct_index": 0,
+    "explanation": "Doutrina de Direito Administrativo (Hely Lopes / Maria Sylvia Di Pietro): Os atributos do ato administrativo são: Presunção de legitimidade/veracidade, Imperatividade, Autoexecutoriedade e Tipicidade (PATI)."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Nova Lei de Licitações (Lei 14.133/2021)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Conforme a Lei Federal nº 14.133/2021 (Nova Lei de Licitações), a contratação direta que ocorre quando a competição é inviável, como na aquisição de material de fornecedor exclusivo, classifica-se como:",
+    "options": "[\"Dispensa de licitação.\",\"Inexigibilidade de licitação.\",\"Pregão eletrônico com lote único.\",\"Concorrência internacional simplificada.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 74 da Lei nº 14.133/2021: É inexigível a licitação quando inviável a competição, em especial no caso de aquisição de materiais, equipamentos ou gêneros que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivo."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Atendimento ao Cidadão no Serviço Público",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "No atendimento presencial ao público em unidades de saúde e hospitais da rede estadual, constitui garantia de atendimento prioritário prevista em lei federal:",
+    "options": "[\"Pessoas idosas a partir de 60 anos, gestantes, lactantes, pessoas com deficiência e pessoas acompanhadas por crianças de colo.\",\"Apenas servidores públicos e autoridades municipais.\",\"Usuários que possuam plano de saúde privado suplementar.\",\"Cidadãos que tenham realizado agendamento prévio com mais de 30 dias.\"]",
+    "correct_index": 0,
+    "explanation": "Lei Federal nº 10.048/2000 (Lei de Prioridade de Atendimento): As pessoas com deficiência, os idosos com idade igual ou superior a 60 anos, as gestantes, as lactantes, as pessoas com crianças de colo e os obesos têm atendimento prioritário assegurado nos órgãos públicos."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Lei de Acesso à Informação (Lei 12.527/11)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "De acordo com a Lei de Acesso à Informação (LAI - Lei nº 12.527/2011), a disponibilização de informações públicas de interesse geral nos portais oficiais da internet, independentemente de requerimento de cidadãos, é denominada:",
+    "options": "[\"Transparência passiva.\",\"Transparência ativa.\",\"Acesso sigiloso sob reserva.\",\"Divulgação corporativa seletiva.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 8º da Lei nº 12.527/2011: É dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas (Transparência Ativa)."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "LGPD (Lei 13.709/18) na Saúde",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "Nos termos da Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018), os dados referentes à saúde ou à vida sexual, dado genético ou biométrico do paciente são classificados como:",
+    "options": "[\"Dados de domínio público irrestrito.\",\"Dados pessoais sensíveis.\",\"Dados exclusivamente mercadológicos.\",\"Informações desprovidas de proteção de sigilo.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 5º, II da LGPD (Lei nº 13.709/2018): Dado pessoal sensível é aquele sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Gestão de Suprimentos Hospitalares",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "No controle de estoque de medicamentos e insumos hospitalares, o método PEPS (Primeiro que Entra, Primeiro que Sai) ou FIFO tem como objetivo prioritário:",
+    "options": "[\"Consumir primeiro os lotes mais recentes de fabricação.\",\"Utilizar prioritariamente os lotes com prazos de validade mais próximos do vencimento para evitar perdas financeiras e desperdícios.\",\"Manter os medicamentos mais caros guardados por tempo indeterminado.\",\"Distribuir materiais aleatoriamente sem controle de data de entrada.\"]",
+    "correct_index": 1,
+    "explanation": "Gestão de Materiais e Farmácia Hospitalar: O método PEPS (ou PVPS - Primeiro que Vence, Primeiro que Sai) prioriza a saída dos itens mais antigos ou com vencimento mais próximo, garantindo segurança ao paciente e minimizando perdas."
+  },
+  {
+    "subject": "Administração Pública e Protocolo",
+    "topic": "Sistemas de Informação em Saúde (DATASUS)",
+    "banca": "IBDO",
+    "type": "multiple_choice",
+    "question_text": "No âmbito do SUS, o sistema responsável pelo registro e controle de todas as internações hospitalares na rede pública e conveniada, com emissão da AIH (Autorização de Internação Hospitalar), é o:",
+    "options": "[\"SIA-SUS (Sistema de Informações Ambulatoriais).\",\"SIH-SUS (Sistema de Informações Hospitalares).\",\"SINASC (Sistema de Nascidos Vivos).\",\"SIM (Sistema de Informações sobre Mortalidade).\"]",
+    "correct_index": 1,
+    "explanation": "O SIH-SUS (Sistema de Informações Hospitalares do SUS) processa as AIHs, registrando os atendimentos hospitalares e gerando dados epidemiológicos e financeiros de internações em todo o Brasil."
+  }
+]

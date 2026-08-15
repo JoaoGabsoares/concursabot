@@ -1,0 +1,602 @@
+[
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Hierarquia e Disciplina Militar (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "De acordo com o art. 14 da Lei nº 6.880/80 (Estatuto dos Militares), a ordenação da autoridade, em níveis diferentes, dentro da estrutura das Forças Armadas, denomina-se:",
+    "options": "[\"Disciplina Militar\",\"Hierarquia Militar\",\"Comando Militar\",\"Cadeia de Subordinação\",\"Precedência Funcional\"]",
+    "correct_index": 1,
+    "explanation": "Art. 14, § 1º da Lei nº 6.880/80: \"A hierarquia militar é a ordenação da autoridade, em níveis diferentes, dentro da estrutura das Forças Armadas.\" A disciplina, por sua vez, é tratada no § 2º como a rigorosa observância e o acatamento integral das leis."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Hierarquia e Disciplina Militar (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Conforme preceitua o Estatuto dos Militares (Lei 6.880/80), a disciplina e o respeito à hierarquia devem ser mantidos:",
+    "options": "[\"Apenas pelos militares da ativa durante o horário de expediente.\",\"Exclusivamente quando em serviço de quarto ou formatura militar.\",\"Em todas as circunstâncias da vida entre militares da ativa, da reserva remunerada e reformados.\",\"Somente no âmbito das Organizações Militares e embarcações da Força.\",\"Apenas nas relações entre oficiais e praças, sendo facultativa entre pares.\"]",
+    "correct_index": 2,
+    "explanation": "Art. 14, § 3º da Lei nº 6.880/80: \"A disciplina e o respeito à hierarquia devem ser mantidos em todas as circunstâncias da vida entre militares da ativa, da reserva remunerada e reformados.\""
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Hierarquia e Disciplina Militar (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "No que concerne à subordinação militar prevista no Estatuto dos Militares, assinale a opção correta:",
+    "options": "[\"A subordinação afeta a dignidade pessoal do militar e decorre da estrutura hierárquica.\",\"A subordinação não afeta, de modo algum, a dignidade pessoal do militar e decorre, exclusivamente, da estrutura hierarquizada das Forças Armadas.\",\"O militar de maior graduação pode exigir de seus subordinados atos estranhos ao serviço.\",\"A subordinação cessa automaticamente quando o militar ingressa na reserva remunerada.\",\"A subordinação é restrita aos militares de carreira, não se aplicando aos militares temporários (SMV).\"]",
+    "correct_index": 1,
+    "explanation": "Art. 14, § 4º da Lei nº 6.880/80: \"A subordinação não afeta, de modo algum, a dignidade pessoal do militar e decorre, exclusivamente, da estrutura hierarquizada das Forças Armadas.\""
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Postos e Graduações (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Nos termos do Estatuto dos Militares, o grau hierárquico do oficial, conferido por ato do Presidente da República e confirmado em Carta Patente, é denominado:",
+    "options": "[\"Graduação\",\"Posto\",\"Patente Provisória\",\"Função de Comando\",\"Cargo Efetivo\"]",
+    "correct_index": 1,
+    "explanation": "Art. 16, § 1º da Lei nº 6.880/80: \"Posto é o grau hierárquico do oficial, conferido por ato do Presidente da República ou do Comandante de Força Singular e confirmado em Carta Patente.\""
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Postos e Graduações (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "No âmbito das Forças Armadas, as Praças Especiais na Marinha do Brasil compreendem:",
+    "options": "[\"Suboficiais e Primeiros-Sargentos.\",\"Cabos e Marinheiros.\",\"Guardas-Marinha e Aspirantes.\",\"Capitães-Tenentes e Segundos-Tenentes.\",\"Marinheiros-Recrutas e Soldados Fuzileiros Navais.\"]",
+    "correct_index": 2,
+    "explanation": "Art. 16, § 4º da Lei nº 6.880/80: São praças especiais os Guardas-Marinha, os Aspirantes a Oficial e os alunos de órgãos de formação de oficiais e de praças."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Postos e Graduações (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Em igualdade de posto ou graduação, os militares da ativa têm precedência sobre os da inativa. Havendo empate entre militares da ativa no mesmo posto ou graduação, a antiguidade é determinada sucessivamente por:",
+    "options": "[\"Maior idade, data de praça e classificação no concurso.\",\"Data da promoção no posto ou graduação anterior, sem exceções.\",\"Data da promoção/nomeação, antiguidade no posto/graduação anterior, classificação em curso, data de praça e maior idade.\",\"Exclusivamente pela condecoração e medalhas de serviço militar.\",\"Escolha discricionária do Comandante do Distrito Naval.\"]",
+    "correct_index": 2,
+    "explanation": "Art. 17 da Lei nº 6.880/80 estabelece a ordem sucessiva de desempate: 1) data da promoção; 2) antiguidade no grau anterior; 3) classificação no curso de formação; 4) data de praça; 5) maior idade."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Situação dos Militares (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Os cidadãos incorporados às Forças Armadas para prestação de serviço militar temporário (SMV / RM2) enquadram-se como:",
+    "options": "[\"Militares da reserva remunerada em atividade civil.\",\"Militares da ativa, na categoria de temporários.\",\"Servidores públicos civis regidos pela Lei 8.112/90.\",\"Militares reformados comissionados.\",\"Prestadores de serviço autônomo sem vínculo militar.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 3º, § 1º, 'a', item 2 da Lei nº 6.880/80: Os militares de carreira e os incorporados às Forças Armadas para prestação de serviço militar (obrigatório ou voluntário temporário) são militares da ATIVA."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Situação dos Militares (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "A situação na qual o militar da ativa deixa de ocupar vaga na escala hierárquica do seu Corpo, Quadro, Arma ou Serviço, nela permanecendo sem número, denomina-se:",
+    "options": "[\"Exoneração\",\"Reforma\",\"Agregação\",\"Licenciamento\",\"Demissão a pedido\"]",
+    "correct_index": 2,
+    "explanation": "Art. 80 da Lei nº 6.880/80: \"Agregação é a situação na qual o militar da ativa deixa de ocupar vaga na escala hierárquica do seu Corpo, Quadro, Arma ou Serviço, nela permanecendo sem número.\""
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Situação dos Militares (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Sobre os militares na inatividade, assinale a distinção correta entre Reserva Remunerada e Reforma:",
+    "options": "[\"Ambos estão dispensados em definitivo de qualquer convocação ou mobilização.\",\"O militar reformado está sujeito à prestação de serviço na ativa mediante mobilização.\",\"Os da reserva remunerada percebem remuneração e estão sujeitos à convocação; os reformados estão dispensados definitivamente da prestação de serviço.\",\"A reforma é uma punição disciplinar exclusiva do Conselho de Disciplina.\",\"Militares temporários passam obrigatoriamente para a reforma ao término do contrato.\"]",
+    "correct_index": 2,
+    "explanation": "Art. 3º, § 1º, 'b' da Lei nº 6.880/80: Na inatividade: I - na reserva remunerada: sujeitos à prestação de serviço na ativa; II - reformados: dispensados, definitivamente, da prestação de serviço na ativa."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Deveres e Ética Militar (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "De acordo com o art. 27 da Lei 6.880/80, são manifestações essenciais do valor militar, EXCETO:",
+    "options": "[\"O patriotismo, traduzido pela vontade inabalável de cumprir o dever militar.\",\"O civismo e o culto das tradições históricas.\",\"A busca por lucro em atividades comerciais privadas no interior do quartel.\",\"A fé na missão elevada das Forças Armadas.\",\"O aprimoramento técnico-profissional.\"]",
+    "correct_index": 2,
+    "explanation": "Art. 27 da Lei nº 6.880/80 elenca as manifestações do valor militar (patriotismo, civismo, fé na missão, amor à profissão das armas, espírito de corpo e aprimoramento técnico). O exercício de comércio no quartel é expressamente vedado."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Deveres e Ética Militar (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Segundo o art. 29 do Estatuto dos Militares, ao militar da ativa é expressamente VEDADO:",
+    "options": "[\"Praticar esportes e atividades físicas fora da Organização Militar.\",\"Comerciar ou tomar parte na administração ou gerência de sociedade ou dela ser sócio ou acionista, exceto como acionista ou quotista em sociedade anônima ou por quotas de responsabilidade limitada.\",\"Votar em eleições municipais ou federais quando alistável.\",\"Casar-se sem autorização expressa do Presidente da República.\",\"Frequentar cursos universitários em horários de folga.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 29 da Lei nº 6.880/80: \"Ao militar da ativa é vedado comerciar ou tomar parte na administração ou gerência de sociedade ou dela ser sócio ou participante, exceto como acionista ou quotista, em sociedade anônima ou por quotas de responsabilidade limitada.\""
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Deveres e Ética Militar (Lei 6.880/80)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "O compromisso militar solene prestado pelo cidadão ao incorporar-se às Forças Armadas caracteriza-se pelo dever de aceitar obrigações e deveres com a seguinte consagração:",
+    "options": "[\"Renúncia a direitos civis e políticos por prazo indeterminado.\",\"Dedicação integral ao serviço da Pátria, cuja honra, integridade e instituições defenderá, se preciso for, com o sacrifício da própria vida.\",\"Obrigação perpétua de permanecer no serviço ativo.\",\"Submissão irrestrita a ordens manifestamente ilegais.\",\"Isenção de responsabilidade penal em operações de paz.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 31 da Lei nº 6.880/80: O compromisso militar formaliza a obrigação solene de defender a Pátria, inclusive com o sacrifício da própria vida."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Regulamento Disciplinar para a Marinha (RDM)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Conforme o Regulamento Disciplinar para a Marinha (Decreto nº 88.545/83), as contravenções disciplinares são classificadas em:",
+    "options": "[\"Simples, médias e qualificadas.\",\"Leves, médias e graves.\",\"Ordinárias e extraordinárias.\",\"Culposas e dolosas.\",\"De 1ª, 2ª e 3ª categoria.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 8º do RDM (Decreto 88.545/83): \"As contravenções disciplinares são classificadas em: 1 - Leves; 2 - Médias; e 3 - Graves.\""
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Regulamento Disciplinar para a Marinha (RDM)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Dentre as penas disciplinares aplicáveis aos militares na Marinha do Brasil, NÃO constitui sanção disciplinar prevista no RDM:",
+    "options": "[\"Repreensão.\",\"Impedimento.\",\"Prisão rigorosa.\",\"Multa pecuniária com desconto em folha.\",\"Licenciamento a bem da disciplina.\"]",
+    "correct_index": 3,
+    "explanation": "Art. 14 do RDM enumera as penas: repreensão, impedimento, serviço extraordinário, prisão simples, prisão rigorosa, licenciamento/exclusão a bem da disciplina. Não há previsão de multa pecuniária disciplinar no RDM."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Regulamento Disciplinar para a Marinha (RDM)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "No RDM, a circunstância que atenua a gravidade da falta e a pena disciplinar é:",
+    "options": "[\"Ter o contraventor praticado a falta em conluio com outros.\",\"Bom comportamento militar anterior ou falta de prática de serviço.\",\"Ser a falta cometida durante o serviço de quarto ou de guarda.\",\"Ter o militar cometido a falta na presença de público civil.\",\"Reincidência em falta disciplinar da mesma natureza.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 10 do RDM: São circunstâncias atenuantes: o bom comportamento militar, a pouca prática de serviço, a prestação anterior de serviços relevantes, entre outras. Reincidência e conluio são agravantes."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Forças Armadas na CF/88 (Arts. 142-143)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Segundo o art. 142 da Constituição Federal de 1988, as Forças Armadas destinam-se à:",
+    "options": "[\"Polícia judiciária da União e investigação de infrações penais.\",\"Defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.\",\"Fiscalização alfandegária e arrecadação de tributos de comércio exterior.\",\"Segurança pública e patrulhamento ostensivo das rodovias estaduais.\",\"Representação diplomática e negociação de tratados de comércio internacional.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 142, caput da CF/88: \"As Forças Armadas, constituídas pela Marinha, pelo Exército e pela Aeronáutica, são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República, e destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.\""
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Forças Armadas na CF/88 (Arts. 142-143)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "De acordo com o art. 142, § 3º, IV da Constituição Federal, ao militar em serviço ativo é expressamente proibido:",
+    "options": "[\"Filiar-se a partidos políticos.\",\"Ter contas bancárias em instituições financeiras privadas.\",\"Concluir curso de graduação superior.\",\"Praticar culto religioso em tempo de folga.\",\"Concorrer a premiações científicas civis.\"]",
+    "correct_index": 0,
+    "explanation": "Art. 142, § 3º, V da CF/88: \"O militar, enquanto em serviço ativo, não pode estar filiado a partidos políticos.\""
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Forças Armadas na CF/88 (Arts. 142-143)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Em relação ao direito de greve e à sindicalização dos militares, a Constituição Federal estabelece que:",
+    "options": "[\"O direito de greve é assegurado nos termos da lei complementar específica.\",\"A sindicalização é permitida, mas a greve é vedada.\",\"Ao militar são proibidas a sindicalização e a greve.\",\"A greve é permitida somente em tempo de paz.\",\"A sindicalização depende de prévia autorização do Ministério da Defesa.\"]",
+    "correct_index": 2,
+    "explanation": "Art. 142, § 3º, IV da CF/88: \"Ao militar são proibidas a sindicalização e a greve.\""
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "LESTA (Lei 9.537/97)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Conforme a Lei nº 9.537/97 (LESTA), a Autoridade Marítima no Brasil é exercida por qual autoridade:",
+    "options": "[\"Ministro da Fazenda.\",\"Comandante da Marinha.\",\"Diretor-Geral da Polícia Federal.\",\"Ministro dos Portos e Aeroportos.\",\"Diretor-Presidente da ANTAQ.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 2º, I e Art. 3º da Lei nº 9.537/97: A Autoridade Marítima é exercida pelo Comandante da Marinha, com atribuições relativas à segurança da navegação, salvaguarda da vida humana no mar e prevenção da poluição hídrica."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "LESTA (Lei 9.537/97)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Nos termos da LESTA, a tripulação de segurança de uma embarcação é fixada pelo documento denominado:",
+    "options": "[\"Caderno de Registro de Navegação.\",\"Cartão de Tripulação de Segurança (CTS).\",\"Certificado de Arqueação Bruta.\",\"Manifesto de Carga e Passageiros.\",\"Rol de Equipagem Internacional.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 10 da LESTA (Lei nº 9.537/97): A tripulação de segurança da embarcação é fixada no Cartão de Tripulação de Segurança (CTS), emitido pelas Capitanias dos Portos."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "LESTA (Lei 9.537/97)",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "São propósitos fundamentais da Lei nº 9.537/97 (LESTA) nas Águas Jurisdicionais Brasileiras (AJB):",
+    "options": "[\"Arrecadação de tributos aduaneiros e tarifas alfandegárias de atracação.\",\"Segurança da navegação aquaviária, salvaguarda da vida humana e prevenção da poluição ambiental por embarcações.\",\"Definição da política cambial e dos incentivos fiscais da indústria naval.\",\"Regulamentação das tarifas de frete marítimo internacional.\",\"Controle das reservas de petróleo e gás da camada pré-sal.\"]",
+    "correct_index": 1,
+    "explanation": "Art. 1º da LESTA: Esta Lei dispõe sobre a segurança do tráfego aquaviário em águas sob jurisdição nacional, tendo como propósitos a salvaguarda da vida humana, a segurança da navegação e a prevenção da poluição ambiental."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Tradições Navais e Cerimonial",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Na Marinha do Brasil, a cerimônia de içar e arriar o Pavilhão Nacional nos navios e Organizações Militares ocorre, respectivamente, nos seguintes horários:",
+    "options": "[\"Às 06:00h e às 18:00h.\",\"Às 08:00h e exatamente ao pôr do sol.\",\"Às 07:30h e às 17:30h.\",\"Às 08:00h e às 20:00h.\",\"Ao nascer do sol e às 18:00h.\"]",
+    "correct_index": 1,
+    "explanation": "Cerimonial da Marinha do Brasil: O cerimonial à Bandeira Nacional ocorre diariamente às 08:00h (içar) e ao pôr do sol (arriar)."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Tradições Navais e Cerimonial",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Ao embarcar em um navio da Marinha de Guerra, o militar ou civil deve saudar, em primeiro lugar:",
+    "options": "[\"O Oficial de Quarto no portaló.\",\"O Pavilhão Nacional na popa.\",\"O Comandante do navio no passadiço.\",\"O Contramestre no tombadilho.\",\"A bandeira de cruzeiro na proa.\"]",
+    "correct_index": 1,
+    "explanation": "Tradição Naval: Ao ingressar no navio pelo portaló, o militar volta-se para a popa e faz a saudação ao Pavilhão Nacional; em seguida, saúda o Oficial de Quarto / Oficial de Serviço."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Tradições Navais e Cerimonial",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "O instrumento sonoro tradicional utilizado a bordo para saudações cerimoniais e transmissão de ordens e fainas de marinharia é o:",
+    "options": "[\"Gongo de manobra.\",\"Apito de marinheiro.\",\"Sino de bordo principal.\",\"Megafone náutico.\",\"Sirene de colisão.\"]",
+    "correct_index": 1,
+    "explanation": "Tradições Navais: O apito de marinheiro (pipe) é uma das peças mais tradicionais do uniforme naval, utilizado desde a época das velas para toques de honra e ordens de fainas."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "História Naval Brasileira",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "A Batalha Naval do Riachuelo, marco decisivo da Guerra da Tríplice Aliança e comemorada como a Data Magna da Marinha do Brasil, ocorreu em:",
+    "options": "[\"07 de setembro de 1822.\",\"11 de junho de 1865.\",\"15 de novembro de 1889.\",\"13 de dezembro de 1807.\",\"21 de abril de 1870.\"]",
+    "correct_index": 1,
+    "explanation": "11 de junho de 1865: Batalha Naval do Riachuelo, travada no arroio Riachuelo (Argentina), sob o comando do Almirante Francisco Manuel Barroso da Silva (Almirante Barroso). É a Data Magna da Marinha."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "História Naval Brasileira",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "O Patrono da Marinha do Brasil, cuja data de nascimento (13 de dezembro) celebra o Dia do Marinheiro, é o:",
+    "options": "[\"Almirante Barroso.\",\"Almirante Tamandaré (Marquês de Tamandaré).\",\"Marcílio Dias.\",\"Almirante Cochrane.\",\"Almirante Saldanha da Gama.\"]",
+    "correct_index": 1,
+    "explanation": "Joaquim Marques Lisboa, o Marquês de Tamandaré (Almirante Tamandaré), nasceu em 13 de dezembro de 1807 e é o Patrono da Marinha do Brasil."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "História Naval Brasileira",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Na Batalha Naval do Riachuelo, destacou-se pela bravura extrema o Imperial Marinheiro que lutou corpo a corpo na defesa da bandeira a bordo da Corveta Parnaíba:",
+    "options": "[\"Marcílio Dias.\",\"Custódio de Melo.\",\"Eduardo Wandenkolk.\",\"Guilherme Schüch de Capanema.\",\"Álvaro Alberto da Mota e Silva.\"]",
+    "correct_index": 0,
+    "explanation": "Marcílio Dias, Imperial Marinheiro, destacou-se heroicamente na Batalha do Riachuelo em 11 de junho de 1865, defendendo a bandeira brasileira a bordo da Corveta Parnaíba."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Vocabulário Náutico e Organização de Bordo",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Na terminologia marinheira, ao olhar da popa para a proa do navio, o lado esquerdo e o lado direito da embarcação denominam-se, respectivamente:",
+    "options": "[\"Boreste e Bombordo.\",\"Bombordo e Boreste.\",\"Costado e Convés.\",\"Barlavento e Sotavento.\",\"Vante e Ré.\"]",
+    "correct_index": 1,
+    "explanation": "Vocabulário Náutico: Olhando da popa (ré) em direção à proa (vante), o lado ESQUERDO é BOMBORDO (BB) e o lado DIREITO é BORESTE (BE)."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Vocabulário Náutico e Organização de Bordo",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "A distância vertical compreendida entre a superfície da água (linha de flutuação) e a face inferior da quilha de um navio denomina-se:",
+    "options": "[\"Borda-livre.\",\"Calado.\",\"Pontal.\",\"Boca moldada.\",\"Comprimento de roda a roda.\"]",
+    "correct_index": 1,
+    "explanation": "Calado é a distância vertical entre a superfície da água e a parte mais baixa da quilha do navio. Borda-livre é a distância da linha d'água até o convés principal."
+  },
+  {
+    "subject": "Formação Militar-Naval",
+    "topic": "Vocabulário Náutico e Organização de Bordo",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "A estrutura de comando e administração regional da Marinha do Brasil no território nacional é organizada em:",
+    "options": "[\"Comandos Militares de Área.\",\"Distritos Navais (do 1º ao 9º DN).\",\"Zonas Aéreas Regionais.\",\"Regiões Militares de Infantaria.\",\"Divisões de Esquadra Autônomas.\"]",
+    "correct_index": 1,
+    "explanation": "A Marinha do Brasil organiza sua jurisdição territorial e marítima através dos Distritos Navais (Com1DN ao Com9DN), além do Comando em Chefe da Esquadra."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Interpretação e Tipologia Textual",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Em um texto cujo objetivo principal é defender um ponto de vista por meio de argumentos lógicos, dados estatísticos e contraposições para persuadir o leitor, predomina a tipologia:",
+    "options": "[\"Narrativa.\",\"Dissertativo-argumentativa.\",\"Descritiva.\",\"Injuntiva.\",\"Expositiva pura.\"]",
+    "correct_index": 1,
+    "explanation": "O texto dissertativo-argumentativo estrutura-se na apresentação de uma tese fundamentada por argumentos lógicos com o intuito de convencer/persuadir o leitor."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Interpretação e Tipologia Textual",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a opção em que o vocábulo sublinhado estabelece coesão referencial por anáfora (retomada de termo antecedente):",
+    "options": "[\"\\\"Só desejo isto: que todos cumpram a missão.\\\"\",\"\\\"Os marinheiros concluíram a faina; eles foram elogiados pelo comandante.\\\"\",\"\\\"Aqui nesta sala ocorrerá a reunião de instrução.\\\"\",\"\\\"Amanhã os militares farão a inspeção.\\\"\",\"\\\"Sejam bem-vindos a este porto.\\\"\"]",
+    "correct_index": 1,
+    "explanation": "O pronome \"eles\" retoma o substantivo antecedente \"Os marinheiros\", caracterizando coesão anafórica. Em \"isto\" (opção A) há catáfora (antecipação)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Interpretação e Tipologia Textual",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Identifique o mecanismo de coesão sequencial presente na oração: \"O mar estava bravio, contudo a corveta manteve o rumo estabelecido\":",
+    "options": "[\"Adição.\",\"Oposição / Concessão.\",\"Conclusão.\",\"Explicação.\",\"Causa.\"]",
+    "correct_index": 1,
+    "explanation": "A conjunção coordenativa adversativa \"contudo\" expressa oposição/contraste entre o estado do mar e a manutenção do rumo."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Ortografia e Acentuação Gráfica",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa em que TODAS as palavras são acentuadas pela mesma regra gráfica que justifica o acento de \"hierárquico\":",
+    "options": "[\"Marítimo, náutico, cômputo.\",\"País, saúde, saída.\",\"Militar, convés, herói.\",\"Público, café, cipó.\",\"Estatuto, órgão, tórax.\"]",
+    "correct_index": 0,
+    "explanation": "\"Hierárquico\" é proparoxítona. Na opção A, \"marítimo\", \"náutico\" e \"cômputo\" são todas proparoxítonas (todas são acentuadas na língua portuguesa)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Ortografia e Acentuação Gráfica",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Segundo o Novo Acordo Ortográfico, o acento circunflexo que existia nas formas verbais com hiato dobrado \"ee\" e \"oo\":",
+    "options": "[\"Permanece obrigatório em todas as palavras (vêem, crêem, vôo).\",\"Foi abolido (veem, creem, leem, voo, enjoo).\",\"Tornou-se facultativo a critério do autor.\",\"Passou a ser substituído por acento agudo.\",\"Aplica-se apenas em nomes próprios.\"]",
+    "correct_index": 1,
+    "explanation": "O Acordo Ortográfico aboliu o acento circunflexo nos hiatos \"ee\" (veem, creem, leem, deem) e \"oo\" (voo, enjoo, perdoo)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Ortografia e Acentuação Gráfica",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a frase em que o uso do hífen está INCORRETO conforme as regras vigentes:",
+    "options": "[\"O comandante realizou um sobre-aviso para a tripulação.\",\"O navio possui equipamento anti-inflamatório a bordo.\",\"A esquadra fez um treinamento inter-regional.\",\"O suboficial é um profissional extraordinário.\",\"O ex-comandante participou da solenidade.\"]",
+    "correct_index": 0,
+    "explanation": "Com o prefixo \"sobre-\", só se usa hífen se a segunda palavra iniciar por \"h\" ou pela mesma vogal \"e\" (sobre-humano, sobre-elevação). \"Sobreaviso\" grafa-se junto e sem hífen."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Morfologia — Pronomes e Verbos",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa em que o pronome relativo foi empregado de acordo com a norma-padrão:",
+    "options": "[\"O navio onde estivemos aportado no porto é da esquadra.\",\"O concurso cujo o edital foi publicado oferece vagas para Praças.\",\"A legislação a que o militar fez referência é a Lei 6.880/80.\",\"Os oficiais de quem os nomes constam na lista foram promovidos.\",\"A solenidade onde comemoramos o 11 de junho foi emocionante.\"]",
+    "correct_index": 2,
+    "explanation": "Quem faz referência, faz referência A algo (rege preposição \"a\"). A preposição antepõe-se ao pronome relativo \"que\": \"a que\". Em B, é proibido artigo após cujo (\"cujo o\"). Em A e E, \"onde\" só pode ser usado para lugares físicos concretos."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Morfologia — Pronomes e Verbos",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a opção em que a conjugação do verbo irregular no pretérito perfeito do indicativo está CORRETA:",
+    "options": "[\"O comandante interviu na discussão do rancho.\",\"O comandante interveio na discussão do rancho.\",\"Se o oficial ver a irregularidade, tomará providências.\",\"Quando o sargento repor o material, liberará a faina.\",\"O marinheiro manterá a posição se ele requisesse.\"]",
+    "correct_index": 1,
+    "explanation": "O verbo \"intervir\" deriva de \"vir\". Logo: ele veio -> ele interveio (e não \"interviu\"). Em C, o correto seria \"se o oficial VIR\" (do verbo ver no futuro do subjuntivo)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Morfologia — Pronomes e Verbos",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Na oração \"Se o sargento **puser** o navio em prontidão, a missão terá êxito\", a forma verbal sublinhada encontra-se no:",
+    "options": "[\"Pretérito imperfeito do subjuntivo.\",\"Futuro do subjuntivo.\",\"Futuro do presente do indicativo.\",\"Infinitivo pessoal.\",\"Pretérito mais-que-perfeito.\"]",
+    "correct_index": 1,
+    "explanation": "\"Puser\" é a 3ª pessoa do singular do Futuro do Subjuntivo do verbo \"pôr\" (quando eu puser, quando tu puseres, quando ele puser)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Sintaxe da Oração",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Na frase: \"Ocorreram **várias alterações no cronograma de manobra**\", o termo em destaque exerce a função sintática de:",
+    "options": "[\"Objeto direto.\",\"Sujeito simples.\",\"Objeto indireto.\",\"Adjunto adverbial de causa.\",\"Predicativo do sujeito.\"]",
+    "correct_index": 1,
+    "explanation": "O verbo \"ocorrer\" é intransitivo. Pergunta-se: O que ocorreu? Resposta: \"várias alterações no cronograma\" (sujeito posposto ao verbo). O verbo concorda no plural: \"ocorreram\"."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Sintaxe da Oração",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Identifique a oração com sujeito indeterminado:",
+    "options": "[\"Havia muitos militares na formatura geral.\",\"Choveu torrencialmente durante o cerimonial à Bandeira.\",\"Precisa-se de técnicos especializados em manutenção naval.\",\"Faz três anos que ingressei no Serviço Militar Voluntário.\",\"Anoiteceu rapidamente na baía de Guanabara.\"]",
+    "correct_index": 2,
+    "explanation": "Com verbo transitivo indireto (\"precisar de\") + pronome \"se\" (índice de indeterminação do sujeito), o sujeito é indeterminado. As opções A, B, D e E contêm orações sem sujeito (verbos impessoais haver, fazer e fenômenos da natureza)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Sintaxe da Oração",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Na oração \"O comandante considerou **a manobra arriscada**\", o termo \"arriscada\" funciona sintaticamente como:",
+    "options": "[\"Adjunto adnominal.\",\"Predicativo do objeto.\",\"Predicativo do sujeito.\",\"Complemento nominal.\",\"Aposto explicativo.\"]",
+    "correct_index": 1,
+    "explanation": "\"Arriscada\" qualifica o objeto direto \"a manobra\", atribuindo-lhe um estado/qualidade transitória resultante da avaliação do sujeito. Logo, é predicativo do objeto."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Sintaxe do Período Composto",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Na oração \"É indispensável **que todos os marinheiros cumpram a escala de serviço**\", a oração destacada classifica-se como:",
+    "options": "[\"Subordinada substantiva objetiva direta.\",\"Subordinada substantiva subjetiva.\",\"Subordinada substantiva completiva nominal.\",\"Subordinada adjetiva restritiva.\",\"Subordinada adverbial causal.\"]",
+    "correct_index": 1,
+    "explanation": "A oração principal \"É indispensável\" não possui sujeito. A oração introduzida por \"que\" exerce o papel de sujeito da oração principal (O cumprimento da escala é indispensável = Subordinada Substantiva Subjetiva)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Sintaxe do Período Composto",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa que contém uma oração subordinada adjetiva restritiva:",
+    "options": "[\"O Almirante Tamandaré, que é patrono da Marinha, nasceu em Rio Grande.\",\"Os cabos que foram aprovados no exame ingressarão no quadro de sargentos.\",\"O militar afirmou que honraria seu compromisso solene.\",\"Como o mar estava agitado, as lanchas permaneceram fundeadas.\",\"Embora fosse tarde, a guarda manteve a vigilância redobrada.\"]",
+    "correct_index": 1,
+    "explanation": "A oração \"que foram aprovados no exame\" restringe o conjunto dos cabos (somente os aprovados) e não é separada por vírgulas, sendo adjetiva restritiva. A opção A tem vírgula, sendo explicativa."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Sintaxe do Período Composto",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Na frase \"A despeito de **estar chovendo**, a formatura militar foi realizada no pátio\", a oração reduzida exprime valor semântico de:",
+    "options": "[\"Causa.\",\"Concessão.\",\"Condição.\",\"Conformidade.\",\"Proporção.\"]",
+    "correct_index": 1,
+    "explanation": "A locução prepositiva \"a despeito de\" introduz uma ideia de concessão (oposição que não impede a realização da oração principal). Equivale a \"embora estivesse chovendo\"."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Concordância Nominal e Verbal",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa em que a concordância verbal obedece rigorosamente à norma-padrão:",
+    "options": "[\"Devem haver muitos inscritos para o concurso de Praças RM2.\",\"Faziam cinco anos que a fragata não passava por docagem.\",\"Devem existir muitas oportunidades para os técnicos no SMV.\",\"Vende-se embarcações e motores de popa na capitania.\",\"Mais de um oficial cumprimentaram-se cordialmente no passadiço.\"]",
+    "correct_index": 2,
+    "explanation": "O verbo \"existir\" é pessoal e admite sujeito (\"muitas oportunidades\" = plural). Na locução verbal com verbo pessoal, o auxiliar varia: \"Devem existir\". Em A, \"haver\" é impessoal (deve haver). Em B, \"fazer\" indicando tempo é impessoal (Fazia cinco anos). Em D, o correto seria \"Vendem-se embarcações\"."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Concordância Nominal e Verbal",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Em relação à concordância nominal, assinale a frase CORRETA:",
+    "options": "[\"A documentação segue em anexo aos autos do processo.\",\"Os sargentos mesmos organizaram as fichas de matrícula.\",\"É proibido a entrada de civis sem credencial no cais.\",\"As marinheiras estavam meias cansadas após o treinamento físico.\",\"Remeto-lhe incluso as portarias de promoção.\"]",
+    "correct_index": 1,
+    "explanation": "O pronome \"mesmo\" concorda em gênero e número com a palavra a que se refere (\"Os sargentos mesmos\"). Em A, o correto seria \"anexa\" (ou a locução \"em anexo\", sem variação). Em C, havendo artigo \"a\", deve ser \"É proibida a entrada\". Em D, \"meio\" advérbio é invariável (\"meio cansadas\"). Em E, o correto seria \"inclusas as portarias\"."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Concordância Nominal e Verbal",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa com ERRO de concordância verbal:",
+    "options": "[\"A maioria dos candidatos acertou as questões de Legislação Militar.\",\"A maioria dos candidatos acertaram as questões de Legislação Militar.\",\"Cerca de vinte marinheiros participou da cerimônia de posse.\",\"Fui eu que elaborei o plano de manobra da capitania.\",\"Fomos nós quem organizamos os exercícios de tiro.\"]",
+    "correct_index": 2,
+    "explanation": "Com a expressão aproximativa \"cerca de\" seguida de numeral e substantivo no plural (\"vinte marinheiros\"), o verbo DEVE concordar no plural: \"participaram\". Em A e B, com expressões partitivas (\"a maioria de\"), o verbo pode concordar no singular ou no plural."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Regência e Crase",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "De acordo com a norma culta da regência verbal, o verbo \"aspirar\" no sentido de \"desejar / almejar\" rege qual preposição:",
+    "options": "[\"Sem preposição (Verbo Transitivo Direto).\",\"Preposição \\\"a\\\" (Verbo Transitivo Indireto).\",\"Preposição \\\"de\\\" (Verbo Transitivo Indireto).\",\"Preposição \\\"por\\\" (Verbo Transitivo Indireto).\",\"Preposição \\\"com\\\" (Verbo Bitransitivo).\"]",
+    "correct_index": 1,
+    "explanation": "Aspirar = sorver/respirar é VTD (\"aspirou o ar puro\"). Aspirar = almejar/pretender é VTI com preposição \"a\" (\"O cabo aspira À graduação de sargento\")."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Regência e Crase",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa em que o uso do acento indicativo de crase está CORRETO:",
+    "options": "[\"O comandante dirigiu-se à bordo para verificar os compartimentos.\",\"Os marinheiros retornaram à base naval após a comissão de patrulha.\",\"O oficial dedicou-se à fazer o relatório da missão no mar.\",\"O contingente chegou à uma hora avançada da noite.\",\"A capitania prestou assistência à barcos pesqueiros da região.\"]",
+    "correct_index": 1,
+    "explanation": "\"Retornaram à base\": quem retorna, retorna A (preposição) + a base naval (artigo feminino) = à. Em A, \"bordo\" é masculino (não há crase). Em C, \"fazer\" é verbo (proibida a crase). Em D, \"uma\" é artigo indefinido. Em E, \"barcos\" é masculino plural."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Regência e Crase",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "O emprego do acento grave indicador de crase é FACULTATIVO em:",
+    "options": "[\"Antes de pronomes demonstrativos aquele, aquela, aquilo.\",\"Antes de pronomes possessivos femininos no singular (minha, tua, sua).\",\"Antes de palavras masculinas no plural.\",\"Em locuções prepositivas formadas por palavras femininas (à procura de, à moda de).\",\"Antes de numerais cardinais em contagem de tempo.\"]",
+    "correct_index": 1,
+    "explanation": "Casos clássicos de crase facultativa: 1) antes de pronomes possessivos femininos singulares (Entregou o documento à/a sua mãe); 2) antes de nomes próprios femininos sem modificador; 3) após a preposição \"até\"."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Pontuação",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa em que o emprego da vírgula está INCORRETO:",
+    "options": "[\"Os candidatos ao concurso RM2, estudaram muito para a prova.\",\"Na manhã de ontem, os marinheiros concluíram a inspeção do casco.\",\"Tamandaré, patrono da Marinha, nasceu no Rio Grande do Sul.\",\"O mar estava bravio, mas a fragata manteve a velocidade.\",\"Apresente-se imediatamente, marinheiro!\"]",
+    "correct_index": 0,
+    "explanation": "É proibido separar o sujeito (\"Os candidatos ao concurso RM2\") do predicado verbal (\"estudaram muito...\") por vírgula simples."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Pontuação",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Em \"No dia 11 de junho de 1865, a Esquadra brasileira travou a Batalha do Riachuelo\", a vírgula foi empregada para:",
+    "options": "[\"Separar oração subordinada adjetiva.\",\"Isolar adjunto adverbial de tempo deslocado.\",\"Destacar vocativo.\",\"Indicar elipse do verbo auxiliar.\",\"Separar orações coordenadas sindéticas.\"]",
+    "correct_index": 1,
+    "explanation": "\"No dia 11 de junho de 1865\" é um adjunto adverbial de tempo de grande extensão anteposto à oração principal, exigindo vírgula obrigatória."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Pontuação",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "O sinal de dois-pontos pode ser empregado para as seguintes finalidades na norma culta, EXCETO:",
+    "options": "[\"Introduzir uma citação direta.\",\"Anunciar uma enumeração de itens.\",\"Separar o sujeito do verbo transitivo direto.\",\"Introduzir uma explicação ou síntese do que foi dito.\",\"Introduzir fala direta em discurso narrativo.\"]",
+    "correct_index": 2,
+    "explanation": "Não se utiliza dois-pontos para separar sujeito e predicado ou verbo e seu complemento direto."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Colocação Pronominal",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a alternativa em que a próclise do pronome oblíquo átono é OBRIGATÓRIA:",
+    "options": "[\"Não **se** afastem dos postos de combate durante o exercício.\",\"Apresentou-**se** o marinheiro ao comandante no passadiço.\",\"Dirigir-**me**-ei à capitania para protocolar o recurso.\",\"Os sargentos cumprimentaram-**se** após a formatura.\",\"Realizar-**se**-á a solenidade no auditório principal.\"]",
+    "correct_index": 0,
+    "explanation": "A palavra com sentido negativo \"Não\" é fator de atração obrigatório de próclise (pronome antes do verbo: \"Não se afastem\"). Em B, é início de oração (ênclise). Em C e E, verbos no futuro do indicativo sem fator de próclise exigem mesóclise."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Colocação Pronominal",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Em início de período, a norma culta da língua portuguesa:",
+    "options": "[\"Exige o uso de próclise (ex: \\\"Me passe o relatório\\\").\",\"Veda terminantemente o uso de pronome oblíquo átono iniciando a oração (ex: \\\"Entregue-me o relatório\\\").\",\"Permite livre escolha entre próclise e ênclise em qualquer estilo.\",\"Exige obrigatoriamente a mesóclise em qualquer tempo verbal.\",\"Permite a próclise caso o verbo termine em vogal nasal.\"]",
+    "correct_index": 1,
+    "explanation": "Segundo a gramática normativa tradicional (Celso Cunha & Lindley Cintra), nunca se inicia período com pronome oblíquo átono."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Colocação Pronominal",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a opção com colocação pronominal em MESÓCLISE empregada corretamente:",
+    "options": "[\"Nunca realizar-se-á a inspeção sem aviso prévio.\",\"Realizar-se-á amanhã a cerimônia de promoção dos novos sargentos.\",\"Quem dir-me-á a verdade sobre a escala de serviço?\",\"Talvez apresentar-se-á o oficial no porto.\",\"Se far-se-á o treinamento no mar, ninguém soube responder.\"]",
+    "correct_index": 1,
+    "explanation": "Verbo no futuro do presente (\"realizará\") em início de oração (sem palavra atrativa de próclise) exige mesóclise: \"Realizar-se-á\". Em A, C, D e E há palavras atrativas (\"nunca\", \"quem\", \"talvez\", \"se\") que forçam a próclise (\"Nunca se realizará\", \"Quem me dirá\", etc.)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e Figuras de Linguagem",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale o par de vocábulos que exemplifica uma relação de HOMONÍMIA HOMÓFONA (mesma pronúncia, grafia diferente):",
+    "options": "[\"Sessão (reunião) / Seção (divisão) / Cessão (ato de ceder).\",\"Ratificar (confirmar) / Retificar (corrigir).\",\"Emergir (vir à tona) / Imergir (afundar).\",\"Eminente (elevado) / Iminente (prestes a ocorrer).\",\"Tráfego (trânsito) / Tráfico (comércio ilícito).\"]",
+    "correct_index": 0,
+    "explanation": "\"Sessão\", \"seção\" e \"cessão\" possuem a mesma pronúncia (sons idênticos), mas grafias e significados diferentes = Homófonos. Os demais pares (B, C, D, E) são parônimos (grafia e pronúncia parecidas, mas não idênticas)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e Figuras de Linguagem",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Na frase \"A esquadra brasileira enfrentou **cem canhões de fogo** na passagem do rio\", a figura de linguagem presente em \"canhões\" (empregado no lugar de navios artilhados) é:",
+    "options": "[\"Metonímia (a parte pelo todo / instrumento pelo agente).\",\"Metáfora pura.\",\"Antítese.\",\"Pleonasmo vicioso.\",\"Hipérbato sintático.\"]",
+    "correct_index": 0,
+    "explanation": "Metonímia é a figura de linguagem que consiste no emprego de um termo por outro com base em uma relação de contiguidade material ou conceitual (neste caso, a parte/arma representando a totalidade da belonave inimiga)."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Semântica e Figuras de Linguagem",
+    "banca": "DEnsM",
+    "type": "multiple_choice",
+    "question_text": "Assinale a oração que contém sentido CONOTATIVO (figurado):",
+    "options": "[\"O navio atracou no cais do porto do Rio de Janeiro às 14 horas.\",\"O comandante navegou por mares revoltos da burocracia administrativa.\",\"A âncora foi lançada a vinte metros de profundidade.\",\"O marinheiro limpou o tombadilho com água salgada.\",\"O motor de propulsão a diesel foi submetido a revisão geral.\"]",
+    "correct_index": 1,
+    "explanation": "\"Mares revoltos da burocracia\" é linguagem figurada/conotativa (metáfora para dificuldades e entraves de processos administrativos). As demais orações utilizam a linguagem denotativa (sentido literal do dicionário)."
+  }
+]

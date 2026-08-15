@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ConcursaBot — Seu Cérebro IA para Concursos</title>
+  
+  <!-- Google Fonts: IBM Plex Serif (Display), Inter (Body) & JetBrains Mono (Data) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- PWA & Mobile Meta Tags -->
+  <meta name="theme-color" content="#1B365D">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="ConcursaBot">
+  <link rel="manifest" href="manifest.json">
+  
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Immediate Theme Restore (Pre-paint) -->
+  <script>
+    (function() {
+      try {
+        const theme = localStorage.getItem('concursa_theme') || 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+      } catch (e) {}
+      
+      // Registrar Service Worker para PWA / Offline
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').catch(() => {});
+        });
+      }
+    })();
+  </script>
+</head>
+<body>
+  <div id="app" class="workspace-layout">
+    <!-- Top Workspace Header -->
+    <header id="workspace-header" role="banner">
+      <div class="workspace-header-inner">
+        <!-- Logo & Context -->
+        <div class="header-brand">
+          <a href="#hub" class="brand-link" title="Ir para o Hub de Concursos" aria-label="Página inicial e Hub de Carreiras">
+            <div class="brand-meta">
+              <span class="brand-title">ConcursaBot</span>
+              <span class="brand-badge" id="header-exam-badge" title="Clique para alternar de concurso">Concurso Ativo ▾</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- 4 Core Workspace Modes (Clean Institutional Nav) -->
+        <nav class="workspace-nav" id="main-workspace-nav" role="navigation" aria-label="Navegação principal">
+          <a href="#dashboard" class="workspace-nav-tab active" data-route="dashboard" data-section="hoje">
+            <span class="tab-label">Hoje</span>
+          </a>
+          <a href="#study-room" class="workspace-nav-tab" data-route="study-room" data-section="biblioteca">
+            <span class="tab-label">Biblioteca & Aulas</span>
+          </a>
+          <a href="#simulados" class="workspace-nav-tab" data-route="simulados" data-section="treino">
+            <span class="tab-label">Treino & Questões</span>
+          </a>
+          <a href="#edital" class="workspace-nav-tab" data-route="edital" data-section="inteligencia">
+            <span class="tab-label">Inteligência & Edital</span>
+          </a>
+        </nav>
+
+        <!-- Right Utilities & Profile -->
+        <div class="header-actions">
+          <!-- Quick Study Action -->
+          <a href="#study-room" class="btn btn-primary btn-sm header-action-btn" id="btn-header-study">
+            <span>Estudar</span>
+          </a>
+
+          <!-- Theme Switcher -->
+          <button id="theme-toggle" class="theme-toggle-btn" title="Alternar entre Modo Claro e Escuro">
+            <span id="theme-text">Modo Claro</span>
+          </button>
+
+          <!-- User Profile Switcher Button -->
+          <a href="#users" class="user-pill user-profile-switcher-btn" id="header-user-btn" title="Clique para alternar ou criar perfil de estudante">
+            <span class="user-name-short" id="top-user-name">João</span>
+            <span class="badge-caret" style="font-size:0.65rem; opacity:0.6;">▾</span>
+          </a>
+
+          <!-- Settings Button -->
+          <a href="#settings" class="theme-toggle-btn" id="header-settings-btn" title="Central de Configurações" style="padding:0.4rem 0.6rem; text-decoration:none; display:flex; align-items:center; justify-content:center;">
+            <span style="font-size:0.85rem; font-weight:600;">Ajustes</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Sub-navigation Bar for Secondary Tools (Discreet Contextual Bar) -->
+    <div id="sub-nav-bar" class="sub-nav-bar" style="display:none;">
+      <div class="sub-nav-inner" id="sub-nav-links">
+        <!-- Injetado dinamicamente dependendo da seção atual -->
+      </div>
+    </div>
+
+    <!-- Main Workspace Body -->
+    <main id="workspace-main">
+      <!-- Contextual Breadcrumbs & Quick Bar -->
+      <div id="top-breadcrumbs-bar" class="breadcrumbs-bar">
+        <div class="breadcrumbs-inner">
+          <div id="top-breadcrumbs-path" class="breadcrumbs-path">
+            <span class="crumb-root">ConcursaBot</span>
+            <span class="crumb-sep">/</span>
+            <span class="crumb-exam" id="crumb-exam-name">Concurso</span>
+            <span class="crumb-sep">/</span>
+            <span class="crumb-current" id="crumb-module-name">⚡ Dashboard</span>
+          </div>
+          <div class="breadcrumbs-actions">
+            <button id="btn-quick-reset" class="crumb-quick-btn" title="Resetar ou limpar progresso de estudo">🔄 Reset de Estudo</button>
+            <a href="#hub" class="crumb-quick-btn" title="Ver Hub de Concursos">🎯 Trocar Concurso</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Page Content (Injected by Router) -->
+      <div id="page-content" class="workspace-content fade-in">
+        <!-- Module content goes here -->
+      </div>
+    </main>
+    
+    <!-- Toast Container -->
+    <div id="toast-container"></div>
+  </div>
+
+  <!-- Main App Script -->
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
