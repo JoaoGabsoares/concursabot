@@ -569,6 +569,153 @@ p {
   box-shadow: var(--shadow-md);
 }
 
+/* DASHBOARD STUDENT GAMIFICATION & XP CARD */
+.dash-student-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.dash-student-card:hover {
+  border-color: var(--color-primary-light, var(--color-primary));
+  box-shadow: var(--shadow-md);
+}
+
+.dash-student-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.dash-student-profile {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+}
+
+.dash-student-avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-edital));
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  flex-shrink: 0;
+}
+
+.dash-student-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.dash-student-name-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.dash-student-name {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.dash-student-rank-badge {
+  font-size: 0.78rem;
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  background: rgba(37, 99, 235, 0.1);
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+.dash-student-streak-badge {
+  font-size: 0.78rem;
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  background: rgba(217, 119, 6, 0.12);
+  color: var(--color-status-warning);
+  font-weight: 700;
+  font-family: var(--font-mono);
+}
+
+.dash-student-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.85rem;
+  padding: 0.85rem 1rem;
+  background: var(--bg-tertiary);
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-color);
+}
+
+.dash-student-metric-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.dash-student-metric-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-secondary);
+}
+
+.dash-student-metric-val {
+  font-family: var(--font-mono);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.dash-student-progress-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.dash-student-progress-labels {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.dash-student-progress-bar-bg {
+  width: 100%;
+  height: 10px;
+  background: var(--bg-tertiary);
+  border-radius: 5px;
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+}
+
+.dash-student-progress-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-primary), #60a5fa);
+  border-radius: 5px;
+  transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
 /* PAUTA LINEAR LIST (INBOX STYLE) */
 .pauta-container {
   background: var(--bg-card);
@@ -2976,12 +3123,13 @@ select.form-control {
 }
 
 /* ============================================================
-   RESPONSIVIDADE MOBILE REFINADA (< 640px)
+   RESPONSIVIDADE MOBILE REFINADA (< 640px & < 480px)
    ============================================================ */
 
 @media (max-width: 640px) {
+  /* Layout & Navigation */
   .workspace-header-inner {
-    padding: 0 0.85rem;
+    padding: 0.5rem 0.85rem;
     height: auto;
     min-height: 56px;
     flex-wrap: wrap;
@@ -2994,8 +3142,11 @@ select.form-control {
   }
 
   .user-switcher-btn, .theme-toggle-btn {
-    padding: 0.35rem 0.6rem;
-    font-size: 0.8rem;
+    padding: 0.5rem 0.6rem;
+    font-size: 0.85rem;
+    min-height: 44px; /* Touch target */
+    display: inline-flex;
+    align-items: center;
   }
 
   .top-breadcrumbs-bar {
@@ -3007,6 +3158,165 @@ select.form-control {
   .top-breadcrumbs-bar > div:last-child {
     width: 100%;
     justify-content: flex-start;
+  }
+
+  .workspace-content {
+    padding: 1rem 0.85rem 2rem 0.85rem !important;
+  }
+
+  /* Sidebar fallback classes */
+  .workspace-sidebar, .workspace-sidebar-nav {
+    display: flex;
+    flex-direction: column;
+    width: 100% !important;
+    height: auto !important;
+    border-right: none !important;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .workspace-nav {
+    flex-wrap: wrap;
+  }
+
+  /* Dashboard */
+  .dash-student-card {
+    padding: 1.2rem !important;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .dash-student-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .dash-student-metrics-grid {
+    grid-template-columns: 1fr !important;
+    gap: 0.75rem !important;
+  }
+
+  /* Hero Banner */
+  .hero-focus-banner {
+    padding: 1.2rem !important;
+    flex-direction: column;
+    text-align: left;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .hero-focus-info, .hero-focus-action {
+    width: 100%;
+  }
+
+  /* Study Room / Pauta */
+  .pauta-container {
+    padding: 1rem !important;
+  }
+  
+  .pauta-item-row {
+    flex-direction: column;
+    align-items: flex-start !important;
+    gap: 0.75rem;
+    padding: 1rem !important;
+  }
+  
+  .pauta-item-actions {
+    width: 100%;
+    justify-content: flex-end;
+  }
+
+  /* Hub Exam Cards */
+  .hub-grid {
+    grid-template-columns: 1fr !important;
+    gap: 1rem !important;
+  }
+  
+  .hub-exam-card {
+    padding: 1.2rem !important;
+  }
+
+  .exam-meta-grid {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  /* Questions */
+  .question-card {
+    padding: 1.2rem !important;
+  }
+  
+  .question-text {
+    font-size: 1rem !important;
+  }
+
+  .question-option {
+    padding: 0.8rem 1rem !important;
+    min-height: 44px; /* Touch target */
+    align-items: center;
+  }
+
+  /* Modals */
+  .glass-modal, .modal-content {
+    width: 95% !important;
+    max-width: none !important;
+    padding: 1.25rem !important;
+    margin: 1rem auto !important;
+    border-radius: var(--radius-md) !important;
+  }
+  
+  .modal-actions {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  
+  .modal-actions button, .modal-actions .btn {
+    width: 100%;
+    min-height: 44px;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Smaller screens */
+  .workspace-nav, .workspace-sidebar-nav {
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .workspace-nav-tab, .nav-item {
+    white-space: nowrap;
+    padding: 0.6rem 0.85rem;
+    font-size: 0.85rem;
+    min-height: 44px;
+  }
+
+  .exam-meta-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Typography scale down */
+  h1, .h1 { font-size: 1.5rem !important; }
+  h2, .h2 { font-size: 1.25rem !important; }
+  h3, .h3 { font-size: 1.1rem !important; }
+  
+  .question-text {
+    font-size: 0.95rem !important;
+  }
+
+  .question-option {
+    align-items: flex-start;
+  }
+  
+  .option-letter {
+    margin-top: 2px;
+  }
+
+  /* Form Elements */
+  input, select, textarea, button, .btn, .styled-input, .styled-select {
+    min-height: 44px !important;
+    font-size: 16px !important; /* Prevents iOS zoom */
   }
 }
 

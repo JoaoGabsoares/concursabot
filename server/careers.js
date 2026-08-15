@@ -181,6 +181,83 @@ export const CAREERS_CATALOG = {
       { subject: 'Direito Administrativo', lessonNumber: 1, title: 'Regime Jurídico dos Servidores Públicos Civis (Lei 8.112/90)', keyTopics: 'Provimento, vacância, direitos, deveres, proibições e processo disciplinar (PAD)' },
       { subject: 'Direito Constitucional', lessonNumber: 1, title: 'Organização do Poder Judiciário (Arts. 92 a 126 da CF/88)', keyTopics: 'STF, CNJ, STJ, TRFs, TJs e garantias da magistratura' }
     ]
+  },
+
+  // ============================================================
+  // 5. BANCO DO BRASIL — AGENTE COMERCIAL (CESGRANRIO)
+  // ============================================================
+  'bb_comercial': {
+    id: 'bb_comercial',
+    name: '🏦 Banco do Brasil (Agente Comercial • Cesgranrio)',
+    shortName: 'BB Comercial',
+    role: 'Escriturário / Agente Comercial',
+    totalQuestions: 70,
+    bancas: [
+      { id: 'CESGRANRIO', name: 'Fundação Cesgranrio (Banca Oficial do Banco do Brasil)', default: true },
+      { id: 'FGV', name: 'FGV (Bancos Públicos)' },
+      { id: 'FCC', name: 'FCC (Fundação Carlos Chagas)' },
+      { id: 'CEBRASPE', name: 'CEBRASPE / CESPE' }
+    ],
+    subjects: [
+      { subject: 'Vendas e Negociação', wave: 1, questions: 15, percentage: '22.5%', description: 'Técnicas de Vendas, SPIN Selling, Gatilhos, Gestão de Objeções, Código de Defesa do Consumidor e Ouvidoria' },
+      { subject: 'Conhecimentos de Informática', wave: 1, questions: 15, percentage: '22.5%', description: 'Windows 10/11, Pacote Office/Microsoft 365, Redes, Navegadores, Nuvem e Segurança da Informação' },
+      { subject: 'Conhecimentos Bancários', wave: 1, questions: 10, percentage: '15.0%', description: 'Estrutura do SFN (CMN, BACEN, CVM), Produtos Bancários, PIX, Open Finance, Moedas Digitais e Câmbio' },
+      { subject: 'Língua Portuguesa', wave: 1, questions: 10, percentage: '15.0%', description: 'Compreensão de Textos, Tipologia, Sintaxe da Oração/Período, Regência, Crase e Pontuação Cesgranrio' },
+      { subject: 'Matemática Financeira', wave: 2, questions: 5, percentage: '7.5%', description: 'Juros Simples e Compostos, Taxas Equivalentes, Descontos, Sistemas de Amortização (SAC e Price)' },
+      { subject: 'Matemática', wave: 2, questions: 5, percentage: '7.5%', description: 'Conjuntos, Funções, Razões/Proporções, Regra de Três, Porcentagem, Progressões (PA/PG) e Matrizes' },
+      { subject: 'Atualidades do Mercado Financeiro', wave: 2, questions: 5, percentage: '5.0%', description: 'Fintechs, Startups, Bancos Digitais, Moedas Digitais, ESG e Sistema de Pagamentos Brasileiro (SPB)' },
+      { subject: 'Língua Inglesa', wave: 2, questions: 5, percentage: '5.0%', description: 'Compreensão de Textos e Vocabulário de Negócios e Mercado Financeiro' }
+    ],
+    official_lessons: [
+      { subject: 'Conhecimentos Bancários', lessonNumber: 1, title: 'Estrutura do Sistema Financeiro Nacional (SFN) — Órgãos Normativos, Supervisores e Operadores', keyTopics: 'CMN, BACEN, CVM, SUSEP, PREVIC, Bancos Comerciais, Múltiplos e Cooperativas de Crédito' },
+      { subject: 'Conhecimentos Bancários', lessonNumber: 2, title: 'Produtos e Serviços Bancários — Captação, Crédito, Investimentos e Garantias do FGC', keyTopics: 'Depósito à vista/prazo, CDB, RDB, LCI, LCA, Fundos de Investimento, Cartões e Fundo Garantidor de Créditos' },
+      { subject: 'Conhecimentos Bancários', lessonNumber: 3, title: 'Mercado de Câmbio, PIX, Open Finance, Moedas Digitais e Inovações Tecnológicas do BACEN', keyTopics: 'Operações de câmbio, taxas de câmbio, liquidação em tempo real, APIs de Open Finance e Drex' },
+      { subject: 'Conhecimentos Bancários', lessonNumber: 4, title: 'Prevenção à Lavagem de Dinheiro (Lei 9.613/98 e Circulares BACEN) e Sigilo Bancário (LC 105/01)', keyTopics: 'Fases da lavagem (Colocação, Ocultação, Integração), COAF, identificação de clientes (KYC) e operações suspeitas' },
+      { subject: 'Vendas e Negociação', lessonNumber: 1, title: 'Técnicas de Vendas no Setor Bancário — Sondagem, SPIN Selling e Abordagem Consultiva', keyTopics: 'Identificação de necessidades, perguntas de situação/problema/implicação/necessidade e proposta de valor' },
+      { subject: 'Vendas e Negociação', lessonNumber: 2, title: 'Manejo de Objeções, Fechamento de Vendas e Pós-Venda em Produtos Financeiros', keyTopics: 'Gatilhos mentais de reciprocidade e autoridade, técnicas de fechamento e retenção de clientes' },
+      { subject: 'Vendas e Negociação', lessonNumber: 3, title: 'Código de Defesa do Consumidor (Lei 8.078/90) e Resolução CMN de Ouvidoria Bancária', keyTopics: 'Direitos básicos do consumidor, publicidade enganosa/abusiva, contratos de adesão e prazos de resposta' },
+      { subject: 'Conhecimentos de Informática', lessonNumber: 1, title: 'Segurança da Informação Bancária, Criptografia, Phishing, Malware e LGPD (Lei 13.709/18)', keyTopics: 'Engenharia social, autenticação multifator (MFA), princípios da LGPD e bases legais de tratamento' },
+      { subject: 'Matemática Financeira', lessonNumber: 1, title: 'Juros Compostos, Taxas Proporcionais/Equivalentes e Desconto Racional/Comercial', keyTopics: 'Fórmulas de montante composto, cálculo de juros acumulados, taxa nominal vs taxa efetiva' },
+      { subject: 'Matemática Financeira', lessonNumber: 2, title: 'Sistemas de Amortização de Empréstimos e Financiamentos — Tabela Price e Sistema SAC', keyTopics: 'Cálculo de parcelas constantes (Price), amortização constante (SAC), juros decrescentes e saldo devedor' }
+    ]
+  },
+
+  // ============================================================
+  // 6. BANCO DO BRASIL — AGENTE DE TECNOLOGIA / TI (CESGRANRIO)
+  // ============================================================
+  'bb_ti': {
+    id: 'bb_ti',
+    name: '💻 Banco do Brasil (Agente de Tecnologia • TI • Cesgranrio)',
+    shortName: 'BB Tecnologia (TI)',
+    role: 'Escriturário / Agente de Tecnologia (TI)',
+    totalQuestions: 70,
+    bancas: [
+      { id: 'CESGRANRIO', name: 'Fundação Cesgranrio (Banca Oficial BB Tecnologia)', default: true },
+      { id: 'FGV', name: 'FGV (Tecnologia Bancária)' },
+      { id: 'CEBRASPE', name: 'CEBRASPE / CESPE' },
+      { id: 'FCC', name: 'FCC (Área de TI)' }
+    ],
+    subjects: [
+      { subject: 'Tecnologia da Informação', wave: 1, questions: 35, percentage: '52.5%', description: 'Bancos de Dados SQL/NoSQL, Python, Java, APIs REST, Microsserviços, DevOps, Docker, Segurança, Cloud e Machine Learning' },
+      { subject: 'Probabilidade e Estatística', wave: 1, questions: 5, percentage: '7.5%', description: 'Estatística Descritiva, Probabilidade, Teorema de Bayes, Distribuição Binomial e Normal' },
+      { subject: 'Conhecimentos Bancários', wave: 1, questions: 5, percentage: '7.5%', description: 'SFN, BACEN, PIX, Open Finance, Moedas Digitais e Lei de Prevenção à Lavagem de Dinheiro' },
+      { subject: 'Língua Portuguesa', wave: 1, questions: 10, percentage: '15.0%', description: 'Compreensão de Textos, Tipologia, Sintaxe, Regência, Crase e Pontuação Cesgranrio' },
+      { subject: 'Matemática', wave: 2, questions: 5, percentage: '7.5%', description: 'Funções, Matrizes, Análise Combinatória, Razão/Proporção e Sequências' },
+      { subject: 'Atualidades do Mercado Financeiro', wave: 2, questions: 5, percentage: '5.0%', description: 'Fintechs, Big Techs financeiras, ESG, Drex e Sistema de Pagamentos Instantâneos' },
+      { subject: 'Língua Inglesa', wave: 2, questions: 5, percentage: '5.0%', description: 'Interpretação de Textos Técnicos em Tecnologia, Arquitetura e Engenharia de Software' }
+    ],
+    official_lessons: [
+      { subject: 'Tecnologia da Informação', lessonNumber: 1, title: 'Bancos de Dados Relacionais — Modelagem E-R, Normalização e Linguagem SQL Avançada', keyTopics: 'DDL, DML, DQL (SELECT, JOINs, GROUP BY, HAVING, subqueries correlacionadas, window functions e índices)' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 2, title: 'Bancos de Dados Não Relacionais (NoSQL) — Modelos Documento, Chave-Valor, Família de Colunas e Grafos', keyTopics: 'MongoDB, Cassandra, Redis, Neo4j, Teorema CAP e consistência eventual vs ACID' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 3, title: 'Linguagem Python para Análise de Dados e Engenharia — Sintaxe, List Comprehensions e Pandas/NumPy', keyTopics: 'Estruturas de dados (list, dict, set, tuple), manipulação de DataFrames, Series, slicing e funções lambda' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 4, title: 'Linguagem Java e TypeScript — POO, Herança, Interfaces, Polimorfismo e Tratamento de Exceções', keyTopics: 'Generics, Collections Framework, Streams API, Tipagem estática em TypeScript e interfaces assíncronas' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 5, title: 'Arquitetura de Software Moderna — Microsserviços, APIs RESTful, JSON e Mensageria', keyTopics: 'Princípios REST (GET, POST, PUT, DELETE, PATCH, status codes HTTP), Swagger/OpenAPI, Kafka e RabbitMQ' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 6, title: 'DevOps, Conteinerização e CI/CD — Docker, Kubernetes e Pipelines Automatizados', keyTopics: 'Dockerfile, imagens, contêineres, volumes, orquestração com pods/deployments e Git/GitHub Actions' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 7, title: 'Segurança da Informação e Criptografia — OWASP Top 10, Criptografia Simétrica/Assimétrica e OAuth2', keyTopics: 'SQL Injection, XSS, CSRF, chaves públicas/privadas (RSA/AES), certificados digitais TLS/SSL e tokens JWT' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 8, title: 'Aprendizado de Máquina (Machine Learning) & Inteligência Artificial no Setor Bancário', keyTopics: 'Algoritmos supervisionados (Árvores de Decisão, Random Forest, Regressão Logística, SVM) e métricas (Acurácia, Precisão, Recall, F1-Score, ROC-AUC)' },
+      { subject: 'Probabilidade e Estatística', lessonNumber: 1, title: 'Estatística Descritiva — Medidas de Posição Central e Medidas de Dispersão', keyTopics: 'Média aritmética simples e ponderada, mediana, moda, variância, desvio-padrão e coeficiente de variação' },
+      { subject: 'Probabilidade e Estatística', lessonNumber: 2, title: 'Teoria das Probabilidades — Probabilidade Condicional, Teorema de Bayes e Distribuições', keyTopics: 'Eventos independentes/mutuamente exclusivos, probabilidade condicional, distribuição Binomial e Normal' }
+    ]
   }
 };
 

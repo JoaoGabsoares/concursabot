@@ -31,12 +31,14 @@ import { seedExamBenchmarks } from './seeds/exam_benchmarks_seed.js';
 import { seedUserProfiles } from './seeds/user_profiles_seed.js';
 import { seedRM2Questions } from './seeds/rm2_questions_seed.js';
 import { seedSESRJQuestions } from './seeds/ses_rj_questions_seed.js';
+import { seedBBQuestions } from './seeds/bb_questions_seed.js';
 
 // Run seeds
 seedExamBenchmarks();
 seedUserProfiles();
 seedRM2Questions(db);
 seedSESRJQuestions(db);
+seedBBQuestions(db);
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -55,14 +57,24 @@ app.use((req, res, next) => {
     res.setHeader('X-Frame-Options', 'SAMEORIGIN');
     res.setHeader('Referrer-Policy', 'strict-origin-when-cross-origin');
     res.setHeader('X-XSS-Protection', '1; mode=block');
+    res.setHeader('Permissions-Policy', 'camera=(), microphone=(), geolocation=()');
+    res.setHeader('Content-Security-Policy', "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://fonts.googleapis.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: blob:; connect-src 'self'");
     next();
 });
 
 // Core Middleware
-app.use(cors());
-app.use(express.json({ limit: '50mb' }));
-// Serve static files from 'public' directory
-app.use(express.static(path.join(__dirname, '../public')));
+app.use(cors({
+    origin: process.env.CORS_ORIGIN || true,
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
+    credentials: true
+}));
+app.use(express.json({ limit: '10mb' }));
+// Serve static files from 'public' directory with cache headers
+app.use(express.static(path.join(__dirname, '../public'), {
+    maxAge: process.env.NODE_ENV === 'production' ? '7d' : 0,
+    etag: true,
+    lastModified: true
+}));
 
 // Multer config for PDF uploads with strict filename sanitization
 const uploadsDir = path.join(__dirname, '../uploads');
@@ -83,7 +95,20 @@ const upload = multer({
 });
 
 app.use('/api/study-room/upload', upload.single('pdf'));
-app.use('/uploads', express.static(uploadsDir));
+// Serve uploads with restrictions — only PDFs, no directory listing
+app.use('/uploads', (req, res, next) => {
+    // Block directory traversal attempts
+    if (req.path.includes('..') || req.path.includes('%2e')) {
+        return res.status(403).json({ error: 'Acesso negado.' });
+    }
+    // Only allow PDF files
+    if (!req.path.toLowerCase().endsWith('.pdf')) {
+        return res.status(403).json({ error: 'Apenas arquivos PDF podem ser acessados.' });
+    }
+    res.setHeader('Content-Disposition', 'inline');
+    res.setHeader('X-Content-Type-Options', 'nosniff');
+    next();
+}, express.static(uploadsDir));
 
 import { inviteAuthMiddleware, isInviteRequired, validateInviteCode } from './middleware/invite-auth.js';
 import systemLogsRoutes from './routes/system-logs.js';

@@ -1,0 +1,92 @@
+[
+  {
+    "career_id": "bb_ti",
+    "banca": "Fundação Cesgranrio",
+    "subject": "Tecnologia da Informação",
+    "topic": "SQL Avançado e Agrupamentos",
+    "difficulty": "dificil",
+    "question_text": "(Cesgranrio - Banco do Brasil TI) Considere uma tabela relacional de contas bancárias denominada `contas (agencia INT, numero_conta INT, saldo DECIMAL(12,2), tipo VARCHAR(20))`. O DBA precisa emitir um relatório que liste o número da agência e a média dos saldos apenas para as agências que possuem mais de 100 contas cadastradas e cujo saldo médio seja estritamente superior a R$ 5.000,00. O comando SQL padrão ANSI correto para atender a essa solicitação é:",
+    "options": [
+      "SELECT agencia, AVG(saldo) FROM contas GROUP BY agencia HAVING COUNT(numero_conta) > 100 AND AVG(saldo) > 5000;",
+      "SELECT agencia, AVG(saldo) FROM contas WHERE COUNT(numero_conta) > 100 AND AVG(saldo) > 5000 GROUP BY agencia;",
+      "SELECT agencia, AVG(saldo) FROM contas GROUP BY agencia WHERE AVG(saldo) > 5000 HAVING COUNT(*) > 100;",
+      "SELECT agencia, AVG(saldo) FROM contas HAVING COUNT(numero_conta) > 100 WHERE saldo > 5000 GROUP BY agencia;",
+      "SELECT agencia, MEAN(saldo) FROM contas GROUP BY agencia HAVING COUNT(agencia) > 100 AND MEAN(saldo) > 5000;"
+    ],
+    "correct_option": 0,
+    "explanation": "GABARITO: A.\n\nNo padrão SQL:\n1. A cláusula `WHERE` filtra registros individuais antes de qualquer agrupamento. Não é permitido usar funções agregadas (como `COUNT`, `AVG`, `SUM`) dentro do `WHERE`.\n2. A cláusula `GROUP BY` agrupa as linhas por colunas selecionadas.\n3. A cláusula `HAVING` filtra os grupos resultantes com base em condições sobre funções agregadas (`COUNT(numero_conta) > 100 AND AVG(saldo) > 5000`).\n\nOrdem sintática e lógica correta: SELECT ... FROM ... [WHERE ...] GROUP BY ... HAVING ... ORDER BY ...",
+    "source": "Concurso Banco do Brasil - Cesgranrio TI"
+  },
+  {
+    "career_id": "bb_ti",
+    "banca": "Fundação Cesgranrio",
+    "subject": "Tecnologia da Informação",
+    "topic": "Python para Análise de Dados e List Comprehensions",
+    "difficulty": "media",
+    "question_text": "(Cesgranrio - Banco do Brasil TI) Em Python 3.10+, um desenvolvedor do Banco do Brasil precisa processar uma lista de transações financeiras para filtrar apenas os valores positivos e aplicar uma taxa de processamento de 1.5% (multiplicar por 1.015). A lista de entrada é `transacoes = [100.0, -50.0, 200.0, -10.0, 300.0]`. Utilizando o recurso idiomático de List Comprehension, o código correto é:",
+    "options": [
+      "processadas = [t * 1.015 for t in transacoes if t > 0]",
+      "processadas = [for t in transacoes if t > 0: t * 1.015]",
+      "processadas = [t * 1.015 if t > 0 for t in transacoes]",
+      "processadas = {t * 1.015 for t in transacoes where t > 0}",
+      "processadas = (t * 1.015 for t in transacoes filter t > 0)"
+    ],
+    "correct_option": 0,
+    "explanation": "GABARITO: A (`[t * 1.015 for t in transacoes if t > 0]`).\n\nSintaxe clássica de List Comprehension em Python com filtro condicional:\n`[expressão for item in iterável if condição]`\n\n- Alternativa A aplica a expressão `t * 1.015` para cada elemento `t` onde `t > 0`, resultando em uma nova lista com `[101.5, 203.0, 304.5]`.\n- As opções B, C, D e E contêm erros de sintaxe inválidos em Python.",
+    "source": "Concurso Banco do Brasil - Cesgranrio TI"
+  },
+  {
+    "career_id": "bb_ti",
+    "banca": "Fundação Cesgranrio",
+    "subject": "Tecnologia da Informação",
+    "topic": "Bancos de Dados NoSQL e Teorema CAP",
+    "difficulty": "dificil",
+    "question_text": "(Cesgranrio - Banco do Brasil TI) De acordo com o Teorema CAP (Brewer) para sistemas distribuídos de banco de dados, é teoricamente impossível que um sistema garanta simultaneamente todas as três seguintes propriedades em caso de partição de rede:",
+    "options": [
+      "Consistência (Consistency), Disponibilidade (Availability) e Tolerância a Partições (Partition Tolerance).",
+      "Concorrência (Concurrency), Atomicidade (Atomicity) e Persistência (Persistence).",
+      "Consistência (Consistency), Autenticidade (Authenticity) e Performance (Performance).",
+      "Confidencialidade (Confidentiality), Acessibilidade (Accessibility) e Portabilidade (Portability).",
+      "Confiabilidade (Continuity), Autonomia (Autonomy) e Paralelismo (Parallelism)."
+    ],
+    "correct_option": 0,
+    "explanation": "GABARITO: A (Consistência, Disponibilidade e Tolerância a Partições).\n\nO Teorema CAP estabelece que em um sistema distribuído de dados (como bancos NoSQL Cassandra, MongoDB, DynamoDB):\n- C (Consistency): Todos os nós leem o mesmo dado mais recente no mesmo instante.\n- A (Availability): Todas as requisições não com erro recebem resposta garantida.\n- P (Partition Tolerance): O sistema continua operando mesmo com quebra de comunicação entre nós da rede.\nNa ocorrência de uma partição de rede (P), o sistema DEVE escolher entre Consistência (CP - como MongoDB/HBase) ou Disponibilidade (AP - como Cassandra/CouchDB).",
+    "source": "Concurso Banco do Brasil - Cesgranrio TI"
+  },
+  {
+    "career_id": "bb_ti",
+    "banca": "Fundação Cesgranrio",
+    "subject": "Tecnologia da Informação",
+    "topic": "Arquitetura RESTful e Métodos HTTP",
+    "difficulty": "facil",
+    "question_text": "(Cesgranrio - Banco do Brasil TI) No projeto de uma API RESTful para o ecossistema Open Finance do Banco do Brasil, qual verbo HTTP e respectivo código de status de sucesso devem ser utilizados para criar um novo consentimento de compartilhamento de dados no servidor?",
+    "options": [
+      "POST com status HTTP 201 (Created)",
+      "GET com status HTTP 200 (OK)",
+      "PUT com status HTTP 204 (No Content)",
+      "PATCH com status HTTP 302 (Found)",
+      "POST com status HTTP 202 (Accepted)"
+    ],
+    "correct_option": 0,
+    "explanation": "GABARITO: A (POST com status HTTP 201 Created).\n\nBoas práticas de arquitetura RESTful:\n- `POST`: Utilizado para criação de novos recursos subordinados a uma coleção.\n- `201 Created`: Status padrão retornado quando a criação do recurso tem sucesso, acompanhado idealmente do cabeçalho `Location` com a URI do recurso recém-criado.\n- `GET`: Apenas leitura (idempotente e seguro, retorna 200 OK).\n- `PUT`: Substituição integral do recurso.\n- `PATCH`: Atualização parcial do recurso.",
+    "source": "Concurso Banco do Brasil - Cesgranrio TI"
+  },
+  {
+    "career_id": "bb_ti",
+    "banca": "Fundação Cesgranrio",
+    "subject": "Probabilidade e Estatística",
+    "topic": "Teorema de Bayes e Probabilidade Condicional",
+    "difficulty": "dificil",
+    "question_text": "(Cesgranrio - Banco do Brasil TI) Um modelo de Inteligência Artificial para detecção de fraudes em transações via PIX classifica transações como 'Suspeita' ou 'Legítima'. Sabe-se que 1% de todas as transações da base histórica são efetivamente fraudulentas (P(F) = 0,01). Quando uma transação é fraudulenta, o modelo acerta e emite alerta com 90% de probabilidade (Sensibilidade/Recall = 0,90). Quando a transação é legítima, o modelo emite alarme falso com 5% de probabilidade (Taxa de Falso Positivo = 0,05). Dado que o modelo emitiu um alerta de fraude para uma transação, qual é a probabilidade real de que ela seja de fato fraudulenta?",
+    "options": [
+      "Aproximadamente 15,4%",
+      "Exatamente 90,0%",
+      "Aproximadamente 50,0%",
+      "Exatamente 85,0%",
+      "Aproximadamente 3,5%"
+    ],
+    "correct_option": 0,
+    "explanation": "GABARITO: A (Aproximadamente 15,4%).\n\nAplicação do Teorema de Bayes:\nP(F | Alerta) = [ P(Alerta | F) * P(F) ] / P(Alerta Total)\n\nDados:\n- P(F) = 0,01 (Transação fraudulenta)\n- P(L) = 0,99 (Transação legítima)\n- P(Alerta | F) = 0,90 (Verdadeiro positivo)\n- P(Alerta | L) = 0,05 (Falso positivo)\n\n1. Probabilidade Total de Alerta P(Alerta):\nP(Alerta) = P(Alerta | F) * P(F) + P(Alerta | L) * P(L)\nP(Alerta) = (0,90 * 0,01) + (0,05 * 0,99)\nP(Alerta) = 0,0090 + 0,0495 = 0,0585 (5,85% de todas as transações disparam alerta).\n\n2. Probabilidade a posteriori P(F | Alerta):\nP(F | Alerta) = 0,0090 / 0,0585 = 90 / 585 ≈ 0,1538 = 15,38%.\n\nPegadinha clássica da Cesgranrio: a baixa prevalência (1%) faz com que a maioria dos alertas em números absolutos seja de falsos positivos gerados pela imensa base de legítimas (99%).",
+    "source": "Concurso Banco do Brasil - Cesgranrio TI"
+  }
+]

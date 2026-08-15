@@ -8,6 +8,8 @@ export async function render(container) {
   const careerCfg = getCareerConfig(activeExamId);
   const officialLessons = getCareerLessons(activeExamId);
 
+  const activeUserName = localStorage.getItem('concursa_active_user_name') || 'João';
+
   container.innerHTML = `
     <!-- Top Action-First Header & Metrics -->
     <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:1.5rem; flex-wrap:wrap; gap:1rem;">
@@ -46,26 +48,58 @@ export async function render(container) {
       </div>
     </div>
 
-    <!-- Gamification Quick Progress Pill / Banner -->
-    <a href="#conquistas" class="card slide-up" style="text-decoration:none; color:inherit; margin-bottom:1.5rem; padding:0.85rem 1.25rem; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem; border:1px solid var(--border-color); background:var(--bg-card); border-left:4px solid var(--color-primary); transition:all 0.15s ease;">
-      <div style="display:flex; align-items:center; gap:0.85rem;">
-        <div>
-          <div style="display:flex; align-items:center; gap:0.5rem;">
-            <strong style="font-size:0.95rem; color:var(--text-primary);" id="dash-gamer-rank">Nível 1 • Novato no Edital</strong>
-            <span class="badge" id="dash-gamer-streak" style="background:rgba(217, 119, 6, 0.1); color:var(--color-status-warning); font-weight:700; font-size:0.75rem; font-family:var(--font-mono);">0 Dias Seguidos</span>
+    <!-- Gamification & Student Performance Card -->
+    <div class="dash-student-card slide-up">
+      <div class="dash-student-card-top">
+        <div class="dash-student-profile">
+          <div class="dash-student-avatar" id="dash-user-avatar">
+            ${activeUserName.charAt(0).toUpperCase()}
           </div>
-          <div style="font-size:0.78rem; color:var(--text-muted); margin-top:0.15rem;" id="dash-gamer-sub">
-            <span id="dash-gamer-xp" style="font-family:var(--font-mono); font-weight:600;">0</span> XP acumulados • <span id="dash-gamer-trophies" style="font-family:var(--font-mono); font-weight:600;">0 / 12</span> troféus conquistados
+          <div class="dash-student-meta">
+            <div class="dash-student-name-row">
+              <span class="dash-student-name" id="dash-user-name">${activeUserName}</span>
+              <span class="dash-student-rank-badge" id="dash-gamer-rank">Nível 1 • Novato no Edital</span>
+              <span class="dash-student-streak-badge" id="dash-gamer-streak">🔥 0 Dias Seguidos</span>
+            </div>
+            <div style="font-size:0.8rem; color:var(--text-secondary);">
+              Plano de Estudos focado em <strong style="color:var(--text-primary);">${careerCfg.name}</strong>
+            </div>
           </div>
         </div>
+
+        <a href="#conquistas" class="btn btn-secondary btn-sm" style="text-decoration:none; font-size:0.8rem; padding:0.4rem 0.85rem; display:inline-flex; align-items:center; gap:0.4rem;">
+          <span>🏆 Ver Conquistas</span>
+          <span style="opacity:0.6;">→</span>
+        </a>
       </div>
-      <div style="display:flex; align-items:center; gap:0.75rem;">
-        <div style="width:120px; height:8px; background:var(--bg-tertiary); border-radius:2px; overflow:hidden; border:1px solid var(--border-color);">
-          <div id="dash-gamer-bar" style="width:0%; height:100%; background:var(--color-primary); border-radius:2px; transition:width 0.5s ease;"></div>
+
+      <!-- 3 Metrics Columns with Generous Spacing -->
+      <div class="dash-student-metrics-grid">
+        <div class="dash-student-metric-item">
+          <span class="dash-student-metric-label">XP Acumulado</span>
+          <span class="dash-student-metric-val" style="color:var(--color-primary);"><span id="dash-gamer-xp">0</span> <small style="font-size:0.75rem; font-weight:normal; color:var(--text-secondary);">XP</small></span>
         </div>
-        <span class="btn btn-secondary btn-sm" style="font-size:0.75rem; padding:0.25rem 0.65rem;">Ver Conquistas →</span>
+        <div class="dash-student-metric-item">
+          <span class="dash-student-metric-label">Próximo Nível</span>
+          <span class="dash-student-metric-val" style="font-size:0.95rem; color:var(--text-primary); font-family:var(--font-sans);" id="dash-gamer-next-level">Faltam 500 XP</span>
+        </div>
+        <div class="dash-student-metric-item">
+          <span class="dash-student-metric-label">Troféus Conquistados</span>
+          <span class="dash-student-metric-val" style="color:var(--color-status-warning);" id="dash-gamer-trophies">0 / 12</span>
+        </div>
       </div>
-    </a>
+
+      <!-- Level Progress Bar -->
+      <div class="dash-student-progress-wrapper">
+        <div class="dash-student-progress-labels">
+          <span id="dash-gamer-progress-label">Progresso para o Próximo Nível</span>
+          <strong id="dash-gamer-progress-pct" style="font-family:var(--font-mono); color:var(--text-primary);">0%</strong>
+        </div>
+        <div class="dash-student-progress-bar-bg">
+          <div id="dash-gamer-bar" class="dash-student-progress-bar-fill" style="width:0%;"></div>
+        </div>
+      </div>
+    </div>
 
     <!-- Cobertura do Edital & Ação Principal -->
     <div class="hero-focus-banner slide-up" style="margin-bottom:1.5rem;">
@@ -179,13 +213,34 @@ export async function render(container) {
       if (rankEl) rankEl.textContent = `Nível ${rank.level || 1} • ${rank.name || 'Novato'}`;
 
       const streakEl = document.getElementById('dash-gamer-streak');
-      if (streakEl) streakEl.innerHTML = `${gData.streakDays} ${gData.streakDays === 1 ? 'Dia Seguido' : 'Dias Seguidos'}`;
+      if (streakEl) streakEl.innerHTML = `🔥 ${gData.streakDays} ${gData.streakDays === 1 ? 'Dia Seguido' : 'Dias Seguidos'}`;
 
       const xpEl = document.getElementById('dash-gamer-xp');
       if (xpEl) xpEl.textContent = (gData.totalXP || 0).toLocaleString();
 
+      const nextLevelEl = document.getElementById('dash-gamer-next-level');
+      if (nextLevelEl) {
+        if (gData.nextRank) {
+          nextLevelEl.textContent = `Faltam ${((gData.xpNeededForNext || 0)).toLocaleString()} XP (Nível ${gData.nextRank.level})`;
+        } else {
+          nextLevelEl.textContent = `Nível Máximo Alcançado 👑`;
+        }
+      }
+
       const trophiesEl = document.getElementById('dash-gamer-trophies');
       if (trophiesEl) trophiesEl.textContent = `${gData.unlockedCount || 0} / ${gData.totalAchievementsCount || 12}`;
+
+      const progressLabelEl = document.getElementById('dash-gamer-progress-label');
+      if (progressLabelEl) {
+        if (gData.nextRank) {
+          progressLabelEl.textContent = `Evolução para o Nível ${gData.nextRank.level} (${gData.nextRank.name})`;
+        } else {
+          progressLabelEl.textContent = `Evolução Total`;
+        }
+      }
+
+      const progressPctEl = document.getElementById('dash-gamer-progress-pct');
+      if (progressPctEl) progressPctEl.textContent = `${gData.progressPct || 0}%`;
 
       const barEl = document.getElementById('dash-gamer-bar');
       if (barEl) barEl.style.width = `${gData.progressPct || 0}%`;

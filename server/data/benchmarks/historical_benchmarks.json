@@ -142,5 +142,77 @@
     "provas_gabaritos_json": "{\"qtd_questoes_anuladas\":5,\"disciplina_mais_dificil\":\"AFO (Créditos Adicionais, PPA, LDO e LOA)\"}",
     "pegadinhas_historicas_json": "[\"Regra de ouro das finanças públicas (Art. 167, III da CF/88).\",\"Créditos extraordinários (urgência e imprevisibilidade como guerra, calamidade pública).\"]",
     "temas_discursivas_json": "{\"tema_cobrado\":\"Parecer Técnico sobre Processo Administrativo Disciplinar (PAD - Lei 8.112/90) e prescrição da pretensão punitiva.\",\"criterios_banca\":\"Conhecimento técnico-jurídico e estrutura de parecer formal.\"}"
+  },
+  {
+    "career_id": "bb_comercial",
+    "edition_year": 2023,
+    "banca": "Fundação Cesgranrio",
+    "role": "Escriturário • Agente Comercial (Edital 01/2022)",
+    "corte_historico": "74% a 82.5% (Variação por Microrregião / UF)",
+    "vagas_total": 4000,
+    "edital_summary_json": "{\"total_questoes\":70,\"pontuacao_maxima\":100,\"formato_questoes\":\"Múltipla escolha (5 alternativas A, B, C, D, E)\",\"duracao_prova\":\"5 horas (Objetiva + Redação)\",\"pesos_principais\":[{\"materia\":\"Vendas e Negociação\",\"questoes\":15,\"peso\":\"22.5% (1.5 pts cada)\"},{\"materia\":\"Conhecimentos de Informática\",\"questoes\":15,\"peso\":\"22.5% (1.5 pts cada)\"},{\"materia\":\"Conhecimentos Bancários\",\"questoes\":10,\"peso\":\"15.0% (1.5 pts cada)\"},{\"materia\":\"Língua Portuguesa\",\"questoes\":10,\"peso\":\"15.0% (1.5 pts cada)\"},{\"materia\":\"Matemática Financeira\",\"questoes\":5,\"peso\":\"7.5% (1.5 pts cada)\"},{\"materia\":\"Matemática Básica\",\"questoes\":5,\"peso\":\"7.5% (1.5 pts cada)\"},{\"materia\":\"Atualidades do Mercado Financeiro\",\"questoes\":5,\"peso\":\"5.0% (1.0 pt cada)\"},{\"materia\":\"Língua Inglesa\",\"questoes\":5,\"peso\":\"5.0% (1.0 pt cada)\"}],\"minimo_eliminatorio\":\"Mínimo de 50% no total de pontos, 50% em Conhecimentos Básicos, 50% em Conhecimentos Específicos e não zerar nenhuma disciplina.\"}",
+    "provas_gabaritos_json": "{\"qtd_questoes_anuladas\":2,\"disciplina_mais_dificil\":\"Matemática Financeira (Sistemas de Amortização Price/SAC) e Conhecimentos Bancários (Open Finance/PIX)\",\"temas_mais_cobrados\":[\"Produtos Bancários e Garantias do FGC (4q)\",\"SPIN Selling e Abordagem Consultiva (4q)\",\"Código de Defesa do Consumidor e Súmula 297 STJ (3q)\",\"Segurança da Informação e Phishing (4q)\",\"PIX e Open Finance (3q)\"]}",
+    "pegadinhas_historicas_json": "[\"Garantia do FGC: a banca tenta induzir que fundos de investimento têm garantia do FGC (apenas CDB, RDB, LCI, LCA e poupança são cobertos até R$ 250 mil por CPF/instituição).\",\"Fases da Lavagem de Dinheiro (Lei 9.613/98): Colocação (introdução do dinheiro no sistema), Ocultação (camadas complexas de transferências) e Integração (investimento na economia formal).\",\"Tabela Price vs SAC: no SAC a amortização é constante e as parcelas são decrescentes; na Price as prestações são constantes e a amortização é crescente.\",\"CDC em Bancos: Súmula 297 do STJ estabelece que o Código de Defesa do Consumidor é aplicável às instituições financeiras.\",\"Taxa Nominal vs Taxa Efetiva: a Cesgranrio cobra a conversão de taxas nominais anuais capitalizadas mensalmente em taxas efetivas.\"]",
+    "temas_discursivas_json": "{\"tema_cobrado\":\"Redação Dissertativa-Argumentativa (25 a 30 linhas) sobre 'A importância do atendimento humanizado no ambiente bancário digital e os desafios da inclusão financeira'.\",\"criterios_banca\":\"Estrutura dissertativa clássica, coesão, clareza argumentativa, repertório legitimado e pontuação mínima de 70 de 100 pontos para não ser eliminado.\"}"
+  },
+  {
+    "career_id": "bb_comercial",
+    "edition_year": 2021,
+    "banca": "Fundação Cesgranrio",
+    "role": "Escriturário • Agente Comercial (Edital 01/2021)",
+    "corte_historico": "72% a 78.5% (Objetiva)",
+    "vagas_total": 4480,
+    "edital_summary_json": "{\"total_questoes\":70,\"pontuacao_maxima\":100,\"pesos_principais\":[{\"materia\":\"Vendas e Negociação\",\"questoes\":15,\"peso\":\"22.5%\"},{\"materia\":\"Informática\",\"questoes\":15,\"peso\":\"22.5%\"},{\"materia\":\"Conhecimentos Bancários\",\"questoes\":10,\"peso\":\"15.0%\"},{\"materia\":\"Língua Portuguesa\",\"questoes\":10,\"peso\":\"15.0%\"},{\"materia\":\"Matemática e Financeira\",\"questoes\":10,\"peso\":\"15.0%\"}]}",
+    "provas_gabaritos_json": "{\"qtd_questoes_anuladas\":1,\"disciplina_mais_dificil\":\"Conhecimentos Bancários (Mercado de Câmbio e Taxa Selic/Copom)\"}",
+    "pegadinhas_historicas_json": "[\"Competências do CMN (órgão normativo) vs BACEN (órgão executor/supervisor): o CMN fixa diretrizes e metas de inflação, o BACEN executa a política monetária e fiscaliza.\",\"Prevenção à Lavagem de Dinheiro: dispensa de valor mínimo para comunicação de operações suspeitas de atipicidade ao COAF.\",\"Diferença entre Seguro, Previdência Complementar Aberta (PGBL/VGBL) e Títulos de Capitalização.\"]",
+    "temas_discursivas_json": "{\"tema_cobrado\":\"Redação sobre 'Privacidade de dados e cibersegurança na era digital: como equilibrar conveniência e proteção ao consumidor bancário (LGPD)'.\",\"criterios_banca\":\"Estrutura formal, domínio da norma culta e soluções práticas de proteção de dados.\"}"
+  },
+  {
+    "career_id": "bb_comercial",
+    "edition_year": 2018,
+    "banca": "Fundação Cesgranrio",
+    "role": "Escriturário Tradicional (Edital 01/2018 e 02/2015)",
+    "corte_historico": "70% a 75% (Objetiva)",
+    "vagas_total": 860,
+    "edital_summary_json": "{\"total_questoes\":70,\"pesos_principais\":[{\"materia\":\"Conhecimentos Bancários & Mercado\",\"questoes\":20,\"peso\":\"30%\"},{\"materia\":\"Língua Portuguesa\",\"questoes\":20,\"peso\":\"25%\"},{\"materia\":\"Raciocínio Lógico-Matemático e Financeira\",\"questoes\":15,\"peso\":\"25%\"},{\"materia\":\"Informática\",\"questoes\":15,\"peso\":\"20%\"}]}",
+    "provas_gabaritos_json": "{\"qtd_questoes_anuladas\":2,\"disciplina_mais_dificil\":\"Títulos de Crédito e Matemática Financeira\"}",
+    "pegadinhas_historicas_json": "[\"Títulos de Crédito: diferença de responsabilidade entre Endosso (garante o pagamento salvo cláusula sem garantia) e Cessão de Crédito.\",\"Regime de Juros Simples vs Compostos em empréstimos de curto prazo.\"]",
+    "temas_discursivas_json": "{\"tema_cobrado\":\"O papel dos bancos públicos no desenvolvimento socioeconômico sustentável do Brasil.\",\"criterios_banca\":\"Capacidade de argumentação contextualizada e coerência temática.\"}"
+  },
+  {
+    "career_id": "bb_ti",
+    "edition_year": 2023,
+    "banca": "Fundação Cesgranrio",
+    "role": "Escriturário • Agente de Tecnologia (TI • Edital 01/2022)",
+    "corte_historico": "62% a 70% (Objetiva • Média Nacional)",
+    "vagas_total": 3000,
+    "edital_summary_json": "{\"total_questoes\":70,\"pontuacao_maxima\":100,\"formato_questoes\":\"Múltipla escolha (5 alternativas A, B, C, D, E)\",\"duracao_prova\":\"5 horas (Objetiva + Redação)\",\"pesos_principais\":[{\"materia\":\"Tecnologia da Informação\",\"questoes\":35,\"peso\":\"52.5% (1.5 pts cada)\"},{\"materia\":\"Língua Portuguesa\",\"questoes\":10,\"peso\":\"15.0% (1.5 pts cada)\"},{\"materia\":\"Probabilidade e Estatística\",\"questoes\":5,\"peso\":\"7.5% (1.5 pts cada)\"},{\"materia\":\"Conhecimentos Bancários\",\"questoes\":5,\"peso\":\"7.5% (1.5 pts cada)\"},{\"materia\":\"Matemática Básica\",\"questoes\":5,\"peso\":\"7.5% (1.5 pts cada)\"},{\"materia\":\"Atualidades do Mercado Financeiro\",\"questoes\":5,\"peso\":\"5.0% (1.0 pt cada)\"},{\"materia\":\"Língua Inglesa\",\"questoes\":5,\"peso\":\"5.0% (1.0 pt cada)\"}],\"minimo_eliminatorio\":\"Mínimo de 50% na prova objetiva total, 50% em básicos, 50% em específicos e nota mínima 70 na redação.\"}",
+    "provas_gabaritos_json": "{\"qtd_questoes_anuladas\":3,\"disciplina_mais_dificil\":\"Bancos de Dados NoSQL, Algoritmos de Machine Learning e Slicing de DataFrames em Python/Pandas\",\"temas_mais_cobrados\":[\"SQL Avançado (Subqueries, GROUP BY, HAVING, JOINs) (6q)\",\"Python, Pandas e List Comprehensions (6q)\",\"Arquitetura de Microsserviços e REST APIs (5q)\",\"NoSQL e Teorema CAP (MongoDB/Cassandra) (4q)\",\"Docker, Kubernetes e CI/CD (4q)\",\"Segurança, Criptografia e OWASP Top 10 (4q)\",\"Machine Learning e Métricas de Avaliação (3q)\",\"Probabilidade e Teorema de Bayes (3q)\"]}",
+    "pegadinhas_historicas_json": "[\"SQL HAVING vs WHERE: WHERE filtra linhas antes do agrupamento; HAVING filtra grupos após o agrupamento com funções agregadas (COUNT, SUM, AVG).\",\"Teorema CAP em NoSQL: sistemas distribuídos só podem garantir no máximo 2 das 3 propriedades simultaneamente (Consistência, Disponibilidade e Tolerância a Partições).\",\"Python List Comprehensions vs Generators: comprehensions usam colchetes e criam a lista inteira na memória; generators usam parênteses e produzem valores sob demanda (lazy evaluation).\",\"Métricas de Machine Learning: quando há classes desbalanceadas (ex: detecção de fraudes bancárias), a Acurácia é enganosa; deve-se priorizar Recall, Precisão e F1-Score.\",\"Criptografia Simétrica vs Assimétrica: AES é simétrica (mesma chave para cifrar e decifrar, muito rápida); RSA/ECC é assimétrica (chave pública para cifrar, chave privada para decifrar).\",\"Probabilidade Condicional e Teorema de Bayes: P(A|B) = [P(B|A) * P(A)] / P(B) — cobrança frequente em problemas de falsos positivos em testes de diagnóstico/fraude.\"]",
+    "temas_discursivas_json": "{\"tema_cobrado\":\"Redação Dissertativa sobre 'O papel da Inteligência Artificial Generativa e da Ciência de Dados na transformação digital dos serviços bancários: oportunidades e riscos éticos'.\",\"criterios_banca\":\"Domínio da norma culta, clareza técnica e proposição de diretrizes éticas de transparência algorítmica (0 a 100 pontos, mínimo 70).\"}"
+  },
+  {
+    "career_id": "bb_ti",
+    "edition_year": 2021,
+    "banca": "Fundação Cesgranrio",
+    "role": "Escriturário • Agente de Tecnologia (TI • Edital 01/2021)",
+    "corte_historico": "60% a 68% (Objetiva)",
+    "vagas_total": 480,
+    "edital_summary_json": "{\"total_questoes\":70,\"pontuacao_maxima\":100,\"pesos_principais\":[{\"materia\":\"Tecnologia da Informação\",\"questoes\":35,\"peso\":\"52.5%\"},{\"materia\":\"Língua Portuguesa\",\"questoes\":10,\"peso\":\"15.0%\"},{\"materia\":\"Probabilidade e Estatística\",\"questoes\":5,\"peso\":\"7.5%\"},{\"materia\":\"Conhecimentos Bancários\",\"questoes\":5,\"peso\":\"7.5%\"},{\"materia\":\"Matemática & Gerais\",\"questoes\":15,\"peso\":\"17.5%\"}]}",
+    "provas_gabaritos_json": "{\"qtd_questoes_anuladas\":2,\"disciplina_mais_dificil\":\"Estruturas de Dados (Árvores AVL e Grafos) e Java Streams API\"}",
+    "pegadinhas_historicas_json": "[\"Normalização de Banco de Dados: 1FN (valores atômicos), 2FN (dependência funcional total da chave primária), 3FN (sem dependências transitivas).\",\"Java: passagem de parâmetros em Java é SEMPRE por valor (para objetos, passa-se o valor da referência).\",\"Segurança: vulnerabilidade de SQL Injection é evitada utilizando Prepared Statements / Consultas Parametrizadas.\"]",
+    "temas_discursivas_json": "{\"tema_cobrado\":\"Redação sobre 'A evolução do Open Banking (Open Finance) no Brasil e o empoderamento do consumidor de dados financeiros'.\",\"criterios_banca\":\"Argumentação estruturada, conhecimento do ecossistema e respeito aos direitos de privacidade.\"}"
+  },
+  {
+    "career_id": "bb_ti",
+    "edition_year": 2018,
+    "banca": "Fundação Cesgranrio",
+    "role": "Escriturário de TI (Edital 01/2018)",
+    "corte_historico": "58% a 65% (Objetiva)",
+    "vagas_total": 60,
+    "edital_summary_json": "{\"total_questoes\":70,\"pesos_principais\":[{\"materia\":\"Tecnologia da Informação & Desenvolvimento\",\"questoes\":30,\"peso\":\"45%\"},{\"materia\":\"Língua Portuguesa & Inglesa\",\"questoes\":20,\"peso\":\"25%\"},{\"materia\":\"Raciocínio Lógico e Matemática\",\"questoes\":10,\"peso\":\"15%\"},{\"materia\":\"Conhecimentos Bancários\",\"questoes\":10,\"peso\":\"15%\"}]}",
+    "provas_gabaritos_json": "{\"qtd_questoes_anuladas\":1,\"disciplina_mais_dificil\":\"Modelagem de Software e Engenharia de Requisitos\"}",
+    "pegadinhas_historicas_json": "[\"Metodologias Ágeis: Scrum Master é um líder servidor (não é gerente de projeto); o Product Owner é o único responsável pelo Product Backlog.\",\"Git: diferença entre `git merge` (preserva histórico com commit de mesclagem) e `git rebase` (lineariza a árvore de commits reescrevendo o histórico).\"]",
+    "temas_discursivas_json": "{\"tema_cobrado\":\"O impacto da computação em nuvem e da segurança digital nas transações financeiras globais.\",\"criterios_banca\":\"Coesão e consistência técnica.\"}"
   }
 ]

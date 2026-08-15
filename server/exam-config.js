@@ -66,6 +66,47 @@ LEGISLAÇÃO E NORMAS PRINCIPAIS:
 `;
   }
 
+  if (careerId === 'bb_comercial') {
+    return `
+CONCURSO-ALVO DO ALUNO: 🏦 Banco do Brasil — Escriturário / Agente Comercial.
+BANCA EXAMINADORA OFICIAL: Fundação Cesgranrio.
+FORMATO DA PROVA: 70 questões de múltipla escolha com 5 alternativas (A, B, C, D, E) + Redação dissertativa-argumentativa.
+DISTRIBUIÇÃO DE MATÉRIAS:
+- Conhecimentos Específicos: Vendas e Negociação (15q - peso 1.5), Conhecimentos de Informática (15q - peso 1.5), Conhecimentos Bancários (10q - peso 1.5), Matemática Financeira (5q - peso 1.5).
+- Conhecimentos Básicos: Língua Portuguesa (10q - peso 1.5), Matemática (5q - peso 1.5), Atualidades do Mercado Financeiro (5q - peso 1.0), Língua Inglesa (5q - peso 1.0).
+
+LEGISLAÇÃO E NORMAS OFICIAIS OBRIGATÓRIAS:
+1. Estrutura do Sistema Financeiro Nacional (SFN): Conselho Monetário Nacional (CMN), Banco Central do Brasil (BACEN), CVM, SUSEP, PREVIC e instituições financeiras bancárias e não bancárias.
+2. Inovações e Produtos Bancários: PIX, Open Finance, Moedas Digitais (Drex), LCI, LCA, CDB, Fundos de Investimento e Garantias do FGC (limite de R$ 250 mil por CPF/instituição até o teto especial).
+3. Prevenção à Lavagem de Dinheiro (Lei nº 9.613/1998 e Resoluções BACEN/COAF): Fases (Colocação, Ocultação, Integração), KYC (Know Your Customer) e comunicação de operações suspeitas.
+4. Vendas, Negociação e Atendimento: SPIN Selling, técnicas de sondagem, manejo de objeções, Código de Defesa do Consumidor (Lei nº 8.078/1990) aplicado a instituições financeiras (Súmula 297 STJ) e Ouvidoria.
+5. Matemática Financeira: Juros compostos, taxas nominais vs efetivas, equivalência de taxas, Desconto Comercial/Racional e Sistemas de Amortização (Tabela Price vs SAC).
+
+⚠️ ATENÇÃO CRÍTICA: Este aluno estuda para o BANCO DO BRASIL (AGENTE COMERCIAL). O estilo de cobrança deve ser o da FUNDAÇÃO CESGRANRIO (enunciados diretos, interpretação contextual e casos bancários práticos).
+`;
+  }
+
+  if (careerId === 'bb_ti') {
+    return `
+CONCURSO-ALVO DO ALUNO: 💻 Banco do Brasil — Escriturário / Agente de Tecnologia (TI).
+BANCA EXAMINADORA OFICIAL: Fundação Cesgranrio.
+FORMATO DA PROVA: 70 questões de múltipla escolha com 5 alternativas (A, B, C, D, E) + Redação eliminatória.
+DISTRIBUIÇÃO DE MATÉRIAS:
+- Conhecimentos Específicos: Tecnologia da Informação (35 questões - peso 1.5 = 52.5% da prova), Probabilidade e Estatística (5q - peso 1.5), Conhecimentos Bancários (5q - peso 1.5).
+- Conhecimentos Básicos: Língua Portuguesa (10q - peso 1.5), Matemática (5q - peso 1.5), Atualidades do Mercado Financeiro (5q - peso 1.0), Língua Inglesa (5q - peso 1.0).
+
+TECNOLOGIAS E TÓPICOS OBRIGATÓRIOS (CESGRANRIO TI):
+1. Bancos de Dados: Modelagem Relacional (1FN, 2FN, 3FN), SQL avançado (DML, DDL, DQL, JOINs, GROUP BY, HAVING, subqueries, índices, transações ACID) e NoSQL (MongoDB, Cassandra, Redis, Teorema CAP).
+2. Linguagens de Programação: Python (sintaxe, tipos, list comprehensions, manipulação de dados com Pandas e NumPy), Java (POO, Streams API, Collections) e TypeScript.
+3. Arquitetura & Engenharia de Software: Microsserviços, APIs RESTful (verbos HTTP, headers, status codes, OpenAPI/Swagger), mensageria (Kafka, RabbitMQ) e Design Patterns.
+4. DevOps, Cloud & Segurança: Docker, Kubernetes, CI/CD, Git, OWASP Top 10, Criptografia Simétrica (AES) e Assimétrica (RSA), Certificação Digital e OAuth2/JWT.
+5. Inteligência Artificial / Machine Learning: Aprendizado supervisionado e não-supervisionado, Regressão, Classificação (Árvores, Random Forest, SVM), Métricas (Matriz de Confusão, Acurácia, Precisão, Recall, F1-Score).
+6. Probabilidade e Estatística: Média, mediana, moda, variância, desvio-padrão, Teorema de Bayes, Distribuição Normal e Binomial.
+
+⚠️ ATENÇÃO CRÍTICA: Este aluno estuda para o BANCO DO BRASIL (AGENTE DE TECNOLOGIA). As explicações de código e questões de TI devem seguir o padrão técnico rigoroso da Fundação Cesgranrio.
+`;
+  }
+
   // Padrão: ATRFB / Receita Federal do Brasil
   return `
 CONCURSO-ALVO DO ALUNO: 🏛️ Analista-Tributário da Receita Federal do Brasil (ATRFB).

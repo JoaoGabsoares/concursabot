@@ -24,6 +24,8 @@ export async function render(container) {
           <label style="font-weight:600; font-size:0.85rem; color:var(--text-secondary);">Modelos Oficiais Pré-Carregados (1 Clique):</label>
           <div class="preset-pills-container" id="preset-pills">
             <button class="preset-pill-btn active" data-preset="receita-atrfb-fgv">Receita Federal (ATRFB) • FGV</button>
+            <button class="preset-pill-btn" data-preset="bb-comercial-cesgranrio">Banco do Brasil (Comercial) • Cesgranrio</button>
+            <button class="preset-pill-btn" data-preset="bb-ti-cesgranrio">Banco do Brasil (TI) • Cesgranrio</button>
             <button class="preset-pill-btn" data-preset="ses-rj-saude">Saúde SES-RJ • IBDO / FGV</button>
             <button class="preset-pill-btn" data-preset="marinha-rm2-pracas">Marinha do Brasil (Praças RM2) • DEnsM</button>
             <button class="preset-pill-btn" data-preset="adm-tribunais-fgv">Administrativo & Tribunais • FGV</button>
@@ -42,6 +44,7 @@ export async function render(container) {
               <label style="font-weight:600;">Banca Examinadora</label>
               <div class="banca-chips-row" id="banca-chips">
                 <button type="button" class="banca-chip-btn active" data-banca="FGV">FGV</button>
+                <button type="button" class="banca-chip-btn" data-banca="CESGRANRIO">CESGRANRIO</button>
                 <button type="button" class="banca-chip-btn" data-banca="IBDO">IBDO</button>
                 <button type="button" class="banca-chip-btn" data-banca="DEnsM">DEnsM</button>
                 <button type="button" class="banca-chip-btn" data-banca="CEBRASPE">CEBRASPE</button>
@@ -58,8 +61,8 @@ export async function render(container) {
             <textarea id="edital-text" class="form-control" style="height: 120px; font-family:'Inter',sans-serif; font-size:0.85rem;" placeholder="Cole aqui o conteúdo programático do anexo de disciplinas..."></textarea>
           </div>
 
-          <button id="btn-analyze-edital" class="btn btn-primary" style="width:100%; margin-top:1rem; padding:0.9rem; background:var(--color-primary); font-size:1rem; font-weight:700; border:none; color:#fff;">
-            <span class="btn-text">Gerar Raio-X de Tendência da Banca</span>
+          <button id="btn-analyze-edital" class="btn btn-primary" style="width:100%; margin-top:1rem; padding:0.9rem; background:var(--color-primary); font-size:1rem; font-weight:700; border:none; color:#fff; cursor:pointer;">
+            <span class="btn-text">⚡ Gerar Raio-X de Tendência da Banca</span>
             <span class="btn-loading" style="display:none; color:#fff;">Cruzando edital com histórico de provas da banca...</span>
           </button>
         </div>
@@ -73,8 +76,7 @@ export async function render(container) {
       </div>
 
       <!-- Analysis Results View -->
-      <div id="edital-result" class="slide-up" style="display:none;"></div>
-
+      <div id="edital-result" class="slide-up" style="display:none; margin-top:1.5rem;"></div>
     </div>
   `;
 
@@ -83,6 +85,8 @@ export async function render(container) {
   if (activeExamId === 'ses_rj') defaultPreset = 'ses-rj-saude';
   else if (activeExamId === 'marinha_rm2') defaultPreset = 'marinha-rm2-pracas';
   else if (activeExamId === 'adm_tribunais') defaultPreset = 'adm-tribunais-fgv';
+  else if (activeExamId === 'bb_comercial') defaultPreset = 'bb-comercial-cesgranrio';
+  else if (activeExamId === 'bb_ti') defaultPreset = 'bb-ti-cesgranrio';
 
   currentSelectedPresetId = defaultPreset;
 

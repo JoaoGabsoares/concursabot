@@ -276,7 +276,12 @@ router.post('/upload', upload.array('pdfs', 50), async (req, res) => {
 // DELETE /documents/:id — Delete a document and its vector chunks
 router.delete('/documents/:id', (req, res) => {
   try {
-    db.prepare('DELETE FROM rag_documents WHERE id = ?').run(req.params.id);
+    const docId = parseInt(req.params.id, 10);
+    if (isNaN(docId) || docId <= 0) {
+      return res.status(400).json({ error: 'ID de documento inválido.' });
+    }
+    db.prepare('DELETE FROM rag_chunks WHERE document_id = ?').run(docId);
+    db.prepare('DELETE FROM rag_documents WHERE id = ?').run(docId);
     res.json({ success: true });
   } catch (error) {
     console.error('Erro ao deletar documento RAG:', error);

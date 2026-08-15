@@ -164,6 +164,77 @@ export const CAREERS_CATALOG = {
       { subject: 'Direito Administrativo', lessonNumber: 1, title: 'Regime Jurídico dos Servidores Públicos Civis (Lei 8.112/90)', keyTopics: 'Provimento, vacância, direitos, deveres, proibições e processo disciplinar (PAD)' },
       { subject: 'Direito Constitucional', lessonNumber: 1, title: 'Organização do Poder Judiciário (Arts. 92 a 126 da CF/88)', keyTopics: 'STF, CNJ, STJ, TRFs, TJs e garantias da magistratura' }
     ]
+  },
+
+  'bb_comercial': {
+    id: 'bb_comercial',
+    name: '🏦 Banco do Brasil (Agente Comercial • Cesgranrio)',
+    shortName: 'BB Comercial',
+    role: 'Escriturário / Agente Comercial',
+    totalQuestions: 70,
+    bancas: [
+      { id: 'CESGRANRIO', name: 'Fundação Cesgranrio (Banca Oficial BB)', default: true },
+      { id: 'FGV', name: 'FGV (Bancos Públicos)' },
+      { id: 'FCC', name: 'FCC (Fundação Carlos Chagas)' },
+      { id: 'CEBRASPE', name: 'CEBRASPE / CESPE' }
+    ],
+    subjects: [
+      { subject: 'Vendas e Negociação', wave: 1, questions: 15, percentage: '22.5%', description: 'Técnicas de Vendas, SPIN Selling, Gatilhos, Gestão de Objeções, CDC e Ouvidoria' },
+      { subject: 'Conhecimentos de Informática', wave: 1, questions: 15, percentage: '22.5%', description: 'Windows 10/11, Pacote Office/365, Redes, Navegadores, Nuvem e Segurança' },
+      { subject: 'Conhecimentos Bancários', wave: 1, questions: 10, percentage: '15.0%', description: 'Estrutura do SFN (CMN, BACEN, CVM), Produtos Bancários, PIX, Open Finance, Drex e Câmbio' },
+      { subject: 'Língua Portuguesa', wave: 1, questions: 10, percentage: '15.0%', description: 'Compreensão de Textos, Tipologia, Sintaxe, Regência, Crase e Pontuação Cesgranrio' },
+      { subject: 'Matemática Financeira', wave: 2, questions: 5, percentage: '7.5%', description: 'Juros Simples e Compostos, Taxas Equivalentes, Descontos, Sistemas SAC e Price' },
+      { subject: 'Matemática', wave: 2, questions: 5, percentage: '7.5%', description: 'Conjuntos, Funções, Razões/Proporções, Regra de Três, Porcentagem, Progressões e Matrizes' },
+      { subject: 'Atualidades do Mercado Financeiro', wave: 2, questions: 5, percentage: '5.0%', description: 'Fintechs, Startups, Bancos Digitais, Moedas Digitais, ESG e SPB' },
+      { subject: 'Língua Inglesa', wave: 2, questions: 5, percentage: '5.0%', description: 'Compreensão de Textos e Vocabulário de Negócios e Mercado Financeiro' }
+    ],
+    official_lessons: [
+      { subject: 'Conhecimentos Bancários', lessonNumber: 1, title: 'Estrutura do Sistema Financeiro Nacional (SFN) — Órgãos Normativos, Supervisores e Operadores', keyTopics: 'CMN, BACEN, CVM, SUSEP, PREVIC, Bancos Comerciais, Múltiplos e Cooperativas' },
+      { subject: 'Conhecimentos Bancários', lessonNumber: 2, title: 'Produtos e Serviços Bancários — Captação, Crédito, Investimentos e Garantias do FGC', keyTopics: 'Depósito à vista/prazo, CDB, RDB, LCI, LCA, Fundos, Cartões e FGC' },
+      { subject: 'Conhecimentos Bancários', lessonNumber: 3, title: 'Mercado de Câmbio, PIX, Open Finance, Moedas Digitais e Inovações Tecnológicas do BACEN', keyTopics: 'Operações de câmbio, taxas de câmbio, liquidação em tempo real, APIs e Drex' },
+      { subject: 'Conhecimentos Bancários', lessonNumber: 4, title: 'Prevenção à Lavagem de Dinheiro (Lei 9.613/98 e Circulares BACEN) e Sigilo Bancário (LC 105/01)', keyTopics: 'Fases da lavagem (Colocação, Ocultação, Integração), COAF e operações suspeitas' },
+      { subject: 'Vendas e Negociação', lessonNumber: 1, title: 'Técnicas de Vendas no Setor Bancário — Sondagem, SPIN Selling e Abordagem Consultiva', keyTopics: 'Identificação de necessidades, perguntas SPIN e proposta de valor' },
+      { subject: 'Vendas e Negociação', lessonNumber: 2, title: 'Manejo de Objeções, Fechamento de Vendas e Pós-Venda em Produtos Financeiros', keyTopics: 'Gatilhos mentais de reciprocidade/autoridade e técnicas de fechamento' },
+      { subject: 'Vendas e Negociação', lessonNumber: 3, title: 'Código de Defesa do Consumidor (Lei 8.078/90) e Resolução CMN de Ouvidoria Bancária', keyTopics: 'Direitos básicos do consumidor, publicidade enganosa e contratos de adesão' },
+      { subject: 'Conhecimentos de Informática', lessonNumber: 1, title: 'Segurança da Informação Bancária, Criptografia, Phishing, Malware e LGPD (Lei 13.709/18)', keyTopics: 'Engenharia social, autenticação multifator (MFA), princípios e bases legais' },
+      { subject: 'Matemática Financeira', lessonNumber: 1, title: 'Juros Compostos, Taxas Proporcionais/Equivalentes e Desconto Racional/Comercial', keyTopics: 'Montante composto, juros acumulados e taxa nominal vs efetiva' },
+      { subject: 'Matemática Financeira', lessonNumber: 2, title: 'Sistemas de Amortização de Empréstimos — Tabela Price e Sistema SAC', keyTopics: 'Parcelas constantes (Price), amortização constante (SAC) e saldo devedor' }
+    ]
+  },
+
+  'bb_ti': {
+    id: 'bb_ti',
+    name: '💻 Banco do Brasil (Agente de Tecnologia • TI • Cesgranrio)',
+    shortName: 'BB Tecnologia (TI)',
+    role: 'Escriturário / Agente de Tecnologia (TI)',
+    totalQuestions: 70,
+    bancas: [
+      { id: 'CESGRANRIO', name: 'Fundação Cesgranrio (Banca Oficial BB Tecnologia)', default: true },
+      { id: 'FGV', name: 'FGV (Tecnologia Bancária)' },
+      { id: 'CEBRASPE', name: 'CEBRASPE / CESPE' },
+      { id: 'FCC', name: 'FCC (Área de TI)' }
+    ],
+    subjects: [
+      { subject: 'Tecnologia da Informação', wave: 1, questions: 35, percentage: '52.5%', description: 'Bancos de Dados SQL/NoSQL, Python, Java, APIs REST, Microsserviços, DevOps, Docker, Segurança, Cloud e Machine Learning' },
+      { subject: 'Probabilidade e Estatística', wave: 1, questions: 5, percentage: '7.5%', description: 'Estatística Descritiva, Probabilidade, Teorema de Bayes, Distribuição Binomial e Normal' },
+      { subject: 'Conhecimentos Bancários', wave: 1, questions: 5, percentage: '7.5%', description: 'SFN, BACEN, PIX, Open Finance, Moedas Digitais e Lei de Prevenção à Lavagem de Dinheiro' },
+      { subject: 'Língua Portuguesa', wave: 1, questions: 10, percentage: '15.0%', description: 'Compreensão de Textos, Tipologia, Sintaxe, Regência, Crase e Pontuação Cesgranrio' },
+      { subject: 'Matemática', wave: 2, questions: 5, percentage: '7.5%', description: 'Funções, Matrizes, Análise Combinatória, Razão/Proporção e Sequências' },
+      { subject: 'Atualidades do Mercado Financeiro', wave: 2, questions: 5, percentage: '5.0%', description: 'Fintechs, Big Techs financeiras, ESG, Drex e SPB' },
+      { subject: 'Língua Inglesa', wave: 2, questions: 5, percentage: '5.0%', description: 'Interpretação de Textos Técnicos em Tecnologia, Arquitetura e Engenharia de Software' }
+    ],
+    official_lessons: [
+      { subject: 'Tecnologia da Informação', lessonNumber: 1, title: 'Bancos de Dados Relacionais — Modelagem E-R, Normalização e Linguagem SQL Avançada', keyTopics: 'DDL, DML, DQL (SELECT, JOINs, GROUP BY, HAVING, subqueries correlacionadas e índices)' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 2, title: 'Bancos de Dados Não Relacionais (NoSQL) — Modelos Documento, Chave-Valor, Família de Colunas e Grafos', keyTopics: 'MongoDB, Cassandra, Redis, Neo4j, Teorema CAP e consistência eventual' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 3, title: 'Linguagem Python para Análise de Dados e Engenharia — Sintaxe, List Comprehensions e Pandas/NumPy', keyTopics: 'Estruturas de dados, manipulação de DataFrames, Series, slicing e funções lambda' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 4, title: 'Linguagem Java e TypeScript — POO, Herança, Interfaces, Polimorfismo e Tratamento de Exceções', keyTopics: 'Generics, Collections Framework, Streams API e tipagem estática' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 5, title: 'Arquitetura de Software Moderna — Microsserviços, APIs RESTful, JSON e Mensageria', keyTopics: 'Princípios REST, status codes HTTP, Swagger/OpenAPI, Kafka e RabbitMQ' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 6, title: 'DevOps, Conteinerização e CI/CD — Docker, Kubernetes e Pipelines Automatizados', keyTopics: 'Dockerfile, imagens, contêineres, volumes, orquestração e Git/GitHub Actions' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 7, title: 'Segurança da Informação e Criptografia — OWASP Top 10, Criptografia Simétrica/Assimétrica e OAuth2', keyTopics: 'SQL Injection, XSS, CSRF, chaves públicas/privadas (RSA/AES) e tokens JWT' },
+      { subject: 'Tecnologia da Informação', lessonNumber: 8, title: 'Aprendizado de Máquina (Machine Learning) & Inteligência Artificial no Setor Bancário', keyTopics: 'Algoritmos supervisionados e métricas (Acurácia, Precisão, Recall, F1-Score, ROC-AUC)' },
+      { subject: 'Probabilidade e Estatística', lessonNumber: 1, title: 'Estatística Descritiva — Medidas de Posição Central e Medidas de Dispersão', keyTopics: 'Média aritmética, mediana, moda, variância, desvio-padrão e coeficiente de variação' },
+      { subject: 'Probabilidade e Estatística', lessonNumber: 2, title: 'Teoria das Probabilidades — Probabilidade Condicional, Teorema de Bayes e Distribuições', keyTopics: 'Eventos independentes, probabilidade condicional, distribuição Binomial e Normal' }
+    ]
   }
 };
 
@@ -205,6 +276,8 @@ export function getCareerSubjectGrouping(careerCfg) {
   const isAtrfb = careerCfg.id === 'atrfb';
   const isSesRj = careerCfg.id === 'ses_rj';
   const isRm2 = careerCfg.id === 'marinha_rm2';
+  const isBbComercial = careerCfg.id === 'bb_comercial';
+  const isBbTi = careerCfg.id === 'bb_ti';
 
   const wave1 = (careerCfg.subjects || []).filter(s => s.wave === 1);
   const wave2 = (careerCfg.subjects || []).filter(s => s.wave === 2);
@@ -240,12 +313,27 @@ export function getCareerSubjectGrouping(careerCfg) {
     toastText = `Selecionadas todas as disciplinas oficiais para ${careerCfg.name}`;
     optgroup1 = `Conteúdo Oficial DEnsM (${careerCfg.name})`;
     optgroup2 = ``;
+  } else if (isBbComercial) {
+    group1Title = `🔥 Conhecimentos Específicos & Peso Alto (${careerCfg.name} • ${wave1Questions} questões)`;
+    group2Title = `⏳ Conhecimentos Básicos & Complementares (${careerCfg.name} • ${wave2Questions} questões)`;
+    priorityButtonText = `⚡ Apenas Específicos (Vendas, Bancários, Informática)`;
+    toastText = `Selecionadas as 4 disciplinas de maior peso do Banco do Brasil Comercial`;
+    optgroup1 = `Específicos & Peso Alto (BB)`;
+    optgroup2 = `Básicos & Complementares (BB)`;
+  } else if (isBbTi) {
+    group1Title = `💻 Tecnologia da Informação & Estatística (${careerCfg.name} • ${wave1Questions} questões)`;
+    group2Title = `⏳ Conhecimentos Básicos & Gerais (${careerCfg.name} • ${wave2Questions} questões)`;
+    priorityButtonText = `⚡ Foco em TI & Estatística (Cesgranrio)`;
+    toastText = `Selecionadas as disciplinas técnicas de TI para o Banco do Brasil`;
+    optgroup1 = `TI & Estatística (BB TI)`;
+    optgroup2 = `Conhecimentos Gerais (BB TI)`;
   }
 
   let defaultExamDate = '2026-12-31';
   if (isSesRj) defaultExamDate = '2026-05-17';
   else if (isRm2) defaultExamDate = '2026-04-12';
   else if (isAtrfb) defaultExamDate = '2026-11-15';
+  else if (isBbComercial || isBbTi) defaultExamDate = '2026-09-20';
 
   return {
     wave1,

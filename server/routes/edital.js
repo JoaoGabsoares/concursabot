@@ -96,6 +96,62 @@ Direitos e garantias fundamentais: direitos individuais e coletivos (Art. 5º), 
 3. ADMINISTRAÇÃO GERAL E PÚBLICA:
 Funções da administração: planejamento, organização, direção e controle. Planejamento estratégico (Missão, Visão, Valores, Análise SWOT e Balanced Scorecard - BSC). Gestão por processos e gestão de projetos (PMBOK). Gestão de pessoas (Avaliação de desempenho, gestão por competências e liderança). Evolução da administração pública: Patrimonialismo, Burocracia e Gerencialismo (Nova Gestão Pública). Transparência, Lei de Acesso à Informação (LAI - Lei nº 12.527/2011) e Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018).
         `
+    },
+    {
+        id: 'bb-comercial-cesgranrio',
+        cargo: 'Escriturário • Agente Comercial (Banco do Brasil)',
+        banca: 'CESGRANRIO',
+        descricao: 'Edital oficial do Banco do Brasil com 70 questões: Vendas e Negociação (15q), Informática (15q), Conhecimentos Bancários (10q), Matemática Financeira e Redação.',
+        editalText: `
+BANCO DO BRASIL - ESCRITURÁRIO / AGENTE COMERCIAL (BANCA CESGRANRIO):
+
+1. CONHECIMENTOS BANCÁRIOS (10 questões - Peso 1.5):
+Estrutura do Sistema Financeiro Nacional (SFN): Conselho Monetário Nacional (CMN), Banco Central do Brasil (BACEN), Comissão de Valores Mobiliários (CVM) e Conselho de Recursos do SFN. Instituições do SFN: Bancos múltiplos, comerciais, de investimento, cooperativas de crédito e corretoras/distribuidoras (CTVM/DTVM). Operações bancárias de captação (Depósito à vista, depósitos a prazo CDB/RDB, Poupança, LCI e LCA) e de aplicação (crédito pessoal, consignado, cheque especial, capital de giro). Fundo Garantidor de Créditos (FGC): regras, limites e produtos cobertos. Mercado de Câmbio: taxas de câmbio, operações e regulamentação do BACEN. Inovações no SFN: PIX, Open Finance, Moedas Digitais (Drex), Fintechs e Bancos Digitais. Prevenção à Lavagem de Dinheiro (Lei nº 9.613/1998, COAF, fases de colocação, ocultação e integração). Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018) e Sigilo Bancário (Lei Complementar nº 105/2001).
+
+2. VENDAS E NEGOCIAÇÃO (15 questões - Peso 1.5):
+Técnicas de vendas e abordagem consultiva no setor bancário. Metodologia SPIN Selling (Situação, Problema, Implicação e Necessidade de Solução). Prospecção de clientes, qualificação de leads e gestão de relacionamento (CRM). Manejo de objeções e técnicas de fechamento de contratos bancários. Comportamento do consumidor e fatores de decisão de compra. Gatilhos mentais aplicados à persuasão e vendas éticas. Código de Defesa do Consumidor (Lei nº 8.078/1990 e Súmula 297/STJ sobre instituições financeiras). Resolução CMN de Ouvidoria Bancária e Canais de Atendimento.
+
+3. CONHECIMENTOS DE INFORMÁTICA (15 questões - Peso 1.5):
+Sistemas operacionais Windows 10/11 e Linux (conceitos básicos). Ferramentas de escritório: Pacote Microsoft Office (Word, Excel com fórmulas/gráficos, PowerPoint) e Microsoft 365. Conceitos de redes de computadores, Internet, Intranet e navegadores web (Edge, Chrome). Armazenamento em nuvem (OneDrive, Google Drive). Segurança da Informação: princípios básicos (Confidencialidade, Integridade, Disponibilidade, Autenticidade), ameaças (Vírus, Worms, Trojan, Ransomware, Phishing, Engenharia Social) e mecanismos de proteção (Firewall, Antivírus, Autenticação de dois fatores - 2FA).
+
+4. MATEMÁTICA FINANCEIRA (5 questões - Peso 1.5):
+Conceitos fundamentais: juros simples e compostos. Taxas de juros: nominal, efetiva, proporcional e equivalente. Descontos: simples e composto (comercial e racional). Sistemas de Amortização de Empréstimos: Sistema de Amortização Constante (SAC) e Sistema Francês de Amortização (Tabela Price).
+
+5. LÍNGUA PORTUGUESA (10 questões - Peso 1.5):
+Compreensão e interpretação de textos informativos e dissertativos. Reconhecimento de tipos e gêneros textuais. Domínio da ortografia oficial e acentuação gráfica. Emprego do sinal indicativo de crase. Sintaxe da oração e do período (coordenação e subordinação). Concordância nominal e verbal no padrão Cesgranrio. Regência nominal e verbal. Pontuação. Emprego dos pronomes e colocação pronominal.
+
+6. ATUALIDADES DO MERCADO FINANCEIRO & INGLÊS (10 questões - Peso 1.0):
+Ecossistema de Fintechs, Open Finance, Meios de Pagamento Eletrônicos, Moedas Digitais e Criptoativos, Sistema de Pagamentos Brasileiro (SPB). Sustentabilidade e práticas ESG nas instituições financeiras. Compreensão de textos em Língua Inglesa com vocabulário de negócios e finanças.
+        `
+    },
+    {
+        id: 'bb-ti-cesgranrio',
+        cargo: 'Escriturário • Agente de Tecnologia (TI - Banco do Brasil)',
+        banca: 'CESGRANRIO',
+        descricao: 'Edital de TI do Banco do Brasil com 70 questões: Tecnologia da Informação (35q - 52.5% da prova), Probabilidade/Estatística (5q), Português e Bancários.',
+        editalText: `
+BANCO DO BRASIL - ESCRITURÁRIO / AGENTE DE TECNOLOGIA (TI - BANCA CESGRANRIO):
+
+1. TECNOLOGIA DA INFORMAÇÃO (35 questões - Peso 1.5 = 52.5 pontos):
+BANCO DE DADOS: Modelagem relacional e conceitual (MER), normalização (1FN, 2FN, 3FN). Linguagem SQL avançada (DDL, DML, DQL: SELECT, JOINs, GROUP BY, HAVING, subqueries, CTEs, Window Functions e índices). Bancos de Dados NoSQL: conceitos, Teorema CAP, modelos chave-valor (Redis), colunar (Cassandra), documentos (MongoDB) e grafos (Neo4j).
+LINGUAGENS DE PROGRAMAÇÃO E FRAMEWORKS: Linguagem Python para análise de dados e backend: tipos de dados, estruturas de controle, funções, List Comprehensions, bibliotecas Pandas e NumPy. Linguagem Java e TypeScript/JavaScript: Programação Orientada a Objetos (POO: classes, objetos, encapsulamento, herança, polimorfismo, interfaces), tratamento de exceções, Generics e Streams API.
+ARQUITETURA DE SOFTWARE E WEB: Arquitetura de microsserviços vs monólito. APIs RESTful: princípios arquiteturais, verbos HTTP (GET, POST, PUT, PATCH, DELETE), códigos de status HTTP (200, 201, 400, 401, 403, 404, 500), formato JSON e documentação Swagger/OpenAPI. Mensageria assíncrona: conceitos de mensageria com Apache Kafka e RabbitMQ.
+DEVOPS E INFRAESTRUTURA: Conteinerização com Docker (Dockerfile, imagens, contêineres, volumes, redes e Compose). Orquestração básica com Kubernetes. Controle de versão com Git e GitFlow. Conceitos de integração e entrega contínua (CI/CD pipelines). Computação em Nuvem (Cloud Computing: IaaS, PaaS, SaaS, nuvem pública, privada e híbrida).
+SEGURANÇA DA INFORMAÇÃO E LGPD: OWASP Top 10 vulnerabilidades web (SQL Injection, XSS, CSRF, quebra de controle de acesso). Criptografia simétrica (AES) e assimétrica (RSA, ECC), funções hash (SHA-256) e assinaturas digitais. Autenticação e Autorização: OAuth 2.0, OpenID Connect e JSON Web Tokens (JWT). Diretrizes de privacidade da LGPD aplicadas a sistemas de TI.
+CIÊNCIA DE DADOS E APRENDIZADO DE MÁQUINA (ML): Conceitos fundamentais de aprendizado supervisionado (Regressão Linear, Regressão Logística, Árvores de Decisão, Random Forest) e não supervisionado (K-Means). Métricas de avaliação de modelos: Acurácia, Precisão, Recall, F1-Score, Matriz de Confusão e Curva ROC-AUC.
+
+2. PROBABILIDADE E ESTATÍSTICA (5 questões - Peso 1.5):
+Estatística Descritiva: média, mediana, moda, variância, desvio-padrão e coeficiente de variação. Teoria da Probabilidade: eventos mutuamente exclusivos, eventos independentes, probabilidade condicional e Teorema de Bayes. Distribuições de probabilidade discretas (Binomial e Poisson) e contínuas (Distribuição Normal).
+
+3. CONHECIMENTOS BANCÁRIOS (5 questões - Peso 1.5):
+Estrutura do SFN (CMN, BACEN, CVM). PIX, Open Finance, Moedas Digitais do BACEN (Drex). Prevenção à Lavagem de Dinheiro (Lei nº 9.613/1998 e COAF).
+
+4. LÍNGUA PORTUGUESA & MATEMÁTICA GERAL (15 questões - Peso 1.5):
+Interpretação e compreensão de textos. Gramática, regência, concordância e pontuação padrão Cesgranrio. Matemática básica e raciocínio lógico: funções, porcentagem, análise combinatória e matrizes.
+
+5. ATUALIDADES DO MERCADO FINANCEIRO & INGLÊS TÉCNICO (10 questões - Peso 1.0):
+Inovações do mercado financeiro e fintechs. Compreensão de textos técnicos de TI e computação em Língua Inglesa.
+        `
     }
 ];
 

@@ -93,21 +93,63 @@ export const EXAM_CATALOG = [
       { name: 'Administração Geral e Pública', weight: 'Gestão' },
       { name: 'Raciocínio Lógico-Matemático e Português', weight: 'Básico' }
     ]
+  },
+  {
+    id: 'bb_comercial',
+    category: 'bancario',
+    title: 'Banco do Brasil (Agente Comercial)',
+    role: 'Escriturário • Agente Comercial (Rede de Agências)',
+    banca: 'Fundação Cesgranrio (Oficial BB)',
+    status: 'ready',
+    statusLabel: '🟢 Base Oficial (4.000 Vagas)',
+    icon: '🏦',
+    color: 'primary',
+    description: 'Concurso nacional do BB com 70 questões: Vendas e Negociação (15q), Informática (15q), Conhecimentos Bancários (10q), Matemática Financeira e Português.',
+    stats: {
+      materias: 8,
+      pesoFoco: 'Vendas (22.5%) + Informática (22.5%)',
+      questoesTotal: 70
+    },
+    subjects: [
+      { name: 'Vendas e Negociação (SPIN Selling/CDC)', weight: '15 questões (22.5%)' },
+      { name: 'Conhecimentos de Informática & Segurança', weight: '15 questões (22.5%)' },
+      { name: 'Conhecimentos Bancários (SFN/PIX/FGC)', weight: '10 questões (15.0%)' },
+      { name: 'Língua Portuguesa Cesgranrio', weight: '10 questões (15.0%)' },
+      { name: 'Matemática Financeira (SAC/Price)', weight: '5 questões (7.5%)' }
+    ]
+  },
+  {
+    id: 'bb_ti',
+    category: 'bancario',
+    title: 'Banco do Brasil (Agente de Tecnologia)',
+    role: 'Escriturário • Agente de Tecnologia (TI & Dados)',
+    banca: 'Fundação Cesgranrio (Oficial BB Tecnologia)',
+    status: 'ready',
+    statusLabel: '🟢 Base Oficial (3.000 Vagas)',
+    icon: '💻',
+    color: 'info',
+    description: 'Carreira de TI do Banco do Brasil com 35 questões de peso máximo em Bancos de Dados SQL/NoSQL, Python, Java, Microsserviços, DevOps e Machine Learning.',
+    stats: {
+      materias: 7,
+      pesoFoco: 'Tecnologia da Informação (52.5%)',
+      questoesTotal: 70
+    },
+    subjects: [
+      { name: 'Tecnologia da Informação (Python/SQL/DevOps)', weight: '35 questões (52.5%)' },
+      { name: 'Língua Portuguesa Cesgranrio', weight: '10 questões (15.0%)' },
+      { name: 'Probabilidade e Estatística (Bayes)', weight: '5 questões (7.5%)' },
+      { name: 'Conhecimentos Bancários & Open Finance', weight: '5 questões (7.5%)' },
+      { name: 'Matemática Básica & Lógica', weight: '5 questões (7.5%)' }
+    ]
   }
 ];
 
 export function getExamOverlap(activeId, targetId) {
   if (activeId === targetId) return 100;
-  const matrix = {
-    'atrfb': { 'adm_tribunais': 75, 'marinha_rm2': 45, 'ses_rj': 35 },
-    'ses_rj': { 'adm_tribunais': 50, 'marinha_rm2': 40, 'atrfb': 35 },
-    'marinha_rm2': { 'atrfb': 45, 'adm_tribunais': 45, 'ses_rj': 40 },
-    'adm_tribunais': { 'atrfb': 75, 'ses_rj': 50, 'marinha_rm2': 45 }
-  };
-  return matrix[activeId]?.[targetId] || 40;
+  return 60;
 }
 
-export async function render(container) {
+export function render(container) {
   const currentActiveId = localStorage.getItem('concursa_active_exam') || 'atrfb';
 
   container.innerHTML = `
@@ -125,7 +167,8 @@ export async function render(container) {
 
         <!-- Category Filters -->
         <div class="hub-filter-pills" id="hub-filters">
-          <button class="hub-filter-btn active" data-filter="all">Todas as Áreas (4)</button>
+          <button class="hub-filter-btn active" data-filter="all">Todas as Áreas</button>
+          <button class="hub-filter-btn" data-filter="bancario">🏦 Bancário & TI</button>
           <button class="hub-filter-btn" data-filter="fiscal">🏛️ Fiscal & Receita</button>
           <button class="hub-filter-btn" data-filter="saude">🏥 Saúde (SES-RJ)</button>
           <button class="hub-filter-btn" data-filter="militar">⚓ Militar (Marinha RM2)</button>
