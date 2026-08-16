@@ -1,6 +1,7 @@
-# Dependências
+# Dependências & Build
 node_modules/
 package-lock.json
+dist/
 
 # Variáveis de Ambiente & Segredos (NUNCA SUBIR AO GITHUB)
 .env

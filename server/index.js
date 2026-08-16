@@ -87,7 +87,15 @@ app.use(cors({
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 
-// Serve static files from 'public' directory with cache headers
+// Serve static files from 'dist' (React 19 build) if exists, fallback to 'public'
+const distDir = path.join(__dirname, '../dist');
+if (fs.existsSync(distDir)) {
+    app.use(express.static(distDir, {
+        maxAge: process.env.NODE_ENV === 'production' ? '7d' : 0,
+        etag: true,
+        lastModified: true
+    }));
+}
 app.use(express.static(path.join(__dirname, '../public'), {
     maxAge: process.env.NODE_ENV === 'production' ? '7d' : 0,
     etag: true,
@@ -218,6 +226,23 @@ app.use('/api/study-reset', resetRoutes);
 app.use('/api/gamification', gamificationRoutes);
 app.use('/api/caderno-erros', cadernoErrosRoutes);
 app.use('/api/redacao', aiRateLimiter, redacaoRoutes);
+
+// SPA Client Routing Catch-All (React 19 / Vite)
+app.get('*', (req, res, next) => {
+    if (req.path.startsWith('/api') || req.path.startsWith('/uploads')) {
+        return next();
+    }
+    // Block traversal and OS probe attempts from resolving to SPA
+    const normalized = req.path.toLowerCase();
+    if (normalized.includes('..') || normalized.includes('%2e') || normalized.startsWith('/etc') || normalized.startsWith('/proc') || normalized.includes('.env') || normalized.includes('.git')) {
+        return res.status(404).json({ error: 'Recurso não encontrado.' });
+    }
+    const distIndex = path.join(__dirname, '../dist/index.html');
+    if (fs.existsSync(distIndex)) {
+        return res.sendFile(distIndex);
+    }
+    res.sendFile(path.join(__dirname, '../public/index.html'));
+});
 
 // Basic error handler
 app.use((err, req, res, next) => {
