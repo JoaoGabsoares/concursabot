@@ -55,21 +55,21 @@ router.post('/register', (req, res) => {
   try {
     const { username, password, email } = req.body;
 
-    if (!username || typeof username !== 'string' || username.trim().length < 3) {
-      return res.status(400).json({ error: 'O nome de usuário deve ter pelo menos 3 caracteres.' });
+    if (!username || typeof username !== 'string' || username.trim().length < 2) {
+      return res.status(400).json({ error: 'O nome de usuário deve ter pelo menos 2 caracteres.' });
     }
 
     const cleanUsername = username.trim().toLowerCase();
-    if (!/^[a-z0-9_.-]+$/.test(cleanUsername)) {
-      return res.status(400).json({ error: 'O nome de usuário deve conter apenas letras, números, ponto ou underline.' });
+    if (!/^[\p{L}\p{N}_.\-\s]+$/u.test(cleanUsername)) {
+      return res.status(400).json({ error: 'O nome de usuário deve conter apenas letras, números, espaço, ponto ou traço.' });
     }
 
-    if (!password || typeof password !== 'string' || password.length < 4) {
-      return res.status(400).json({ error: 'A senha deve ter no mínimo 4 caracteres.' });
+    if (!password || typeof password !== 'string' || password.length < 3) {
+      return res.status(400).json({ error: 'A senha deve ter no mínimo 3 caracteres.' });
     }
 
     // Check if account already exists
-    const existing = db.prepare('SELECT id FROM accounts WHERE username = ?').get(cleanUsername);
+    const existing = db.prepare('SELECT id FROM accounts WHERE LOWER(username) = ?').get(cleanUsername);
     if (existing) {
       return res.status(409).json({ error: 'Este nome de usuário já está em uso. Escolha outro ou faça login.' });
     }
@@ -121,7 +121,7 @@ router.post('/login', (req, res) => {
 
     const cleanUsername = username.trim().toLowerCase();
     const account = db.prepare(`
-      SELECT * FROM accounts WHERE username = ? OR email = ?
+      SELECT * FROM accounts WHERE LOWER(username) = ? OR LOWER(email) = ?
     `).get(cleanUsername, cleanUsername);
 
     if (!account) {
