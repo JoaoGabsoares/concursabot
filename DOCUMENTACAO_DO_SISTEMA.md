@@ -1,70 +1,70 @@
-# 🎯 Gabarito.AI — Documentação Completa da Arquitetura, Funcionalidades e Decisões de Projeto (v2.5 Pro)
+# 🎯 Gabarito.AI — Documentação Completa da Arquitetura, Engenharia e Decisões de Projeto (v3.0 Ultra)
 
-> **Visão Geral**: O **Gabarito.AI** é uma plataforma e ecossistema inteligente de alta performance desenvolvido sob medida para preparação de concursos públicos de elite com suporte multi-carreira:
-> 1. **Banco do Brasil (BB 2026)** — Agente Comercial e Agente de Tecnologia • Banca Fundação Cesgranrio
-> 2. **Receita Federal do Brasil (RFB)** — Analista-Tributário (ATRFB) e Auditor-Fiscal (AFRFB) • Banca FGV
+> **Visão Geral**: O **Gabarito.AI** é um ecossistema inteligente de alta performance desenvolvido sob medida para preparação de concursos públicos de elite, com suporte multi-carreira:
+> 1. **Receita Federal do Brasil (RFB)** — Analista-Tributário (ATRFB) e Auditor-Fiscal (AFRFB) • Banca FGV
+> 2. **Banco do Brasil (BB 2026)** — Agente Comercial e Agente de Tecnologia (TI) • Banca Fundação Cesgranrio
 > 3. **Saúde RJ (SES-RJ / IASERJ 2026)** — Técnico de Enfermagem e Assistente Administrativo • Banca Instituto IBDO
 > 4. **Marinha do Brasil (SMV RM2 Praças)** — Formação Militar-Naval e Língua Portuguesa • Banca DEnsM
-> 5. **Carreiras Customizadas / Tribunais** — Adaptável a qualquer certame ou banca examinadora.
+> 5. **Carreiras Customizadas / Tribunais** — Adaptável a qualquer certame ou banca examinadora (Cebraspe, FCC, etc.).
 >
-> O projeto integra leitura de apostilas originais em PDF com Caderno Enxuto, análise preditiva de bancas examinadoras (Pareto 80/20), repetição espaçada automática (D+1, D+7, D+30), Caderno de Erros inteligente, Corretor de Redação por IA, Cronograma Adaptativo, gamificação e suporte a PWA offline.
+> O sistema integra leitura de apostilas em PDF com **RAG 2.0 e Caderno Enxuto**, análise preditiva de bancas examinadoras (**Princípio de Pareto 80/20** e cortes históricos), repetição espaçada automática (**Algoritmo SM-2: D+1, D+7, D+30**), **Caderno de Erros com superação (+15 XP)**, **Corretor Discursivo de Redação por IA**, gamificação orientada a patentes de concurseiro e suporte PWA.
 
 ---
 
 ## 📑 Sumário
 
 1. [Princípios & Diretrizes do Projeto](#1-princípios--diretrizes-do-projeto)
-2. [Stack Tecnológica & Arquitetura](#2-stack-tecnológica--arquitetura)
-3. [Módulos do Sistema & Funcionalidades Operacionais](#3-módulos-do-sistema--funcionalidades-operacionais)
-   - [3.0. 🎴 Hub Multicarreiras com Isolamento Estrito (#hub)](#30--hub-multicarreiras-com-isolamento-estrito-hub)
-   - [3.1. ⚡ Hoje • Painel de Ação & Pauta Semanal com IA (#dashboard)](#31--hoje--painel-de-ação--pauta-semanal-com-ia-dashboard)
-   - [3.2. 📖 Biblioteca & Sala de Estudos com "Caderno Enxuto" (#study-room)](#32--biblioteca--sala-de-estudos-com-caderno-enxuto-study-room)
-   - [3.3. 🎯 Treino: Simulados Oficiais, Banco de Questões e Caderno de Erros](#33--treino-simulados-oficiais-banco-de-questões-e-caderno-de-erros)
-   - [3.4. 🧠 Repetição Espaçada & Curva do Esquecimento (D+1, D+7, D+30)](#34--repetição-espaçada--curva-do-esquecimento-d1-d7-d30)
-   - [3.5. 📊 Inteligência: Raio-X de Edital, Cronograma IA e Tutor Socrático](#35--inteligência-raio-x-de-edital-cronograma-ia-e-tutor-socrático)
-   - [3.6. ⚙️ Central de Configurações Unificadas (#settings)](#36--central-de-configurações-unificadas-settings)
-   - [3.7. 🏆 Gamificação, Conquistas e Níveis de XP](#37--gamificação-conquistas-e-níveis-de-xp)
-4. [🤖 Motor de Inteligência Artificial: Google Gemini 3.7 Flash & Fallback](#4--motor-de-inteligência-artificial-google-gemini-37-flash--fallback)
-5. [🎨 Design System, Temas (Claro/Escuro) & Microinterações](#5--design-system-temas-claroescuro--microinterações)
-6. [💾 Banco de Dados SQLite, Schemas & Migrations](#6--banco-de-dados-sqlite-schemas--migrations)
-7. [🔒 Segurança, Multi-usuário & Autenticação por PIN de Convite](#7--segurança-multi-usuário--autenticação-por-pin-de-convite)
-8. [🌐 Estratégia de Deploy Web Gratuito & PWA Offline](#8--estratégia-de-deploy-web-gratuito--pwa-offline)
+2. [Stack Tecnológica & Diagrama de Arquitetura](#2-stack-tecnológica--diagrama-de-arquitetura)
+3. [Módulos do Frontend React 19 & Funcionalidades](#3-módulos-do-frontend-react-19--funcionalidades)
+   - [3.1. ⚡ Dashboard Mission-Driven (`features/dashboard/DashboardPage.tsx`)](#31--dashboard-mission-driven)
+   - [3.2. 📖 Sala de Estudos RAG 2.0 & Upload (`features/study-room/StudyRoomPage.tsx`)](#32--sala-de-estudos-rag-20--upload)
+   - [3.3. 🎯 Simulados Oficiais Cronometrados (`features/simulados/SimuladosPage.tsx`)](#33--simulados-oficiais-cronometrados)
+   - [3.4. 📕 Caderno de Erros com Re-teste (+15 XP) (`features/error-notebook/ErrorNotebookPage.tsx`)](#34--caderno-de-erros-com-re-teste-15-xp)
+   - [3.5. 🧠 Flashcards com Algoritmo SM-2 (`features/flashcards/FlashcardsPage.tsx`)](#35--flashcards-com-algoritmo-sm-2)
+   - [3.6. ✍️ Corretor de Redação Discursiva por IA (`features/redacao/RedacaoPage.tsx`)](#36--corretor-de-redação-discursiva-por-ia)
+   - [3.7. 📊 Raio-X do Edital & Pareto 80/20 (`features/edital/EditalPage.tsx`)](#37--raio-x-do-edital--pareto-8020)
+   - [3.8. ⚙️ Central de Configurações, Guia & Sobre (`features/settings/SettingsPage.tsx`)](#38--central-de-configurações-guia--sobre)
+4. [🤖 Motor de Inteligência Artificial: Google Gemini & Fallback Resiliente](#4--motor-de-inteligência-artificial-google-gemini--fallback-resiliente)
+5. [🎨 Design System "Institutional Editorial & Surgical Minimalism"](#5--design-system-institutional-editorial--surgical-minimalism)
+6. [💾 Banco de Dados SQLite Nativo (`node:sqlite`) & Schemas](#6--banco-de-dados-sqlite-nativo-nodesqlite--schemas)
+7. [🔒 Blindagem de Segurança 360° & Pentest](#7--blindagem-de-segurança-360--pentest)
+8. [🧪 Suítes de Testes Automatizados (117 Provas Aprovadas)](#8--suítes-de-testes-automatizados-117-provas-aprovadas)
 
 ---
 
 ## 1. Princípios & Diretrizes do Projeto
 
-- **Privacidade & Custo Zero de Assinatura**: O sistema pode ser executado 100% no computador do usuário ou na nuvem gratuita, armazenando histórico e materiais no banco de dados local SQLite sem mensalidades.
-- **Fidelidade ao Material Original & Caderno Enxuto**: Em vez de depender apenas de resumos genéricos, o estudante estuda com a **apostila oficial** lado a lado com o **Caderno Enxuto gerado por IA**, sintetizando leis secas, súmulas e jurisprudência.
+- **Privacidade & Custo Zero de Assinatura**: Executado 100% no computador do usuário ou na nuvem gratuita, armazenando histórico e materiais no banco de dados local SQLite sem custos de terceiros.
+- **Fidelidade ao Material Original & RAG 2.0**: O estudante tem acesso à doutrina e legislação esquematizada com mnemônicos e fixação imediata, além de poder subir seus próprios PDFs de cursinho com extração local inteligente.
 - **Foco Implacável nas Bancas Reais**:
-  - **FGV**: Casos práticos longos, enunciados densos e interdisciplinaridade.
+  - **FGV**: Casos práticos longos, enunciados densos e pegadinhas em Direito Tributário, Administrativo e Constitucional.
+  - **Cesgranrio**: Foco em Conhecimentos Bancários, PIX, TI e resolução rápida.
   - **Instituto IBDO**: Letra de lei rigorosa (SUS, Leis 8.080 e 8.142), prazos e protocolos assistenciais.
   - **DEnsM (Marinha)**: Tradições navais, cerimonial, RDM e Estatuto dos Militares (Lei 6.880/80).
-- **Gamificação com Propósito**: Ganho de XP e desbloqueio de troféus reais ao resolver questões inéditas e bater metas diárias.
-- **Prevenção Ativa do Esquecimento**: As revisões D+1, D+7 e D+30 são geradas automaticamente na pauta diária para evitar a perda do conteúdo já estudado.
+- **Gamificação com Propósito**: Patentes oficiais de concurseiro (Aspirante &rarr; Focado &rarr; Competitivo &rarr; Especialista &rarr; Elite dos Aprovados) com ganho de XP e bônus de superação.
+- **Prevenção Ativa do Esquecimento**: As revisões D+1, D+7 e D+30 são geradas pelo algoritmo SM-2 para evitar a perda do conteúdo memorizado.
 
 ---
 
-## 2. Stack Tecnológica & Arquitetura
+## 2. Stack Tecnológica & Diagrama de Arquitetura
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                      FRONTEND WEB SPA (REACT 19 + VITE)                 │
-│  - React 19 + TypeScript + Vite 8 (Code-Splitting por Domínio)          │
-│  - Design System "Surgical Minimalism" (Dark Void & Papel Linho)        │
+│                    FRONTEND WEB SPA (REACT 19 + VITE 8)                 │
+│  - React 19 + TypeScript + Tailwind CSS v4 (Code-Splitting por Domínio) │
+│  - Design System "Institutional Editorial" (Dark Void & Papel Linho)    │
 │  - Google Fonts: Fraunces (Serif), Inter (Sans) & JetBrains Mono (Data) │
-│  - Navegação Mobile First com Bottom Navigation Bar & Bottom Sheets     │
+│  - Navegação Mobile-First com Bottom Nav Bar e Touch Targets >= 44px    │
 │  - PWA: Service Worker para cache e uso offline completo                │
 └────────────────────────────────────┬────────────────────────────────────┘
                                      │ HTTP / REST APIs (JSON)
 ┌────────────────────────────────────▼────────────────────────────────────┐
-│                        NODE.JS BACKEND (v22 LTS)                        │
-│  - Express.js com ESM & Arquitetura de Rotas Modulares                  │
+│                        NODE.JS BACKEND (v22 / v24 LTS)                  │
+│  - Express.js ESM com Arquitetura de Rotas Modulares                    │
 │  - node:sqlite oficial (DatabaseSync, Zero Compilação C++)              │
-│  - Google Gemini API (gemini-3.5-flash-lite com fallback em cadeia)     │
+│  - Google GenAI SDK (gemini-3.5-flash-lite com fallback resiliente)     │
 │  - Blindagem 360° contra Pentest, OWASP Top 10 e Prompt Injection       │
-│  - Exportação .ICS nativa (Google Agenda / Apple Calendar)              │
-│  - Multer com contenção estrita de caminho de uploads                   │
+│  - Multer com sanitização estrita e extração assíncrona pdf-parse       │
 └────────────────────────────────────┬────────────────────────────────────┘
                                      │ SQL Queries
 ┌────────────────────────────────────▼────────────────────────────────────┐
@@ -75,98 +75,119 @@
 
 ---
 
-## 3. Módulos do Sistema & Funcionalidades Operacionais
+## 3. Módulos do Frontend React 19 & Funcionalidades
 
-### 3.0. 🎴 Hub Multicarreiras com Isolamento Estrito (`#hub`)
-* Permite alternar instantaneamente entre **Receita Federal**, **SES-RJ Saúde 2026**, **Marinha RM2 Praças** e **Concurso Personalizado**.
-* **Isolamento 100% Garantido**: Ao trocar de concurso, o catálogo de apostilas, o banco de questões, os simulados e o cronograma filtram estritamente as disciplinas pertinentes ao objetivo ativo, sem vazamento de dados de outras carreiras.
+### 3.1. ⚡ Dashboard Mission-Driven
+- **Localização:** `src/features/dashboard/DashboardPage.tsx`
+- **Funcionalidades:**
+  - **Missão do Dia Dinâmica:** Derivada estritamente da matéria prioritária do concurso ativo (ex: *Direito Tributário* na Receita Federal, *Conhecimentos Bancários* no BB).
+  - **Patente do Concurseiro:** Visualização do rank atual, XP acumulado e barra de progresso até o próximo nível.
+  - **Chama da Consistência (Streak):** Registro dos dias consecutivos de estudo.
+  - **Radar de Disciplinas:** Percentuais de domínio por matéria e carimbo de status (*DOMINADO*, *EM ESTUDO*, *VULNERÁVEL*).
 
-### 3.1. ⚡ Hoje • Painel de Ação & Pauta Semanal com IA (`#dashboard`)
-* **Pauta do Dia Orientada por IA**: Carrega os blocos de estudo calculados para o dia da semana atual com checkboxes interativos que concedem **+25 XP** e feedback sonoro imediato.
-* **Métricas em Tempo Real**: Total de questões resolvidas, taxa de assertividade percentual, cards pendentes de revisão e simulados concluídos com animações fluidas.
-* **Radar de Disciplinas**: Exibe o progresso de cobertura das matérias com pesos oficiais da banca.
+### 3.2. 📖 Sala de Estudos RAG 2.0 & Upload
+- **Localização:** `src/features/study-room/StudyRoomPage.tsx`
+- **Funcionalidades:**
+  - Barra de seleção horizontal de disciplinas com troca instantânea de conteúdo.
+  - Teoria esquematizada, tendências da banca, mnemônicos estruturados e fixação ativa com 1 clique.
+  - Botão `[ + Subir PDF da Aula ]` com modal de envio de apostilas, extração via `pdf-parse` e fallback local de IA.
+  - Isolamento estrito: só exibe arquivos PDF enviados pelo próprio usuário para o concurso ativo.
 
-### 3.2. 📖 Biblioteca & Sala de Estudos com "Caderno Enxuto" (`#study-room`)
-* Leitura em tela dividida (*split-screen*): Apostila original em PDF à esquerda e o **Caderno Enxuto** da IA à direita.
-* O Caderno Enxuto extrai automaticamente os artigos de lei mais cobrados, prazos fatais, mnemônicos e pegadinhas de prova.
+### 3.3. 🎯 Simulados Oficiais Cronometrados
+- **Localização:** `src/features/simulados/SimuladosPage.tsx`
+- **Funcionalidades:**
+  - Provas oficiais cronometradas por carreira com gabarito dinâmico.
+  - Mapa de respostas, temporizador regressivo e cálculo de pontuação com nota de corte.
 
-### 3.3. 🎯 Treino: Simulados Oficiais, Banco de Questões e Caderno de Erros
-* **Simulados Oficiais (`#simulados`)**: Modo de prova cronometrado com pontuação real, gabarito detalhado comentado por IA e geração de relatórios de desempenho.
-* **Banco de Questões Inéditas (`#questions`)**: Fixação contínua de matérias com resolução socrática e explicações passo a passo.
-* **Caderno de Erros Inteligente (`#error-notebook`)**: Isola automaticamente todas as questões erradas pelo estudante nos simulados para re-treino focado até a fixação definitiva.
-* **Flashcards com Repetição Espaçada (`#flashcards`)**: Memorização de prazos, conceitos e exceções de lei.
+### 3.4. 📕 Caderno de Erros com Re-teste (+15 XP)
+- **Localização:** `src/features/error-notebook/ErrorNotebookPage.tsx`
+- **Funcionalidades:**
+  - Captura automática de cada erro cometido em simulados ou salas de estudo.
+  - Re-tentativa imediata com validação de gabarito e atribuição de **+15 XP de bônus de superação**.
+  - Campo para anotações pessoais de pegadinhas de banca.
 
-### 3.4. 🧠 Repetição Espaçada & Curva do Esquecimento (D+1, D+7, D+30)
-* O motor de repetição calcula as datas exatas de revisão para cada aula concluída, alimentando a pauta diária e prevenindo a perda de memória a longo prazo.
+### 3.5. 🧠 Flashcards com Algoritmo SM-2
+- **Localização:** `src/features/flashcards/FlashcardsPage.tsx`
+- **Funcionalidades:**
+  - Baralhos categorizados por disciplina do edital.
+  - Efeito 3D flip card e algoritmo SuperMemo-2 (SM-2) para agendamento de repetição espaçada.
 
-### 3.5. 📊 Inteligência: Raio-X de Edital, Cronograma IA e Tutor Socrático
-* **Raio-X de Edital (`#edital`)**: Análise preditiva dos últimos 5 concursos da banca, mapeando o que *Sempre Cai*, o que *Às Vezes Cai* e os *Tópicos Inéditos*.
-* **Cronograma Semanal IA (`#schedule`)**: Gerador dinâmico com Gemini 3.7 Flash que calcula a divisão de horas e matérias com botão de exportação universal **`.ICS`**.
-* **Tutor IA 24/7 (`#tutor`)**: Assistente socrático que responde dúvidas conceituais, jurisprudência e casos práticos da banca.
+### 3.6. ✍️ Corretor de Redação Discursiva por IA
+- **Localização:** `src/features/redacao/RedacaoPage.tsx`
+- **Funcionalidades:**
+  - Temas oficiais de redação por banca e carreira.
+  - Contador de palavras em tempo real e avaliação detalhada em 4 critérios de banca (*Tema, Estrutura, Norma Culta e Argumentação*).
 
-### 3.6. ⚙️ Central de Configurações Unificadas (`#settings`)
-* **5 Abas de Controle**:
-  1. *Perfil & Concurso*: Edição de nome, avatar emoji, concurso ativo, horas/dia e turnos de estudo.
-  2. *Agenda & Integrações*: Chave liga/desliga da Google Agenda, link iCal com validação em tempo real e download de `.ICS`.
-  3. *Inteligência Artificial*: Status do modelo Gemini 3.7 Flash, seleção do estilo pedagógico do tutor e medidor de latência em milissegundos.
-  4. *Aparência & Sons*: Alternador Claro/Escuro e controle de efeitos sonoros de gamificação.
-  5. *Dados & Manutenção*: Backup completo em JSON (`/api/users/:id/export-progress`), modal de reset de estudos e estatísticas do banco SQLite.
+### 3.7. 📊 Raio-X do Edital & Pareto 80/20
+- **Localização:** `src/features/edital/EditalPage.tsx`
+- **Funcionalidades:**
+  - Mapeamento dos 20% de tópicos com 80% de incidência histórica na banca.
+  - Tabela de notas de corte dos certames anteriores.
 
-### 3.7. 🏆 Gamificação, Conquistas e Níveis de XP (`#conquistas`)
-* Sistema de níveis de aprovação (Iniciante &rarr; Reta Final &rarr; Nome no Diário Oficial) com cálculo diário de *Streak* (dias consecutivos) e medalhas comemorativas.
-
----
-
-## 4. 🤖 Motor de Inteligência Artificial: Google Gemini 3.7 Flash & Fallback
-
-O ConcursaBot utiliza a API oficial do **Google GenAI SDK (`@google/genai`)** configurada no arquivo `server/gemini.js`:
-
-* **Modelo Padrão**: `gemini-3.7-flash` (disponibilidade geral GA, raciocínio avançado e alta velocidade).
-* **Cadeia de Fallback Resiliente**:
-  $$\text{gemini-3.7-flash} \longrightarrow \text{gemini-3.6-flash} \longrightarrow \text{gemini-3.5-flash} \longrightarrow \text{gemini-3.1-flash-lite} \longrightarrow \text{gemini-flash-latest}$$
-  Se a nuvem da Google apresentar instabilidades temporárias ou erros 503/429, o backend tenta automaticamente o próximo modelo sem travar o estudo do aluno.
-* **Modelo de Embeddings Vetoriais**: `gemini-embedding-001` configurado com dimensionalidade fixa de **768-d** via MRL (*Matryoshka Representation Learning*) para busca semântica em PDFs.
-
----
-
-## 5. 🎨 Design System, Temas (Claro/Escuro) & Microinterações
-
-* **Modo Claro (Padrão)**: Fundo limpo e arejado em tons de cinza suave (`#f8fafc`), cartões brancos com sombras sutis e contraste perfeito para leitura prolongada.
-* **Modo Escuro**: Superfícies escuras texturizadas (`#0f172a` e `#1e293b`) com destaque em azul royal e esmeralda.
-* **Acessibilidade**: Elementos clicáveis com estados `:hover` e `:active`, badges coloridas por matéria e suporte a teclado.
+### 3.8. ⚙️ Central de Configurações, Guia & Sobre
+- **Localização:** `src/features/settings/SettingsPage.tsx`
+- **Funcionalidades:**
+  - **Aba Ajustes & API:** Alteração de nome, chave Gemini BYOK (Bring Your Own Key), backup JSON e botão para zerar histórico para 0 XP.
+  - **Aba Guia de Uso:** Metodologia dos 4 pilares e roteiro diário de estudo.
+  - **Aba Sobre o Sistema:** Manifesto institucional, especificações de engenharia e blindagem OWASP.
 
 ---
 
-## 6. 💾 Banco de Dados SQLite, Schemas & Migrations
+## 4. 🤖 Motor de Inteligência Artificial: Google Gemini & Fallback Resiliente
 
-O banco de dados SQLite (`concursabot.db`) é gerenciado de forma transacional pelo `better-sqlite3` com modo **WAL (Write-Ahead Logging)** ativado para máxima concorrência.
+O Gabarito.AI utiliza a API oficial do **Google GenAI SDK (`@google/genai`)** configurada no arquivo `server/gemini.js`:
 
-### Principais Tabelas:
-* `user_profiles`: Perfis de estudantes, avatar emoji, concurso ativo, metas diárias, preferências de agenda e estilo de tutor.
-* `schedules` e `schedule_tasks`: Cronogramas inteligentes gerados por IA e seus blocos semanais com status de conclusão.
-* `study_materials`: Aulas, apostilas em PDF e Cadernos Enxutos indexados por matéria e concurso.
-* `questions`: Banco de questões com opções em JSON, gabarito oficial, banca e explicações pedagógicas.
-* `simulados` e `simulado_questions`: Histórico de provas realizadas, tempo gasto e pontuação.
-* `question_answers`: Registro de cada resposta submetida pelo aluno (para alimentar o Caderno de Erros e estatísticas de precisão).
-* `study_reviews`: Fila de revisões espaçadas D+1, D+7 e D+30.
-* `user_achievements` e `user_xp_log`: Histórico de gamificação e conquistas.
+* **Modelo Padrão**: `gemini-3.5-flash-lite` (alta velocidade e raciocínio estruturado).
+* **Cadeia de Fallback em Cascata**:
+  $$\text{gemini-3.5-flash-lite} \longrightarrow \text{gemini-flash-lite-latest} \longrightarrow \text{gemini-3.1-flash-lite} \longrightarrow \text{gemini-3.5-flash}$$
+* **Prompt Injection Guard**: Filtro regex e sanitização contra instruções adversariais (`ignore previous instructions`, `DAN mode`, `system prompt leaks`).
 
 ---
 
-## 7. 🔒 Segurança, Multi-usuário & Autenticação por PIN de Convite
+## 5. 🎨 Design System "Institutional Editorial & Surgical Minimalism"
 
-* **PIN de Convite (`INVITE_PIN`)**: Configurado no arquivo `.env`, impede que pessoas não autorizadas acessem o ConcursaBot na web e consumam sua cota do Gemini.
-* **Isolamento Multi-usuário**: Todas as ações (sessões, respostas, simulados e tarefas) são vinculadas ao `x-user-id` do perfil ativo, permitindo que vários amigos usem a mesma instância sem misturar seus dados.
-* **Proteção de Segredos**: A chave do Gemini (`GEMINI_API_KEY`) nunca é exposta no frontend; todas as chamadas à IA passam pelo backend autenticado.
+* **Modo Escuro (Dark Void)**: Fundo `#0D0E12`, cartões `#14151A`, bordas sutis `#262933` e destaque em azul cobalto `#3B82F6`.
+* **Modo Claro (Papel Linho)**: Fundo `#FAFAFA`, cartões `#FFFFFF`, bordas `#E2E8F0` com altíssimo contraste tipográfico.
+* **Tipografia Curada**:
+  - *Display:* **Fraunces** (Serif elegante e autoritativa).
+  - *Interface:* **Inter** (Máxima legibilidade e clareza).
+  - *Dados & Códigos:* **JetBrains Mono** (Números, XP, timers e mnemônicos).
 
 ---
 
-## 8. 🌐 Estratégia de Deploy Web Gratuito & PWA Offline
+## 6. 💾 Banco de Dados SQLite Nativo (`node:sqlite`) & Schemas
 
-Para colocar o ConcursaBot online com custo zero para seus amigos testarem, consulte o guia passo a passo em:
-👉 [**`GUIA_DEPLOY_GRATUITO.md`**](file:///home/joao/%C3%81rea%20de%20trabalho/CONCURSO_BOT/GUIA_DEPLOY_GRATUITO.md)
+O banco de dados SQLite (`concursabot.db`) é gerenciado de forma nativa pelo **`node:sqlite` (`DatabaseSync`)**, dispensando qualquer compilação nativa C++ ou `node-gyp`.
 
-* **Opção 1**: Cloudflare Tunnel + PC Local (Sem abrir portas de roteador, zero custo, HTTPS grátis).
-* **Opção 2**: Render.com Free Tier com Docker direto do GitHub.
-* **Opção 3**: Oracle Cloud Always Free VPS (Linux 24GB RAM grátis).
-* **PWA no Celular**: Instalação como app nativo em iPhone e Android em 2 toques.
+### Tabelas Principais:
+* `user_profiles`: Perfis de estudantes, avatar emoji, carreira ativa e metas.
+* `study_materials`: Apostilas em PDF, metadados extraídos e títulos por carreira.
+* `questions`: Banco de questões com opções, gabarito e justificativas de banca.
+* `simulados` & `simulado_questions`: Provas realizadas, notas e tempo cronometrado.
+* `caderno_erros`: Questões erradas isoladas para re-treino focado e anotações.
+* `redacoes`: Histórico de redações corrigidas com notas por critério.
+* `flashcards`: Cartões com intervalo, repetições, facilidade SM-2 e data de revisão.
+* `user_achievements` & `user_xp_log`: Histórico de XP e conquistas desbloqueadas.
+
+---
+
+## 7. 🔒 Blindagem de Segurança 360° & Pentest
+
+- **Proteção Web:** Sanitização contra Prototype Pollution, HPP, Timing Attacks com `crypto.timingSafeEqual`, Rate Limiting de requisições e cabeçalhos de segurança OWASP (`helmet`).
+- **Contenção de Uploads:** Validação de MIME type (`application/pdf`), sanitização de nomes de arquivos e bloqueio de Path Traversal (`/uploads/`).
+- **Segurança de IA:** Sanitização de entradas em todas as rotas que consom Gemini.
+
+---
+
+## 8. 🧪 Suítes de Testes Automatizados (117 Provas Aprovadas)
+
+```bash
+# Execução da bateria completa:
+node test_pentest_suite.js && node test_ai_security.js && node test_new_features.js && node run_qa_tests.js
+```
+
+1. 🛡️ **Pentest Suite:** **28/28 Aprovados (100%)**
+2. 🤖 **AI Security Guard:** **15/15 Aprovados (100%)**
+3. 🚀 **Novas Funcionalidades (Raio-X, Caderno de Erros, Redação):** **24/24 Aprovados (100%)**
+4. ⚙️ **QA REST APIs E2E & Isolamento de Carreiras:** **50/50 Aprovados (100%)**
+5. **Total:** **117/117 Testes com 100% de Aprovação!**

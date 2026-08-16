@@ -8,8 +8,8 @@
 ## 📌 1. Sumário Executivo do Sistema
 
 O **Gabarito.AI** é uma plataforma web completa de preparação de alta performance para concursos públicos de elite, com suporte nativo a:
-1. **Banco do Brasil (BB)** — Agente Comercial & Agente de Tecnologia (TI) • Banca Cesgranrio
-2. **Receita Federal do Brasil (RFB)** — Analista-Tributário (ATRFB) e Auditor-Fiscal (AFRFB) • Banca FGV
+1. **Receita Federal do Brasil (RFB)** — Analista-Tributário (ATRFB) e Auditor-Fiscal (AFRFB) • Banca FGV
+2. **Banco do Brasil (BB)** — Agente Comercial & Agente de Tecnologia (TI) • Banca Cesgranrio
 3. **Saúde RJ (SES-RJ / IASERJ 2026)** — Técnico de Enfermagem e Assistente Administrativo • Banca Instituto IBDO
 4. **Marinha do Brasil (SMV RM2 Praças)** — Formação Militar-Naval e Língua Portuguesa • Banca DEnsM
 5. **Carreiras Customizadas** — Configurável pelo criador de perfis.
@@ -18,15 +18,21 @@ O **Gabarito.AI** é uma plataforma web completa de preparação de alta perform
 
 ## 🏛️ 2. Arquitetura & Decisões Tecnológicas Cruciais
 
-### ⚡ 2.1. Frontend Moderno (React 19 + Vite 8 + TypeScript)
-- **Migração do Monólito:** Deixou de ser uma página HTML pesada e tornou-se uma SPA modular com **Code-Splitting por domínio (`src/features/`)**.
-- **Performance:** First Contentful Paint < 300ms, bundle inicial comprimido em <80KB gzip.
-- **Design System (*Surgical Minimalism*):** Dark Mode imersivo em Void Black (`#0D0E12`), Light Mode em Papel Linho (`#FAFAFA`), tipografia de autoridade (**Fraunces**, **Inter**, **JetBrains Mono**) e touch targets rigorosos >= 44px na **Thumb Zone**.
+### ⚡ 2.1. Frontend Moderno (React 19 + Vite 8 + TypeScript + Tailwind CSS v4)
+- **Modularização Completa:** Arquitetura SPA com **Code-Splitting por domínio (`src/features/`)**:
+  - `src/features/dashboard/DashboardPage.tsx` (Missão dinâmica por concurso, Streaks, Patentes e Metas).
+  - `src/features/study-room/StudyRoomPage.tsx` (Doutrina esquematizada, mnemônicos, fixação e upload de PDF).
+  - `src/features/simulados/SimuladosPage.tsx` (Simulados cronometrados e mapas de gabarito).
+  - `src/features/error-notebook/ErrorNotebookPage.tsx` (Caderno de Erros com re-teste e bônus de +15 XP).
+  - `src/features/flashcards/FlashcardsPage.tsx` (Repetição espaçada com algoritmo SuperMemo-2).
+  - `src/features/redacao/RedacaoPage.tsx` (Corretor discursivo com 4 critérios de banca).
+  - `src/features/edital/EditalPage.tsx` (Raio-X de incidência 80/20 e notas de corte).
+  - `src/features/settings/SettingsPage.tsx` (Abas de Ajustes & BYOK API, Guia de Uso e Sobre o Sistema).
+- **Design System (*Institutional Editorial & Surgical Minimalism*):** Dark Mode imersivo em Void Black (`#0D0E12`), Light Mode em Papel Linho (`#FAFAFA`), tipografia de autoridade (**Fraunces**, **Inter**, **JetBrains Mono**) e touch targets rigorosos >= 44px na **Thumb Zone**.
 
 ### ⚡ 2.2. Zero-Build SQLite Oficial (`node:sqlite` / `DatabaseSync`)
-- **Problema anterior:** A biblioteca `better-sqlite3` utilizava compilação nativa C++ (via `node-gyp` e GCC), travando em caminhos com espaços (`Área de trabalho`), gerando erros de ABI (`NODE_MODULE_VERSION`) e quebrando no Node 24.
-- **Solução definitiva:** Migrado 100% para o **SQLite embutido no núcleo do Node.js (`import { DatabaseSync } from 'node:sqlite'`)**.
-- **Resultado:** **Zero compilação**, inicialização instantânea (<50ms), compatibilidade total com Node 22 e 24, e sanitização universal de parâmetros `undefined -> null`.
+- **Solução Definitiva:** 100% migrado para o **SQLite embutido no núcleo do Node.js (`import { DatabaseSync } from 'node:sqlite'`)**.
+- **Resultado:** **Zero compilação C++**, inicialização instantânea (<50ms), compatibilidade total com Node 22 e 24, e sanitização universal de parâmetros `undefined -> null`.
 
 ### 🛡️ 2.3. Blindagem de Segurança 360° (OWASP + AI Guard)
 - **Segurança Web & Pentest:** Cabeçalhos HSTS, X-Content-Type-Options, CSP, proteção contra prototype pollution (`security-guard.js`), anti-timing attack (`crypto.timingSafeEqual`) e contenção de uploads (`uploadsDir`).
