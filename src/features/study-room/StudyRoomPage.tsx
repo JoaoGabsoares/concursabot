@@ -1,6 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
+import { getSubjectsForCareer } from '../../utils/gamification';
+import { getLessonContent } from '../../utils/studyContent';
 
 interface StudyRoomPageProps {
   careerId: string;
@@ -8,31 +10,31 @@ interface StudyRoomPageProps {
 
 export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   const currentCareer = getCareerById(careerId);
-  const [selectedSubject, setSelectedSubject] = useState<string>('Direito Constitucional');
-  const [activeLesson, setActiveLesson] = useState<number>(1);
+  const careerSubjects = getSubjectsForCareer(careerId);
+  
+  const [selectedSubject, setSelectedSubject] = useState<string>(careerSubjects[0]?.name || 'Língua Portuguesa');
   const [showQuestions, setShowQuestions] = useState<boolean>(true);
   const [userSelectedOption, setUserSelectedOption] = useState<string | null>(null);
   const [answered, setAnswered] = useState<boolean>(false);
 
-  const subjects = currentCareer.id.includes('bb')
-    ? ['Conhecimentos Bancários', 'Língua Portuguesa', 'Matemática Financeira', 'Atendimento no Setor Bancário']
-    : currentCareer.id.includes('atrfb') || currentCareer.id.includes('afrfb')
-    ? ['Direito Tributário', 'Legislação Tributária', 'Direito Constitucional', 'Direito Administrativo', 'Contabilidade']
-    : ['Legislação do SUS', 'Políticas de Saúde', 'Enfermagem Geral', 'Administração Pública'];
+  // Sincroniza a disciplina caso a carreira mude
+  useEffect(() => {
+    if (careerSubjects.length > 0) {
+      setSelectedSubject(careerSubjects[0].name);
+      setUserSelectedOption(null);
+      setAnswered(false);
+    }
+  }, [careerId]);
 
-  const sampleQuestion = {
-    id: 101,
-    question: "Sobre a repartição das receitas tributárias na Constituição Federal de 1988, é correto afirmar:",
-    options: {
-      A: "Pertence aos Municípios 50% do produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza incidente na fonte.",
-      B: "Pertence aos Estados e ao DF 50% do produto da arrecadação do ITR sobre os imóveis neles situados.",
-      C: "Pertence aos Municípios 25% do produto da arrecadação do ICMS do respectivo Estado.",
-      D: "A União pode reter a entrega de recursos do Fundo de Participação dos Municípios em qualquer hipótese de divergência política.",
-      E: "O imposto sobre grandes fortunas é de competência partilhada entre Estados e Municípios."
-    },
-    answer: "C",
-    explanation: "Art. 158, IV da CF/88: Pertence aos Municípios vinte e cinco por cento do produto da arrecadação do imposto do Estado sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação (ICMS)."
+  // Ao trocar de disciplina, reseta o estado do quiz
+  const handleSubjectChange = (subjectName: string) => {
+    setSelectedSubject(subjectName);
+    setUserSelectedOption(null);
+    setAnswered(false);
   };
+
+  const lesson = getLessonContent(selectedSubject);
+  const activeQuestion = lesson.question;
 
   const handleSelectOption = (opt: string) => {
     if (answered) return;
@@ -71,160 +73,193 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             onClick={() => setShowQuestions(!showQuestions)}
             className="font-mono text-xs"
           >
-            {showQuestions ? "Ocultar Fixação" : "Fixação (5 Questões)"}
+            {showQuestions ? "Ocultar Fixação" : "Mostrar Fixação"}
           </Button>
         </div>
       </div>
 
-      {/* Disciplinas Switcher */}
-      <div className="flex gap-2 overflow-x-auto pb-1 font-mono text-xs">
-        {subjects.map((subj) => (
-          <button
-            key={subj}
-            onClick={() => setSelectedSubject(subj)}
-            className={`px-4 py-2 rounded-lg whitespace-nowrap transition-all border ${
-              selectedSubject === subj
-                ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] font-bold shadow-md'
-                : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] border-[var(--border-subtle)] hover:bg-[var(--bg-elevated)]'
-            }`}
-          >
-            {subj}
-          </button>
-        ))}
+      {/* Disciplinas Selector (Official Filter Badges) */}
+      <div className="space-y-2">
+        <div className="text-[11px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider">
+          Disciplinas do Edital ({currentCareer.name.split('—')[0]}):
+        </div>
+        <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none">
+          {careerSubjects.map((subj) => {
+            const isSelected = selectedSubject === subj.name;
+            return (
+              <button
+                key={subj.id}
+                onClick={() => handleSubjectChange(subj.name)}
+                className={`px-3.5 py-2 rounded-lg text-xs font-semibold whitespace-nowrap transition-all border shadow-sm ${
+                  isSelected
+                    ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] font-bold shadow-md'
+                    : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border-[var(--border-subtle)] hover:border-[var(--border-focus)] hover:text-[var(--text-primary)]'
+                }`}
+              >
+                {subj.name}
+              </button>
+            );
+          })}
+        </div>
       </div>
 
-      {/* Main Split Layout: Teoria + Questões Dock */}
-      <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
-        {/* Left / Center: Caderno Teórico Estruturado */}
-        <div className={showQuestions ? "lg:col-span-7 space-y-4" : "lg:col-span-12 space-y-4"}>
-          <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] shadow-md">
-            <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-              <div>
-                <span className="font-mono text-xs text-[var(--text-muted)] uppercase tracking-wider">
-                  {selectedSubject} • AULA {activeLesson}
+      {/* Split Study Grid (Theory Left / Practice Right) */}
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
+        
+        {/* Left Column: Theory & Notes (7 cols) */}
+        <div className="lg:col-span-7 space-y-6">
+          <Card className="p-6 sm:p-8 space-y-6 border-[var(--border-subtle)] bg-[var(--bg-surface)] shadow-md">
+            {/* Topic Header */}
+            <div className="space-y-2 pb-4 border-b border-[var(--border-subtle)]">
+              <div className="flex items-center justify-between">
+                <span className="text-xs font-mono text-[var(--accent-primary)] font-bold uppercase tracking-wider">
+                  MÓDULO 0{lesson.lessonNumber} DE {lesson.totalLessons} • {lesson.subject}
                 </span>
-                <h3 className="font-display font-bold text-xl sm:text-2xl text-[var(--text-primary)] tracking-tight mt-1">
-                  Princípios Fundamentais & Competências Estruturais
-                </h3>
+                <CarimboStatus status="homologado" label="PONTO DE EDITAL" />
               </div>
-              <CarimboStatus status="em_revisao" label="EM ESTUDO" />
+              <h2 className="font-display font-bold text-xl sm:text-2xl text-[var(--text-primary)] tracking-tight">
+                {lesson.topic}
+              </h2>
             </div>
 
-            {/* Content Body */}
-            <div className="space-y-5 text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed">
-              <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border-l-4 border-[var(--accent-primary)] text-xs font-mono">
-                <span className="font-bold text-[var(--accent-primary)]">JURISPRUDÊNCIA / LITERALIDADE ({currentCareer.banca}):</span> Cobrança recorrente da literalidade dos artigos constitucionais e suas respectivas exceções orçamentárias e tributárias.
-              </div>
+            {/* Jurisprudence Banner */}
+            <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border-l-4 border-[var(--accent-primary)] text-xs text-[var(--text-secondary)] space-y-1">
+              <span className="font-mono font-bold text-[var(--accent-primary)] uppercase tracking-wider block text-[10px]">
+                Tendência da Banca {currentCareer.banca}
+              </span>
+              <p className="leading-relaxed">
+                {lesson.jurisprudenceNote}
+              </p>
+            </div>
 
-              <div className="space-y-2">
-                <h4 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                  1. Conceito Dogmático & Finalidade Institucional
-                </h4>
-                <p className="text-[var(--text-secondary)] leading-relaxed">
-                  A estruturação do ordenamento jurídico exige obediência irrestrita aos postulados constitucionais. No âmbito dos concursos públicos federais e bancários, as bancas examinadoras cobram reiteradamente a distinção dogmática entre normas de eficácia plena, contida e limitada.
-                </p>
-              </div>
+            {/* Structured Theory Content */}
+            <div className="space-y-4 text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed font-sans">
+              <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+                {lesson.section1Title}
+              </h3>
+              <p>
+                {lesson.section1Body}
+              </p>
 
-              <div className="space-y-3">
-                <h4 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                  2. Esquema Mnemônico Oficial de Fixação
-                </h4>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs font-mono">
-                  <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-                    <div className="text-[var(--accent-primary)] font-bold text-sm">LIMPE</div>
-                    <div className="text-[var(--text-secondary)] text-[11px] leading-relaxed">Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência</div>
+              <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)] pt-2">
+                {lesson.section2Title}
+              </h3>
+              
+              <div className="space-y-2 font-mono text-xs">
+                {lesson.mnemonics.map((m, idx) => (
+                  <div key={idx} className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+                    <span className="text-[var(--accent-primary)] font-bold">{m.code}:</span> {m.meaning}
                   </div>
-                  <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-                    <div className="text-[var(--accent-primary)] font-bold text-sm">SOCIDIVAPU</div>
-                    <div className="text-[var(--text-secondary)] text-[11px] leading-relaxed">Soberania, Cidadania, Dignidade, Valores do Trabalho, Pluralismo</div>
-                  </div>
-                </div>
+                ))}
               </div>
             </div>
 
-            {/* Bottom Lesson Footer */}
-            <div className="pt-5 border-t border-[var(--border-subtle)] flex items-center justify-between">
-              <Button 
-                variant="outline" 
-                size="sm"
-                onClick={() => setActiveLesson(Math.max(1, activeLesson - 1))}
-                disabled={activeLesson === 1}
-                className="font-mono text-xs"
-              >
-                Aula Anterior
-              </Button>
-              <span className="font-mono text-xs font-bold text-[var(--text-muted)]">
-                AULA {activeLesson} / 12
+            {/* Progress Actions */}
+            <div className="pt-4 border-t border-[var(--border-subtle)] flex items-center justify-between">
+              <span className="text-xs text-[var(--text-muted)] font-mono">
+                Página 1 de 1 • Resumo RAG Consolidado
               </span>
               <Button 
                 variant="brand" 
-                size="sm"
-                onClick={() => setActiveLesson(activeLesson + 1)}
-                className="font-mono text-xs font-bold"
+                size="sm" 
+                className="font-mono text-xs"
+                onClick={() => alert(`Aula de ${selectedSubject} concluída! +25 XP concedidos.`)}
               >
-                Próxima Aula
+                Concluir Leitura (+25 XP)
               </Button>
             </div>
           </Card>
         </div>
 
-        {/* Right: Questões de Fixação Imediata */}
+        {/* Right Column: Immediate Practice Quiz (5 cols) */}
         {showQuestions && (
-          <div className="lg:col-span-5 space-y-4 animate-fade-in">
-            <Card className="p-6 space-y-4 border border-[var(--border-focus)] bg-[var(--bg-surface)] shadow-md">
+          <div className="lg:col-span-5 space-y-6">
+            <Card className="p-6 space-y-5 border-[var(--border-subtle)] bg-[var(--bg-surface)] shadow-md">
               <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-                <div className="font-mono text-xs font-bold text-[var(--text-primary)]">
-                  FIXAÇÃO IMEDIATA (1/5)
-                </div>
-                <CarimboStatus status="pendente" label={currentCareer.banca} />
-              </div>
-
-              <p className="text-xs sm:text-sm text-[var(--text-primary)] font-medium leading-relaxed">
-                {sampleQuestion.question}
-              </p>
-
-              {/* Alternatives List */}
-              <div className="space-y-2.5 pt-1">
-                {Object.entries(sampleQuestion.options).map(([key, text]) => {
-                  let styleClass = 'border-[var(--border-subtle)] hover:border-[var(--border-focus)] bg-[var(--bg-elevated)] text-[var(--text-primary)]';
-
-                  if (answered) {
-                    if (key === sampleQuestion.answer) {
-                      styleClass = 'border-[var(--color-status-success)] bg-[var(--color-status-success-bg)] text-[var(--accent-success)] font-bold';
-                    } else if (key === userSelectedOption) {
-                      styleClass = 'border-[var(--color-status-danger)] bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)] font-medium';
-                    } else {
-                      styleClass = 'opacity-35 border-[var(--border-subtle)] bg-[var(--bg-surface)] text-[var(--text-muted)]';
-                    }
-                  }
-
-                  return (
-                    <button
-                      key={key}
-                      onClick={() => handleSelectOption(key)}
-                      disabled={answered}
-                      className={`w-full text-left p-3.5 rounded-lg text-xs transition-all flex items-start gap-3 border ${styleClass}`}
-                    >
-                      <span className="w-6 h-6 rounded bg-[var(--bg-surface)] flex items-center justify-center font-mono font-bold shrink-0 text-xs border border-[var(--border-subtle)]">
-                        {key}
-                      </span>
-                      <span className="flex-1 leading-relaxed">{text}</span>
-                    </button>
-                  );
-                })}
-              </div>
-
-              {/* Explanation Reveal */}
-              {answered && (
-                <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 animate-fade-in text-xs font-mono">
-                  <div className="font-bold text-[var(--accent-success)]">
-                    [ GABARITO OFICIAL: LETRA {sampleQuestion.answer} ]
+                <div className="space-y-0.5">
+                  <div className="text-xs font-mono font-bold text-[var(--accent-primary)]">
+                    FIXAÇÃO IMEDIATA
                   </div>
-                  <p className="text-[var(--text-secondary)] font-sans text-xs leading-relaxed">
-                    {sampleQuestion.explanation}
+                  <div className="font-display font-bold text-sm text-[var(--text-primary)]">
+                    Banca: {currentCareer.banca}
+                  </div>
+                </div>
+                <CarimboStatus status="em_revisao" label="TREINO ATIVO" />
+              </div>
+
+              {/* Question Body */}
+              <div className="space-y-4">
+                <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-sans font-medium">
+                  {activeQuestion.question}
+                </p>
+
+                {/* Alternatives List */}
+                <div className="space-y-2.5">
+                  {Object.entries(activeQuestion.options).map(([letter, text]) => {
+                    const isSelected = userSelectedOption === letter;
+                    const isCorrect = letter === activeQuestion.answer;
+                    
+                    let btnStyle = "bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--border-focus)] hover:text-[var(--text-primary)]";
+                    
+                    if (answered) {
+                      if (isCorrect) {
+                        btnStyle = "bg-[var(--color-status-success-bg)] border-[var(--color-status-success)] text-[var(--color-status-success)] font-semibold";
+                      } else if (isSelected) {
+                        btnStyle = "bg-[var(--color-status-danger-bg)] border-[var(--color-status-danger)] text-[var(--color-status-danger)]";
+                      }
+                    }
+
+                    return (
+                      <button
+                        key={letter}
+                        disabled={answered}
+                        onClick={() => handleSelectOption(letter)}
+                        className={`w-full text-left p-3 rounded-lg border text-xs leading-relaxed transition-all flex items-start gap-2.5 ${btnStyle}`}
+                      >
+                        <span className="font-mono font-bold shrink-0 px-1.5 py-0.5 rounded bg-[var(--bg-surface)] border border-[var(--border-subtle)]">
+                          {letter}
+                        </span>
+                        <span>{text}</span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+
+              {/* Feedback Commentary */}
+              {answered && (
+                <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 animate-fade-in text-xs">
+                  <div className="flex items-center justify-between font-mono font-bold">
+                    <span className={userSelectedOption === activeQuestion.answer ? "text-[var(--accent-success)]" : "text-[var(--accent-danger)]"}>
+                      {userSelectedOption === activeQuestion.answer ? "RESPOSTA CORRETA! (+10 XP)" : "GABARITO: LETRA " + activeQuestion.answer}
+                    </span>
+                    <span className="text-[var(--text-muted)] text-[10px]">
+                      ID #{activeQuestion.id}
+                    </span>
+                  </div>
+                  <p className="text-[var(--text-secondary)] leading-relaxed">
+                    {activeQuestion.explanation}
                   </p>
                 </div>
               )}
+
+              {/* Bottom Actions */}
+              <div className="pt-3 border-t border-[var(--border-subtle)] flex items-center justify-between">
+                <span className="text-[11px] font-mono text-[var(--text-muted)]">
+                  Questão 1 de 1
+                </span>
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={() => {
+                    setUserSelectedOption(null);
+                    setAnswered(false);
+                  }}
+                  className="font-mono text-xs"
+                >
+                  Reiniciar Quiz
+                </Button>
+              </div>
             </Card>
           </div>
         )}

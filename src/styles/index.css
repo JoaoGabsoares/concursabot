@@ -6,32 +6,22 @@
   --font-mono: 'IBM Plex Mono', Menlo, Monaco, Consolas, monospace;
   --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 
-  /* Spacing Scale */
-  --space-1: 0.25rem;   /* 4px */
-  --space-2: 0.5rem;    /* 8px */
-  --space-3: 0.75rem;   /* 12px */
-  --space-4: 1.0rem;    /* 16px */
-  --space-6: 1.5rem;    /* 24px */
-  --space-8: 2.0rem;    /* 32px */
-  --space-12: 3.0rem;   /* 48px */
-  --space-16: 4.0rem;   /* 64px */
-
   /* Dark Theme (Official Obsidian / Edital Solene - High Contrast & Depth) */
   --bg-base: #0A0D14;
   --bg-surface: #111622;
   --bg-elevated: #182030;
   --bg-active: #222C42;
-  --bg-glass: rgba(17, 22, 34, 0.92);
+  --bg-glass: rgba(17, 22, 34, 0.94);
 
   --text-primary: #F8FAFC;
   --text-secondary: #94A3B8;
   --text-muted: #64748B;
 
-  --border-subtle: #243048;
+  --border-subtle: #26334D;
   --border-focus: #3B82F6;
   --border-highlight: #60A5FA;
 
-  /* Single Primary Color (Idêntica em todas as rotas) */
+  /* Single Primary Color */
   --accent-primary: #3B82F6;
   --accent-primary-hover: #2563EB;
   --accent-primary-glow: rgba(59, 130, 246, 0.16);
@@ -54,17 +44,17 @@
   --btn-primary-text: #FFFFFF;
   --btn-primary-hover: #1D4ED8;
   
-  --shadow-card: 0 4px 20px -2px rgba(0, 0, 0, 0.5);
-  --shadow-elevated: 0 8px 30px -4px rgba(0, 0, 0, 0.65);
+  --shadow-card: 0 4px 20px -2px rgba(0, 0, 0, 0.55);
+  --shadow-elevated: 0 8px 30px -4px rgba(0, 0, 0, 0.70);
 }
 
 html:not(.dark) {
-  /* Light Theme (Papel Institucional / Diário Oficial - Crisp & Readable) */
-  --bg-base: #F4F6F9;
+  /* Light Theme (Papel Institucional / Diário Oficial) */
+  --bg-base: #F1F5F9;
   --bg-surface: #FFFFFF;
-  --bg-elevated: #EBF0F7;
-  --bg-active: #DFE7F2;
-  --bg-glass: rgba(255, 255, 255, 0.94);
+  --bg-elevated: #E2E8F0;
+  --bg-active: #CBD5E1;
+  --bg-glass: rgba(255, 255, 255, 0.96);
 
   --text-primary: #0F172A;
   --text-secondary: #334155;
@@ -74,12 +64,10 @@ html:not(.dark) {
   --border-focus: #1D4ED8;
   --border-highlight: #2563EB;
 
-  /* Single Primary Color (Idêntica em todas as rotas) */
   --accent-primary: #1D4ED8;
   --accent-primary-hover: #1E40AF;
   --accent-primary-glow: rgba(29, 78, 216, 0.12);
 
-  /* Status Colors for Official Stamps */
   --color-status-success: #059669;
   --color-status-success-bg: rgba(5, 150, 105, 0.10);
   --color-status-warning: #D97706;
@@ -101,10 +89,9 @@ html:not(.dark) {
   --shadow-elevated: 0 8px 24px -4px rgba(15, 23, 42, 0.12);
 }
 
-* {
+/* Safe Box Sizing without destructive universal reset */
+*, ::before, ::after {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
   -webkit-tap-highlight-color: transparent;
 }
 
@@ -112,6 +99,8 @@ html, body, #root {
   height: 100%;
   width: 100%;
   overflow: hidden;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -123,6 +112,32 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+/* Guaranteed Robust Spacing Utilities (Immune to CSS specificity conflicts) */
+.space-y-1 > * + * { margin-top: 0.25rem !important; }
+.space-y-1\.5 > * + * { margin-top: 0.375rem !important; }
+.space-y-2 > * + * { margin-top: 0.5rem !important; }
+.space-y-2\.5 > * + * { margin-top: 0.625rem !important; }
+.space-y-3 > * + * { margin-top: 0.75rem !important; }
+.space-y-3\.5 > * + * { margin-top: 0.875rem !important; }
+.space-y-4 > * + * { margin-top: 1.0rem !important; }
+.space-y-5 > * + * { margin-top: 1.25rem !important; }
+.space-y-6 > * + * { margin-top: 1.5rem !important; }
+.space-y-7 > * + * { margin-top: 1.75rem !important; }
+.space-y-8 > * + * { margin-top: 2.0rem !important; }
+
+/* Guaranteed Robust Gap Utilities */
+.gap-1 { gap: 0.25rem !important; }
+.gap-1\.5 { gap: 0.375rem !important; }
+.gap-2 { gap: 0.5rem !important; }
+.gap-2\.5 { gap: 0.625rem !important; }
+.gap-3 { gap: 0.75rem !important; }
+.gap-3\.5 { gap: 0.875rem !important; }
+.gap-4 { gap: 1.0rem !important; }
+.gap-5 { gap: 1.25rem !important; }
+.gap-6 { gap: 1.5rem !important; }
+.gap-7 { gap: 1.75rem !important; }
+.gap-8 { gap: 2.0rem !important; }
 
 /* Typography Utility Classes */
 .font-display { font-family: var(--font-display); }

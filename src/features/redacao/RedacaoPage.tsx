@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
+import { CAREER_ESSAY_THEMES } from '../../utils/studyContent';
 import { RedacaoCritique } from '../../types';
 
 interface RedacaoPageProps {
@@ -9,10 +10,18 @@ interface RedacaoPageProps {
 
 export const RedacaoPage: React.FC<RedacaoPageProps> = ({ careerId }) => {
   const currentCareer = getCareerById(careerId);
-  const [tema, setTema] = useState<string>("O papel dos bancos públicos e da tecnologia no desenvolvimento sustentável e na inclusão financeira nacional");
+  const defaultTheme = CAREER_ESSAY_THEMES[careerId] || "O papel do Estado e das instituições públicas no desenvolvimento social e econômico.";
+  
+  const [tema, setTema] = useState<string>(defaultTheme);
   const [texto, setTexto] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(false);
   const [critique, setCritique] = useState<RedacaoCritique | null>(null);
+
+  // Sincroniza o tema se a carreira mudar
+  useEffect(() => {
+    setTema(CAREER_ESSAY_THEMES[careerId] || defaultTheme);
+    setCritique(null);
+  }, [careerId]);
 
   const wordCount = texto.trim().split(/\s+/).filter(Boolean).length;
   const lineCount = texto.split('\n').filter(Boolean).length;
@@ -58,109 +67,114 @@ export const RedacaoPage: React.FC<RedacaoPageProps> = ({ careerId }) => {
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
         {/* Editor Area */}
-        <div className="lg:col-span-7 space-y-4">
-          <Card className="p-6 sm:p-8 space-y-5 bg-[var(--bg-surface)] shadow-md">
+        <div className="lg:col-span-7 space-y-6">
+          <Card className="p-6 sm:p-8 space-y-5 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)]">
             <div className="space-y-2">
-              <label className="font-mono text-xs text-[var(--text-muted)] uppercase tracking-wider font-bold">
-                Tema Oficial da Prova Discursiva:
+              <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                Tema Proposto para o Concurso ({currentCareer.name.split('—')[0]}):
               </label>
-              <input
-                type="text"
+              <textarea
                 value={tema}
                 onChange={(e) => setTema(e.target.value)}
-                className="w-full p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs sm:text-sm text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans shadow-sm"
+                className="w-full p-3.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] focus:border-[var(--border-focus)] text-xs text-[var(--text-primary)] outline-none resize-none font-medium leading-relaxed"
+                rows={2}
               />
             </div>
 
             <div className="space-y-2">
-              <div className="flex items-center justify-between font-mono text-xs text-[var(--text-muted)]">
-                <span className="font-bold">TEXTO DISCURSIVO:</span>
-                <span>{wordCount} PALAVRAS • ~{lineCount} LINHAS</span>
+              <div className="flex items-center justify-between">
+                <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider">
+                  Texto Dissertativo-Argumentativo:
+                </label>
+                <div className="flex items-center gap-3 text-xs font-mono text-[var(--text-muted)]">
+                  <span>{wordCount} palavras</span>
+                  <span>•</span>
+                  <span>{lineCount} linhas</span>
+                </div>
               </div>
               <textarea
                 value={texto}
                 onChange={(e) => setTexto(e.target.value)}
-                placeholder="Desenvolva seu texto dissertativo-argumentativo conforme a norma culta e os critérios formais..."
-                rows={13}
-                className="w-full p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs sm:text-sm text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans leading-relaxed resize-y shadow-sm"
+                placeholder="Desenvolva sua dissertação respeitando a norma culta, a estrutura canônica (introdução, desenvolvimento em 2 parágrafos e conclusão) e a pertinência com a banca..."
+                className="w-full h-80 p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] focus:border-[var(--border-focus)] text-xs sm:text-sm text-[var(--text-primary)] outline-none resize-none leading-relaxed font-sans"
               />
             </div>
 
-            <Button
-              size="lg"
-              variant="brand"
-              fullWidth={true}
-              onClick={handleCorrigir}
-              disabled={loading || wordCount < 30}
-              className="font-bold text-sm sm:text-base shadow-md"
-            >
-              {loading ? "Processando Correção nos 4 Critérios..." : "Enviar Redação para Correção Oficial"}
-            </Button>
+            <div className="flex items-center justify-between pt-3 border-t border-[var(--border-subtle)]">
+              <span className="text-xs font-mono text-[var(--text-muted)]">
+                Critérios: FGV / Cesgranrio / DEnsM / IBDO
+              </span>
+              <Button
+                variant="brand"
+                onClick={handleCorrigir}
+                disabled={loading}
+                className="font-mono text-xs"
+              >
+                {loading ? "Avaliando pela IA..." : "Submeter para Correção Oficial (+50 XP)"}
+              </Button>
+            </div>
           </Card>
         </div>
 
-        {/* Critique Result Area */}
-        <div className="lg:col-span-5 space-y-4">
+        {/* Evaluation Output Area */}
+        <div className="lg:col-span-5 space-y-6">
           {critique ? (
-            <Card className="p-6 sm:p-8 space-y-5 animate-fade-in bg-[var(--bg-surface)] shadow-md">
-              <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-                <CarimboStatus status="homologado" label="AVALIAÇÃO HOMOLOGADA" />
-                <div className="font-mono text-3xl font-bold text-[var(--accent-primary)]">
-                  {critique.totalScore || critique.score || 90}/100
+            <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)] animate-fade-in">
+              <div className="flex items-center justify-between pb-4 border-b border-[var(--border-subtle)]">
+                <div>
+                  <span className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider block">
+                    PARECER DA BANCA
+                  </span>
+                  <div className="font-display font-bold text-xl text-[var(--text-primary)]">
+                    Nota Final: {critique.notaTotal}/100
+                  </div>
                 </div>
+                <CarimboStatus 
+                  status={critique.notaTotal >= 70 ? "homologado" : "vulneravel"} 
+                  label={critique.notaTotal >= 70 ? "CLASSIFICADO" : "ELIMINADO"} 
+                />
               </div>
 
               {/* 4 Criteria Scores */}
               <div className="space-y-3 font-mono text-xs">
-                <div className="p-3.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-                  <div className="flex justify-between font-bold text-[var(--text-primary)]">
-                    <span>1. Tema & Conhecimento Específico</span>
-                    <span className="text-[var(--accent-primary)]">25/25</span>
-                  </div>
-                  <p className="font-sans text-[11px] text-[var(--text-secondary)] leading-relaxed">
-                    {critique.criteria?.theme || "Abordagem completa dos conceitos-chave solicitados no comando da prova."}
-                  </p>
+                <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between">
+                  <span className="text-[var(--text-secondary)]">1. Domínio do Tema e Coerência:</span>
+                  <span className="font-bold text-[var(--text-primary)]">{critique.criterio1_tema}/25</span>
                 </div>
+                <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between">
+                  <span className="text-[var(--text-secondary)]">2. Estrutura Textual Dissertativa:</span>
+                  <span className="font-bold text-[var(--text-primary)]">{critique.criterio2_estrutura}/25</span>
+                </div>
+                <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between">
+                  <span className="text-[var(--text-secondary)]">3. Norma Culta e Gramática:</span>
+                  <span className="font-bold text-[var(--text-primary)]">{critique.criterio3_gramatica}/25</span>
+                </div>
+                <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between">
+                  <span className="text-[var(--text-secondary)]">4. Argumentação e Proposta de Solução:</span>
+                  <span className="font-bold text-[var(--text-primary)]">{critique.criterio4_argumentacao}/25</span>
+                </div>
+              </div>
 
-                <div className="p-3.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-                  <div className="flex justify-between font-bold text-[var(--text-primary)]">
-                    <span>2. Estrutura Formal & Coesão</span>
-                    <span className="text-[var(--accent-primary)]">24/25</span>
-                  </div>
-                  <p className="font-sans text-[11px] text-[var(--text-secondary)] leading-relaxed">
-                    {critique.criteria?.structure || "Paragrafação clara, encadeamento lógico e uso adequado de conectivos."}
-                  </p>
-                </div>
-
-                <div className="p-3.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-                  <div className="flex justify-between font-bold text-[var(--text-primary)]">
-                    <span>3. Domínio da Norma Culta</span>
-                    <span className="text-[var(--accent-primary)]">23/25</span>
-                  </div>
-                  <p className="font-sans text-[11px] text-[var(--text-secondary)] leading-relaxed">
-                    {critique.criteria?.grammar || "Excelente precisão gramatical, pontuação sóbria e concordância correta."}
-                  </p>
-                </div>
-
-                <div className="p-3.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-                  <div className="flex justify-between font-bold text-[var(--text-primary)]">
-                    <span>4. Argumentação & Proposta</span>
-                    <span className="text-[var(--accent-primary)]">22/25</span>
-                  </div>
-                  <p className="font-sans text-[11px] text-[var(--text-secondary)] leading-relaxed">
-                    {critique.criteria?.argumentation || "Posicionamento consistente com repertório técnico institucional."}
-                  </p>
-                </div>
+              {/* Feedback Comments */}
+              <div className="space-y-2 text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed">
+                <h4 className="font-display font-bold text-sm text-[var(--text-primary)]">
+                  Apontamentos do Avaliador:
+                </h4>
+                <p className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] italic">
+                  "{critique.comentarioGeral || critique.comentario}"
+                </p>
               </div>
             </Card>
           ) : (
-            <Card className="p-8 text-center space-y-3 bg-[var(--bg-surface)] shadow-md">
-              <CarimboStatus status="pendente" label="AGUARDANDO TEXTO" />
-              <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
-                Critérios Oficiais de Avaliação
+            <Card className="p-6 sm:p-8 space-y-4 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)] text-center text-xs text-[var(--text-muted)]">
+              <div className="w-12 h-12 rounded-full bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-center mx-auto text-[var(--text-primary)] font-bold text-lg font-mono">
+                ✍️
+              </div>
+              <h3 className="font-display font-bold text-base text-[var(--text-primary)]">
+                Aguardando Redação
               </h3>
-              <p className="text-xs sm:text-sm text-[var(--text-muted)] leading-relaxed max-w-sm mx-auto">
-                Escreva sua redação ao lado e envie para análise imediata. A nota será calculada com base na grade de correção da banca examinadora {currentCareer.banca}.
+              <p className="leading-relaxed">
+                Escreva seu texto e clique em "Submeter para Correção Oficial". A IA examinará a norma culta, coesão, clareza e argumentação com base na banca {currentCareer.banca}.
               </p>
             </Card>
           )}
