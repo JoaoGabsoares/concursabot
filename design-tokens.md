@@ -1,102 +1,141 @@
-# 🏛️ ConcursaBot — Design Tokens & Sistema Visual Institucional
+# 🏛️ Gabarito.AI — Sistema de Design Tokens & Diretrizes de Identidade Visual
 
-> Documento de referência normativa para a repaginação visual unificada do ConcursaBot.
-> Proibido criar variações locais ou desviar destas regras em qualquer rota (#study-room, #dashboard, #simulados, #edital).
+> **Documento Normativo — Etapa 1 do Processo de Redesign Estrutural**  
+> Este documento estabelece os tokens canônicos, regras tipográficas, restrições de ícones, elemento de assinatura (carimbo de edital) e escala de espaçamento para as 4 rotas (`#study-room`, `#dashboard`, `#simulados`, `#edital`) nos modos Claro e Escuro.
 
 ---
 
-## 1. Paleta de Cores em Hex (5 Valores Normativos)
+## 1. Paleta de Cores Hex Canônica (Zero Variação de Cor Primária por Rota)
 
-A cor primária é **absoluta e idêntica em todas as rotas e em ambos os modos (Claro e Escuro)**. Não existem seções com cores próprias (fim do "laranja em estudo, roxo em simulados, azul em edital").
+A cor primária é **única e idêntica em todas as rotas e em ambos os modos**, eliminando o padrão de laranja em uma aba, roxo em outra e azul em outra.
 
-| Token | Nome Normativo | Valor Hex | Aplicação / Papel |
+### 🎨 Tabela de Tokens de Cor
+
+| Token | Dark Mode | Light Mode | Papel / Aplicação |
 | :--- | :--- | :--- | :--- |
-| `--color-primary` | **Azul Notarial / Imprensa Oficial** | `#1B365D` | Cor primária única do sistema: botões principais, links ativos, bordas de destaque ativo, carimbo de revisão. |
-| `--color-neutral-dark` | **Tinta Titânio / Slate Profundo** | `#0F172A` | Texto principal no modo claro e fundo base estrutural no modo escuro. |
-| `--color-neutral-light` | **Papel Oficial / Off-White Linho** | `#F8FAFC` | Fundo base no modo claro e texto de alto contraste no modo escuro. |
-| `--color-surface-card` | **Superfície Documental** | `#FFFFFF` (Claro) / `#162032` (Escuro) | Fundo de cartões, painéis, blocos de conteúdo e tabelas. |
-| `--color-border-doc` | **Borda de Processo** | `#CBD5E1` (Claro) / `#2A3B53` (Escuro) | Borda nítida de 1px em cards, divisores de seção e tabelas. |
+| `--color-primary` | `#3B82F6` | `#1D4ED8` | **Cor Primária Única Oficial** (Destaques, botões primários, estados ativos de navegação) |
+| `--color-primary-subtle`| `rgba(59, 130, 246, 0.12)` | `rgba(29, 78, 216, 0.08)` | Fundo sutil de seleção, hover e badges institucionais |
+| `--color-bg` | `#0B0E17` | `#F8FAFC` | Fundo principal da página (Dark: ardósia profundo / Light: papel institucional) |
+| `--color-surface` | `#131826` | `#FFFFFF` | Superfície dos cards e containers de conteúdo |
+| `--color-surface-elevated`| `#1C2336` | `#F1F5F9` | Superfície elevada (inputs, menus, cabeçalhos de tabela) |
+| `--color-border` | `#263048` | `#CBD5E1` | Borda estrutural sóbria |
+| `--color-border-subtle` | `#182032` | `#E2E8F0` | Linha divisória e separador de itens |
+| `--color-text-primary` | `#F8FAFC` | `#0F172A` | Títulos, enunciados, textos de alta ênfase |
+| `--color-text-secondary` | `#94A3B8` | `#475569` | Explicações, labels, parágrafos |
+| `--color-text-muted` | `#64748B` | `#94A3B8` | Metadados, notas de rodapé, referências de lei |
 
-### Cores Semânticas de Estado (Apenas para Carimbos e Feedback Funcional):
-* `--color-status-success`: `#059669` (Verde Deferido / Aprovado)
-* `--color-status-warning`: `#D97706` (Âmbar Pendente / Em Tramitação)
-* `--color-status-danger`: `#DC2626` (Vermelho Indeferido / Erro)
-
----
-
-## 2. Tipografia Normativa (3 Famílias com Papéis Rígidos)
-
-| Papel | Família Tipográfica | Import Google Fonts | Aplicação Obrigatória |
-| :--- | :--- | :--- | :--- |
-| **Display & Títulos** | **`IBM Plex Serif`** | `IBM+Plex+Serif:wght@500;600;700` | Todos os títulos (`h1`, `h2`, `h3`, `h4`), nome do produto na barra superior, cabeçalhos de seções e modais. Evoca o rigor de documentos oficiais, editais publicados e tratados jurídicos. |
-| **Corpo & UI Geral** | **`Inter`** | `Inter:wght@400;500;600` | Textos de leitura, instruções, enunciados de questões, apostilas em PDF, menus, botões e labels. |
-| **Dados & Métricas** | **`JetBrains Mono`** | `JetBrains+Mono:wght@500;600;700` | Números de estatísticas, porcentagens reais, contadores de tempo/cronômetros, código de lei seca, gabaritos e textos internos dos carimbos/selos. |
+### 🛑 Cores Funcionais Restritas a Status e Carimbos
+- `--color-status-success`: `#10B981` (Dark) / `#059669` (Light) — Carimbo `HOMOLOGADO` / `COBERTO`
+- `--color-status-warning`: `#F59E0B` (Dark) / `#D97706` (Light) — Carimbo `EM REVISÃO`
+- `--color-status-danger`: `#EF4444` (Dark) / `#DC2626` (Light) — Carimbo `VULNERÁVEL` / `INDEFERIDO`
+- `--color-status-neutral`: `#64748B` (Dark) / `#64748B` (Light) — Carimbo `PENDENTE`
 
 ---
 
-## 3. Regra Rígida de Ícones (Funcionalidade vs Eliminação de Ruído)
+## 2. Tipografia Nomeada (Três Papéis Explícitos)
 
-### Regra Universal:
-> **Ícones decorativos são PROIBIDOS por padrão.**
-> Um ícone só é permitido quando **substitui funcionalmente um texto** (ex: status booleano) ou quando indica **ação mecânica imediata** (ex: seta de ordenação, chevron de expandir menu).
-> **É estritamente proibido colocar ícone ao lado de um texto que já diz a mesma coisa.**
+Fontes carregadas diretamente via Google Fonts com declaração estrita e fallbacks controlados:
 
-### Tabela de Auditoria dos Itens Reais da Interface:
-
-| Elemento Atual | Como Está Hoje (Com Erro) | Como Ficará (Correto) | Motivo da Decisão |
-| :--- | :--- | :--- | :--- |
-| **Nav Tab 1** | `[ ⚡ Hoje ]` | **`Hoje`** | O raio não adiciona informação; o texto "Hoje" já é autoexplicativo. |
-| **Nav Tab 2** | `[ 📚 Biblioteca & Aulas ]` | **`Biblioteca & Aulas`** | O livro é redundante com a palavra Biblioteca. |
-| **Nav Tab 3** | `[ 🎯 Treino & Questões ]` | **`Treino & Questões`** | O alvo é decorativo e redundante. |
-| **Nav Tab 4** | `[ 📊 Inteligência & Edital ]` | **`Inteligência & Edital`** | O gráfico de barras não representa dados reais na nav. |
-| **Header Brand** | `[ ⚡ ConcursaBot ]` | **`ConcursaBot`** (em `IBM Plex Serif`) | O nome institucional fala por si só. |
-| **Header Badge** | `[ 🎯 Concurso Ativo ▾ ]` | **`Concurso Ativo ▾`** | Mantém apenas o chevron `▾` (indica dropdown interativo). |
-| **Botão Estudar** | `[ ▶️ Estudar ]` | **`Estudar`** | O ícone play é ruído visual. |
-| **Breadcrumb** | `[ ⚡ Dashboard ]` | **`Dashboard`** | Remove o emoji do caminho de navegação. |
-| **Botão Reset** | `[ 🔄 Reset de Estudo ]` | **`Reset de Estudo`** | Texto claro dispensa emoji. |
-| **Chips de Metadados**| `[ 🏛️ FGV ]` / `[ ⏱️ 60 min ]`| **`FGV`** / **`60 min`** (em `JetBrains Mono`)| Dados limpos e legíveis sem emojis infantis. |
-| **Gabarito / Erro** | Linha de resultado da questão | **`✓`** / **`✗`** (Apenas o símbolo) | **PERMITIDO**: Substitui funcionalmente o texto "Acertou/Errou" em grade compacta. |
-| **Cadeado de Bloqueio**| Módulo não liberado | **`🔒`** | **PERMITIDO**: Indica restrição de acesso em estado desabilitado. |
-
----
-
-## 4. Elemento de Assinatura: Carimbo/Selo Institucional de Status
-
-Em substituição a barras de progresso genéricas e chips arredondados de dashboards SaaS, o ConcursaBot utiliza o **Carimbo de Processo Oficial** como assinatura visual em todas as 4 rotas.
-
-### Anatomia Visual do Carimbo:
-* **Estrutura**: Borda retangular firme de `1.5px`, cantos retos (`border-radius: 2px`), tipografia em caixa alta `JetBrains Mono` (`font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; padding: 0.2rem 0.6rem;`).
-* **Efeito**: Estilo carimbo de autenticação em cartório / Diário Oficial da União.
-
-### Os 3 Estados Oficiais do Carimbo:
-
-```
-+------------------+     +------------------+     +------------------+
-|    [ COBERTO ]   |     |   [ PENDENTE ]   |     |  [ EM REVISÃO ]  |
-+------------------+     +------------------+     +------------------+
-  Verde Documental         Âmbar Tramitação         Azul Institucional
-   Borda: #059669           Borda: #D97706           Borda: #1B365D
-   Texto: #059669           Texto: #D97706           Texto: #1B365D
-   Fundo: rgba(5,           Fundo: rgba(217,         Fundo: rgba(27,
-          150,105,0.08)            119,6,0.08)              54,93,0.08)
+```html
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 ```
 
-### Regras de Exibição do Carimbo:
-1. **Na Biblioteca (`#study-room`)**: Aparece no cabeçalho de cada matéria e aula para atestar se a teoria foi totalmente estudada.
-2. **No Dashboard (`#dashboard`)**: Identifica o status real de cada meta da pauta diária.
-3. **No Treino & Questões (`#simulados`)**: Estampa o resultado oficial da prova (ex: `[ HOMOLOGADO ]` ou `[ RE-TREINO NECESSÁRIO ]`) com base na nota de corte real.
-4. **Na Inteligência de Edital (`#edital`)**: Marca cada disciplina do edital como Coberta, Pendente ou Em Revisão com base no progresso efetivo.
+### 1. Display / Títulos: `Newsreader`, Georgia, 'Times New Roman', serif
+- **Papel:** Títulos de seções, cabeçalho de missão do edital, nomes de disciplinas e tópicos da lei.
+- **Justificativa:** Remete à autoridade documental e solene do Diário Oficial da União e de editais de concurso, eliminando o visual genérico de template SaaS.
+- **Exemplo de aplicação:** `font-family: var(--font-display); font-weight: 600; letter-spacing: -0.02em;`
+
+### 2. Dados / Estatísticas / Código de Lei: `IBM Plex Mono`, Menlo, monospace
+- **Papel:** Números métricos (questões resolvidas, minutos líquidos, notas de corte, percentuais), artigos de lei (`Art. 37 da CF/88`), cronômetros de simulado e carimbos de status.
+- **Justificativa:** Garante legibilidade analítica, alinhamento numérico tabular e precisão técnica.
+- **Exemplo de aplicação:** `font-family: var(--font-mono); font-variant-numeric: tabular-nums;`
+
+### 3. Corpo do Texto: `Plus Jakarta Sans`, system-ui, -apple-system, sans-serif
+- **Papel:** Parágrafos teóricos, enunciados de questões, comentários de gabarito e textos de interface.
+- **Justificativa:** Sans neutra de alta legibilidade em telas de qualquer densidade de pixels.
+- **Exemplo de aplicação:** `font-family: var(--font-sans); line-height: 1.6;`
 
 ---
 
-## 5. Regra de Numeração e Métricas Reais
+## 3. Regra de Aplicação de Ícones (Proibidos por Padrão)
 
-1. **Numeração**: Utilizada **exclusivamente** quando há ordem sequencial intrínseca ao conteúdo:
-   * Numeração de questões da prova (`01`, `02`, ..., `70`).
-   * Itens e capítulos do edital oficial (`Item 4.1`, `Item 4.2`).
-   * Passos obrigatórios de execução do simulado.
-   * **Proibido** adicionar numeração puramente cosmética ("01 Foco", "02 Metas").
-2. **Barras e Indicadores de Progresso**:
-   * Proibido qualquer gradiente fantasia (`laranja → azul`).
-   * Barras de progresso só existem se atreladas a uma fórmula matemática explícita (ex.: `Questões Resolvidas / Total do Edital = 45%`).
-   * A barra usa preenchimento sólido com a cor primária institucional (`#1B365D`) sobre trilha neutra clara (`#E2E8F0` no claro, `#2A3B53` no escuro).
+**Regra Estrita:** Ícones só são permitidos quando **substituem texto funcionalmente** ou indicam estado crítico de interação. É terminantemente **proibido** posicionar ícones ao lado de labels que já descrevem textualmente o elemento.
+
+### 📋 Auditoria e Remoção na Interface Atual
+
+| Elemento da UI | Estado Anterior | Estado Obrigatório Novo | Ação Realizada |
+| :--- | :--- | :--- | :--- |
+| **Nav: Início / Painel** | `[Ícone Layout] Início` | `Início` | ❌ Ícone decorativo removido |
+| **Nav: Sala de Estudos** | `[Ícone Livro] Sala de Estudos` | `Sala de Estudos` | ❌ Ícone decorativo removido |
+| **Nav: Simulados** | `[Ícone Alvo] Simulados & Treino` | `Simulados & Treino` | ❌ Ícone decorativo removido |
+| **Nav: Caderno de Erros** | `[Ícone Alerta] Caderno de Erros` | `Caderno de Erros [2]` | ❌ Ícone removido; mantido badge numérico real |
+| **Nav: Redação** | `[Ícone Caneta] Redação Discursiva`| `Redação Discursiva` | ❌ Ícone decorativo removido |
+| **Nav: Raio-X do Edital** | `[Ícone Gráfico] Raio-X do Edital` | `Raio-X do Edital` | ❌ Ícone decorativo removido |
+| **Nav: Configurações** | `[Ícone Engrenagem] Configurações` | `Configurações` | ❌ Ícone decorativo removido |
+| **Ofensiva / Streak** | `🔥 12 Dias` | `OFENSIVA: 12 DIAS` | ❌ Fogo decorativo substituído por métrica mono |
+| **Card de Missão** | `✨ Missão do Dia` | `MISSÃO OFICIAL DO EDITAL`| ❌ Sparkles removidos; texto institucional solene |
+| **Gabarito / Alternativa** | `Opção C` | `[ ✓ ] Opção C (Correta)` | ✅ Check funcional indicando acerto |
+| **Acesso Bloqueado** | `Simulado 3` | `[ 🔒 ] Simulado 3` | ✅ Cadeado funcional indicando bloqueio |
+
+---
+
+## 4. Elemento de Assinatura: Carimbo de Processo / Selo de Edital
+
+No lugar de badges arredondados genéricos de SaaS com gradientes aleatórios, o Gabarito.AI adota o **Carimbo Oficial de Conformidade do Edital**:
+
+### 🏛️ Especificação Visual do Carimbo
+- **Formato:** Caixa retangular solene com borda dupla ou contorno nítido de `1.5px`.
+- **Tipografia:** `IBM Plex Mono` em caixa alta (`uppercase`), `font-weight: 700`, `letter-spacing: 0.12em`, `font-size: 10px` a `11px`.
+- **Rotação:** Leve inclinação de `-1.5deg` em visualizações de destaque para simular carimbo físico institucional, ou `0deg` em tabelas.
+
+### 📌 Estados do Carimbo
+
+1. **`[ HOMOLOGADO ]` / `[ COBERTO ]`**
+   - **Cor:** Borda e texto em `#059669` (Light) / `#10B981` (Dark), fundo `rgba(16, 185, 129, 0.08)`.
+   - **Gatilho:** Disciplina ou tópico do edital com 100% da teoria lida e taxa de acerto >= 80%.
+2. **`[ EM REVISÃO ]`**
+   - **Cor:** Borda e texto em `#D97706` (Light) / `#F59E0B` (Dark), fundo `rgba(245, 158, 11, 0.08)`.
+   - **Gatilho:** Tópico com agendamento ativo de repetição espaçada (D+1, D+7, D+30).
+3. **`[ PENDENTE ]`**
+   - **Cor:** Borda e texto em `#64748B`, fundo `rgba(100, 116, 139, 0.08)`.
+   - **Gatilho:** Tópico do edital ainda não estudado.
+4. **`[ VULNERÁVEL ]`**
+   - **Cor:** Borda e texto em `#DC2626` (Light) / `#EF4444` (Dark), fundo `rgba(239, 68, 68, 0.08)`.
+   - **Gatilho:** Questões erradas acumuladas no Caderno de Erros sem retreino.
+
+---
+
+## 5. Escala de Espaçamento e Aplicação Estrutural
+
+Todos os elementos na interface obedecem estritamente à escala geométrica em múltiplos de 4px / 8px:
+
+| Token de Espaçamento | Valor em px | Valor em rem | Aplicação Exclusiva |
+| :--- | :--- | :--- | :--- |
+| `--space-1` | `4px` | `0.25rem` | Padding interno de micro-tags, respiro entre carimbo e borda |
+| `--space-2` | `8px` | `0.5rem` | Gap entre labels e campos de formulário, gap entre badges |
+| `--space-3` | `12px` | `0.75rem` | Espaçamento entre parágrafos curtos e metadados |
+| `--space-4` | `16px` | `1.0rem` | Padding interno de cards compactos, gap entre opções A/B/C/D/E |
+| `--space-6` | `24px` | `1.5rem` | Padding interno de cards principais e painéis de estudo |
+| `--space-8` | `32px` | `2.0rem` | Gap vertical entre seções do Dashboard e páginas |
+| `--space-12`| `48px` | `3.0rem` | Margem de topo e base de grandes áreas de trabalho |
+| `--space-16`| `64px` | `4.0rem` | Padding máximo de respiro horizontal em monitores grandes |
+
+**Regra de Ouro:** É estritamente proibido qualquer elemento encostar no container ou em outro elemento vizinho sem um token desta escala.
+
+---
+
+## 6. Breakpoints Responsivos & Comportamento Estrutural
+
+| Breakpoint | Largura | Comportamento da Navegação | Comportamento dos Cards & Grids |
+| :--- | :--- | :--- | :--- |
+| **Mobile (`sm`)** | `< 640px` | Sidebar oculta. Menu inferior compacto (`h-14`) posicionado na thumb zone. | Grids de 2, 3 e 4 colunas empilham estritamente em **1 coluna vertical** (`flex-col`). Padding reduz para `16px`. |
+| **Tablet (`md`)** | `640px – 1023px` | Sidebar colapsada em barra lateral compacta ou drawer sob demanda. | Grids de 4 colunas viram **2 colunas × 2 linhas**. Grid de 3 colunas vira **1 coluna destaque + 2 colunas**. Padding `24px`. |
+| **Desktop / Notebook (`lg`/`xl`)** | `≥ 1024px` | Sidebar lateral fixa visível (`w-64` / `256px`), com tipografia legível e respiro. | Layout expandido em tela cheia com `max-w-6xl` centralizado, preenchendo a altura vertical sem vazios artificiais. |
+
+---
+
+## 🛑 Ponto de Parada — Etapa 1 Concluída
+
+Este arquivo consolida todas as especificações obrigatórias de design tokens, fontes e carimbos antes da escrita de qualquer código da Etapa 2.

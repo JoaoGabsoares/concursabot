@@ -1,25 +1,7 @@
 import React, { useState } from 'react';
 import { UserProfile, ActiveTab } from '../types';
 import { getCareerById, CAREERS_LIST } from '../utils/careers';
-import { 
-  Flame, 
-  Sparkles, 
-  Menu, 
-  X, 
-  Moon, 
-  Sun, 
-  ChevronRight, 
-  ChevronDown,
-  Check,
-  Zap,
-  BookOpen,
-  Target,
-  AlertCircle,
-  PenTool,
-  BarChart3,
-  Layers,
-  Settings
-} from 'lucide-react';
+import { Menu, X, Sun, Moon, ChevronRight, ChevronDown, Check } from 'lucide-react';
 
 interface HeaderProps {
   user: UserProfile | null;
@@ -48,27 +30,26 @@ export const Header: React.FC<HeaderProps> = ({
 
   const tabLabels: Record<ActiveTab, { title: string; category: string }> = {
     dashboard: { title: 'Visão Geral & Missão', category: 'ESTUDO DIÁRIO' },
-    study: { title: 'Sala de Estudos Split', category: 'ESTUDO DIÁRIO' },
+    study: { title: 'Sala de Estudos Teórica', category: 'ESTUDO DIÁRIO' },
     simulados: { title: 'Simulados & Treino Real', category: 'TREINO & PRÁTICA' },
     erros: { title: 'Caderno de Erros', category: 'TREINO & PRÁTICA' },
-    flashcards: { title: 'Flashcards Repetição Espaçada', category: 'TREINO & PRÁTICA' },
-    redacao: { title: 'Corretor de Redação Discursiva', category: 'INTELIGÊNCIA' },
-    edital: { title: 'Raio-X de Incidência do Edital', category: 'INTELIGÊNCIA' },
-    settings: { title: 'Configurações do Perfil', category: 'SISTEMA' },
+    flashcards: { title: 'Flashcards SM-2', category: 'TREINO & PRÁTICA' },
+    redacao: { title: 'Corretor de Redação', category: 'INTELIGÊNCIA' },
+    edital: { title: 'Raio-X do Edital', category: 'INTELIGÊNCIA' },
+    settings: { title: 'Configurações', category: 'SISTEMA' },
   };
 
   const currentTabInfo = tabLabels[activeTab] || { title: 'Painel', category: 'GABARITO.AI' };
 
   return (
     <>
-      <header className="w-full h-14 bg-[var(--bg-surface)] border-b border-[var(--border-subtle)] px-4 sm:px-6 flex items-center justify-between select-none z-20 shrink-0">
-        {/* Left: Mobile Logo / Desktop Breadcrumb */}
+      <header className="w-full h-14 bg-[var(--bg-surface)] border-b border-[var(--border-subtle)] px-4 sm:px-8 flex items-center justify-between select-none z-20 shrink-0 font-sans">
+        {/* Left: Mobile Toggle / Desktop Breadcrumbs */}
         <div className="flex items-center gap-3">
-          {/* Mobile Hamburger Drawer Trigger */}
           <button
             onClick={() => setMobileDrawerOpen(true)}
-            className="md:hidden w-8 h-8 rounded-lg flex items-center justify-center border border-[var(--border-subtle)] hover:bg-[var(--bg-elevated)] text-[var(--text-secondary)]"
-            aria-label="Abrir menu"
+            className="lg:hidden w-8 h-8 rounded border border-[var(--border-subtle)] flex items-center justify-center text-[var(--text-secondary)]"
+            aria-label="Menu"
           >
             <Menu className="w-4 h-4" />
           </button>
@@ -76,47 +57,35 @@ export const Header: React.FC<HeaderProps> = ({
           {/* Mobile Brand Mark */}
           <div 
             onClick={() => onNavigate('dashboard')}
-            className="md:hidden flex items-center gap-2 cursor-pointer"
+            className="lg:hidden font-display font-bold text-base text-[var(--text-primary)] cursor-pointer"
           >
-            <div className="w-7 h-7 rounded-lg bg-[var(--accent-primary)] text-white flex items-center justify-center font-bold text-xs">
-              G
-            </div>
-            <span className="font-bold text-sm tracking-tight text-[var(--text-primary)]">
-              Gabarito<span className="text-[var(--accent-primary)] font-mono">.AI</span>
-            </span>
+            Gabarito<span className="text-[var(--accent-primary)] font-mono font-normal">.AI</span>
           </div>
 
-          {/* Desktop Breadcrumbs */}
-          <div className="hidden md:flex items-center gap-2 text-xs">
+          {/* Desktop Institutional Breadcrumbs */}
+          <div className="hidden lg:flex items-center gap-2 text-xs">
             <span className="font-mono text-[var(--text-muted)] uppercase tracking-wider text-[10px]">
               {currentTabInfo.category}
             </span>
             <ChevronRight className="w-3.5 h-3.5 text-[var(--border-focus)]" />
-            <span className="font-semibold text-[var(--text-primary)] tracking-tight text-sm">
+            <span className="font-display font-semibold text-[var(--text-primary)] text-sm tracking-tight">
               {currentTabInfo.title}
             </span>
           </div>
         </div>
 
-        {/* Right Actions: Streak, Career Badge, Theme Toggle */}
-        <div className="flex items-center gap-2 sm:gap-3">
-          {/* Streak Flame Counter */}
-          <div className="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-amber-500/10 border border-amber-500/25 text-amber-400 text-xs font-mono font-semibold">
-            <Flame className="w-3.5 h-3.5 fill-amber-400 animate-flame" />
-            <span>{user?.streakDays || 1}d</span>
+        {/* Right Actions: Real Metric Badges & Theme */}
+        <div className="flex items-center gap-3">
+          {/* Streak Metric */}
+          <div className="px-2.5 py-1 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[11px] font-mono text-[var(--text-primary)]">
+            <span className="text-[var(--text-muted)]">OFENSIVA:</span> <span className="font-bold text-[var(--accent-primary)]">{user?.streakDays || 0}D</span>
           </div>
 
-          {/* XP Pill */}
-          <div className="hidden sm:flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-secondary)] text-xs font-mono">
-            <Zap className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
-            <span className="font-medium text-[var(--text-primary)]">{user?.xp || 0} XP</span>
-          </div>
-
-          {/* Active Career Indicator (Mobile Dropdown) */}
-          <div className="relative md:hidden">
+          {/* Career Indicator (Mobile) */}
+          <div className="relative lg:hidden">
             <button
               onClick={() => setCareerDropdownOpen(!careerDropdownOpen)}
-              className="flex items-center gap-1 px-2 py-1 rounded-md text-[11px] font-mono bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] truncate max-w-[130px]"
+              className="flex items-center gap-1 px-2 py-1 rounded text-[11px] font-mono bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] truncate max-w-[120px]"
             >
               <span className="truncate">{currentCareer.banca}</span>
               <ChevronDown className="w-3 h-3 text-[var(--text-muted)] shrink-0" />
@@ -125,7 +94,7 @@ export const Header: React.FC<HeaderProps> = ({
             {careerDropdownOpen && (
               <>
                 <div className="fixed inset-0 z-40" onClick={() => setCareerDropdownOpen(false)} />
-                <div className="absolute right-0 top-full mt-1 w-64 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-focus)] shadow-2xl p-1.5 z-50 animate-fade-in space-y-1">
+                <div className="absolute right-0 top-full mt-1 w-64 rounded bg-[var(--bg-elevated)] border border-[var(--border-focus)] shadow-2xl p-1 z-50 animate-fade-in space-y-0.5">
                   {CAREERS_LIST.map((c) => (
                     <button
                       key={c.id}
@@ -133,7 +102,7 @@ export const Header: React.FC<HeaderProps> = ({
                         onSelectCareer(c.id);
                         setCareerDropdownOpen(false);
                       }}
-                      className={`w-full text-left p-2 rounded-md text-xs flex items-center justify-between ${
+                      className={`w-full text-left p-2 rounded text-xs flex items-center justify-between ${
                         c.id === currentCareerId 
                           ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-semibold' 
                           : 'hover:bg-[var(--bg-active)] text-[var(--text-primary)]'
@@ -151,83 +120,71 @@ export const Header: React.FC<HeaderProps> = ({
             )}
           </div>
 
-          {/* Theme Toggle (Mobile) */}
+          {/* Mobile Theme Toggle */}
           <button
             onClick={onToggleTheme}
             aria-label="Alternar tema"
-            className="md:hidden w-8 h-8 rounded-lg flex items-center justify-center border border-[var(--border-subtle)] hover:bg-[var(--bg-elevated)] text-[var(--text-secondary)]"
+            className="lg:hidden w-8 h-8 rounded border border-[var(--border-subtle)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)]"
           >
             {isDark ? <Sun className="w-3.5 h-3.5" /> : <Moon className="w-3.5 h-3.5" />}
           </button>
         </div>
       </header>
 
-      {/* Mobile Drawer (Left Slide-out Menu) */}
+      {/* Mobile Drawer */}
       {mobileDrawerOpen && (
-        <div className="fixed inset-0 z-50 md:hidden flex">
+        <div className="fixed inset-0 z-50 lg:hidden flex">
           <div 
             className="fixed inset-0 bg-black/70 backdrop-blur-sm animate-fade-in"
             onClick={() => setMobileDrawerOpen(false)}
           />
-          <div className="relative w-72 max-w-[80vw] h-full bg-[var(--bg-surface)] border-r border-[var(--border-subtle)] flex flex-col z-10 animate-fade-in">
-            {/* Drawer Header */}
+          <div className="relative w-64 max-w-[80vw] h-full bg-[var(--bg-surface)] border-r border-[var(--border-subtle)] flex flex-col z-10 animate-fade-in font-sans">
             <div className="p-4 border-b border-[var(--border-subtle)] flex items-center justify-between">
-              <div className="flex items-center gap-2">
-                <div className="w-7 h-7 rounded-lg bg-[var(--accent-primary)] text-white flex items-center justify-center font-bold text-xs">
-                  G
-                </div>
-                <span className="font-bold text-sm text-[var(--text-primary)]">Gabarito.AI</span>
+              <div className="font-display font-bold text-base text-[var(--text-primary)]">
+                Gabarito<span className="text-[var(--accent-primary)] font-mono font-normal">.AI</span>
               </div>
               <button
                 onClick={() => setMobileDrawerOpen(false)}
-                className="w-7 h-7 rounded-md flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)]"
+                className="w-7 h-7 rounded flex items-center justify-center text-[var(--text-muted)]"
               >
                 <X className="w-4 h-4" />
               </button>
             </div>
 
-            {/* Drawer Navigation Links */}
-            <div className="flex-1 overflow-y-auto p-3 space-y-4">
-              <div className="space-y-1">
-                <div className="text-[10px] font-mono text-[var(--text-muted)] uppercase tracking-wider px-2">Menu Principal</div>
-                {[
-                  { id: 'dashboard' as ActiveTab, label: 'Início / Painel', icon: Zap },
-                  { id: 'study' as ActiveTab, label: 'Sala de Estudos', icon: BookOpen },
-                  { id: 'simulados' as ActiveTab, label: 'Simulados & Treino', icon: Target },
-                  { id: 'erros' as ActiveTab, label: 'Caderno de Erros', icon: AlertCircle, badge: pendingErrorsCount },
-                  { id: 'flashcards' as ActiveTab, label: 'Flashcards SM-2', icon: Layers },
-                  { id: 'redacao' as ActiveTab, label: 'Redação Discursiva', icon: PenTool },
-                  { id: 'edital' as ActiveTab, label: 'Raio-X do Edital', icon: BarChart3 },
-                  { id: 'settings' as ActiveTab, label: 'Configurações', icon: Settings },
-                ].map((item) => {
-                  const Icon = item.icon;
-                  const isActive = activeTab === item.id;
-                  return (
-                    <button
-                      key={item.id}
-                      onClick={() => {
-                        onNavigate(item.id);
-                        setMobileDrawerOpen(false);
-                      }}
-                      className={`w-full flex items-center justify-between p-2.5 rounded-lg text-xs font-medium transition-colors ${
-                        isActive
-                          ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-semibold border border-[var(--accent-primary)]/30'
-                          : 'text-[var(--text-secondary)] hover:bg-[var(--bg-elevated)] text-[var(--text-primary)]'
-                      }`}
-                    >
-                      <div className="flex items-center gap-2.5">
-                        <Icon className="w-4 h-4" />
-                        <span>{item.label}</span>
-                      </div>
-                      {item.badge && item.badge > 0 ? (
-                        <span className="px-1.5 py-0.2 bg-[var(--accent-danger)] text-white text-[10px] font-mono font-bold rounded-full">
-                          {item.badge}
-                        </span>
-                      ) : null}
-                    </button>
-                  );
-                })}
-              </div>
+            <div className="flex-1 overflow-y-auto p-3 space-y-1">
+              {[
+                { id: 'dashboard' as ActiveTab, label: 'Início' },
+                { id: 'study' as ActiveTab, label: 'Sala de Estudos' },
+                { id: 'simulados' as ActiveTab, label: 'Simulados & Treino' },
+                { id: 'erros' as ActiveTab, label: 'Caderno de Erros', badge: pendingErrorsCount },
+                { id: 'flashcards' as ActiveTab, label: 'Flashcards SM-2' },
+                { id: 'redacao' as ActiveTab, label: 'Redação Discursiva' },
+                { id: 'edital' as ActiveTab, label: 'Raio-X do Edital' },
+                { id: 'settings' as ActiveTab, label: 'Configurações' },
+              ].map((item) => {
+                const isActive = activeTab === item.id;
+                return (
+                  <button
+                    key={item.id}
+                    onClick={() => {
+                      onNavigate(item.id);
+                      setMobileDrawerOpen(false);
+                    }}
+                    className={`w-full flex items-center justify-between p-2.5 rounded text-xs font-medium transition-colors ${
+                      isActive
+                        ? 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-semibold border-l-2 border-[var(--accent-primary)]'
+                        : 'text-[var(--text-secondary)] hover:bg-[var(--bg-elevated)] text-[var(--text-primary)]'
+                    }`}
+                  >
+                    <span>{item.label}</span>
+                    {item.badge && item.badge > 0 ? (
+                      <span className="px-1.5 py-0.2 font-mono text-[10px] font-bold rounded bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)] border border-[var(--accent-danger)]/30">
+                        [{item.badge}]
+                      </span>
+                    ) : null}
+                  </button>
+                );
+              })}
             </div>
           </div>
         </div>

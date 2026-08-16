@@ -1,7 +1,6 @@
 import React from 'react';
-import { Card, Button, Badge } from '../../components/UIPrimitives';
+import { Card, CarimboStatus } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
-import { BarChart3, TrendingUp, Award, CheckCircle, PieChart, ShieldAlert, Sparkles } from 'lucide-react';
 
 interface EditalPageProps {
   careerId: string;
@@ -11,11 +10,11 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
   const currentCareer = getCareerById(careerId);
 
   const topTopics = [
-    { subject: "Conhecimentos Bancários", topic: "Sistema Financeiro Nacional e Mercado de Capitais", incidence: "Alta", weight: "25%" },
-    { subject: "Língua Portuguesa", topic: "Interpretação de Texto, Coesão e Sintaxe de Regência", incidence: "Alta", weight: "20%" },
-    { subject: "Matemática Financeira", topic: "Juros Compostos, Sistemas de Amortização (SAC/Price)", incidence: "Média", weight: "15%" },
-    { subject: "Atendimento & Vendas", topic: "Técnicas de Negociação, Ética e LGPD Bancária", incidence: "Média", weight: "15%" },
-    { subject: "Informática / TI", topic: "Segurança da Informação, Excel Avançado e Nuvem", incidence: "Média", weight: "15%" }
+    { subject: "Conhecimentos Bancários", topic: "Sistema Financeiro Nacional e Mercado de Capitais", status: "homologado" as const, label: "ALTA INCIDÊNCIA", weight: "25%" },
+    { subject: "Língua Portuguesa", topic: "Interpretação de Texto, Coesão e Sintaxe de Regência", status: "homologado" as const, label: "ALTA INCIDÊNCIA", weight: "20%" },
+    { subject: "Matemática Financeira", topic: "Juros Compostos, Sistemas de Amortização (SAC/Price)", status: "em_revisao" as const, label: "MÉDIA INCIDÊNCIA", weight: "15%" },
+    { subject: "Atendimento & Vendas", topic: "Técnicas de Negociação, Ética e LGPD Bancária", status: "em_revisao" as const, label: "MÉDIA INCIDÊNCIA", weight: "15%" },
+    { subject: "Informática / TI", topic: "Segurança da Informação, Excel Avançado e Nuvem", status: "em_revisao" as const, label: "MÉDIA INCIDÊNCIA", weight: "15%" }
   ];
 
   const historicalCuts = [
@@ -25,18 +24,18 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
   ];
 
   return (
-    <div className="space-y-5 pb-20 md:pb-8 animate-fade-in">
+    <div className="space-y-6 pb-20 font-sans animate-fade-in">
       {/* Header Bar */}
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-[var(--border-subtle)]">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-[var(--border-subtle)]">
         <div>
-          <div className="flex items-center gap-2">
-            <h1 className="text-xl font-bold text-[var(--text-primary)] tracking-tight">
-              Raio-X de Incidência da Banca
+          <div className="flex items-center gap-3">
+            <h1 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
+              Raio-X de Incidência do Edital
             </h1>
-            <Badge variant="brand">Pareto 80/20</Badge>
+            <CarimboStatus status="homologado" label="PARETO 80/20" />
           </div>
-          <p className="text-xs text-[var(--text-muted)] mt-0.5">
-            Mapeamento estatístico das matérias com maior peso e histórico de corte da <strong>{currentCareer.banca}</strong>
+          <p className="text-xs sm:text-sm text-[var(--text-muted)] mt-1">
+            Mapeamento estatístico das disciplinas com maior peso e histórico de corte na banca {currentCareer.banca}
           </p>
         </div>
       </div>
@@ -44,21 +43,21 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
       {/* Grid: Pareto 80/20 + Cut Score */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         {/* Cut Score Card */}
-        <Card className="p-5 space-y-3">
-          <div className="flex items-center gap-2">
-            <Award className="w-5 h-5 text-amber-400" />
-            <h3 className="font-semibold text-sm text-[var(--text-primary)]">
+        <Card className="p-6 space-y-4">
+          <div className="flex items-center justify-between">
+            <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
               Notas de Corte Históricas
             </h3>
+            <span className="font-mono text-xs text-[var(--text-muted)]">HISTÓRICO OFICIAL</span>
           </div>
-          <p className="text-xs text-[var(--text-muted)]">
-            Pontuação mínima necessária para aprovação nas últimas edições do concurso:
+          <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
+            Pontuação líquida mínima necessária para aprovação nas últimas edições do concurso:
           </p>
 
-          <div className="space-y-2 pt-1">
+          <div className="space-y-2 pt-1 font-mono">
             {historicalCuts.map((item, idx) => (
-              <div key={idx} className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between text-xs">
-                <span className="font-mono font-bold text-[var(--text-primary)]">{item.year}</span>
+              <div key={idx} className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between text-xs">
+                <span className="font-bold text-[var(--text-primary)]">{item.year}</span>
                 <span className="text-[var(--text-secondary)]">{item.score}</span>
               </div>
             ))}
@@ -66,39 +65,39 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
         </Card>
 
         {/* Strategy Advice */}
-        <Card className="p-5 space-y-3 border-[var(--accent-primary)]/30 bg-[var(--accent-primary-glow)]/10">
-          <div className="flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-[var(--accent-primary)]" />
-            <h3 className="font-semibold text-sm text-[var(--accent-primary)]">
-              Estratégia de Alta Performance
+        <Card className="p-6 space-y-4 border-l-4 border-l-[var(--accent-primary)]">
+          <div className="flex items-center justify-between">
+            <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+              Diretriz de Eficiência Técnica
             </h3>
+            <CarimboStatus status="em_revisao" label="METODOLOGIA" />
           </div>
           <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed">
-            O princípio de Pareto 80/20 indica que <strong>20% dos tópicos do edital respondem por 80% das questões de prova</strong>. Priorize o estudo verticalizado das disciplinas com maior incidência antes de tentar esgotar os tópicos periféricos.
+            O princípio de Pareto 80/20 demonstra que <strong>20% dos tópicos do edital concentram 80% das questões cobradas em prova</strong>. Priorize a fixação dos temas de alta incidência antes de se aprofundar em minúcias periféricas de baixo retorno.
           </p>
-          <div className="text-[11px] font-mono text-[var(--text-muted)]">
-            🎯 Meta do Gabarito.AI: Atingir 85%+ de acerto nos 5 tópicos de ouro.
+          <div className="font-mono text-[11px] text-[var(--text-muted)] pt-1 border-t border-[var(--border-subtle)]">
+            META DO EDITAL: Atingir 85%+ de acerto nos tópicos prioritários.
           </div>
         </Card>
       </div>
 
       {/* Top 5 Golden Topics Table */}
-      <Card className="p-5 space-y-4">
-        <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
-          <h3 className="font-semibold text-sm text-[var(--text-primary)]">
+      <Card className="p-6 space-y-4">
+        <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
+          <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
             Tópicos de Ouro ({currentCareer.name.split('—')[0]})
           </h3>
-          <Badge variant="warning">Top 5 Prioritários</Badge>
+          <CarimboStatus status="homologado" label="TOP 5 PRIORITÁRIOS" />
         </div>
 
-        <div className="space-y-2">
+        <div className="space-y-2.5">
           {topTopics.map((item, idx) => (
             <div 
               key={idx} 
-              className="p-3 sm:p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-2"
+              className="p-4 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-3"
             >
               <div className="space-y-1">
-                <div className="text-xs font-semibold text-[var(--text-primary)]">
+                <div className="text-xs sm:text-sm font-semibold text-[var(--text-primary)]">
                   {idx + 1}. {item.subject}
                 </div>
                 <div className="text-xs text-[var(--text-muted)]">
@@ -107,10 +106,10 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
               </div>
 
               <div className="flex items-center gap-3 self-end sm:self-center font-mono text-xs">
-                <Badge variant={item.incidence === 'Alta' ? 'danger' : 'warning'}>
-                  Incidência {item.incidence}
-                </Badge>
-                <span className="font-bold text-[var(--accent-success)]">{item.weight}</span>
+                <CarimboStatus status={item.status} label={item.label} />
+                <span className="font-bold text-[var(--accent-primary)] px-2 py-1 bg-[var(--bg-surface)] border border-[var(--border-subtle)] rounded">
+                  {item.weight}
+                </span>
               </div>
             </div>
           ))}

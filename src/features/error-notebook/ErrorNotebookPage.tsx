@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { Card, Button, Badge, BottomSheet } from '../../components/UIPrimitives';
+import { Card, Button, BottomSheet, CarimboStatus } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
-import { AlertCircle, CheckCircle2, RotateCcw, Edit3, Award, Sparkles, Filter, ChevronRight } from 'lucide-react';
 import { ErrorItem } from '../../types';
 
 interface ErrorNotebookPageProps {
@@ -75,28 +74,31 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
   };
 
   return (
-    <div className="space-y-5 pb-20 md:pb-8 animate-fade-in">
+    <div className="space-y-6 pb-20 font-sans animate-fade-in">
       {/* Header Bar */}
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-[var(--border-subtle)]">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-[var(--border-subtle)]">
         <div>
-          <div className="flex items-center gap-2">
-            <h1 className="text-xl font-bold text-[var(--text-primary)] tracking-tight">
-              Caderno de Erros Cirúrgico
+          <div className="flex items-center gap-3">
+            <h1 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
+              Caderno de Erros & Vulnerabilidades
             </h1>
-            <Badge variant="danger">{errorsList.filter(e => e.status === 'pending').length} Pendentes</Badge>
+            <CarimboStatus 
+              status={errorsList.filter(e => e.status === 'pending').length > 0 ? "vulneravel" : "homologado"} 
+              label={`${errorsList.filter(e => e.status === 'pending').length} PENDENTES`} 
+            />
           </div>
-          <p className="text-xs text-[var(--text-muted)] mt-0.5">
-            Captura automática de falhas com retreino de superação (+15 XP) e anotações pessoais
+          <p className="text-xs sm:text-sm text-[var(--text-muted)] mt-1">
+            Isolamento de falhas com retreino de superação (+15 XP) e notas técnicas pessoais
           </p>
         </div>
 
-        {/* Filter Pills */}
-        <div className="flex items-center gap-1 p-1 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)]">
+        {/* Filter Tabs */}
+        <div className="flex items-center gap-1 p-1 rounded bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-mono text-xs">
           <button
             onClick={() => setFilterStatus('pending')}
-            className={`px-3 py-1 rounded-md text-xs font-medium transition-colors ${
+            className={`px-3 py-1.5 rounded transition-colors ${
               filterStatus === 'pending'
-                ? 'bg-[var(--accent-danger)] text-white font-semibold'
+                ? 'bg-[var(--accent-primary)] text-white font-bold'
                 : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
             }`}
           >
@@ -104,9 +106,9 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
           </button>
           <button
             onClick={() => setFilterStatus('mastered')}
-            className={`px-3 py-1 rounded-md text-xs font-medium transition-colors ${
+            className={`px-3 py-1.5 rounded transition-colors ${
               filterStatus === 'mastered'
-                ? 'bg-[var(--accent-success)] text-white font-semibold'
+                ? 'bg-[var(--accent-primary)] text-white font-bold'
                 : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
             }`}
           >
@@ -114,9 +116,9 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
           </button>
           <button
             onClick={() => setFilterStatus('all')}
-            className={`px-3 py-1 rounded-md text-xs font-medium transition-colors ${
+            className={`px-3 py-1.5 rounded transition-colors ${
               filterStatus === 'all'
-                ? 'bg-[var(--bg-elevated)] text-[var(--text-primary)] font-semibold'
+                ? 'bg-[var(--bg-elevated)] text-[var(--text-primary)] font-bold'
                 : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
             }`}
           >
@@ -128,13 +130,13 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
       {/* Errors List */}
       <div className="space-y-3">
         {displayedErrors.length === 0 ? (
-          <Card className="text-center py-12 space-y-2">
-            <CheckCircle2 className="w-10 h-10 text-[var(--accent-success)] mx-auto" />
-            <h3 className="text-base font-bold text-[var(--text-primary)] tracking-tight">
-              Nenhum erro pendente!
+          <Card className="text-center py-12 space-y-3">
+            <CarimboStatus status="homologado" label="CADERNO 100% ZERADO" />
+            <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
+              Nenhuma vulnerabilidade pendente
             </h3>
-            <p className="text-xs text-[var(--text-muted)]">
-              Você dominou todos os itens do caderno de erros ou ainda não cometeu falhas nos simulados.
+            <p className="text-xs text-[var(--text-muted)] max-w-md mx-auto">
+              Você superou todos os itens do caderno de erros ou ainda não registrou falhas nos simulados oficiais.
             </p>
           </Card>
         ) : (
@@ -145,139 +147,116 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                 key={item.id}
                 hoverable={true}
                 onClick={() => handleOpenRetry(item)}
-                className={`p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-4 ${
-                  isMastered ? 'border-[var(--accent-success)]/30 bg-[var(--accent-success-glow)]/10' : 'border-red-900/30'
+                className={`p-5 flex flex-col sm:flex-row sm:items-center justify-between gap-4 border ${
+                  isMastered ? 'border-[var(--color-status-success)]/30' : 'border-[var(--color-status-danger)]/30'
                 }`}
               >
-                <div className="space-y-1.5 flex-1">
-                  <div className="flex items-center gap-2">
-                    <Badge variant={isMastered ? 'success' : 'danger'}>
-                      {isMastered ? 'SUPERADO' : 'PENDENTE'}
-                    </Badge>
-                    <span className="text-xs font-semibold text-[var(--text-primary)]">{item.subject}</span>
-                    {item.topic && (
-                      <span className="text-[11px] text-[var(--text-muted)] font-mono">• {item.topic}</span>
-                    )}
+                <div className="space-y-1.5 max-w-3xl">
+                  <div className="flex flex-wrap items-center gap-2">
+                    <CarimboStatus status={isMastered ? "homologado" : "vulneravel"} label={isMastered ? "SUPERADO" : "PENDENTE"} />
+                    <span className="font-mono text-xs font-semibold text-[var(--text-primary)]">{item.subject}</span>
+                    <span className="text-[var(--text-muted)]">•</span>
+                    <span className="font-mono text-xs text-[var(--text-muted)]">{item.topic}</span>
                   </div>
-                  <p className="text-xs sm:text-sm text-[var(--text-primary)] font-medium line-clamp-2">
+
+                  <p className="text-xs sm:text-sm text-[var(--text-primary)] font-medium line-clamp-2 leading-relaxed">
                     {item.question_text}
                   </p>
+
                   {item.personal_notes && (
-                    <p className="text-[11px] text-amber-400 italic">
-                      📝 Nota: "{item.personal_notes}"
-                    </p>
+                    <div className="font-mono text-xs text-[var(--accent-primary)] bg-[var(--bg-elevated)] px-2.5 py-1 rounded border border-[var(--border-subtle)] inline-block">
+                      NOTA: {item.personal_notes}
+                    </div>
                   )}
                 </div>
 
-                <div className="flex items-center gap-2 self-end sm:self-center shrink-0">
-                  <Button
-                    size="sm"
-                    variant={isMastered ? 'outline' : 'primary'}
-                    icon={RotateCcw}
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      handleOpenRetry(item);
-                    }}
-                  >
-                    {isMastered ? 'Rever' : 'Retreinar'}
-                  </Button>
-                </div>
+                <Button
+                  variant={isMastered ? "outline" : "brand"}
+                  size="sm"
+                  className="font-mono text-xs shrink-0"
+                >
+                  {isMastered ? 'Revisar' : 'Retreinar Item'}
+                </Button>
               </Card>
             );
           })
         )}
       </div>
 
-      {/* Bottom Sheet for Retraining & Personal Notes */}
-      <BottomSheet
-        isOpen={!!selectedError}
-        onClose={() => setSelectedError(null)}
-        title={selectedError ? `Retreino: ${selectedError.subject}` : 'Retreino'}
-      >
-        {selectedError && (
-          <div className="space-y-4">
-            <p className="text-xs sm:text-sm text-[var(--text-primary)] font-medium leading-relaxed">
+      {/* Retreino Modal */}
+      {selectedError && (
+        <BottomSheet
+          isOpen={!!selectedError}
+          onClose={() => setSelectedError(null)}
+          title={`Retreino de Item • ${selectedError.subject}`}
+        >
+          <div className="space-y-4 font-sans text-xs sm:text-sm">
+            <p className="text-[var(--text-primary)] font-medium leading-relaxed">
               {selectedError.question_text}
             </p>
 
-            <div className="p-2.5 rounded-lg bg-[var(--bg-elevated)] text-[11px] font-mono text-[var(--text-muted)] flex justify-between">
-              <span>Sua resposta anterior: <strong className="text-[var(--accent-danger)]">Letra {selectedError.user_answer}</strong></span>
-              <span>Banca: <strong>{selectedError.banca}</strong></span>
-            </div>
-
-            {/* Quick Option Selector for Retry */}
-            <div className="space-y-2">
-              <div className="text-xs font-mono text-[var(--text-muted)] uppercase">
-                Escolha a alternativa correta:
-              </div>
-              <div className="grid grid-cols-5 gap-2 font-mono font-bold text-sm">
-                {['A', 'B', 'C', 'D', 'E'].map((opt) => (
-                  <button
-                    key={opt}
-                    onClick={() => setRetryOption(opt)}
-                    className={`h-11 rounded-lg border transition-all ${
-                      retryOption === opt
-                        ? 'bg-[var(--btn-primary-bg)] text-[var(--btn-primary-text)] border-[var(--btn-primary-bg)]'
-                        : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-primary)] hover:border-[var(--border-focus)]'
-                    }`}
-                  >
-                    {opt}
-                  </button>
-                ))}
-              </div>
+            <div className="grid grid-cols-5 gap-2 pt-2">
+              {['A', 'B', 'C', 'D', 'E'].map((opt) => (
+                <button
+                  key={opt}
+                  onClick={() => setRetryOption(opt)}
+                  className={`h-11 rounded font-mono font-bold text-sm transition-all border ${
+                    retryOption === opt
+                      ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)]'
+                      : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-primary)] hover:border-[var(--border-focus)]'
+                  }`}
+                >
+                  {opt}
+                </button>
+              ))}
             </div>
 
             <Button
-              size="md"
               variant="brand"
               fullWidth={true}
-              disabled={!retryOption}
               onClick={handleExecuteRetry}
+              disabled={!retryOption}
+              className="font-bold mt-2"
             >
-              Validar Superação (+15 XP)
+              Confirmar Resposta de Retreino
             </Button>
 
-            {/* Retry Feedback */}
             {retryResult && (
-              <div className={`p-3.5 rounded-xl border space-y-1.5 animate-fade-in ${
-                retryResult.correct 
-                  ? 'bg-[var(--accent-success-glow)] border-[var(--accent-success)] text-[var(--accent-success)]'
-                  : 'bg-[var(--accent-danger-glow)] border-[var(--accent-danger)] text-[var(--accent-danger)]'
-              }`}>
-                <div className="font-semibold text-xs flex items-center gap-1.5 font-mono">
-                  {retryResult.correct ? <CheckCircle2 className="w-4 h-4" /> : <AlertCircle className="w-4 h-4" />}
-                  {retryResult.correct ? '🎉 PARABÉNS! Questão superada com sucesso (+15 XP)!' : '❌ Incorreto! Leia a fundamentação abaixo:'}
-                </div>
-                <p className="text-xs text-[var(--text-primary)] leading-relaxed">
+              <div className="p-4 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 animate-fade-in">
+                <CarimboStatus 
+                  status={retryResult.correct ? "homologado" : "vulneravel"} 
+                  label={retryResult.correct ? "ACERTOU • SUPERAÇÃO HOMOLOGADA (+15 XP)" : "INCORRETO • MANTIDO NO CADERNO"} 
+                />
+                <p className="text-[var(--text-secondary)] text-xs leading-relaxed">
                   {retryResult.explanation}
                 </p>
               </div>
             )}
 
-            {/* Personal Notes Box */}
+            {/* Anotação Técnica */}
             <div className="space-y-1.5 pt-2 border-t border-[var(--border-subtle)]">
-              <label className="text-xs font-semibold text-[var(--text-primary)] flex items-center gap-1.5">
-                <Edit3 className="w-3.5 h-3.5 text-amber-400" /> Anotação Pessoal de Fixação
+              <label className="font-mono text-xs text-[var(--text-muted)] uppercase">
+                Anotação Técnica Pessoal:
               </label>
               <textarea
                 value={notes}
                 onChange={(e) => setNotes(e.target.value)}
-                placeholder="Ex: Não confundir convalidação com anulação; competência exclusiva nunca admite..."
-                rows={3}
-                className="w-full p-2.5 rounded-lg text-xs bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                placeholder="Ex: Artigo de lei ou mnemônico chave para não errar..."
+                rows={2}
+                className="w-full p-2.5 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans"
               />
               <Button
-                size="sm"
                 variant="outline"
+                size="sm"
                 fullWidth={true}
                 onClick={handleSaveNotes}
               >
-                Salvar Anotação Pessoal
+                Salvar Nota Técnica
               </Button>
             </div>
           </div>
-        )}
-      </BottomSheet>
+        </BottomSheet>
+      )}
     </div>
   );
 };

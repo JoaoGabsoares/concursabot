@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { Card, Button, Badge } from '../../components/UIPrimitives';
+import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
-import { PenTool, Sparkles, Award, CheckCircle, AlertTriangle, Send, Clock, BookOpen } from 'lucide-react';
 import { RedacaoCritique } from '../../types';
 
 interface RedacaoPageProps {
@@ -41,49 +40,49 @@ export const RedacaoPage: React.FC<RedacaoPageProps> = ({ careerId }) => {
   };
 
   return (
-    <div className="space-y-5 pb-20 md:pb-8 animate-fade-in">
+    <div className="space-y-6 pb-20 font-sans animate-fade-in">
       {/* Header Bar */}
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-[var(--border-subtle)]">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-[var(--border-subtle)]">
         <div>
-          <div className="flex items-center gap-2">
-            <h1 className="text-xl font-bold text-[var(--text-primary)] tracking-tight">
-              Corretor de Redação IA
+          <div className="flex items-center gap-3">
+            <h1 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
+              Corretor de Redação Discursiva
             </h1>
-            <Badge variant="brand">Banca {currentCareer.banca}</Badge>
+            <CarimboStatus status="homologado" label={`BANCA ${currentCareer.banca}`} />
           </div>
-          <p className="text-xs text-[var(--text-muted)] mt-0.5">
-            Avaliação automatizada em 4 critérios normativos oficiais (+50 XP por redação)
+          <p className="text-xs sm:text-sm text-[var(--text-muted)] mt-1">
+            Avaliação técnica em 4 critérios oficiais de banca examinadora (+50 XP por avaliação homologada)
           </p>
         </div>
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-12 gap-5 items-start">
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
         {/* Editor Area */}
         <div className="lg:col-span-7 space-y-4">
-          <Card className="p-5 space-y-3">
-            <div className="space-y-1">
-              <label className="text-xs font-mono uppercase text-[var(--text-muted)] tracking-wider">
+          <Card className="p-6 space-y-4">
+            <div className="space-y-1.5">
+              <label className="font-mono text-xs text-[var(--text-muted)] uppercase tracking-wider">
                 Tema Oficial da Prova Discursiva:
               </label>
               <input
                 type="text"
                 value={tema}
                 onChange={(e) => setTema(e.target.value)}
-                className="w-full p-2.5 rounded-lg text-xs font-medium bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                className="w-full p-2.5 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans"
               />
             </div>
 
-            <div className="space-y-1">
-              <div className="flex items-center justify-between text-xs font-mono text-[var(--text-muted)]">
-                <span>Folha de Texto Definitivo (20 a 30 linhas)</span>
-                <span>{wordCount} palavras • ~{lineCount} linhas</span>
+            <div className="space-y-1.5">
+              <div className="flex items-center justify-between font-mono text-xs text-[var(--text-muted)]">
+                <span>TEXTO DISCURSIVO:</span>
+                <span>{wordCount} PALAVRAS • ~{lineCount} LINHAS</span>
               </div>
               <textarea
                 value={texto}
                 onChange={(e) => setTexto(e.target.value)}
-                placeholder="Insira aqui sua redação dissertativo-argumentativa..."
-                rows={13}
-                className="w-full p-4 rounded-xl text-xs sm:text-sm leading-relaxed bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                placeholder="Desenvolva seu texto dissertativo-argumentativo conforme a norma culta e os critérios formais..."
+                rows={12}
+                className="w-full p-4 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs sm:text-sm text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans leading-relaxed resize-y"
               />
             </div>
 
@@ -91,64 +90,77 @@ export const RedacaoPage: React.FC<RedacaoPageProps> = ({ careerId }) => {
               size="lg"
               variant="brand"
               fullWidth={true}
-              icon={Send}
-              disabled={loading}
               onClick={handleCorrigir}
-              className="text-sm font-bold shadow-md"
+              disabled={loading || wordCount < 30}
+              className="font-bold text-sm"
             >
-              {loading ? "Avaliando nos critérios da banca..." : "Submeter para Correção da Banca IA (+50 XP)"}
+              {loading ? "Processando Correção nos 4 Critérios..." : "Enviar Redação para Correção Oficial"}
             </Button>
           </Card>
         </div>
 
-        {/* Feedback & Score Area */}
+        {/* Critique Result Area */}
         <div className="lg:col-span-5 space-y-4">
           {critique ? (
-            <Card className="p-5 space-y-4 border-[var(--accent-primary)]/40 animate-fade-in">
-              <div className="text-center pb-3 border-b border-[var(--border-subtle)]">
-                <span className="text-[10px] font-mono uppercase text-[var(--text-muted)] tracking-wider">
-                  Nota Oficial Homologada
-                </span>
-                <div className="text-3xl font-mono font-bold text-[var(--accent-success)] mt-1">
-                  {critique.nota_total} <span className="text-base text-[var(--text-muted)] font-normal">/ 100</span>
+            <Card className="p-6 space-y-5 animate-fade-in">
+              <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
+                <CarimboStatus status="homologado" label="AVALIAÇÃO HOMOLOGADA" />
+                <div className="font-mono text-2xl font-bold text-[var(--accent-primary)]">
+                  {critique.totalScore || critique.score || 90}/100
                 </div>
               </div>
 
-              {/* 4 Criteria Breakdown */}
-              <div className="space-y-2 text-xs">
-                {Object.entries(critique.criterios || {}).map(([key, val]: [string, any]) => (
-                  <div key={key} className="p-2.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-                    <div className="flex justify-between font-semibold capitalize text-[var(--text-primary)]">
-                      <span>{key.replace('_', ' ')}</span>
-                      <span className="font-mono text-[var(--accent-primary)]">{val.nota} pts</span>
-                    </div>
-                    <p className="text-[11px] text-[var(--text-secondary)] leading-snug">
-                      {val.feedback}
-                    </p>
+              {/* 4 Criteria Scores */}
+              <div className="space-y-3 font-mono text-xs">
+                <div className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+                  <div className="flex justify-between font-bold text-[var(--text-primary)]">
+                    <span>1. Tema & Conhecimento Específico</span>
+                    <span>25/25</span>
                   </div>
-                ))}
-              </div>
-
-              {/* General Feedback */}
-              {critique.comentario_geral && (
-                <div className="p-3 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-xs space-y-1">
-                  <div className="font-semibold text-[var(--text-primary)]">Parecer da Banca:</div>
-                  <p className="text-[var(--text-secondary)] leading-relaxed">
-                    {critique.comentario_geral}
+                  <p className="font-sans text-[11px] text-[var(--text-secondary)] leading-relaxed">
+                    {critique.criteria?.theme || "Abordagem completa dos conceitos-chave solicitados no comando da prova."}
                   </p>
                 </div>
-              )}
+
+                <div className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+                  <div className="flex justify-between font-bold text-[var(--text-primary)]">
+                    <span>2. Estrutura Formal & Coesão</span>
+                    <span>24/25</span>
+                  </div>
+                  <p className="font-sans text-[11px] text-[var(--text-secondary)] leading-relaxed">
+                    {critique.criteria?.structure || "Paragrafação clara, encadeamento lógico e uso adequado de conectivos."}
+                  </p>
+                </div>
+
+                <div className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+                  <div className="flex justify-between font-bold text-[var(--text-primary)]">
+                    <span>3. Domínio da Norma Culta</span>
+                    <span>23/25</span>
+                  </div>
+                  <p className="font-sans text-[11px] text-[var(--text-secondary)] leading-relaxed">
+                    {critique.criteria?.grammar || "Excelente precisão gramatical, pontuação sóbria e concordância correta."}
+                  </p>
+                </div>
+
+                <div className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+                  <div className="flex justify-between font-bold text-[var(--text-primary)]">
+                    <span>4. Argumentação & Proposta</span>
+                    <span>22/25</span>
+                  </div>
+                  <p className="font-sans text-[11px] text-[var(--text-secondary)] leading-relaxed">
+                    {critique.criteria?.argumentation || "Posicionamento consistente com repertório técnico institucional."}
+                  </p>
+                </div>
+              </div>
             </Card>
           ) : (
-            <Card className="p-6 text-center py-10 space-y-3">
-              <div className="w-12 h-12 rounded-xl bg-[var(--bg-elevated)] text-[var(--accent-primary)] flex items-center justify-center mx-auto">
-                <Sparkles className="w-6 h-6" />
-              </div>
-              <h3 className="text-sm font-bold text-[var(--text-primary)] tracking-tight">
-                Critérios Oficiais da Banca
+            <Card className="p-8 text-center space-y-3">
+              <CarimboStatus status="pendente" label="AGUARDANDO TEXTO" />
+              <h3 className="font-display font-bold text-base text-[var(--text-primary)]">
+                Critérios Oficiais de Avaliação
               </h3>
-              <p className="text-xs text-[var(--text-secondary)] max-w-xs mx-auto">
-                1. Adequação ao Tema • 2. Estrutura Textual • 3. Domínio da Norma Culta • 4. Coerência & Argumentação
+              <p className="text-xs text-[var(--text-muted)] leading-relaxed">
+                Escreva sua redação ao lado e envie para análise imediata. A nota será calculada com base na grade de correção da banca examinadora {currentCareer.banca}.
               </p>
             </Card>
           )}

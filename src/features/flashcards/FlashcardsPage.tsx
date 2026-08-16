@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { Card, Button, Badge } from '../../components/UIPrimitives';
+import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
-import { Layers, RotateCcw, CheckCircle2, Sparkles, HelpCircle, ArrowRight } from 'lucide-react';
 import { Flashcard } from '../../types';
 
 interface FlashcardsPageProps {
@@ -61,23 +60,23 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
   };
 
   return (
-    <div className="space-y-5 pb-20 md:pb-8 max-w-2xl mx-auto animate-fade-in">
+    <div className="space-y-6 pb-20 max-w-2xl mx-auto font-sans animate-fade-in">
       {/* Header Bar */}
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-[var(--border-subtle)]">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-[var(--border-subtle)]">
         <div>
-          <div className="flex items-center gap-2">
-            <h1 className="text-xl font-bold text-[var(--text-primary)] tracking-tight">
+          <div className="flex items-center gap-3">
+            <h1 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
               Flashcards SM-2
             </h1>
-            <Badge variant="brand">Repetição Espaçada</Badge>
+            <CarimboStatus status="homologado" label="ALGORITMO SM-2" />
           </div>
-          <p className="text-xs text-[var(--text-muted)] mt-0.5">
-            Algoritmo inteligente de retenção mnemônica de longo prazo
+          <p className="text-xs sm:text-sm text-[var(--text-muted)] mt-1">
+            Repetição espaçada para consolidação de longo prazo
           </p>
         </div>
 
         <div className="font-mono text-xs text-[var(--text-muted)]">
-          Card {currentIndex + 1} de {sampleFlashcards.length}
+          CARD {currentIndex + 1} DE {sampleFlashcards.length}
         </div>
       </div>
 
@@ -85,48 +84,48 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
       <Card
         hoverable={true}
         onClick={() => setFlipped(!flipped)}
-        className="min-h-[280px] sm:min-h-[320px] flex flex-col justify-between p-6 sm:p-8 cursor-pointer select-none border border-[var(--border-subtle)] bg-[var(--bg-surface)] text-center transition-all shadow-lg hover:border-[var(--border-focus)]"
+        className="min-h-[300px] sm:min-h-[340px] flex flex-col justify-between p-6 sm:p-8 cursor-pointer select-none text-center"
       >
-        <div className="flex justify-between items-center text-xs font-mono text-[var(--text-muted)]">
-          <Badge variant="default">{currentCard.subject}</Badge>
-          <span>Toque no card para virar 🔄</span>
+        <div className="flex justify-between items-center text-xs font-mono">
+          <CarimboStatus status="pendente" label={currentCard.subject} />
+          <span className="text-[var(--text-muted)]">[ CLIQUE PARA VIRAR ]</span>
         </div>
 
         <div className="my-auto py-6">
           {!flipped ? (
             <div className="space-y-3 animate-fade-in">
-              <span className="text-[11px] font-mono text-[var(--text-muted)] uppercase tracking-wider">
-                Pergunta / Conceito
+              <span className="font-mono text-xs uppercase tracking-wider text-[var(--text-muted)]">
+                Conceito / Pergunta Técnica:
               </span>
-              <h2 className="text-base sm:text-lg font-semibold text-[var(--text-primary)] leading-relaxed">
+              <h2 className="font-display font-bold text-lg sm:text-xl text-[var(--text-primary)] leading-relaxed">
                 {currentCard.front}
               </h2>
             </div>
           ) : (
-            <div className="space-y-3 animate-fade-in">
-              <span className="text-[11px] font-mono text-[var(--accent-primary)] uppercase tracking-wider font-bold">
-                Resposta / Gabarito
+            <div className="space-y-3 animate-fade-in text-left">
+              <span className="font-mono text-xs font-bold text-[var(--accent-primary)] uppercase tracking-wider">
+                Gabarito Técnico:
               </span>
-              <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed whitespace-pre-line text-left bg-[var(--bg-elevated)] p-4 rounded-xl border border-[var(--border-subtle)]">
+              <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed whitespace-pre-line bg-[var(--bg-elevated)] p-4 rounded border border-[var(--border-subtle)] font-mono">
                 {currentCard.back}
               </p>
             </div>
           )}
         </div>
 
-        <div className="text-[11px] text-[var(--text-muted)]">
-          {flipped ? "Avalie sua retenção abaixo:" : "Clique para revelar a resposta"}
+        <div className="font-mono text-xs text-[var(--text-muted)]">
+          {flipped ? "Classifique sua retenção para calcular a próxima revisão:" : "Toque no card para inspecionar a resposta"}
         </div>
       </Card>
 
       {/* SM-2 Rating Buttons (Only shown when flipped) */}
       {flipped && (
-        <div className="grid grid-cols-4 gap-2 animate-fade-in">
+        <div className="grid grid-cols-4 gap-2 animate-fade-in font-mono">
           <Button
             size="md"
             variant="danger"
             onClick={handleNext}
-            className="text-xs font-semibold"
+            className="text-xs font-bold"
           >
             Errei (1d)
           </Button>
@@ -134,7 +133,7 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
             size="md"
             variant="secondary"
             onClick={handleNext}
-            className="text-xs font-semibold text-amber-400"
+            className="text-xs font-bold text-[var(--accent-warning)]"
           >
             Difícil (3d)
           </Button>
@@ -142,7 +141,7 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
             size="md"
             variant="secondary"
             onClick={handleNext}
-            className="text-xs font-semibold text-sky-400"
+            className="text-xs font-bold text-[var(--accent-primary)]"
           >
             Bom (7d)
           </Button>
@@ -150,7 +149,7 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
             size="md"
             variant="brand"
             onClick={handleNext}
-            className="text-xs font-semibold"
+            className="text-xs font-bold"
           >
             Fácil (15d)
           </Button>

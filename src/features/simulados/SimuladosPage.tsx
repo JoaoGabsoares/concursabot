@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { Card, Button, Badge } from '../../components/UIPrimitives';
+import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
-import { Target, Clock, Award, CheckCircle2, XCircle, RotateCcw, Printer, Play } from 'lucide-react';
 
 interface SimuladosPageProps {
   careerId: string;
@@ -96,40 +95,38 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
   if (!examRunning && !finished) {
     return (
-      <div className="space-y-6 pb-20 md:pb-8 max-w-3xl mx-auto animate-fade-in">
-        <div className="text-center space-y-2 pt-4">
-          <div className="w-12 h-12 rounded-xl bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/30 flex items-center justify-center mx-auto mb-3">
-            <Target className="w-6 h-6" />
-          </div>
-          <h1 className="text-2xl font-bold text-[var(--text-primary)] tracking-tight">
-            Simulador de Prova Oficial
+      <div className="space-y-6 pb-20 max-w-3xl mx-auto font-sans animate-fade-in">
+        <div className="text-center space-y-3 pt-6">
+          <CarimboStatus status="em_revisao" label="SIMULADO OFICIAL DE PROVA" />
+          <h1 className="font-display font-bold text-3xl sm:text-4xl text-[var(--text-primary)] tracking-tight">
+            Simulador de Prova Cronometrado
           </h1>
-          <p className="text-xs sm:text-sm text-[var(--text-secondary)] max-w-md mx-auto">
-            Treinamento de alta pressão cronometrado no padrão estrito da banca <strong>{currentCareer.banca}</strong>
+          <p className="text-xs sm:text-sm text-[var(--text-secondary)] max-w-lg mx-auto leading-relaxed">
+            Ambiente de treino sob pressão cronometrada no padrão estrito da banca {currentCareer.banca}.
           </p>
         </div>
 
-        <Card className="p-6 space-y-5">
+        <Card className="p-6 sm:p-8 space-y-6">
           <div className="space-y-3">
-            <h3 className="text-xs font-mono font-bold uppercase tracking-wider text-[var(--text-muted)]">
-              Parâmetros do Simulado
+            <h3 className="font-mono text-xs font-bold uppercase tracking-wider text-[var(--text-muted)]">
+              Parâmetros Oficiais do Certame
             </h3>
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-center">
-              <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-                <div className="text-[11px] text-[var(--text-muted)]">Carreira</div>
-                <div className="text-xs font-semibold text-[var(--text-primary)] mt-0.5 truncate">{currentCareer.name.split('—')[0]}</div>
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-center font-mono">
+              <div className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+                <div className="text-[10px] text-[var(--text-muted)] uppercase">Carreira</div>
+                <div className="text-xs font-bold text-[var(--text-primary)] mt-1 truncate">{currentCareer.name.split('—')[0]}</div>
               </div>
-              <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-                <div className="text-[11px] text-[var(--text-muted)]">Banca</div>
-                <div className="text-xs font-semibold text-[var(--text-primary)] mt-0.5">{currentCareer.banca}</div>
+              <div className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+                <div className="text-[10px] text-[var(--text-muted)] uppercase">Banca</div>
+                <div className="text-xs font-bold text-[var(--text-primary)] mt-1">{currentCareer.banca}</div>
               </div>
-              <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-                <div className="text-[11px] text-[var(--text-muted)]">Questões</div>
-                <div className="text-xs font-semibold text-[var(--text-primary)] mt-0.5">3 Itens Oficiais</div>
+              <div className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+                <div className="text-[10px] text-[var(--text-muted)] uppercase">Questões</div>
+                <div className="text-xs font-bold text-[var(--text-primary)] mt-1">{mockQuestions.length} Itens</div>
               </div>
-              <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-                <div className="text-[11px] text-[var(--text-muted)]">Tempo Médio</div>
-                <div className="text-xs font-semibold text-[var(--text-primary)] mt-0.5">3 min / item</div>
+              <div className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+                <div className="text-[10px] text-[var(--text-muted)] uppercase">Tempo Estimado</div>
+                <div className="text-xs font-bold text-[var(--text-primary)] mt-1">3 min / item</div>
               </div>
             </div>
           </div>
@@ -138,13 +135,12 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
             size="lg"
             variant="brand"
             fullWidth={true}
-            icon={Play}
             onClick={() => {
               setExamRunning(true);
               setSecondsElapsed(0);
               setAnswers({});
             }}
-            className="font-bold text-sm shadow-md"
+            className="font-bold text-sm"
           >
             Iniciar Simulado Cronometrado
           </Button>
@@ -157,20 +153,19 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
   const scoreResult = calculateScore();
 
   return (
-    <div className="space-y-5 pb-20 md:pb-8 max-w-4xl mx-auto animate-fade-in">
+    <div className="space-y-6 pb-20 max-w-4xl mx-auto font-sans animate-fade-in">
       {/* Top Status Bar */}
-      <div className="glass-panel p-4 rounded-xl flex items-center justify-between">
-        <div className="flex items-center gap-2">
-          <span className="font-mono font-bold text-sm text-[var(--text-primary)]">
-            Questão {currentQuestionIndex + 1} de {mockQuestions.length}
+      <div className="p-4 rounded bg-[var(--bg-surface)] border border-[var(--border-subtle)] flex items-center justify-between">
+        <div className="flex items-center gap-3">
+          <span className="font-mono font-bold text-xs sm:text-sm text-[var(--text-primary)]">
+            ITEM {currentQuestionIndex + 1} DE {mockQuestions.length}
           </span>
-          <Badge variant="default">{currentQ.subject}</Badge>
+          <CarimboStatus status="pendente" label={currentQ.subject} />
         </div>
 
-        <div className="flex items-center gap-3 font-mono text-sm">
-          <div className="flex items-center gap-1.5 text-amber-400">
-            <Clock className="w-4 h-4" />
-            <span>{formatTimer(secondsElapsed)}</span>
+        <div className="flex items-center gap-4 font-mono text-xs sm:text-sm">
+          <div className="text-[var(--accent-primary)] font-bold">
+            TEMPO: {formatTimer(secondsElapsed)}
           </div>
 
           {!finished && (
@@ -178,7 +173,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
               size="sm"
               variant="outline"
               onClick={() => {
-                if (window.confirm("Deseja finalizar o simulado e gerar o relatório de desempenho?")) {
+                if (window.confirm("Deseja finalizar o simulado e gerar a ata de desempenho?")) {
                   setFinished(true);
                 }
               }}
@@ -190,7 +185,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
       </div>
 
       {/* Question Card */}
-      <Card className="p-6 space-y-4">
+      <Card className="p-6 space-y-5">
         <p className="text-sm font-medium text-[var(--text-primary)] leading-relaxed">
           {currentQ.question}
         </p>
@@ -203,9 +198,9 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
             if (finished) {
               if (key === currentQ.answer) {
-                style = "border-[var(--accent-success)] bg-[var(--accent-success-glow)] text-[var(--accent-success)] font-semibold";
+                style = "border-[var(--color-status-success)] bg-[var(--color-status-success-bg)] text-[var(--accent-success)] font-semibold";
               } else if (isSelected) {
-                style = "border-[var(--accent-danger)] bg-[var(--accent-danger-glow)] text-[var(--accent-danger)] font-medium";
+                style = "border-[var(--color-status-danger)] bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)] font-medium";
               } else {
                 style = "opacity-35 border-[var(--border-subtle)] bg-[var(--bg-surface)] text-[var(--text-muted)]";
               }
@@ -218,9 +213,9 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                 key={key}
                 onClick={() => handleSelect(key)}
                 disabled={finished}
-                className={`w-full text-left p-3.5 rounded-xl text-xs sm:text-sm transition-all flex items-start gap-3 border ${style}`}
+                className={`w-full text-left p-3.5 rounded text-xs sm:text-sm transition-all flex items-start gap-3 border ${style}`}
               >
-                <span className="w-6 h-6 rounded-md bg-[var(--bg-surface)] flex items-center justify-center font-mono font-bold shrink-0 text-xs">
+                <span className="w-5 h-5 rounded bg-[var(--bg-surface)] flex items-center justify-center font-mono font-bold shrink-0 text-xs border border-[var(--border-subtle)]">
                   {key}
                 </span>
                 <span className="flex-1 leading-normal">{optText}</span>
@@ -231,11 +226,11 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
         {/* Explanation on finish */}
         {finished && (
-          <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1.5 animate-fade-in text-xs sm:text-sm">
-            <div className="font-semibold text-[var(--accent-success)] font-mono flex items-center gap-1.5">
-              <CheckCircle2 className="w-4 h-4" /> Gabarito Oficial da Banca: Letra {currentQ.answer}
+          <div className="p-4 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1.5 animate-fade-in text-xs font-mono">
+            <div className="font-bold text-[var(--accent-success)]">
+              [ GABARITO HOMOLOGADO: LETRA {currentQ.answer} ]
             </div>
-            <p className="text-[var(--text-secondary)] leading-relaxed">
+            <p className="text-[var(--text-secondary)] font-sans text-xs leading-relaxed">
               {currentQ.explanation}
             </p>
           </div>
@@ -252,12 +247,12 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
             Anterior
           </Button>
 
-          <div className="flex gap-1.5">
+          <div className="flex gap-1">
             {mockQuestions.map((_, idx) => (
               <button
                 key={idx}
                 onClick={() => setCurrentQuestionIndex(idx)}
-                className={`w-7 h-7 rounded-md font-mono text-xs font-bold transition-colors ${
+                className={`w-7 h-7 rounded font-mono text-xs font-bold transition-colors ${
                   currentQuestionIndex === idx
                     ? 'bg-[var(--accent-primary)] text-white'
                     : answers[idx]
@@ -272,7 +267,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
           <Button
             size="sm"
-            variant="primary"
+            variant="brand"
             onClick={() => {
               if (currentQuestionIndex < mockQuestions.length - 1) {
                 setCurrentQuestionIndex(currentQuestionIndex + 1);
@@ -281,34 +276,31 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
               }
             }}
           >
-            {currentQuestionIndex < mockQuestions.length - 1 ? 'Próxima' : finished ? 'Ver Resultado' : 'Finalizar'}
+            {currentQuestionIndex < mockQuestions.length - 1 ? 'Próxima' : finished ? 'Ver Ata Final' : 'Finalizar'}
           </Button>
         </div>
       </Card>
 
       {/* Result Card Modal on Finish */}
       {finished && (
-        <Card className="p-6 text-center space-y-4 border border-[var(--border-focus)] bg-[var(--bg-surface)] shadow-2xl">
-          <div className="w-12 h-12 rounded-xl bg-[var(--accent-success-glow)] text-[var(--accent-success)] flex items-center justify-center mx-auto">
-            <Award className="w-6 h-6" />
-          </div>
+        <Card className="p-6 sm:p-8 text-center space-y-4 border border-[var(--border-focus)] bg-[var(--bg-surface)] shadow-2xl">
+          <CarimboStatus status="homologado" label="RESULTADO HOMOLOGADO" />
           <div>
-            <h2 className="text-xl font-bold text-[var(--text-primary)] tracking-tight">
-              Resultado Homologado
+            <h2 className="font-display font-bold text-2xl text-[var(--text-primary)] tracking-tight">
+              Ata de Desempenho Oficial
             </h2>
-            <div className="text-3xl font-mono font-bold text-[var(--accent-success)] mt-1">
+            <div className="font-mono text-4xl font-bold text-[var(--accent-primary)] mt-2">
               {scoreResult.percentage}% de Acerto
             </div>
-            <p className="text-xs text-[var(--text-secondary)] mt-1">
-              {scoreResult.correct} acertos de {scoreResult.total} questões em {formatTimer(secondsElapsed)}
+            <p className="font-mono text-xs text-[var(--text-secondary)] mt-1">
+              {scoreResult.correct} acertos de {scoreResult.total} itens • Tempo total: {formatTimer(secondsElapsed)}
             </p>
           </div>
 
-          <div className="flex gap-2 justify-center pt-2">
+          <div className="flex gap-3 justify-center pt-3">
             <Button
               variant="outline"
               size="sm"
-              icon={RotateCcw}
               onClick={() => {
                 setFinished(false);
                 setExamRunning(false);
@@ -318,12 +310,11 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
               Novo Simulado
             </Button>
             <Button
-              variant="primary"
+              variant="brand"
               size="sm"
-              icon={Printer}
               onClick={() => window.print()}
             >
-              Imprimir Folha Oficial
+              Imprimir Ata Oficial
             </Button>
           </div>
         </Card>
