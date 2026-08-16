@@ -22,13 +22,29 @@ export async function request<T>(endpoint: string, options: RequestInit = {}): P
 }
 
 export const api = {
-  // Users & Profile
+  // Users & Profile (Full CRUD + Aliases)
   getUsers: () => request<UserProfile[]>('/users'),
+  getUserProfiles: () => request<any[]>('/users'),
   getUser: (id: string) => request<UserProfile>(`/users/${id}`),
+  getUserProfile: (id: string) => request<any>(`/users/${id}`),
   createUser: (name: string, careerId: string) => 
-    request<UserProfile>('/users', { method: 'POST', body: JSON.stringify({ name, careerId }) }),
+    request<UserProfile>('/users', { method: 'POST', body: JSON.stringify({ name, active_career_id: careerId }) }),
+  createUserProfile: (payload: { name: string; active_career_id?: string; daily_hours?: number; experience_level?: string; careerId?: string }) =>
+    request<any>('/users', { 
+      method: 'POST', 
+      body: JSON.stringify({
+        name: payload.name,
+        active_career_id: payload.active_career_id || payload.careerId || 'bb_comercial',
+        daily_hours: payload.daily_hours || 2,
+        experience_level: payload.experience_level || 'iniciante'
+      }) 
+    }),
+  updateUserProfile: (id: string, payload: any) =>
+    request<any>(`/users/${id}`, { method: 'PUT', body: JSON.stringify(payload) }),
   updateUserStats: (id: string, stats: Partial<UserProfile>) =>
     request<UserProfile>(`/users/${id}`, { method: 'PUT', body: JSON.stringify(stats) }),
+  deleteUserProfile: (id: string) =>
+    request<{ success: boolean }>(`/users/${id}`, { method: 'DELETE' }),
   
   // Dashboard & Mission
   getDashboardStats: (userId?: string, careerId?: string) => 
