@@ -602,7 +602,11 @@ router.delete('/materials/:id', async (req, res) => {
       .get(req.params.id);
 
     if (material && material.filepath) {
-      try { await fs.promises.unlink(material.filepath); } catch (e) {}
+      const resolvedPath = path.resolve(material.filepath);
+      const safeUploadsDir = path.resolve(uploadsDir);
+      if (resolvedPath.startsWith(safeUploadsDir)) {
+        try { await fs.promises.unlink(resolvedPath); } catch (e) {}
+      }
     }
 
     db.prepare('DELETE FROM study_materials WHERE id = ?').run(req.params.id);

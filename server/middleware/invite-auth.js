@@ -1,4 +1,4 @@
-// Middleware e Gestor de Autenticação por Códigos de Convite (Invite Gate)
+import crypto from 'crypto';
 
 export function getAllowedCodes() {
   const envCodes = process.env.INVITE_CODES || process.env.INVITE_PIN || '';
@@ -20,12 +20,20 @@ export function isInviteRequired() {
   return codes.length > 0;
 }
 
+// Comparação em tempo constante contra Timing Attacks
+function safeCompare(a, b) {
+  const bufA = Buffer.from(String(a || ''));
+  const bufB = Buffer.from(String(b || ''));
+  if (bufA.length !== bufB.length) return false;
+  return crypto.timingSafeEqual(bufA, bufB);
+}
+
 export function validateInviteCode(code) {
   if (!isInviteRequired()) return true;
   if (!code) return false;
   const allowed = getAllowedCodes();
   const normalized = String(code).trim().toUpperCase();
-  return allowed.includes(normalized);
+  return allowed.some(allowedCode => safeCompare(normalized, allowedCode));
 }
 
 export function inviteAuthMiddleware(req, res, next) {

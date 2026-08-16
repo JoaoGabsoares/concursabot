@@ -46,31 +46,47 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 import compression from 'compression';
+import { securityGuardMiddleware } from './middleware/security-guard.js';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Security Hardening: Desativa fingerprinting do Express
+app.disable('x-powered-by');
+
+// Security Hardening: Confia no primeiro proxy reverso (Cloudflare / Render) para Rate Limiting real
+app.set('trust proxy', 1);
+
 // Enable HTTP Compression (Gzip / Brotli)
 app.use(compression());
 
-// Security Headers Middleware
+// Security Headers Middleware (OWASP Top 10 Hardened)
 app.use((req, res, next) => {
     res.setHeader('X-Content-Type-Options', 'nosniff');
     res.setHeader('X-Frame-Options', 'SAMEORIGIN');
     res.setHeader('Referrer-Policy', 'strict-origin-when-cross-origin');
     res.setHeader('X-XSS-Protection', '1; mode=block');
+    res.setHeader('X-Permitted-Cross-Domain-Policies', 'none');
+    res.setHeader('Cross-Origin-Opener-Policy', 'same-origin');
+    res.setHeader('Cross-Origin-Resource-Policy', 'same-origin');
     res.setHeader('Permissions-Policy', 'camera=(), microphone=(), geolocation=()');
+    if (req.secure || req.headers['x-forwarded-proto'] === 'https') {
+        res.setHeader('Strict-Transport-Security', 'max-age=31536000; includeSubDomains');
+    }
     res.setHeader('Content-Security-Policy', "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://fonts.googleapis.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: blob:; connect-src 'self'");
     next();
 });
 
-// Core Middleware
+// Core Middleware & Prototype Pollution Guard
+app.use(securityGuardMiddleware);
 app.use(cors({
     origin: process.env.CORS_ORIGIN || true,
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
     credentials: true
 }));
 app.use(express.json({ limit: '10mb' }));
+app.use(express.urlencoded({ extended: true, limit: '10mb' }));
+
 // Serve static files from 'public' directory with cache headers
 app.use(express.static(path.join(__dirname, '../public'), {
     maxAge: process.env.NODE_ENV === 'production' ? '7d' : 0,
@@ -97,10 +113,10 @@ const upload = multer({
 });
 
 app.use('/api/study-room/upload', upload.single('pdf'));
-// Serve uploads with restrictions — only PDFs, no directory listing
+// Serve uploads with strict containment — only PDFs, no directory traversal
 app.use('/uploads', (req, res, next) => {
     // Block directory traversal attempts
-    if (req.path.includes('..') || req.path.includes('%2e')) {
+    if (req.path.includes('..') || req.path.includes('%2e') || req.path.includes('\\')) {
         return res.status(403).json({ error: 'Acesso negado.' });
     }
     // Only allow PDF files
