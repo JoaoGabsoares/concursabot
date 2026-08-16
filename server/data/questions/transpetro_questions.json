@@ -1,0 +1,178 @@
+[
+  {
+    "subject": "Noções de Administração",
+    "topic": "Funções da Administração (PODC)",
+    "banca": "Fundação Cesgranrio",
+    "type": "multiple_choice",
+    "question_text": "(Cesgranrio - Transpetro - Técnico de Administração) No âmbito da Teoria Geral da Administração, o processo administrativo é composto por quatro funções essenciais: Planejamento, Organização, Direção e Controle (PODC). A função administrativa que consiste em definir os objetivos organizacionais, estabelecer as metas e traçar os caminhos estratégicos para alcançá-los é denominada:",
+    "options": [
+      "A) Planejamento.",
+      "B) Organização.",
+      "C) Direção.",
+      "D) Controle.",
+      "E) Departamentalização."
+    ],
+    "correct_index": 0,
+    "explanation": "Gabarito: Letra A. O Planejamento é a função administrativa básica que determina antecipadamente quais são os objetivos que devem ser atingidos e como se deve fazer para alcançá-los. Organização aloca recursos e estrutura; Direção orienta pessoas; Controle mede o desempenho."
+  },
+  {
+    "subject": "Noções de Administração",
+    "topic": "Gestão da Qualidade e Ciclo PDCA",
+    "banca": "Fundação Cesgranrio",
+    "type": "multiple_choice",
+    "question_text": "(Cesgranrio - Transpetro - Técnico de Administração) O Ciclo PDCA (Plan, Do, Check, Act) é uma ferramenta gerencial consagrada para a melhoria contínua de processos organizacionais. Na etapa de 'Check' (Verificar), a equipe de gestão deve:",
+    "options": [
+      "A) Definir os novos padrões operacionais e padronizar o processo bem-sucedido.",
+      "B) Treinar os colaboradores e executar rigorosamente as atividades do plano.",
+      "C) Medir, monitorar e avaliar os resultados alcançados comparando-os com as metas planejadas.",
+      "D) Elaborar a matriz de riscos e o cronograma orçamentário do projeto.",
+      "E) Adotar ações corretivas emergenciais para desvios não identificados."
+    ],
+    "correct_index": 2,
+    "explanation": "Gabarito: Letra C. No ciclo PDCA: Plan (Planejar), Do (Executar), Check (Verificar/Checar os resultados comparando o executado com as metas) e Act (Agir corretiva ou padronizadamente)."
+  },
+  {
+    "subject": "Legislação e Licitações para Estatais (Lei 13.303/16)",
+    "topic": "Regime Societário e Governança",
+    "banca": "Fundação Cesgranrio",
+    "type": "multiple_choice",
+    "question_text": "(Cesgranrio - Transpetro - Legislação das Estatais) Nos termos da Lei Federal nº 13.303/2016 (Estatuto Jurídico das Empresas Estatais), a Transpetro, como subsidiária integral da Petrobras, sujeita-se a regras estritas de governança corporativa e integridade. Sobre as licitações em empresas estatais, é correto afirmar que:",
+    "options": [
+      "A) O pregão presencial é obrigatório para quaisquer compras e obras de grande porte.",
+      "B) A inversão de fases no procedimento licitatório é a regra geral, ocorrendo a fase de habilitação após o julgamento das propostas.",
+      "C) A licitação é sempre obrigatória, sendo vedada qualquer hipótese de dispensa ou inexigibilidade para estatais.",
+      "D) O sigilo do valor orçado pela empresa pública impede que os órgãos de controle tenham acesso aos custos.",
+      "E) Os contratos celebrados por estatais não admitem matriz de alocação de riscos."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. Nos termos do art. 51 da Lei nº 13.303/2016, as licitações das empresas públicas e sociedades de economia mista adotam como regra a inversão de fases (primeiro julgam-se as propostas e, em seguida, realiza-se a habilitação apenas do licitante primeiro colocado)."
+  },
+  {
+    "subject": "Legislação e Licitações para Estatais (Lei 13.303/16)",
+    "topic": "Dispensa e Inexigibilidade",
+    "banca": "Fundação Cesgranrio",
+    "type": "multiple_choice",
+    "question_text": "(Cesgranrio - Transpetro - Licitações em Estatais) De acordo com a Lei nº 13.303/2016, a contratação direta sem licitação na modalidade de INEXIGIBILIDADE é cabível quando houver:",
+    "options": [
+      "A) Valor de contratação abaixo do limite fixado para compras de pequeno valor.",
+      "B) Situação de emergência ou calamidade pública que exija atendimento imediato.",
+      "C) Inviabilidade de competição, como na aquisição de materiais ou serviços fornecidos por produtor ou representante comercial exclusivo.",
+      "D) Deserção da licitação anterior por ausência de interessados habilitados.",
+      "E) Compra de títulos da dívida pública com cotação oficial em bolsa."
+    ],
+    "correct_index": 2,
+    "explanation": "Gabarito: Letra C. A inexigibilidade de licitação (art. 30 da Lei 13.303/16) decorre da inviabilidade fática ou jurídica de competição, como na exclusividade de fornecedor ou serviços técnicos de natureza singular."
+  },
+  {
+    "subject": "Gestão de Estoques e Almoxarifado",
+    "topic": "Classificação ABC (Pareto)",
+    "banca": "Fundação Cesgranrio",
+    "type": "multiple_choice",
+    "question_text": "(Cesgranrio - Transpetro - Técnico de Logística) Na gestão de suprimentos e almoxarifados industriais, a Curva ABC é uma técnica de classificação baseada no Princípio de Pareto. Em relação aos itens classificados como 'Classe A', é correto afirmar que:",
+    "options": [
+      "A) Representam a maior quantidade física de itens estocados (cerca de 70% a 80% do volume físico) e baixo valor financeiro.",
+      "B) Representam a menor quantidade de itens do catálogo (cerca de 10% a 20%), mas concentram a maior parte do valor financeiro total investido (70% a 80%).",
+      "C) São itens dispensados de controle de inventário físico e contagem rotativa.",
+      "D) Possuem demanda completamente estável e custo unitário desprezível.",
+      "E) São estocados exclusivamente em áreas abertas e sem necessidade de rastreabilidade."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. Pela Curva ABC: Itens A são poucos em quantidade (~20%), mas respondem pela maior parte do valor financeiro (~80%), exigindo controle diário e rigoroso; Itens B são intermediários; Itens C representam a grande maioria dos itens físicos, mas pouco valor acumulado."
+  },
+  {
+    "subject": "Gestão de Estoques e Almoxarifado",
+    "topic": "Dimensionamento de Estoque e Ponto de Pedido",
+    "banca": "Fundação Cesgranrio",
+    "type": "multiple_choice",
+    "question_text": "(Cesgranrio - Transpetro - Técnico de Logística) Um almoxarifado de materiais da Transpetro consome em média 40 válvulas industriais por dia (Consumo = 40 un/dia). O tempo de reposição do fornecedor homologado é de 5 dias (TR = 5 dias). Sabendo que a política da empresa exige um Estoque de Segurança (Mínimo) de 100 unidades, qual deve ser o Ponto de Pedido (PP)?",
+    "options": [
+      "A) 100 unidades.",
+      "B) 200 unidades.",
+      "C) 300 unidades.",
+      "D) 400 unidades.",
+      "E) 500 unidades."
+    ],
+    "correct_index": 2,
+    "explanation": "Gabarito: Letra C. A fórmula clássica do Ponto de Pedido é: PP = (Consumo Médio x Tempo de Reposição) + Estoque Mínimo. PP = (40 un/dia x 5 dias) + 100 un = 200 + 100 = 300 unidades."
+  },
+  {
+    "subject": "Transporte, Movimentação e Modais Logísticos",
+    "topic": "Modais de Transporte de Óleo e Derivados",
+    "banca": "Fundação Cesgranrio",
+    "type": "multiple_choice",
+    "question_text": "(Cesgranrio - Transpetro - Modais Logísticos) A Transpetro opera a maior rede de transporte e logística de combustíveis e biocombustíveis do Brasil. O modal de transporte caracterizado pelo deslocamento contínuo de fluidos (petróleo, gás natural e derivados) por meio de tubulações com alta confiabilidade operacional e baixíssimo custo variável unitário para grandes volumes é o:",
+    "options": [
+      "A) Modal Dutoviário (Oleodutos e Gasodutos).",
+      "B) Modal Rodoviário.",
+      "C) Modal Ferroviário.",
+      "D) Modal Aeroviário.",
+      "E) Modal Fluvial exclusivo."
+    ],
+    "correct_index": 0,
+    "explanation": "Gabarito: Letra A. O transporte dutoviário (oleodutos, gasodutos e polidutos) é a espinha dorsal do transporte em larga escala de petróleo e derivados, operado pela Transpetro, caracterizado por fluxo contínuo, alta segurança ambiental e baixo custo por tonelada-quilômetro transportada."
+  },
+  {
+    "subject": "Técnicas de Arquivo e Documentação",
+    "topic": "Teoria das Três Idades",
+    "banca": "Fundação Cesgranrio",
+    "type": "multiple_choice",
+    "question_text": "(Cesgranrio - Transpetro - Técnicas de Arquivo) Na arquivologia, a Teoria das Três Idades classifica os documentos de acordo com o seu ciclo de vida em três fases: corrente, intermediária e permanente. Os documentos que perderam o valor administrativo/jurídico primário, mas que possuem valor histórico, científico ou probatório para a posteridade, devem ser guardados no:",
+    "options": [
+      "A) Arquivo Corrente de Primeira Idade.",
+      "B) Arquivo Setorial de Tramitação.",
+      "C) Arquivo Intermediário de Segunda Idade.",
+      "D) Arquivo Permanente (ou Histórico) de Terceira Idade.",
+      "E) Protocolo Central de Descarte."
+    ],
+    "correct_index": 3,
+    "explanation": "Gabarito: Letra D. Documentos de terceira idade (Arquivo Permanente) são imprescritíveis e inalienáveis, conservados definitivamente por seu valor histórico, probatório ou informativo secundário."
+  },
+  {
+    "subject": "Ética e Conduta no Setor Público",
+    "topic": "Integridade e Código de Conduta",
+    "banca": "Fundação Cesgranrio",
+    "type": "multiple_choice",
+    "question_text": "(Cesgranrio - Transpetro - Ética e Conduta) O Código de Conduta Ética da Transpetro e do Sistema Petrobras veda expressamente qualquer conduta que caracterize assédio moral ou conflito de interesses. O colaborador que toma conhecimento de uma irregularidade grave no ambiente corporativo deve:",
+    "options": [
+      "A) Omitir-se caso o fato envolva seu superior hierárquico imediato.",
+      "B) Utilizar os canais formais de denúncia (Ouvidoria / Linha Ética) com garantia de anonimato e proteção contra retaliação.",
+      "C) Divulgar imediatamente as informações confidenciais em redes sociais pessoais.",
+      "D) Confrontar pessoalmente o infrator sem notificar a governança corporativa.",
+      "E) Aguardar a auditoria externa anual sem registrar qualquer apontamento."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. O Sistema de Integridade corporativa garante canais formais de denúncia (Ouvidoria Geral), confidencialidade, possibilidade de anonimato e proibição irrestrita de qualquer medida retaliatória contra o denunciante de boa-fé."
+  },
+  {
+    "subject": "Língua Portuguesa",
+    "topic": "Sintaxe e Crase Cesgranrio",
+    "banca": "Fundação Cesgranrio",
+    "type": "multiple_choice",
+    "question_text": "(Cesgranrio - Transpetro - Português) O acento indicativo de crase está empregado em estrita conformidade com a norma-padrão da língua portuguesa em:",
+    "options": [
+      "A) A Transpetro compromete-se à garantir a segurança operacional de seus terminais aquaviários.",
+      "B) Os operadores portuários entregaram o relatório técnico às autoridades ambientais competentes.",
+      "C) Os técnicos dirigiram-se à pé até o ponto de inspeção das válvulas de pressão.",
+      "D) A fiscalização solicitou documentos relativos à todas as empresas subcontratadas.",
+      "E) O supervisor prestou esclarecimentos à um grupo de auditores internacionais."
+    ],
+    "correct_index": 1,
+    "explanation": "Gabarito: Letra B. A frase 'entregaram o relatório às autoridades' junta a preposição 'a' (exigida por 'entregaram a') com o artigo definido plural 'as' (de 'autoridades'), gerando 'às'. Nas demais alternativas há erros: antes de verbo (à garantir), palavra masculina (à pé), pronome indefinido (à todas) e artigo indefinido (à um)."
+  },
+  {
+    "subject": "Matemática",
+    "topic": "Porcentagem e Proporção Cesgranrio",
+    "banca": "Fundação Cesgranrio",
+    "type": "multiple_choice",
+    "question_text": "(Cesgranrio - Transpetro - Matemática) Em um terminal logístico de combustíveis da Transpetro, um reservatório continha 120.000 litros de biocombustível. Em virtude de uma operação de bombeamento para um navio petroleiro, 35% desse volume foi transferido. Quantos litros de biocombustível restaram no reservatório após a transferência?",
+    "options": [
+      "A) 42.000 litros.",
+      "B) 68.000 litros.",
+      "C) 78.000 litros.",
+      "D) 82.000 litros.",
+      "E) 88.000 litros."
+    ],
+    "correct_index": 2,
+    "explanation": "Gabarito: Letra C. Se foram transferidos 35%, restaram 65% do volume no reservatório. 65% de 120.000 = 0,65 x 120.000 = 78.000 litros (ou 120.000 - 42.000 = 78.000 litros)."
+  }
+]

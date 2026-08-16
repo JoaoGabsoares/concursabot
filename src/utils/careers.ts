@@ -42,6 +42,20 @@ export const CAREERS_LIST: Career[] = [
     banca: 'DEnsM / Comando do 1º Distrito Naval',
     description: 'Tradições Navais, Legislação Militar-Naval, Organização Básica da Marinha e Língua Portuguesa.',
     tags: ['Nível Médio/Técnico', 'Militar', 'Oficial Temporário']
+  },
+  {
+    id: 'transpetro_adm',
+    name: 'Transpetro — Técnico de Administração e Controle Jr',
+    banca: 'Fundação Cesgranrio',
+    description: 'Administração Geral (PODC), Gestão por Processos, Lei das Estatais (Lei 13.303/16), Arquivo e Português.',
+    tags: ['Nível Médio', 'Petrobras / Transpetro', 'Quadro de Terra']
+  },
+  {
+    id: 'transpetro_log',
+    name: 'Transpetro — Técnico de Suprimento e Logística Jr',
+    banca: 'Fundação Cesgranrio',
+    description: 'Gestão de Estoques (Curva ABC, Ponto de Pedido), Armazenagem, Modais de Transporte, Compras e Lei 13.303/16.',
+    tags: ['Nível Médio', 'Petrobras / Transpetro', 'Logística de Entrada']
   }
 ];
 

@@ -38,6 +38,8 @@
 
 | Concurso | Cargo Alvo | Banca Examinadora | Disciplinas & Destaques |
 | :--- | :--- | :--- | :--- |
+| **Transpetro (Edital 03)** | Técnico de Administração e Controle Júnior | **Fundação Cesgranrio** | Noções de Administração (PODC), Lei das Estatais (13.303/16), Técnicas de Arquivo, Ética, Português e Matemática |
+| **Transpetro (Edital 03)** | Técnico de Suprimento de Bens e Serviços (Logística) | **Fundação Cesgranrio** | Gestão de Estoques (Curva ABC, Ponto de Pedido), Modais de Transporte (Dutoviário, Cabotagem), Compras e Lei 13.303/16 |
 | **Receita Federal (RFB)** | Analista-Tributário (ATRFB) & Auditor-Fiscal (AFRFB) | **FGV (Fundação Getulio Vargas)** | Direito Tributário, Aduaneira, Constitucional, Administrativo, Fluência de Dados e Contabilidade |
 | **Banco do Brasil (BB)** | Agente Comercial & Agente de Tecnologia (TI) | **Fundação Cesgranrio** | Conhecimentos Bancários, TI & Banco de Dados, Português e Matemática Financeira |
 | **Saúde RJ (SES-RJ / IASERJ 2026)** | Técnico de Enfermagem & Assistente Administrativo | **Instituto IBDO Projetos** | Legislação do SUS (Leis 8.080 e 8.142), Políticas Públicas e Administração |

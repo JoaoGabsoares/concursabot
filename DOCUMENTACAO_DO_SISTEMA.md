@@ -104,9 +104,33 @@ Driver oficial `node:sqlite` com tabelas relacionais otimizadas:
 
 ---
 
-## 8. Suíte de Testes Automatizados (npm test)
+## 8. Concurso Transpetro (Edital nº 03 • Quadro de Terra • Banca Cesgranrio)
 
-O comando `npm test` executa a suíte completa em `tests/run_all.js`:
+A plataforma conta com suporte nativo de alta fidelidade aos dois cargos de nível médio da Transpetro:
+1. **Técnico de Administração e Controle Júnior (`transpetro_adm`)**:
+   - **Banca**: Fundação Cesgranrio (70 questões, 5 alternativas A-E).
+   - **Grade Curricular**: Noções de Administração (PODC, Qualidade, PDCA, Processos), Lei das Estatais nº 13.303/2016, Técnicas de Arquivo, Ética e Integridade Pública, Língua Portuguesa e Matemática.
+   - **Pareto 80/20**: Administração Geral + Lei 13.303/16 respondem por 55% da prova objetiva.
+   - **Redação Discursiva**: *"Governança, compliance e sustentabilidade nas empresas estatais brasileiras"*.
+
+2. **Técnico de Suprimento de Bens e Serviços Júnior — Logística (`transpetro_log`)**:
+   - **Banca**: Fundação Cesgranrio (70 questões, 5 alternativas A-E).
+   - **Grade Curricular**: Gestão de Estoques e Almoxarifado (Curva ABC, Ponto de Pedido, LEC, Acurácia), Movimentação e Modais de Transporte (Dutoviário, Cabotagem, Rodoviário), Gestão de Compras (SCM), Lei 13.303/16, Português e Matemática.
+   - **Pareto 80/20**: Gestão de Estoques + Modais Logísticos respondem por 55% da prova objetiva.
+   - **Redação Discursiva**: *"A eficiência da matriz de transporte e a segurança no abastecimento energético nacional"*.
+
+3. **Geração Dinâmica de Doutrina por IA**:
+   - Para concurseiros sem apostilas prévias, a IA gera aulas estruturadas sob demanda em 5 seções canônicas (Relevância da Cesgranrio, Doutrina com letra da lei, Pegadinhas, Mnemônicos e Resumo Executivo).
+
+---
+
+## 9. Suíte de Testes Automatizados & Pentest
+
+Execute a suíte completa de testes automatizados com o comando:
+```bash
+npm test
+```
+Cobrem testes unitários de PDFs, integração de autenticação e isolamento multi-tenant, cadência de estudo, simulados e testes de segurança (SQL Injection e XSS).
 - `tests/unit/universal_pdf.test.js`: Testes de sanitização, heurística e extração de sumários.
 - `tests/integration/auth_and_isolation.test.js`: Testes de registro, login, zero XP e isolamento multi-conta.
 - `tests/integration/study_room_cadence.test.js`: Testes de sala de estudos, marca-página e ritmo.

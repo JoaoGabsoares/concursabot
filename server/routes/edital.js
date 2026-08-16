@@ -284,6 +284,34 @@ const RAIOX_DATA = {
             { disciplina: 'História e Tradições Navais', peso: 20, questoes: 10, incidencia: 'Média/Alta', dica: 'Batalha do Riachuelo, Almirante Tamandaré, Segunda Guerra Mundial e Poder Marítimo.' }
         ],
         paretoInsight: '🎯 Regra de Ouro (80/20): Em RM2, Português decide 50% dos pontos da prova. Gabaritar as 25 questões de Português coloca você no topo dos aprovados.'
+    },
+    transpetro_adm: {
+        cargo: 'Transpetro • Técnico de Administração e Controle Jr',
+        banca: 'Cesgranrio',
+        corteMedio: '72% a 80%',
+        topicosOuro: [
+            { disciplina: 'Noções de Administração', peso: 30, questoes: 20, incidencia: 'Altíssima', dica: 'Funções da Administração (PODC), Gestão por Processos, Ciclo PDCA, Ferramentas da Qualidade e Atendimento.' },
+            { disciplina: 'Legislação e Licitações para Estatais (Lei 13.303/16)', peso: 25, questoes: 15, incidencia: 'Altíssima', dica: 'Lei das Estatais nº 13.303/16, Regulamento Interno Transpetro, Dispensa, Inexigibilidade e Contratos.' },
+            { disciplina: 'Língua Portuguesa', peso: 15, questoes: 10, incidencia: 'Alta', dica: 'Interpretação de textos, Sintaxe, Concordância, Regência e Crase da Fundação Cesgranrio.' },
+            { disciplina: 'Matemática', peso: 12, questoes: 10, incidencia: 'Média/Alta', dica: 'Porcentagem, Razão/Proporção, Regra de Três, Médias e Raciocínio Lógico-Matemático.' },
+            { disciplina: 'Técnicas de Arquivo e Documentação', peso: 10, questoes: 8, incidencia: 'Média', dica: 'Teoria das Três Idades, Métodos de arquivamento, Tabela de Temporalidade e Rotinas de Protocolo.' },
+            { disciplina: 'Ética e Conduta no Setor Público', peso: 8, questoes: 7, incidencia: 'Média', dica: 'Código de Conduta Ética Petrobras/Transpetro, Conflito de Interesses e Lei Anticorrupção (Lei 12.846).' }
+        ],
+        paretoInsight: '🎯 Regra de Ouro (80/20): Administração Geral + Lei das Estatais (13.303/16) concentram mais de 55% de toda a prova de Técnico de Administração!'
+    },
+    transpetro_log: {
+        cargo: 'Transpetro • Técnico de Suprimento e Logística Jr',
+        banca: 'Cesgranrio',
+        corteMedio: '70% a 78%',
+        topicosOuro: [
+            { disciplina: 'Gestão de Estoques e Almoxarifado', peso: 30, questoes: 20, incidencia: 'Altíssima', dica: 'Curva ABC, Ponto de Pedido (PP = C x TR + EM), Estoque de Segurança, Lote Econômico de Compras (LEC) e Inventários.' },
+            { disciplina: 'Transporte, Movimentação e Modais Logísticos', peso: 25, questoes: 15, incidencia: 'Altíssima', dica: 'Transporte dutoviário de petróleo e gás, cabotagem marítima, modais rodoviário/ferroviário e armazenagem.' },
+            { disciplina: 'Língua Portuguesa', peso: 15, questoes: 10, incidencia: 'Alta', dica: 'Interpretação textual e gramática normativa padrão Cesgranrio.' },
+            { disciplina: 'Matemática', peso: 12, questoes: 10, incidencia: 'Média/Alta', dica: 'Cálculos de dimensionamento, proporções, taxas percentuais e médias ponderadas.' },
+            { disciplina: 'Gestão de Compras e Fornecedores', peso: 10, questoes: 8, incidencia: 'Média', dica: 'Ciclo de compras, qualificação/homologação de fornecedores, SLA e Supply Chain Management (SCM).' },
+            { disciplina: 'Legislação de Contratações em Estatais (Lei 13.303/16)', peso: 8, questoes: 7, incidencia: 'Média', dica: 'Regras da Lei 13.303/16 para aquisição de bens, materiais e prestação de serviços na Transpetro.' }
+        ],
+        paretoInsight: '🎯 Regra de Ouro (80/20): Gestão de Estoques e Modais de Transporte/Armazenagem respondem por mais de 55% da pontuação total!'
     }
 };
 

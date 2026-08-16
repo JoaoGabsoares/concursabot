@@ -123,7 +123,7 @@ export class AuthService {
     db.prepare(`
       INSERT INTO auth_sessions (token, account_id, created_at, expires_at)
       VALUES (?, ?, CURRENT_TIMESTAMP, ?)
-    `).run(token, accountId, expiresAt);
+    `).run(token, account.id, expiresAt);
 
     const profiles = db.prepare(`
       SELECT * FROM user_profiles WHERE account_id = ? ORDER BY last_active_at DESC

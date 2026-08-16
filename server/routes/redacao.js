@@ -50,6 +50,24 @@ const TEMAS_CONCURSO = [
         titulo: 'Os desafios da regionalização e integração do SUS no atendimento de média e alta complexidade',
         contexto: 'A descentralização do SUS garante atendimento primário nos municípios, mas a regulação e o acesso a leitos de UTI e tratamentos oncológicos continuam gerando gargalos regionais.',
         instrucoes: 'Redija um texto argumentativo propondo diretrizes para fortalecer a regulação pública de saúde e reduzir filas nos hospitais estaduais.'
+    },
+    {
+        id: 'transpetro_adm_01',
+        careerId: 'transpetro_adm',
+        banca: 'Cesgranrio',
+        cargo: 'Técnico de Administração e Controle Jr',
+        titulo: 'Governança, compliance e sustentabilidade nas empresas estatais brasileiras',
+        contexto: 'Com a Lei nº 13.303/2016 (Lei das Estatais), a gestão pública empresarial passou a exigir elevados padrões de integridade, transparência e controle interno para prevenir desvios e assegurar a eficiência operacional.',
+        instrucoes: 'Redija um texto dissertativo-argumentativo, em norma-padrão da língua portuguesa, com 20 a 30 linhas, abordando a importância dos mecanismos de conformidade (compliance) e da ética pública no fortalecimento das empresas estatais.'
+    },
+    {
+        id: 'transpetro_log_01',
+        careerId: 'transpetro_log',
+        banca: 'Cesgranrio',
+        cargo: 'Técnico de Suprimento e Logística Jr',
+        titulo: 'A eficiência da matriz de transporte e a segurança no abastecimento energético nacional',
+        contexto: 'A integração dos modais dutoviário, marítimo (cabotagem) e terrestre é essencial para a distribuição segura de petróleo, biocombustíveis e derivados, minimizando impactos ambientais e custos logísticos.',
+        instrucoes: 'Elabore uma dissertação argumentativa demonstrando como a otimização da cadeia de suprimentos e o transporte sustentável garantem a segurança energética e o desenvolvimento socioeconômico do país.'
     }
 ];
 

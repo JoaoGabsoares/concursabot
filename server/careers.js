@@ -258,6 +258,73 @@ export const CAREERS_CATALOG = {
       { subject: 'Probabilidade e Estatística', lessonNumber: 1, title: 'Estatística Descritiva — Medidas de Posição Central e Medidas de Dispersão', keyTopics: 'Média aritmética simples e ponderada, mediana, moda, variância, desvio-padrão e coeficiente de variação' },
       { subject: 'Probabilidade e Estatística', lessonNumber: 2, title: 'Teoria das Probabilidades — Probabilidade Condicional, Teorema de Bayes e Distribuições', keyTopics: 'Eventos independentes/mutuamente exclusivos, probabilidade condicional, distribuição Binomial e Normal' }
     ]
+  },
+
+  // ============================================================
+  // 7. TRANSPETRO — TÉCNICO DE ADMINISTRAÇÃO E CONTROLE JÚNIOR (CESGRANRIO)
+  // ============================================================
+  'transpetro_adm': {
+    id: 'transpetro_adm',
+    name: '🚢 Transpetro • Técnico de Administração e Controle Jr (Cesgranrio)',
+    shortName: 'Transpetro Adm',
+    role: 'Técnico de Administração e Controle Júnior',
+    totalQuestions: 70,
+    bancas: [
+      { id: 'CESGRANRIO', name: 'Fundação Cesgranrio (Banca Oficial Transpetro)', default: true },
+      { id: 'FGV', name: 'FGV' },
+      { id: 'CEBRASPE', name: 'CEBRASPE / CESPE' }
+    ],
+    subjects: [
+      { subject: 'Noções de Administração', wave: 1, questions: 20, percentage: '28.5%', description: 'Planejamento, Organização, Direção e Controle (PODC), Gestão por Processos, Qualidade e Atendimento' },
+      { subject: 'Legislação e Licitações para Estatais (Lei 13.303/16)', wave: 1, questions: 15, percentage: '21.5%', description: 'Lei das Estatais nº 13.303/2016, Regulamento de Licitações da Transpetro, Dispensa, Inexigibilidade e Contratos' },
+      { subject: 'Língua Portuguesa', wave: 1, questions: 10, percentage: '14.3%', description: 'Compreensão de Textos, Tipologia, Sintaxe, Regência, Crase e Pontuação Cesgranrio' },
+      { subject: 'Matemática', wave: 1, questions: 10, percentage: '14.3%', description: 'Conjuntos, Porcentagem, Razão e Proporção, Regra de Três, Funções e Matemática Básica' },
+      { subject: 'Técnicas de Arquivo e Documentação', wave: 2, questions: 8, percentage: '11.4%', description: 'Gestão de Documentos, Teoria das Três Idades, Classificação, Tabela de Temporalidade e Protocolo' },
+      { subject: 'Ética e Conduta no Setor Público', wave: 2, questions: 7, percentage: '10.0%', description: 'Ética Pública, Código de Conduta da Transpetro e Petrobras, Transparência e Lei Anticorrupção' }
+    ],
+    official_lessons: [
+      { subject: 'Noções de Administração', lessonNumber: 1, title: 'Funções da Administração Geral — Planejamento, Organização, Direção e Controle (PODC)', keyTopics: 'Níveis de planejamento (estratégico, tático, operacional), departamentalização, centralização vs descentralização e tipos de controle' },
+      { subject: 'Noções de Administração', lessonNumber: 2, title: 'Gestão por Processos e Ferramentas da Qualidade (PDCA, Diagrama de Ishikawa e 5W2H)', keyTopics: 'Mapeamento de processos, melhoria contínua, Ciclo PDCA, Matriz GUT e indicadores de desempenho' },
+      { subject: 'Legislação e Licitações para Estatais (Lei 13.303/16)', lessonNumber: 1, title: 'Regime Societário e Governança das Empresas Estatais (Lei nº 13.303/2016)', keyTopics: 'Sociedades de economia mista, empresas públicas, conselho de administração, comitê de auditoria e transparência' },
+      { subject: 'Legislação e Licitações para Estatais (Lei 13.303/16)', lessonNumber: 2, title: 'Procedimento Licitatório em Estatais — Modalidades, Critérios de Julgamento e Hipóteses de Dispensa/Inexigibilidade', keyTopics: 'Pregão, pregão eletrônico, inversão de fases, limites de dispensa de valor e inviabilidade de competição' },
+      { subject: 'Técnicas de Arquivo e Documentação', lessonNumber: 1, title: 'Teoria das Três Idades Documentais (Arquivo Corrente, Intermediário e Permanente)', keyTopics: 'Ciclo vital dos documentos, valor primário e secundário, métodos de arquivamento (alfabético, numérico, geográfico, temático)' },
+      { subject: 'Técnicas de Arquivo e Documentação', lessonNumber: 2, title: 'Tabela de Temporalidade, Avaliação Documental e Protocolo', keyTopics: 'Prazos de guarda, eliminação, recolhimento, rotinas de protocolo (recebimento, registro, autuação, tramitação e expedição)' },
+      { subject: 'Ética e Conduta no Setor Público', lessonNumber: 1, title: 'Código de Conduta Ética do Sistema Petrobras e Transpetro', keyTopics: 'Princípios éticos, conflito de interesses, prevenção ao assédio moral e sexual, canais de denúncia e conformidade (Compliance)' },
+      { subject: 'Ética e Conduta no Setor Público', lessonNumber: 2, title: 'Lei Anticorrupção (Lei 12.846/2013) e Integridade Corporativa', keyTopics: 'Responsabilização objetiva administrativa e civil de pessoas jurídicas, acordos de leniência e programas de integridade' }
+    ]
+  },
+
+  // ============================================================
+  // 8. TRANSPETRO — TÉCNICO DE SUPRIMENTO E LOGÍSTICA JÚNIOR (CESGRANRIO)
+  // ============================================================
+  'transpetro_log': {
+    id: 'transpetro_log',
+    name: '📦 Transpetro • Técnico de Suprimento e Logística Jr (Cesgranrio)',
+    shortName: 'Transpetro Logística',
+    role: 'Técnico de Suprimento de Bens e Serviços Júnior (Logística)',
+    totalQuestions: 70,
+    bancas: [
+      { id: 'CESGRANRIO', name: 'Fundação Cesgranrio (Banca Oficial Transpetro)', default: true },
+      { id: 'FGV', name: 'FGV' },
+      { id: 'CEBRASPE', name: 'CEBRASPE / CESPE' }
+    ],
+    subjects: [
+      { subject: 'Gestão de Estoques e Almoxarifado', wave: 1, questions: 20, percentage: '28.5%', description: 'Classificação ABC, Ponto de Pedido, Estoque de Segurança, Giro, Lote Econômico e Inventários' },
+      { subject: 'Transporte, Movimentação e Modais Logísticos', wave: 1, questions: 15, percentage: '21.5%', description: 'Dutoviário, Marítimo/Cabotagem, Rodoviário, Ferroviário, Armazenagem e Embalagens' },
+      { subject: 'Língua Portuguesa', wave: 1, questions: 10, percentage: '14.3%', description: 'Compreensão de Textos, Tipologia, Sintaxe, Regência, Crase e Pontuação Cesgranrio' },
+      { subject: 'Matemática', wave: 1, questions: 10, percentage: '14.3%', description: 'Razão, Proporção, Porcentagem, Médias Ponderadas e Raciocínio Numérico' },
+      { subject: 'Gestão de Compras e Fornecedores', wave: 2, questions: 8, percentage: '11.4%', description: 'Ciclo de Aquisição, Negociação, Qualificação de Fornecedores e Supply Chain Management' },
+      { subject: 'Legislação de Contratações em Estatais (Lei 13.303/16)', wave: 2, questions: 7, percentage: '10.0%', description: 'Regimes de Licitação para Aquisição de Bens e Serviços e Contratos da Transpetro' }
+    ],
+    official_lessons: [
+      { subject: 'Gestão de Estoques e Almoxarifado', lessonNumber: 1, title: 'Classificação de Materiais e Curva ABC (Princípio de Pareto em Estoques)', keyTopics: 'Itens classe A, B e C, criticidade de materiais (Classificação XYZ), perecibilidade e codificação de materiais' },
+      { subject: 'Gestão de Estoques e Almoxarifado', lessonNumber: 2, title: 'Dimensionamento de Estoques — Ponto de Pedido, Estoque Mínimo, Tempo de Reposição e LEC', keyTopics: 'Fórmula do Ponto de Pedido (PP = C x TR + EM), cálculo de estoque de segurança, custos de armazenagem vs custo de pedido' },
+      { subject: 'Gestão de Estoques e Almoxarifado', lessonNumber: 3, title: 'Inventário Físico e Acurácia de Estoque (Inventário Rotativo vs Periódico)', keyTopics: 'Métodos de contagem física, causas de divergência de inventário, conciliação contábil e índice de acurácia de registros' },
+      { subject: 'Transporte, Movimentação e Modais Logísticos', lessonNumber: 1, title: 'Modais de Transporte de Cargas — Dutoviário, Marítimo, Rodoviário e Ferroviário', keyTopics: 'Transporte dutoviário de óleo e gás (oleodutos e gasodutos), cabotagem marítima, custos comparativos e capacidade de carga' },
+      { subject: 'Transporte, Movimentação e Modais Logísticos', lessonNumber: 2, title: 'Operações de Armazenagem, Layout de Almoxarifado e Movimentação de Cargas', keyTopics: 'Endereçamento de materiais, paletização, equipamentos de movimentação (empilhadeiras, pontes rolantes), segurança no almoxarifado' },
+      { subject: 'Gestão de Compras e Fornecedores', lessonNumber: 1, title: 'Ciclo de Compras e Gestão da Cadeia de Suprimentos (Supply Chain Management - SCM)', keyTopics: 'Requisição de compras, cotação, seleção e homologação de fornecedores, avaliação de desempenho (SLA, OTIF) e compras estratégicas' },
+      { subject: 'Legislação de Contratações em Estatais (Lei 13.303/16)', lessonNumber: 1, title: 'Contratação de Bens e Serviços em Estatais — Procedimentos e Sanções', keyTopics: 'Regras da Lei 13.303/16 para compras e fornecimento, edital, impugnação, recursos administrativos e fiscalização de contratos' }
+    ]
   }
 };
 
