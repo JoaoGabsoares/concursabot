@@ -229,10 +229,10 @@ router.get('/:id/export-ics', (req, res) => {
         let ics = [
             'BEGIN:VCALENDAR',
             'VERSION:2.0',
-            'PRODID:-//ConcursaBot//Smart AI Study Schedule//PT-BR',
+            'PRODID:-//Gabarito.AI//Smart AI Study Schedule//PT-BR',
             'CALSCALE:GREGORIAN',
             'METHOD:PUBLISH',
-            `X-WR-CALNAME:${sched.title || 'ConcursaBot Plano de Estudos'}`,
+            `X-WR-CALNAME:${sched.title || 'Gabarito.AI Plano de Estudos'}`,
             'X-WR-TIMEZONE:America/Sao_Paulo'
         ];
 
@@ -253,13 +253,13 @@ router.get('/:id/export-ics', (req, res) => {
 
             ics.push(
                 'BEGIN:VEVENT',
-                `UID:concursabot-task-${sched.id}-${task.id}@concursabot.local`,
+                `UID:gabarito-task-${sched.id}-${task.id}@gabarito.ai`,
                 `DTSTAMP:${nowStr}`,
                 `DTSTART:${formatIcsDateTime(eventStart)}`,
                 `DTEND:${formatIcsDateTime(eventEnd)}`,
                 `RRULE:FREQ=WEEKLY;BYDAY=${rruleDay}`,
                 `SUMMARY:📚 ${task.subject}: ${task.topic || 'Estudo Dirigido'}`,
-                `DESCRIPTION:Bloco de estudo do ConcursaBot (${task.duration_minutes} min) - ${sched.title}`,
+                `DESCRIPTION:Bloco de estudo do Gabarito.AI (${task.duration_minutes} min) - ${sched.title}`,
                 'STATUS:CONFIRMED',
                 'END:VEVENT'
             );
@@ -268,7 +268,7 @@ router.get('/:id/export-ics', (req, res) => {
         ics.push('END:VCALENDAR');
 
         res.setHeader('Content-Type', 'text/calendar; charset=utf-8');
-        res.setHeader('Content-Disposition', `attachment; filename="concursabot_cronograma_${sched.id}.ics"`);
+        res.setHeader('Content-Disposition', `attachment; filename="gabarito_cronograma_${sched.id}.ics"`);
         res.send(ics.join('\r\n'));
     } catch (error) {
         console.error('Erro ao exportar .ics:', error);

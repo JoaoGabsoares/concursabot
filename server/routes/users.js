@@ -292,7 +292,7 @@ router.get('/:id/export-progress', (req, res) => {
     };
 
     res.setHeader('Content-Type', 'application/json');
-    res.setHeader('Content-Disposition', `attachment; filename="concursabot_backup_${userId}_${Date.now()}.json"`);
+    res.setHeader('Content-Disposition', `attachment; filename="gabarito_backup_${userId}_${Date.now()}.json"`);
     res.json(backupData);
   } catch (err) {
     console.error('Error exporting user progress:', err);

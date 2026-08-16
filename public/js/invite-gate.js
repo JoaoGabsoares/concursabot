@@ -1,5 +1,5 @@
 // ============================================================
-// CONCURSABOT INVITE GATEKEEPER
+// GABARITO.AI INVITE GATEKEEPER
 // Tela institucional de acesso por convite / PIN
 // ============================================================
 
@@ -7,7 +7,7 @@ import { showToast } from './utils.js';
 
 export async function checkInviteAccess(onAccessGranted) {
   try {
-    const storedPin = localStorage.getItem('concursa_invite_pin') || '';
+    const storedPin = localStorage.getItem('gabarito_invite_pin') || localStorage.getItem('concursa_invite_pin') || '';
     const res = await fetch('/api/auth/status', {
       headers: {
         'x-invite-pin': storedPin,
@@ -48,10 +48,10 @@ export function showInviteGateModal(onSuccess) {
         <span class="doc-stamp revisao" style="font-size: 0.75rem; letter-spacing: 0.15em;">ACESSO RESTRITO POR CONVITE</span>
       </div>
 
-      <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">🏛️</div>
+      <div style="font-size: 2.5rem; margin-bottom: 0.5rem;">🎯</div>
 
       <h2 style="font-size: 1.45rem; font-weight: 700; color: var(--text-primary); margin: 0 0 0.5rem 0; font-family: var(--font-display);">
-        ConcursaBot
+        Gabarito<span style="color:var(--color-primary);">.AI</span>
       </h2>
 
       <p style="font-size: 0.88rem; color: var(--text-secondary); line-height: 1.5; margin-bottom: 1.75rem;">

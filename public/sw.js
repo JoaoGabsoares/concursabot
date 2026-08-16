@@ -1,5 +1,5 @@
-// ConcursaBot Service Worker - Offline Cache & PWA Support
-const CACHE_NAME = 'concursabot-v1.7.0';
+// Gabarito.AI Service Worker - Offline Cache & PWA Support
+const CACHE_NAME = 'gabaritoai-v2.5.0';
 const STATIC_ASSETS = [
   '/',
   '/index.html',

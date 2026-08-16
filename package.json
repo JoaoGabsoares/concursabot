@@ -1,7 +1,7 @@
 {
-  "name": "concursabot",
+  "name": "gabarito-ai",
   "version": "2.5.0",
-  "description": "ConcursaBot — Seu Cérebro IA Pessoal para Concursos Públicos",
+  "description": "Gabarito.AI — Seu Cérebro IA Pessoal para Concursos Públicos",
   "type": "module",
   "main": "server/index.js",
   "scripts": {

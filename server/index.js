@@ -230,12 +230,12 @@ app.use((err, req, res, next) => {
 
 // Start server
 const server = app.listen(PORT, () => {
-    console.log(`ConcursaBot Backend rodando! Acesse: http://localhost:${PORT}`);
+    console.log(`🎯 Gabarito.AI Backend rodando! Acesse: http://localhost:${PORT}`);
 });
 
 server.on('error', (err) => {
     if (err.code === 'EADDRINUSE') {
-        console.error(`\n❌ ERRO: A porta ${PORT} já está sendo usada por outra instância do ConcursaBot.`);
+        console.error(`\n❌ ERRO: A porta ${PORT} já está sendo usada por outra instância do Gabarito.AI.`);
         console.error(`💡 Para resolver, execute: fuser -k ${PORT}/tcp ou killall node\n`);
     } else {
         console.error('\n❌ Erro no servidor HTTP:', err.message);

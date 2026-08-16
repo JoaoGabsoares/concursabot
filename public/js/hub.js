@@ -157,7 +157,7 @@ export function render(container) {
       <!-- Hub Editorial Header -->
       <div class="hub-header">
         <div class="hub-header-badge">
-          <span>🎯 Hub Multicarreiras ConcursaBot</span>
+          <span>🎯 Hub Multicarreiras Gabarito.AI</span>
         </div>
         <h1 class="hub-title">Escolha seu Objetivo de Estudo</h1>
         <p class="hub-subtitle">

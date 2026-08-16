@@ -9,7 +9,7 @@ export async function render(container) {
       <!-- Top Hero Section -->
       <div class="card" style="padding: 2.5rem 2rem; text-align: center; background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-tertiary) 100%); border-radius: var(--radius-lg); border: 1px solid var(--border-color); margin-bottom: 2rem; position: relative; overflow: hidden;">
         <div style="display:inline-flex; align-items:center; gap:0.5rem; background:rgba(139,92,246,0.15); color:var(--color-primary); padding:0.4rem 1.2rem; border-radius:20px; font-weight:700; font-size:0.85rem; margin-bottom:1rem; border:1px solid rgba(139,92,246,0.35);">
-          <span>✨ Projeto Vibecoding • Ecossistema ConcursaBot v2.5.0 Pro</span>
+          <span>✨ Projeto Vibecoding • Ecossistema Gabarito.AI v2.5.0 Pro</span>
         </div>
         
         <h1 style="font-size: 2.3rem; font-weight: 800; color: var(--text-primary); margin: 0 0 1rem 0; letter-spacing: -0.02em;">
@@ -37,10 +37,10 @@ export async function render(container) {
         <div class="card" style="padding: 1.75rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); background: var(--bg-secondary);">
           <div style="font-size: 2rem; margin-bottom: 0.75rem;">💡</div>
           <h2 style="font-size: 1.25rem; font-weight: 700; color: var(--text-primary); margin: 0 0 0.6rem 0;">
-            Por que o ConcursaBot nasceu?
+            Por que o Gabarito.AI nasceu?
           </h2>
           <p style="font-size: 0.9rem; color: var(--text-secondary); line-height: 1.6; margin: 0;">
-            A maioria dos estudantes gasta <strong>80% do tempo assistindo vídeos lentos</strong> e apenas 20% resolvendo questões. O ConcursaBot inverte essa lógica: você lê a <strong>apostila em tela dividida</strong> ao lado de um <strong>Caderno Enxuto por IA</strong> que sintetiza leis secas, súmulas e pegadinhas em minutos.
+            A maioria dos estudantes gasta <strong>80% do tempo assistindo vídeos lentos</strong> e apenas 20% resolvendo questões. O Gabarito.AI inverte essa lógica: você lê a <strong>apostila em tela dividida</strong> ao lado de um <strong>Caderno Enxuto por IA</strong> que sintetiza leis secas, súmulas e pegadinhas em minutos.
           </p>
         </div>
 

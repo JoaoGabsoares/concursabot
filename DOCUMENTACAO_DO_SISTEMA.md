@@ -1,12 +1,13 @@
-# 🧠 ConcursaBot — Documentação Completa da Arquitetura, Funcionalidades e Decisões de Projeto (v2.4 Pro)
+# 🎯 Gabarito.AI — Documentação Completa da Arquitetura, Funcionalidades e Decisões de Projeto (v2.5 Pro)
 
-> **Visão Geral**: O **ConcursaBot** é uma plataforma e ecossistema inteligente de alta performance desenvolvido sob medida para preparação de concursos públicos de elite com suporte multi-carreira:
-> 1. **Receita Federal do Brasil (RFB)** — Analista-Tributário (ATRFB) e Auditor-Fiscal (AFRFB) • Banca FGV
-> 2. **Saúde RJ (SES-RJ / IASERJ 2026)** — Técnico de Enfermagem e Assistente Administrativo • Banca Instituto IBDO
-> 3. **Marinha do Brasil (SMV RM2 Praças)** — Formação Militar-Naval e Língua Portuguesa • Banca DEnsM
-> 4. **Carreiras Customizadas / Tribunais** — Adaptável a qualquer certame ou banca examinadora.
+> **Visão Geral**: O **Gabarito.AI** é uma plataforma e ecossistema inteligente de alta performance desenvolvido sob medida para preparação de concursos públicos de elite com suporte multi-carreira:
+> 1. **Banco do Brasil (BB 2026)** — Agente Comercial e Agente de Tecnologia • Banca Fundação Cesgranrio
+> 2. **Receita Federal do Brasil (RFB)** — Analista-Tributário (ATRFB) e Auditor-Fiscal (AFRFB) • Banca FGV
+> 3. **Saúde RJ (SES-RJ / IASERJ 2026)** — Técnico de Enfermagem e Assistente Administrativo • Banca Instituto IBDO
+> 4. **Marinha do Brasil (SMV RM2 Praças)** — Formação Militar-Naval e Língua Portuguesa • Banca DEnsM
+> 5. **Carreiras Customizadas / Tribunais** — Adaptável a qualquer certame ou banca examinadora.
 >
-> O projeto foi idealizado como uma alternativa proprietária, local, segura, gratuita e muito mais robusta a plataformas comerciais como o *Concursa.ai*, integrando leitura de apostilas originais em PDF com Caderno Enxuto, análise preditiva de bancas examinadoras, repetição espaçada automática (D+1, D+7, D+30), Caderno de Erros, Cronograma Inteligente com IA, gamificação e suporte a PWA offline.
+> O projeto integra leitura de apostilas originais em PDF com Caderno Enxuto, análise preditiva de bancas examinadoras (Pareto 80/20), repetição espaçada automática (D+1, D+7, D+30), Caderno de Erros inteligente, Corretor de Redação por IA, Cronograma Adaptativo, gamificação e suporte a PWA offline.
 
 ---
 

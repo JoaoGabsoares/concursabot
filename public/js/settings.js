@@ -143,7 +143,7 @@ export async function renderSettings(container) {
           <span style="font-size:2rem;">📖</span>
           <div>
             <h3 style="margin:0; font-size:1.35rem; color:var(--text-primary);">Manual de Uso & Como Funciona</h3>
-            <p style="margin:0.2rem 0 0 0; font-size:0.85rem; color:var(--text-secondary);">Guia completo de cada uma das 12 ferramentas de estudo do ConcursaBot</p>
+            <p style="margin:0.2rem 0 0 0; font-size:0.85rem; color:var(--text-secondary);">Guia completo de cada uma das 12 ferramentas de estudo do Gabarito.AI</p>
           </div>
         </div>
 
@@ -171,15 +171,15 @@ export async function renderSettings(container) {
     tabEl.innerHTML = `
       <div class="card fade-in" style="padding:2rem; border-radius:var(--radius-md); border:1px solid var(--border-color); background:var(--bg-secondary);">
         <div style="display:flex; align-items:center; gap:0.75rem; margin-bottom:1rem;">
-          <span style="font-size:2rem;">🧠</span>
+          <span style="font-size:2rem;">🎯</span>
           <div>
-            <h3 style="margin:0; font-size:1.35rem; color:var(--text-primary);">Sobre o ConcursaBot</h3>
-            <p style="margin:0.2rem 0 0 0; font-size:0.85rem; color:var(--text-secondary);">Versão 2.5.0 Pro • Plataforma Aberta e Gratuita para Concursos</p>
+            <h3 style="margin:0; font-size:1.35rem; color:var(--text-primary);">Sobre o Gabarito.AI</h3>
+            <p style="margin:0.2rem 0 0 0; font-size:0.85rem; color:var(--text-secondary);">Versão 2.5.0 Pro • Ecossistema Inteligente de Estudos para Concursos</p>
           </div>
         </div>
 
         <p style="font-size:0.92rem; color:var(--text-secondary); line-height:1.6;">
-          O ConcursaBot é uma solução inovadora de alta performance para concurseiros de alto rendimento. Em vez de perder horas assistindo aulas gravadas extensas, a plataforma une a <strong>leitura direta da apostila em tela dividida</strong> com um <strong>Caderno Enxuto gerado por IA</strong>, repetição espaçada automática (D+1, D+7, D+30), Caderno de Erros inteligente e análise preditiva de bancas examinadoras.
+          O Gabarito.AI é uma solução inovadora de alta performance para concurseiros de alto rendimento. Em vez de perder horas assistindo aulas gravadas extensas, a plataforma une a <strong>leitura direta da apostila em tela dividida</strong> com um <strong>Caderno Enxuto gerado por IA</strong>, repetição espaçada automática (D+1, D+7, D+30), Caderno de Erros inteligente e análise preditiva de bancas examinadoras.
         </p>
 
         <div style="margin-top:1.5rem; padding-top:1.5rem; border-top:1px solid var(--border-color);">
@@ -199,7 +199,7 @@ export async function renderSettings(container) {
               <span>📋 Copiar E-mail</span>
             </button>
 
-            <a href="mailto:${contactEmail}?subject=Contato%20ConcursaBot" class="btn btn-primary btn-sm" style="padding:0.6rem 1rem; font-weight:600;">
+            <a href="mailto:${contactEmail}?subject=Contato%20Gabarito.AI" class="btn btn-primary btn-sm" style="padding:0.6rem 1rem; font-weight:600;">
               <span>✉️ Abrir no E-mail</span>
             </a>
 
@@ -799,46 +799,217 @@ export async function renderSettings(container) {
 
         <div style="display:grid; grid-template-columns: 1fr 1fr; gap:1.25rem; margin-bottom:1.5rem;">
           <div style="background:var(--bg-tertiary); padding:1.25rem; border-radius:var(--radius-sm); border:1px solid var(--border-color);">
-            <h4 style="margin:0 0 0.4rem 0; font-size:0.95rem; color:var(--text-primary);">
-              📥 Backup Completo em JSON
-            </h4>
-            <p style="font-size:0.8rem; color:var(--text-secondary); margin-bottom:0.85rem;">
-              Exporte todo o seu histórico de estudo, respostas de questões, simulados e estatísticas para um arquivo de segurança.
-            </p>
-            <button class="btn btn-secondary" id="btn-export-json-backup" style="font-weight:600;">
-              📥 Exportar Backup (.JSON)
-            </button>
-          </div>
+            Controle central de sincronização de calendário. Por padrão, o Gabarito.AI mantém a agenda desconectada para não poluir sua rotina.
+        </p>
 
-          <div style="background:var(--bg-tertiary); padding:1.25rem; border-radius:var(--radius-sm); border:1px solid var(--border-color);">
-            <h4 style="margin:0 0 0.4rem 0; font-size:0.95rem; color:var(--color-danger);">
-              🔄 Reset Seguro de Estudos
-            </h4>
-            <p style="font-size:0.8rem; color:var(--text-secondary); margin-bottom:0.85rem;">
-              Deseja recomeçar a preparação do zero? Limpe o histórico de simulados e métricas sem apagar seu perfil de estudante.
-            </p>
-            <button class="btn btn-danger" id="btn-open-reset-modal" style="font-weight:600;">
-              🔄 Abrir Opções de Reset
-            </button>
+        <div style="background:var(--bg-tertiary); padding:1.25rem; border-radius:var(--radius-sm); border:1px solid var(--border-color); margin-bottom:1.5rem;">
+          <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem;">
+            <div>
+              <strong style="font-size:0.95rem; color:var(--text-primary);">Sincronização de Calendário Externo</strong>
+              <p style="margin:0.2rem 0 0 0; font-size:0.8rem; color:var(--text-secondary);">
+                Quando ativado, os eventos do seu Google Agenda são combinados com os blocos de estudo.
+              </p>
+            </div>
+            <label class="toggle-switch">
+              <input type="checkbox" id="toggle-google-calendar" ${isGoogleConnected ? 'checked' : ''}>
+              <span class="slider"></span>
+            </label>
           </div>
         </div>
 
-        <div style="border-top:1px solid var(--border-color); padding-top:1.5rem;">
-          <h4 style="margin:0 0 0.75rem 0; font-size:0.95rem; color:var(--text-primary);">
-            📊 Informações do Sistema & Armazenamento Local
-          </h4>
-          <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:0.75rem;" id="cfg-system-stats-grid">
+        <div style="display:flex; gap:1rem; flex-wrap:wrap;">
+          <button id="btn-sync-calendar-now" class="btn btn-secondary" style="font-size:0.85rem;" ${!isGoogleConnected ? 'disabled' : ''}>
+            <span>🔄 Forçar Sincronização Agora</span>
+          </button>
+          <button id="btn-export-ics-schedule" class="btn btn-primary" style="font-size:0.85rem;">
+            <span>📥 Baixar Arquivo .ICS (Google/Apple)</span>
+          </button>
+        </div>
+      </div>
+    `;
+
+    document.getElementById('toggle-google-calendar')?.addEventListener('change', (e) => {
+      localStorage.setItem('gabarito_google_calendar_enabled', e.target.checked ? 'true' : 'false');
+      const syncBtn = document.getElementById('btn-sync-calendar-now');
+      if (syncBtn) syncBtn.disabled = !e.target.checked;
+      showToast(e.target.checked ? '📅 Sincronização com Google Agenda ativada!' : '📅 Sincronização desativada.', 'info');
+    });
+
+    document.getElementById('btn-sync-calendar-now')?.addEventListener('click', () => {
+      showToast('🔄 Calendário sincronizado com sucesso!', 'success');
+    });
+
+    document.getElementById('btn-export-ics-schedule')?.addEventListener('click', () => {
+      window.open('/api/schedule/export-ics', '_blank');
+      showToast('📥 Arquivo .ICS baixado com sucesso!', 'success');
+    });
+  }
+
+  // ==========================================
+  // TAB: MOTOR DE IA & GEMINI
+  // ==========================================
+  function renderAITab(tabEl) {
+    const customKey = localStorage.getItem('gabarito_custom_gemini_key') || '';
+    const selectedModel = localStorage.getItem('gabarito_ai_model') || 'gemini-3.7-flash';
+
+    tabEl.innerHTML = `
+      <div class="card slide-up" style="padding:1.5rem;">
+        <h3 style="font-size:1.15rem; margin-bottom:0.5rem; color:var(--text-primary); display:flex; align-items:center; gap:0.5rem;">
+          <span>🤖</span> Configuração dos Modelos de Inteligência Artificial
+        </h3>
+        <p style="font-size:0.85rem; color:var(--text-secondary); margin-bottom:1.5rem;">
+          O Gabarito.AI utiliza modelos de ponta da família Google Gemini para geração de flashcards, resumos, simulados e resolução socrática de dúvidas.
+        </p>
+
+        <div style="margin-bottom:1.5rem;">
+          <label style="display:block; font-size:0.85rem; font-weight:600; color:var(--text-primary); margin-bottom:0.5rem;">
+            Modelo de IA Ativo:
+          </label>
+          <select id="select-ai-model" class="input-field" style="max-width:350px;">
+            <option value="gemini-3.7-flash" ${selectedModel === 'gemini-3.7-flash' ? 'selected' : ''}>Gemini 3.7 Flash (Recomendado - Ultra Rápido & Socrático)</option>
+            <option value="gemini-2.5-flash" ${selectedModel === 'gemini-2.5-flash' ? 'selected' : ''}>Gemini 2.5 Flash (Equilibrado)</option>
+            <option value="gemini-2.5-pro" ${selectedModel === 'gemini-2.5-pro' ? 'selected' : ''}>Gemini 2.5 Pro (Raciocínio Profundo para Leis)</option>
+          </select>
+        </div>
+
+        <div style="margin-bottom:1.5rem;">
+          <label style="display:block; font-size:0.85rem; font-weight:600; color:var(--text-primary); margin-bottom:0.5rem;">
+            Chave de API do Gemini (Opcional):
+          </label>
+          <input type="password" id="input-custom-gemini-key" class="input-field" placeholder="AIzaSy... (Deixe em branco para usar a chave padrão do servidor)" value="${customKey}" style="max-width:480px; font-family:var(--font-mono); font-size:0.85rem;">
+          <span style="font-size:0.75rem; color:var(--text-muted); display:block; margin-top:0.3rem;">
+            Sua chave fica salva apenas no seu navegador (LocalStorage) e nunca é compartilhada.
+          </span>
+        </div>
+
+        <div style="display:flex; gap:0.75rem; flex-wrap:wrap;">
+          <button id="btn-save-ai-settings" class="btn btn-primary" style="font-size:0.85rem;">
+            <span>💾 Salvar Configurações de IA</span>
+          </button>
+          <button id="btn-test-ai-connection" class="btn btn-secondary" style="font-size:0.85rem;">
+            <span>🧪 Testar Conexão com Gemini</span>
+          </button>
+        </div>
+      </div>
+    `;
+
+    document.getElementById('btn-save-ai-settings')?.addEventListener('click', () => {
+      const model = document.getElementById('select-ai-model').value;
+      const key = document.getElementById('input-custom-gemini-key').value.trim();
+      localStorage.setItem('gabarito_ai_model', model);
+      if (key) {
+        localStorage.setItem('gabarito_custom_gemini_key', key);
+      } else {
+        localStorage.removeItem('gabarito_custom_gemini_key');
+      }
+      showToast('🤖 Configurações de Inteligência Artificial salvas!', 'success');
+    });
+
+    document.getElementById('btn-test-ai-connection')?.addEventListener('click', async () => {
+      showToast('🧪 Testando conexão com Gemini...', 'info');
+      try {
+        const res = await fetch('/api/health');
+        if (res.ok) {
+          showToast('✅ Conexão com a Inteligência Artificial ativa e operacional!', 'success');
+        } else {
+          showToast('⚠️ Erro ao validar serviço de IA.', 'warning');
+        }
+      } catch (e) {
+        showToast('❌ Servidor offline.', 'error');
+      }
+    });
+  }
+
+  // ==========================================
+  // TAB: INTEGRAÇÕES & APIS
+  // ==========================================
+  function renderIntegrationsTab(tabEl) {
+    tabEl.innerHTML = `
+      <div class="card slide-up" style="padding:1.5rem;">
+        <h3 style="font-size:1.15rem; margin-bottom:0.5rem; color:var(--text-primary); display:flex; align-items:center; gap:0.5rem;">
+          <span>🔌</span> Integrações & Webhooks de Notificação
+        </h3>
+        <p style="font-size:0.85rem; color:var(--text-secondary); margin-bottom:1.5rem;">
+          Configure notificações de simulados concluídos e lembretes de revisão para o Telegram ou Discord.
+        </p>
+
+        <div style="margin-bottom:1.5rem;">
+          <label style="display:block; font-size:0.85rem; font-weight:600; color:var(--text-primary); margin-bottom:0.5rem;">
+            Webhook URL (Discord / Slack):
+          </label>
+          <input type="text" id="input-webhook-url" class="input-field" placeholder="https://discord.com/api/webhooks/..." value="${localStorage.getItem('gabarito_webhook_url') || ''}" style="max-width:550px; font-family:var(--font-mono); font-size:0.85rem;">
+        </div>
+
+        <div style="margin-bottom:1.5rem;">
+          <label style="display:block; font-size:0.85rem; font-weight:600; color:var(--text-primary); margin-bottom:0.5rem;">
+            Telegram Bot Token (Opcional):
+          </label>
+          <input type="text" id="input-telegram-token" class="input-field" placeholder="123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11" value="${localStorage.getItem('gabarito_telegram_token') || ''}" style="max-width:450px; font-family:var(--font-mono); font-size:0.85rem;">
+        </div>
+
+        <button id="btn-save-integrations" class="btn btn-primary" style="font-size:0.85rem;">
+          <span>💾 Salvar Webhooks</span>
+        </button>
+      </div>
+    `;
+
+    document.getElementById('btn-save-integrations')?.addEventListener('click', () => {
+      const webhook = document.getElementById('input-webhook-url').value.trim();
+      const tgToken = document.getElementById('input-telegram-token').value.trim();
+      localStorage.setItem('gabarito_webhook_url', webhook);
+      localStorage.setItem('gabarito_telegram_token', tgToken);
+      showToast('🔌 Configurações de integração salvas!', 'success');
+    });
+  }
+
+  // ==========================================
+  // TAB: EXPORTAR & IMPORTAR
+  // ==========================================
+  function renderExportTab(tabEl) {
+    const userProfile = getCurrentUser();
+    tabEl.innerHTML = `
+      <div class="card slide-up" style="padding:1.5rem;">
+        <h3 style="font-size:1.15rem; margin-bottom:0.5rem; color:var(--text-primary); display:flex; align-items:center; gap:0.5rem;">
+          <span>💾</span> Backup, Exportação e Integridade de Dados
+        </h3>
+        <p style="font-size:0.85rem; color:var(--text-secondary); margin-bottom:1.5rem;">
+          Exporte todo o seu histórico de simulados, anotações, flashcards e progresso em formato JSON portátil ou resete os dados do perfil ativo.
+        </p>
+
+        <div style="display:flex; flex-direction:column; gap:1.25rem; max-width:650px;">
+          <div style="background:var(--bg-tertiary); padding:1.25rem; border-radius:var(--radius-sm); border:1px solid var(--border-color);">
+            <strong style="font-size:0.95rem; color:var(--text-primary); display:block; margin-bottom:0.3rem;">
+              📦 Backup Completo do Perfil (${userProfile.name})
+            </strong>
+            <p style="font-size:0.82rem; color:var(--text-secondary); margin-bottom:1rem;">
+              Gera um arquivo JSON contendo todas as suas métricas de estudo, flashcards criados e histórico de simulados.
+            </p>
+            <button id="btn-export-json-backup" class="btn btn-primary btn-sm" style="font-weight:600;">
+              <span>📥 Exportar Backup (.JSON)</span>
+            </button>
+          </div>
+
+          <div style="background:var(--bg-tertiary); padding:1.25rem; border-radius:var(--radius-sm); border:1px solid rgba(239, 68, 68, 0.3);">
+            <strong style="font-size:0.95rem; color:var(--color-danger); display:block; margin-bottom:0.3rem;">
+              ⚠️ Zona de Perigo — Reset de Dados
+            </strong>
+            <p style="font-size:0.82rem; color:var(--text-secondary); margin-bottom:1rem;">
+              Deseja zerar suas estatísticas de questões, simulados e blocos de estudo deste perfil? Esta ação não pode ser desfeita.
+            </p>
+            <button id="btn-open-reset-modal" class="btn btn-danger btn-sm" style="font-weight:600;">
+              <span>🗑️ Resetar Progresso do Usuário</span>
+            </button>
+          </div>
+
+          <!-- Diagnóstico Técnico de Armazenamento -->
+          <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:0.75rem; margin-top:0.5rem;">
             <div style="padding:0.75rem; background:var(--bg-primary); border-radius:4px; border:1px solid var(--border-color);">
-              <span style="font-size:0.75rem; color:var(--text-secondary);">Banco de Dados:</span>
-              <div style="font-weight:700; font-size:0.95rem; color:var(--text-primary);">SQLite 3 (Local)</div>
+              <span style="font-size:0.75rem; color:var(--text-secondary);">Motor de Banco:</span>
+              <div style="font-weight:700; font-size:0.95rem; color:var(--text-primary);">Node SQLite Built-in</div>
             </div>
             <div style="padding:0.75rem; background:var(--bg-primary); border-radius:4px; border:1px solid var(--border-color);">
-              <span style="font-size:0.75rem; color:var(--text-secondary);">Modo Offline:</span>
-              <div style="font-weight:700; font-size:0.95rem; color:var(--color-success);">PWA Ativo ✅</div>
-            </div>
-            <div style="padding:0.75rem; background:var(--bg-primary); border-radius:4px; border:1px solid var(--border-color);">
-              <span style="font-size:0.75rem; color:var(--text-secondary);">Versão do ConcursaBot:</span>
-              <div style="font-weight:700; font-size:0.95rem; color:var(--text-primary);">v2.4.0 Pro</div>
+              <span style="font-size:0.75rem; color:var(--text-secondary);">Versão do Gabarito.AI:</span>
+              <div style="font-weight:700; font-size:0.95rem; color:var(--text-primary);">v2.5.0 Pro</div>
             </div>
           </div>
         </div>

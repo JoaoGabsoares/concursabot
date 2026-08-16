@@ -86,7 +86,7 @@ export async function render(container) {
           </div>
           <h1 class="wizard-title">Configure sua Jornada de Aprovação</h1>
           <p class="wizard-subtitle">
-            Personalize sua meta, disponibilidade diária e metodologia para o ConcursaBot calibrar seu cronograma.
+            Personalize sua meta, disponibilidade diária e metodologia para o Gabarito.AI calibrar seu cronograma.
           </p>
 
           <!-- Step Progress Indicator -->

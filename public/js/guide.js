@@ -1,5 +1,5 @@
 /**
- * ConcursaBot — Guia de Uso Completo & Interativo
+ * Gabarito.AI — Guia de Uso Completo & Interativo
  * public/js/guide.js
  */
 
@@ -16,7 +16,7 @@ export function render(container) {
               <span class="badge badge-secondary" style="font-size:0.75rem;">Versão 2.5.0 Pro</span>
             </div>
             <h1 class="guide-hero-title">
-              📖 Guia de Uso: Como Dominar o ConcursaBot
+              📖 Guia de Uso: Como Dominar o Gabarito.AI
             </h1>
             <p style="margin:0; font-size:0.95rem; color:var(--text-secondary); line-height:1.5;">
               Aprenda a utilizar cada ferramenta, entenda a metodologia de <strong>Estudo Ativo em Tela Dividida</strong> e descubra a rotina ideal para acelerar sua aprovação.
@@ -378,21 +378,51 @@ export function render(container) {
           <div class="card guide-feature-card" data-tags="rag acervo pdf apostilas upload busca semantica material">
             <div>
               <div style="display:flex; align-items:center; gap:0.65rem; margin-bottom:0.5rem;">
-                <span style="font-size:1.5rem;">📂</span>
-                <div style="min-width:0;">
-                  <h3 style="font-size:1.05rem; margin:0; color:var(--text-primary);">12. Acervo RAG (PDFs)</h3>
-                  <code style="font-size:0.75rem; color:var(--color-primary);">#rag</code>
+          <!-- 11. Gamificação & XP -->
+          <div class="card guide-module-card">
+            <div>
+              <div class="guide-card-header">
+                <div class="guide-icon-box" style="background:rgba(234,179,8,0.12); color:#EAB308;">
+                  <span>🏆</span>
+                </div>
+                <div>
+                  <h3 style="font-size:1.05rem; margin:0; color:var(--text-primary);">11. Ranking & Conquistas</h3>
+                  <code style="font-size:0.75rem; color:var(--color-primary);">#gamification</code>
                 </div>
               </div>
               <p style="font-size:0.86rem; color:var(--text-secondary); line-height:1.45; margin:0 0 0.75rem 0;">
-                Envie suas próprias apostilas e livros em PDF. A IA indexa tudo e permite buscas semânticas em milhares de páginas.
+                Sistema de níveis (Novato a Titular Nomeado), badges exclusivas e ranking de pontuação por carreira.
               </p>
-              <div style="background:var(--bg-primary); padding:0.6rem 0.75rem; border-radius:var(--radius-sm); margin-bottom:1rem; border-left:3px solid #14B8A6; font-size:0.8rem; color:var(--text-secondary);">
-                💡 <strong>Dica Pro:</strong> Transforme qualquer PDF próprio em aula com questões na Sala de Estudos.
+              <div style="background:var(--bg-primary); padding:0.6rem 0.75rem; border-radius:var(--radius-sm); margin-bottom:1rem; border-left:3px solid #EAB308; font-size:0.8rem; color:var(--text-secondary);">
+                🥇 <strong>Dica Pro:</strong> Mantenha a ofensiva de dias seguidos para bônus multiplicador de XP.
               </div>
             </div>
-            <a href="#rag" class="btn btn-secondary btn-sm" style="width:100%; text-align:center; justify-content:center;">
-              Acessar Base de Acervo →
+            <a href="#gamification" class="btn btn-secondary btn-sm" style="width:100%; text-align:center; justify-content:center;">
+              Ver Conquistas & XP →
+            </a>
+          </div>
+
+          <!-- 12. Gestão de Perfis -->
+          <div class="card guide-module-card">
+            <div>
+              <div class="guide-card-header">
+                <div class="guide-icon-box" style="background:rgba(100,116,139,0.12); color:var(--text-secondary);">
+                  <span>👤</span>
+                </div>
+                <div>
+                  <h3 style="font-size:1.05rem; margin:0; color:var(--text-primary);">12. Multi-Perfis</h3>
+                  <code style="font-size:0.75rem; color:var(--color-primary);">#users</code>
+                </div>
+              </div>
+              <p style="font-size:0.86rem; color:var(--text-secondary); line-height:1.45; margin:0 0 0.75rem 0;">
+                Crie perfis independentes para estudar para mais de um concurso sem misturar estatísticas e métricas.
+              </p>
+              <div style="background:var(--bg-primary); padding:0.6rem 0.75rem; border-radius:var(--radius-sm); margin-bottom:1rem; border-left:3px solid var(--text-secondary); font-size:0.8rem; color:var(--text-secondary);">
+                👥 <strong>Dica Pro:</strong> Você pode exportar backups individuais de cada perfil em formato JSON.
+              </div>
+            </div>
+            <a href="#users" class="btn btn-secondary btn-sm" style="width:100%; text-align:center; justify-content:center;">
+              Gerenciar Perfis →
             </a>
           </div>
 
@@ -405,7 +435,7 @@ export function render(container) {
       <section class="guide-section" id="sec-rotina" style="margin-bottom:2rem;">
         <div style="display:flex; align-items:center; gap:0.5rem; margin-bottom:1rem;">
           <h2 style="font-size:1.35rem; margin:0; color:var(--text-primary);">⚡ Rotina Diária de Alto Rendimento</h2>
-          <span class="badge badge-primary">Método ConcursaBot</span>
+          <span class="badge badge-primary">Método Gabarito.AI</span>
         </div>
 
         <div class="card" style="padding:1.4rem;">
@@ -423,21 +453,21 @@ export function render(container) {
 
             <div style="background:var(--bg-primary); padding:1rem; border-radius:var(--radius-md); border:1px solid var(--border-color); min-width:0;">
               <div style="display:flex; align-items:center; gap:0.4rem; margin-bottom:0.4rem;">
-                <span style="font-size:1.25rem;">☀️</span>
-                <strong style="color:var(--text-primary); font-size:0.92rem;">Bloco 2: Treino & Cards (30 min)</strong>
+                <span style="font-size:1.25rem;">🧠</span>
+                <strong style="color:var(--text-primary); font-size:0.92rem;">Bloco 2: Flashcards & Revisão (15 min)</strong>
               </div>
               <p style="font-size:0.85rem; color:var(--text-secondary); margin:0; line-height:1.45;">
-                Resolva 15 a 20 questões em <strong>Questões</strong> (<code>#questions</code>) e revise os <strong>Flashcards</strong> (<code>#flashcards</code>) do dia.
+                Acesse os <strong>Flashcards</strong> (<code>#flashcards</code>) e revise as cartas com repetição espaçada pendentes para hoje.
               </p>
             </div>
 
             <div style="background:var(--bg-primary); padding:1rem; border-radius:var(--radius-md); border:1px solid var(--border-color); min-width:0;">
               <div style="display:flex; align-items:center; gap:0.4rem; margin-bottom:0.4rem;">
-                <span style="font-size:1.25rem;">🌙</span>
-                <strong style="color:var(--text-primary); font-size:0.92rem;">Bloco 3: Blindagem (15 min)</strong>
+                <span style="font-size:1.25rem;">🎯</span>
+                <strong style="color:var(--text-primary); font-size:0.92rem;">Bloco 3: Caderno de Erros & Treino (30 min)</strong>
               </div>
               <p style="font-size:0.85rem; color:var(--text-secondary); margin:0; line-height:1.45;">
-                Acesse o <strong>Caderno de Erros</strong> (<code>#caderno-erros</code>). Refaça os erros do dia e anote os pontos de atenção.
+                Resolva questões no <strong>Treino</strong> (<code>#questions</code>) e refaça as questões pendentes no <strong>Caderno de Erros</strong> (<code>#caderno-erros</code>).
               </p>
             </div>
 
@@ -446,54 +476,54 @@ export function render(container) {
       </section>
 
       <!-- ============================================================ -->
-      <!-- SEÇÃO 4: GAMIFICAÇÃO & NÍVEIS DE XP                          -->
+      <!-- SEÇÃO 4: TABELA DE XP & PONTUAÇÃO                            -->
       <!-- ============================================================ -->
-      <section class="guide-section" id="sec-gamificacao" style="margin-bottom:2rem;">
+      <section class="guide-section" id="sec-xp" style="margin-bottom:2rem;">
         <div style="display:flex; align-items:center; gap:0.5rem; margin-bottom:1rem;">
-          <h2 style="font-size:1.35rem; margin:0; color:var(--text-primary);">🏆 Gamificação: Tabela de XP & Níveis</h2>
-          <span class="badge badge-warning">Motivação Diária</span>
+          <h2 style="font-size:1.35rem; margin:0; color:var(--text-primary);">🏆 Tabela de Pontuação & Recompensas</h2>
+          <span class="badge badge-secondary">Gamificação</span>
         </div>
 
-        <div class="card" style="padding:1.25rem;">
-          <div class="guide-table-wrapper">
-            <table class="guide-table">
+        <div class="card" style="padding:1.4rem;">
+          <div style="overflow-x:auto;">
+            <table style="width:100%; border-collapse:collapse; font-size:0.9rem;">
               <thead>
                 <tr style="border-bottom:2px solid var(--border-color); text-align:left;">
-                  <th style="padding:0.6rem 0.6rem; color:var(--text-secondary);">Ação de Estudo</th>
-                  <th style="padding:0.6rem 0.6rem; color:var(--text-secondary);">XP Concedido</th>
-                  <th style="padding:0.6rem 0.6rem; color:var(--text-secondary);">Impacto</th>
+                  <th style="padding:0.75rem 0.5rem; color:var(--text-secondary);">Ação de Estudo</th>
+                  <th style="padding:0.75rem 0.5rem; color:var(--text-secondary);">XP Concedido</th>
+                  <th style="padding:0.75rem 0.5rem; color:var(--text-secondary);">Impacto na Aprovação</th>
                 </tr>
               </thead>
-              <tbody>
+              <tbody style="color:var(--text-primary);">
                 <tr style="border-bottom:1px solid var(--border-color);">
-                  <td style="padding:0.6rem 0.6rem;">📖 Concluir 1 Aula na Sala de Estudos</td>
-                  <td style="padding:0.6rem 0.6rem; font-family:var(--font-mono); color:var(--color-primary); font-weight:bold;">+50 XP</td>
-                  <td style="padding:0.6rem 0.6rem; color:var(--text-secondary);">Avança edital</td>
+                  <td style="padding:0.75rem 0.5rem;">❓ Acertar questão no Banco ou Simulado</td>
+                  <td style="padding:0.75rem 0.5rem; font-weight:700; color:var(--color-success);">+10 XP</td>
+                  <td style="padding:0.75rem 0.5rem; font-size:0.82rem; color:var(--text-secondary);">Validação de fixação</td>
                 </tr>
                 <tr style="border-bottom:1px solid var(--border-color);">
-                  <td style="padding:0.6rem 0.6rem;">🎯 Acertar Questão de Treino</td>
-                  <td style="padding:0.6rem 0.6rem; font-family:var(--font-mono); color:var(--color-status-success); font-weight:bold;">+10 XP</td>
-                  <td style="padding:0.6rem 0.6rem; color:var(--text-secondary);">Fixação de lei</td>
+                  <td style="padding:0.75rem 0.5rem;">🎯 Superar questão no Caderno de Erros</td>
+                  <td style="padding:0.75rem 0.5rem; font-weight:700; color:var(--color-primary);">+15 XP</td>
+                  <td style="padding:0.75rem 0.5rem; font-size:0.82rem; color:var(--text-secondary);">Eliminação de ponto cego</td>
                 </tr>
                 <tr style="border-bottom:1px solid var(--border-color);">
-                  <td style="padding:0.6rem 0.6rem;">🔥 Superar Questão no Caderno de Erros</td>
-                  <td style="padding:0.6rem 0.6rem; font-family:var(--font-mono); color:#F59E0B; font-weight:bold;">+15 XP</td>
-                  <td style="padding:0.6rem 0.6rem; color:var(--text-secondary);">Elimina pontos fracos</td>
+                  <td style="padding:0.75rem 0.5rem;">🗂️ Revisar cartão de Flashcard (SM-2)</td>
+                  <td style="padding:0.75rem 0.5rem; font-weight:700; color:#3B82F6;">+5 XP</td>
+                  <td style="padding:0.75rem 0.5rem; font-size:0.82rem; color:var(--text-secondary);">Retenção de longo prazo</td>
                 </tr>
                 <tr style="border-bottom:1px solid var(--border-color);">
-                  <td style="padding:0.6rem 0.6rem;">✍️ Escrever e Corrigir Redação IA</td>
-                  <td style="padding:0.6rem 0.6rem; font-family:var(--font-mono); color:#8B5CF6; font-weight:bold;">+50 XP</td>
-                  <td style="padding:0.6rem 0.6rem; color:var(--text-secondary);">Treino discursivo</td>
+                  <td style="padding:0.75rem 0.5rem;">📖 Concluir aula na Sala de Estudos</td>
+                  <td style="padding:0.75rem 0.5rem; font-weight:700; color:var(--color-warning);">+25 XP</td>
+                  <td style="padding:0.75rem 0.5rem; font-size:0.82rem; color:var(--text-secondary);">Avanço no edital</td>
                 </tr>
                 <tr style="border-bottom:1px solid var(--border-color);">
-                  <td style="padding:0.6rem 0.6rem;">⏱️ Finalizar Simulado Oficial</td>
-                  <td style="padding:0.6rem 0.6rem; font-family:var(--font-mono); color:#EC4899; font-weight:bold;">+150 XP</td>
-                  <td style="padding:0.6rem 0.6rem; color:var(--text-secondary);">Gestão de tempo</td>
+                  <td style="padding:0.75rem 0.5rem;">✍️ Concluir redação com nota > 70</td>
+                  <td style="padding:0.75rem 0.5rem; font-weight:700; color:#EC4899;">+50 XP</td>
+                  <td style="padding:0.75rem 0.5rem; font-size:0.82rem; color:var(--text-secondary);">Diferencial classificatório</td>
                 </tr>
                 <tr>
-                  <td style="padding:0.6rem 0.6rem;">🔥 Manter Streak Diário Consecutivo</td>
-                  <td style="padding:0.6rem 0.6rem; font-family:var(--font-mono); color:#EF4444; font-weight:bold;">+25 XP / dia</td>
-                  <td style="padding:0.6rem 0.6rem; color:var(--text-secondary);">Disciplina</td>
+                  <td style="padding:0.75rem 0.5rem;">📝 Finalizar simulado completo</td>
+                  <td style="padding:0.75rem 0.5rem; font-weight:700; color:#8B5CF6;">+40 XP</td>
+                  <td style="padding:0.75rem 0.5rem; font-size:0.82rem; color:var(--text-secondary);">Simulação real de prova</td>
                 </tr>
               </tbody>
             </table>
@@ -514,10 +544,10 @@ export function render(container) {
           
           <details class="card" style="padding:1.1rem; cursor:pointer;">
             <summary style="font-weight:600; color:var(--text-primary); font-size:0.95rem; outline:none;">
-              📱 Posso usar o ConcursaBot no celular ou tablet?
+              📱 Posso usar o Gabarito.AI no celular ou tablet?
             </summary>
             <p style="margin:0.75rem 0 0 0; font-size:0.86rem; color:var(--text-secondary); line-height:1.5;">
-              <strong>Sim!</strong> O ConcursaBot possui design 100% responsivo e arquitetura PWA. Você pode abrir pelo navegador do celular e tocar em <em>"Adicionar à Tela Inicial"</em> para usá-lo como app nativo offline.
+              <strong>Sim!</strong> O Gabarito.AI possui design 100% responsivo e arquitetura PWA. Você pode abrir pelo navegador do celular e tocar em <em>"Adicionar à Tela Inicial"</em> para usá-lo como app nativo offline.
             </p>
           </details>
 
@@ -526,7 +556,7 @@ export function render(container) {
               🔒 Onde meus dados de estudo e anotações ficam salvos?
             </summary>
             <p style="margin:0.75rem 0 0 0; font-size:0.86rem; color:var(--text-secondary); line-height:1.5;">
-              Todos os seus dados ficam salvos localmente no banco de dados SQLite (<code>concursabot.db</code>). Total privacidade, sem rastreamento ou venda de dados.
+              Todos os seus dados ficam salvos localmente no banco de dados SQLite (<code>gabarito.db</code>). Total privacidade, sem rastreamento ou venda de dados.
             </p>
           </details>
 

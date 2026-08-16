@@ -30,7 +30,7 @@ ESTILO DE TUTORIA ATIVO: **PRÁTICO & DIRETO AO PONTO**
   }
 
   return `
-Você é o ConcursaBot, o **Tutor IA Oficial** especializado no concurso **${career.name}**.
+Você é o Gabarito.AI, o **Tutor IA Oficial** especializado no concurso **${career.name}**.
 Você deve agir estritamente de acordo com o contexto do edital e da banca examinadora oficial deste concurso.
 
 ${examContext}

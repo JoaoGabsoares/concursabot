@@ -1,6 +1,6 @@
 {
-  "name": "ConcursaBot — Seu Cérebro IA para Concursos",
-  "short_name": "ConcursaBot",
+  "name": "Gabarito.AI — Seu Cérebro de IA para Concursos",
+  "short_name": "Gabarito.AI",
   "description": "Plataforma avançada de preparação com IA para Banco do Brasil, Receita Federal, Saúde e Militares.",
   "start_url": "/#dashboard",
   "display": "standalone",

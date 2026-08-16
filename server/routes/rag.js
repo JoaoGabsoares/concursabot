@@ -139,7 +139,7 @@ ${s.content}
 `).join('\n---\n');
 
     // 3. Construct Augmented Prompt
-    const ragPrompt = `Você é o Tutor IA Especialista do ConcursaBot com acesso à base completa de conhecimento (RAG) de PDFs do aluno.
+    const ragPrompt = `Você é o Tutor IA Especialista do Gabarito.AI com acesso à base completa de conhecimento (RAG) de PDFs do aluno.
 
 Responda à dúvida do aluno fundamentando sua resposta nos trechos fornecidos abaixo.
 Sempre cite de quais arquivos/fontes você extraiu as informações (ex: Conforme o material "Aula02_Tributario.pdf"...).

@@ -64,7 +64,7 @@ export function printSimulado(simulado) {
     return `
       <div class="key-item">
         <strong>Questão ${idx + 1}:</strong> <span class="badge-gabarito">Opção (${letter})</span>
-        <p class="key-explanation">${q.explanation || 'Resolução comentada no banco do ConcursaBot.'}</p>
+        <p class="key-explanation">${q.explanation || 'Resolução comentada no banco do Gabarito.AI.'}</p>
       </div>
     `;
   }).join('');
@@ -294,7 +294,7 @@ export function printSimulado(simulado) {
         <div class="header-box" style="background:#f4f4f4;">
           <div class="header-top">
             <div class="header-title">GABARITO OFICIAL & RESOLUÇÃO COMENTADA</div>
-            <div class="header-banca">ConcursaBot IA</div>
+            <div class="header-banca">Gabarito.AI</div>
           </div>
         </div>
 

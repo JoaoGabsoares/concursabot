@@ -1,4 +1,4 @@
-# 🧠 ConcursaBot — Memória Mestra & Estado Permanente do Projeto (PROJECT_MEMORY.md)
+# 🎯 Gabarito.AI — Memória Mestra & Estado Permanente do Projeto (PROJECT_MEMORY.md)
 
 > **Data de Atualização:** Agosto/2026 • Versão 2.5.0 Pro  
 > **Objetivo deste documento:** Servir como **Fonte Única da Verdade** para o usuário e para qualquer agente de IA em futuras sessões, garantindo que nenhum contexto, decisão arquitetural, funcionalidade ou comando seja perdido mesmo com o truncamento de conversas.
@@ -7,7 +7,7 @@
 
 ## 📌 1. Sumário Executivo do Sistema
 
-O **ConcursaBot** é uma plataforma web completa de preparação de alta performance para concursos públicos de elite, com suporte nativo a:
+O **Gabarito.AI** é uma plataforma web completa de preparação de alta performance para concursos públicos de elite, com suporte nativo a:
 1. **Banco do Brasil (BB)** — Agente Comercial & Agente de Tecnologia (TI) • Banca Cesgranrio
 2. **Receita Federal do Brasil (RFB)** — Analista-Tributário (ATRFB) e Auditor-Fiscal (AFRFB) • Banca FGV
 3. **Saúde RJ (SES-RJ / IASERJ 2026)** — Técnico de Enfermagem e Assistente Administrativo • Banca Instituto IBDO

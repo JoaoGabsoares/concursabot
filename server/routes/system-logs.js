@@ -35,7 +35,7 @@ router.get('/download', async (req, res) => {
       await fs.promises.writeFile(filePath, '[SYSTEM] Arquivo de log inicializado.\n', 'utf8');
     }
     res.setHeader('Content-Type', 'text/plain; charset=utf-8');
-    res.setHeader('Content-Disposition', `attachment; filename="concursabot_system_${Date.now()}.log"`);
+    res.setHeader('Content-Disposition', `attachment; filename="gabarito_system_${Date.now()}.log"`);
     res.sendFile(filePath);
   } catch (err) {
     logger.error('SYSTEM_LOGS', 'Erro ao baixar arquivo de log', err.message);

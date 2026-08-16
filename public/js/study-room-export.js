@@ -172,7 +172,7 @@ export function printStudyLesson(title, subject, lessonNumber, contentHtml, care
             <div class="subtitle">Disciplina: ${subject} • Caderno Oficial de Teoria & Fixação</div>
           </div>
           <div class="header-meta-block">
-            <div>ConcursaBot IA</div>
+            <div>Gabarito.AI</div>
             <div>Data: ${currentDate}</div>
           </div>
         </div>
@@ -182,7 +182,7 @@ export function printStudyLesson(title, subject, lessonNumber, contentHtml, care
         </div>
 
         <div class="print-footer">
-          <span>Material de Estudo Oficial • ConcursaBot Inteligência em Concursos</span>
+          <span>Material de Estudo Oficial • Gabarito.AI Inteligência em Concursos</span>
           <span>Apostila Individual Gerada para Estudos</span>
         </div>
       </div>
