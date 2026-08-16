@@ -32,8 +32,70 @@ export interface HistoricalCut {
   score: string;
 }
 
-// 1. Doutrina & Questões por Disciplina
+// 1. Doutrina & Questões por Disciplina Completa
 export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
+  // --- DIREITO CONSTITUCIONAL ---
+  "Direito Constitucional": {
+    subject: "Direito Constitucional",
+    topic: "Eficácia das Normas Constitucionais & Remédios Constitucionais",
+    lessonNumber: 1,
+    totalLessons: 12,
+    jurisprudenceNote: "FGV / CESGRANRIO: Cobrança massiva da classificação de José Afonso da Silva (Plena, Contida e Limitada) e cabimento do Habeas Data vs Mandado de Segurança.",
+    section1Title: "1. Aplicabilidade e Eficácia das Normas Constitucionais",
+    section1Body: "As normas de eficácia plena produzem todos os seus efeitos imediatamente com a promulgação da Constituição, sem necessidade de regulamentação infraconstitucional. As normas de eficácia contida (ou prospectiva) têm aplicabilidade imediata e integral, mas podem ter seu alcance restringido por lei posterior. As normas de eficácia limitada possuem aplicabilidade mediata e dependem de integração legislativa para produzirem plenos efeitos (ex: direito de greve dos servidores públicos - art. 37, VII).",
+    section2Title: "2. Esquema Mnemônico de Eficácia e Remédios",
+    mnemonics: [
+      { code: "PLENA = NÃO REDUZ", meaning: "Aplicabilidade direta, imediata e integral (não pode ser contida por lei)." },
+      { code: "CONTIDA = PODE REDUZIR", meaning: "Aplicabilidade direta e imediata, mas não integral (pode ser restringida)." },
+      { code: "LIMITADA = PRECISA DE LEI", meaning: "Aplicabilidade indireta e mediata (precisa de lei regulamentadora)." },
+      { code: "HABEAS DATA = DADOS PESSOAIS", meaning: "Para conhecer ou retificar dados da pessoa do impetrante em registros governamentais." }
+    ],
+    question: {
+      id: 201,
+      question: "Assinale a opção que indica o remédio constitucional cabível para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros de entidades governamentais:",
+      options: {
+        A: "Mandado de Segurança Coletivo.",
+        B: "Ação Popular.",
+        C: "Habeas Data.",
+        D: "Habeas Corpus.",
+        E: "Mandado de Injunção."
+      },
+      answer: "C",
+      explanation: "Art. 5º, LXXII, 'a' da CF/88: Conceder-se-á habeas data para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público."
+    }
+  },
+
+  // --- DIREITO ADMINISTRATIVO ---
+  "Direito Administrativo": {
+    subject: "Direito Administrativo",
+    topic: "Atos Administrativos (Requisitos de Validade) & Abuso de Poder",
+    lessonNumber: 1,
+    totalLessons: 12,
+    jurisprudenceNote: "FGV / CESGRANRIO: Cobrança recorrente dos requisitos de validade (COFIFOMOB) e a distinção entre Excesso de Poder (vício de competência) e Desvio de Finalidade (vício de finalidade).",
+    section1Title: "1. Elementos e Requisitos de Validade do Ato",
+    section1Body: "Todo ato administrativo possui cinco elementos essenciais: Competência, Finalidade, Forma, Motivo e Objeto. A Competência, a Finalidade e a Forma são sempre vinculadas. O vício na finalidade configura 'Desvio de Finalidade' (quando o ato busca interesse privado ou fim diverso da lei), ao passo que a atuação fora das atribuições legais configura 'Excesso de Poder'. A anulação opera efeitos retroativos (ex tunc) para atos ilegais, enquanto a revogação opera efeitos prospectivos (ex nunc) por conveniência e oportunidade.",
+    section2Title: "2. Mnemônico de Direito Administrativo",
+    mnemonics: [
+      { code: "CO-FI-FO-MO-OB", meaning: "Competência, Finalidade, Forma, Motivo, Objeto (os 5 elementos do ato)." },
+      { code: "DESVIO = FINALIDADE", meaning: "O agente é competente, mas persegue fim estranho ao interesse público." },
+      { code: "EXCESSO = COMPETÊNCIA", meaning: "O agente extrapola os limites legais de suas atribuições." },
+      { code: "ANULAÇÃO = EX TUNC (Ilegal)", meaning: "Apaga o ato desde a origem com efeito retroativo." }
+    ],
+    question: {
+      id: 202,
+      question: "No tocante aos poderes administrativos, o ato praticado por autoridade pública visando a fim diverso daquele previsto expressa ou implicitamente em lei padece de vício denominado:",
+      options: {
+        A: "Excesso de poder.",
+        B: "Desvio de finalidade.",
+        C: "Incompetência territorial.",
+        D: "Vício de forma insanável.",
+        E: "Ilegitimidade passiva."
+      },
+      answer: "B",
+      explanation: "O desvio de finalidade (ou desvio de poder) ocorre quando a autoridade competente pratica o ato visando a um fim diverso daquele que a lei fixou, incidindo em vício de finalidade."
+    }
+  },
+
   // --- BANCO DO BRASIL / MERCADO FINANCEIRO ---
   "Conhecimentos Bancários": {
     subject: "Conhecimentos Bancários",
@@ -45,8 +107,8 @@ export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
     section1Body: "O Sistema Financeiro Nacional é dividido em dois subsistemas: o normativo e o operativo. O Conselho Monetário Nacional (CMN) é o órgão superior normativo máximo, responsável por formular a política da moeda e do crédito, enquanto o Banco Central do Brasil (Bacen) e a CVM atuam como entidades supervisoras e fiscalizadoras das instituições financeiras e do mercado de valores mobiliários.",
     section2Title: "2. Esquema Mnemônico de Órgãos Normativos",
     mnemonics: [
-      { code: "CMN = MANDA", meaning: "Conselho Monetário Nacional: fixa diretrizes, metas de inflação e normas gerais (não executa)." },
-      { code: "BACEN = EXECUTA", meaning: "Banco Central do Brasil: emite moeda, executa a política monetária e fiscaliza os bancos." }
+      { code: "CMN = MANDA (Normativo)", meaning: "Conselho Monetário Nacional: fixa diretrizes, metas de inflação e normas gerais (não executa)." },
+      { code: "BACEN = EXECUTA (Supervisor)", meaning: "Banco Central do Brasil: emite moeda, executa a política monetária e fiscaliza os bancos." }
     ],
     question: {
       id: 101,
@@ -145,6 +207,90 @@ export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
       },
       answer: "B",
       explanation: "Art. 39, I do CDC: É vedado ao fornecedor condicionar o fornecimento de produto ou serviço ao fornecimento de outro produto ou serviço (venda casada)."
+    }
+  },
+
+  "Informática Básica": {
+    subject: "Informática Básica",
+    topic: "Segurança da Informação & Princípios CIDAN",
+    lessonNumber: 1,
+    totalLessons: 8,
+    jurisprudenceNote: "CESGRANRIO: Cobrança dos cinco pilares fundamentais da segurança da informação (Confidencialidade, Integridade, Disponibilidade, Autenticidade e Não-repúdio).",
+    section1Title: "1. Princípios Básicos de Segurança Digital",
+    section1Body: "A Confidencialidade garante que a informação só será acessível a pessoas autorizadas. A Integridade garante que a informação não sofrerá alteração não autorizada. A Disponibilidade garante que a informação estará acessível sempre que necessária. A Autenticidade garante a identidade de quem produziu a informação, e o Não-repúdio impede a negação de autoria.",
+    section2Title: "2. Mnemônico CIDAN",
+    mnemonics: [
+      { code: "C-I-D-A-N", meaning: "Confidencialidade, Integridade, Disponibilidade, Autenticidade, Não-repúdio." },
+      { code: "NÃO-REPÚDIO = IRRETROTRATABILIDADE", meaning: "Garantido pelo uso de assinatura digital com chave privada." }
+    ],
+    question: {
+      id: 203,
+      question: "No contexto da segurança da informação, a propriedade que garante que o autor de uma transação eletrônica não possa negar a autoria da mensagem é denominada:",
+      options: {
+        A: "Confidencialidade.",
+        B: "Não-repúdio (ou Irretratabilidade).",
+        C: "Disponibilidade contínua.",
+        D: "Interoperabilidade.",
+        E: "Segregação de funções."
+      },
+      answer: "B",
+      explanation: "O princípio do Não-repúdio (ou irretratabilidade) impede que uma entidade negue ter realizado determinada ação ou gerado certa informação."
+    }
+  },
+
+  "Matemática & Probabilidade": {
+    subject: "Matemática & Probabilidade",
+    topic: "Análise Combinatória (Arranjo vs Combinação) & Probabilidade",
+    lessonNumber: 1,
+    totalLessons: 8,
+    jurisprudenceNote: "CESGRANRIO: Questões de comissões, filas e probabilidade condicional com cálculo direto.",
+    section1Title: "1. Regra Fundamental da Combinatória",
+    section1Body: "Na Análise Combinatória, se a ordem dos elementos importar na formação do grupo (ex: senhas, pódios, cargos de presidente e vice), utiliza-se o Arranjo/Princípio Multiplicativo. Se a ordem dos elementos NÃO importar (ex: grupos de estudo, comissões de trabalho, sorteios de brindes idênticos), utiliza-se a Combinação Simples: C(n,p) = n! / (p! * (n-p)!).",
+    section2Title: "2. Mnemônico de Combinatória",
+    mnemonics: [
+      { code: "ORDEM IMPORTA? A-HAM -> ARRANJO", meaning: "Se mudar a ordem mudar o resultado (pódio, senha), use Arranjo." },
+      { code: "ORDEM NÃO IMPORTA? NÃO -> COMBINAÇÃO", meaning: "Se mudar a ordem for o mesmo grupo (comissão), use Combinação." }
+    ],
+    question: {
+      id: 204,
+      question: "De quantas maneiras distintas um banco pode escolher uma comissão de 3 analistas a partir de um grupo de 8 candidatos disponíveis:",
+      options: {
+        A: "56 maneiras.",
+        B: "336 maneiras.",
+        C: "24 maneiras.",
+        D: "120 maneiras.",
+        E: "28 maneiras."
+      },
+      answer: "A",
+      explanation: "A ordem não importa na comissão -> Combinação Simples: C(8,3) = (8*7*6)/(3*2*1) = 336 / 6 = 56 maneiras distintas."
+    }
+  },
+
+  "Língua Inglesa": {
+    subject: "Língua Inglesa",
+    topic: "Técnicas de Leitura Rápida (Skimming/Scanning) & Falsos Cognatos",
+    lessonNumber: 1,
+    totalLessons: 6,
+    jurisprudenceNote: "BANCAS FEDERAIS: Questões com falsos amigos (false friends) como actually, pretend, intend, push/pull.",
+    section1Title: "1. Estratégias de Interpretação em Concursos",
+    section1Body: "Skimming é a leitura rápida para captar a ideia geral do texto e a tese do autor. Scanning é a busca visual focada em palavras-chave específicas solicitadas no enunciado. É crucial atentar aos falsos amigos: 'Actually' significa 'na verdade' (e não atualmente); 'Pretend' significa 'fingir' (e não pretender); 'Intend' significa 'pretender'.",
+    section2Title: "2. Mnemônico de Falsos Cognatos",
+    mnemonics: [
+      { code: "ACTUALLY = NA VERDADE", meaning: "Atualmente em inglês é 'Currently' ou 'Nowadays'." },
+      { code: "PRETEND = FINGIR", meaning: "Pretender em inglês é 'Intend'." }
+    ],
+    question: {
+      id: 205,
+      question: "No contexto de um texto em língua inglesa, a palavra 'actually' expressa sentido equivalente a:",
+      options: {
+        A: "Atualmente.",
+        B: "Na realidade / Na verdade.",
+        C: "Eventualmente.",
+        D: "Recentemente.",
+        E: "Raramente."
+      },
+      answer: "B",
+      explanation: "'Actually' é um clássico falso cognato que significa 'in fact' / 'na verdade', enquanto atualmente se traduz por 'currently'."
     }
   },
 
@@ -290,6 +436,34 @@ export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
     }
   },
 
+  "Legislação Militar": {
+    subject: "Legislação Militar",
+    topic: "Estatuto dos Militares (Lei 6.880/80) & Regulamento Disciplinar (RDM)",
+    lessonNumber: 1,
+    totalLessons: 10,
+    jurisprudenceNote: "DEnsM: Cobrança dos deveres e obrigações militares, situações de atividade/inatividade e distinção entre transgressão disciplinar e crime militar.",
+    section1Title: "1. O Estatuto dos Militares (Lei 6.880/80)",
+    section1Body: "Os membros das Forças Armadas, em razão de sua destinação constitucional, formam uma categoria especial de servidores da Pátria. O Estatuto disciplina o ingresso, hierarquia, disciplina, direitos, prerrogativas e deveres. As penas disciplinares da Marinha (RDM) compreendem: repreensão, impedimento disciplinar, prisão disciplinar e licenciamento/exclusão a bem da disciplina.",
+    section2Title: "2. Mnemônico de Legislação Militar",
+    mnemonics: [
+      { code: "ATIVIDADE = EFETIVO SERVIÇO", meaning: "Militares de carreira e temporários incorporados." },
+      { code: "INATIVIDADE = RESERVA REMUNERADA / REFORMADO", meaning: "Reserva pode ser convocada; Reformado está dispensado definitivamente." }
+    ],
+    question: {
+      id: 206,
+      question: "Segundo a Lei Federal nº 6.880/1980 (Estatuto dos Militares), os militares que estão dispensados definitivamente da prestação de serviço na ativa pertencem à situação de:",
+      options: {
+        A: "Reserva não remunerada.",
+        B: "Disponibilidade temporária.",
+        C: "Reforma (Militares Reformados).",
+        D: "Agregação especial.",
+        E: "Excedente funcional."
+      },
+      answer: "C",
+      explanation: "Art. 3º, § 1º, 'b', II da Lei 6.880/80: Os militares na inatividade compreendem os reformados, quando estão dispensados, definitivamente, da prestação de serviço na ativa."
+    }
+  },
+
   // --- SAÚDE / SUS (IBDO) ---
   "Legislação do SUS (Leis 8.080 e 8.142)": {
     subject: "Legislação do SUS (Leis 8.080 e 8.142)",
@@ -316,6 +490,62 @@ export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
       },
       answer: "B",
       explanation: "A Universalidade garante que a saúde é direito de todos e dever do Estado, garantindo acesso universal e igualitário aos serviços."
+    }
+  },
+
+  "Políticas Públicas de Saúde": {
+    subject: "Políticas Públicas de Saúde",
+    topic: "Atenção Primária à Saúde (APS), PNAB & Saúde da Família (ESF)",
+    lessonNumber: 1,
+    totalLessons: 8,
+    jurisprudenceNote: "IBDO: Cobrança das diretrizes da Política Nacional de Atenção Básica (Portaria GM/MS 2.436/2017) e composição da equipe mínima da ESF.",
+    section1Title: "1. A Atenção Básica como Ordenadora da Rede",
+    section1Body: "A Atenção Primária é o primeiro nível de atenção em saúde e se caracteriza por um conjunto de ações de saúde individuais, familiares e coletivas. Funciona como a principal porta de entrada e centro de comunicação da Rede de Atenção à Saúde (RAS), orientada pelos princípios da longitudinalidade, coordenação do cuidado e territorialização.",
+    section2Title: "2. Mnemônico de Atenção Básica",
+    mnemonics: [
+      { code: "ESF = PORTA PREFERENCIAL", meaning: "Estratégia prioritária para expansão e consolidação da APS no Brasil." },
+      { code: "EQUIPE MÍNIMA ESF", meaning: "Médico, Enfermeiro, Auxiliar/Técnico de Enfermagem e Agentes Comunitários (ACS)." }
+    ],
+    question: {
+      id: 207,
+      question: "Conforme a Política Nacional de Atenção Básica (PNAB), a equipe mínima de Saúde da Família (eSF) deve ser composta obrigatoriamente por:",
+      options: {
+        A: "Médico, Enfermeiro, Técnico/Auxiliar de Enfermagem e Agentes Comunitários de Saúde (ACS).",
+        B: "Médico, Psicólogo, Fisioterapeuta e Farmacêutico.",
+        C: "Enfermeiro, Assistente Social e Cirurgião Dentista exclusivamente.",
+        D: "Apenas Agentes Comunitários e Técnicos de Enfermagem sob supervisão remota.",
+        E: "Equipe multiprofissional com no mínimo 10 especialistas médicos."
+      },
+      answer: "A",
+      explanation: "A PNAB estabelece como equipe mínima da Estratégia Saúde da Família: médico (preferencialmente de família), enfermeiro, técnico ou auxiliar de enfermagem e ACS."
+    }
+  },
+
+  "Noções de Administração Pública": {
+    subject: "Noções de Administração Pública",
+    topic: "Nova Lei de Licitações (Lei 14.133/21) & Princípios LIMPE",
+    lessonNumber: 1,
+    totalLessons: 8,
+    jurisprudenceNote: "IBDO: Cobrança das novas modalidades de licitação (Pregão, Concorrência, Concurso, Leilão e Diálogo Competitivo) e extinção de Tomada de Preços e Convite.",
+    section1Title: "1. Modalidades da Lei nº 14.133/2021",
+    section1Body: "A nova Lei de Licitações e Contratos Administrativos instituiu cinco modalidades oficiais: Pregão (bens e serviços comuns), Concorrência (bens e serviços especiais e obras), Concurso (trabalho técnico, científico ou artístico), Leilão (alienação de bens) e Diálogo Competitivo (soluções inovadoras). As antigas modalidades Convite e Tomada de Preços foram extintas.",
+    section2Title: "2. Mnemônico de Licitações 14.133",
+    mnemonics: [
+      { code: "P-C-C-L-DC", meaning: "Pregão, Concorrência, Concurso, Leilão, Diálogo Competitivo." },
+      { code: "EXTINTOS = CONVITE & TOMADA DE PREÇOS", meaning: "Não existem mais na Lei 14.133/21." }
+    ],
+    question: {
+      id: 208,
+      question: "Nos termos da Lei nº 14.133/2021 (Nova Lei de Licitações), assinale a opção que apresenta uma modalidade licitatória INOVADORA introduzida no ordenamento jurídico brasileiro:",
+      options: {
+        A: "Tomada de Preços.",
+        B: "Diálogo Competitivo.",
+        C: "Carta Convite.",
+        D: "Consulta Pública Vinculante.",
+        E: "Leilão Reverso Invertido."
+      },
+      answer: "B",
+      explanation: "O Diálogo Competitivo é a nova modalidade introduzida pela Lei 14.133/21 para contratações complexas e inovadoras, enquanto Convite e Tomada de Preços foram revogados."
     }
   },
 
@@ -388,8 +618,8 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
     topTopics: [
       { subject: "Direito Tributário", topic: "Limitações Constitucionais, CTN, Crédito & Obrigação", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "25%" },
       { subject: "Legislação Tributária e Aduaneira", topic: "Território Aduaneiro, Despacho & Infrações Fiscais", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "20%" },
-      { subject: "Direito Constitucional", topic: "Controle de Constitucionalidade & Repartição de Competências", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" },
-      { subject: "Direito Administrativo", topic: "Regime Jurídico Único (Lei 8.112/90) & Atos Administrativos", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" },
+      { subject: "Direito Constitucional", topic: "Controle de Constitucionalidade, Eficácia & Remédios", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "15%" },
+      { subject: "Direito Administrativo", topic: "Atos Administrativos (COFIFOMOB) & Abuso de Poder", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "15%" },
       { subject: "Contabilidade Geral", topic: "Estrutura do Balanço Patrimonial, DRE & CPC 00", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" }
     ]
   },
@@ -402,7 +632,7 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
     topTopics: [
       { subject: "Organização Básica da Marinha", topic: "Estrutura do Comando da Marinha & Missão Constitucional", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "25%" },
       { subject: "História e Tradições Navais", topic: "Batalha do Riachuelo, Almirante Tamandaré & Tradições", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "25%" },
-      { subject: "Legislação Militar", topic: "Estatuto dos Militares (Lei 6.880/80) & Regulamento Disciplinar", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "25%" },
+      { subject: "Legislação Militar", topic: "Estatuto dos Militares (Lei 6.880/80) & Regulamento Disciplinar (RDM)", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "25%" },
       { subject: "Língua Portuguesa", topic: "Sintaxe de Regência, Crase e Coesão Textual", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "25%" }
     ]
   },
@@ -415,7 +645,7 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { subject: "Legislação do SUS (Leis 8.080 e 8.142)", topic: "Princípios Doutrinários, Financiamento e Controle Social", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "30%" },
       { subject: "Políticas Públicas de Saúde", topic: "Atenção Primária à Saúde e Estratégia Saúde da Família", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "25%" },
       { subject: "Língua Portuguesa", topic: "Interpretação de Texto, Acentuação e Sintaxe", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "25%" },
-      { subject: "Noções de Administração Pública", topic: "Princípios da Administração e Lei 8.666/14.133", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "20%" }
+      { subject: "Noções de Administração Pública", topic: "Nova Lei de Licitações (Lei 14.133/21) e Princípios LIMPE", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "20%" }
     ]
   }
 };
@@ -429,19 +659,28 @@ export const CAREER_ESSAY_THEMES: Record<string, string> = {
   "ses_rj": "Os desafios da regionalização, do financiamento tripartite e da equidade no acesso à saúde pública no SUS."
 };
 
-// Helper para obter a aula ou fallback
+// Helper para obter a aula com matching preciso e insensível a acentos/prefixos
 export function getLessonContent(subjectName: string): LessonContent {
   if (STUDY_LESSONS_DB[subjectName]) {
     return STUDY_LESSONS_DB[subjectName];
   }
-  // Fallback genérico inteligente
+
+  // Tenta matching parcial
+  const normalized = subjectName.toLowerCase();
+  for (const [key, value] of Object.entries(STUDY_LESSONS_DB)) {
+    if (normalized.includes(key.toLowerCase()) || key.toLowerCase().includes(normalized)) {
+      return value;
+    }
+  }
+
+  // Fallback seguro
   return {
     subject: subjectName,
-    topic: `Tópicos Estruturais de ${subjectName}`,
+    topic: `Tópicos Fundamentais de ${subjectName}`,
     lessonNumber: 1,
     totalLessons: 10,
     jurisprudenceNote: `Cobrança frequente da literalidade dos pontos centrais de ${subjectName} em provas de concurso.`,
-    section1Title: `1. Conceitos Fundamentais de ${subjectName}`,
+    section1Title: `1. Conceitos Estruturais de ${subjectName}`,
     section1Body: `O estudo aprofundado de ${subjectName} exige a compreensão dos princípios dogmáticos e a resolução de questões de bancas anteriores para fixação das pegadinhas clássicas.`,
     section2Title: "2. Esquema de Fixação Rápida",
     mnemonics: [

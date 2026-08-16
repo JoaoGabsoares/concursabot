@@ -65,11 +65,26 @@ export const api = {
   getScheduleToday: (careerId?: string) => 
     request<{ items: any[]; focusSubject: string }>(`/schedule/today?careerId=${careerId || ''}`),
 
-  // Study Room & Materials
+  // Study Room & Materials (RAG 2.0)
   getStudyMaterials: (careerId?: string) => 
     request<{ materials: any[] }>(`/study-room/materials?careerId=${careerId || ''}`),
   getStudyCatalog: (careerId?: string) => 
     request<{ catalog: any[] }>(`/study-room/catalog?careerId=${careerId || ''}`),
+  uploadStudyMaterial: async (formData: FormData, userId?: string, careerId?: string) => {
+    const res = await fetch(`${API_BASE}/study-room/upload`, {
+      method: 'POST',
+      headers: {
+        'x-user-id': userId || 'user_joao',
+        'x-exam-id': careerId || 'atrfb'
+      },
+      body: formData
+    });
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({ error: res.statusText }));
+      throw new Error(err.error || `Erro no upload HTTP ${res.status}`);
+    }
+    return res.json();
+  },
 
   // Questions & Simulado
   generateQuestions: (params: { subject: string; topic?: string; banca?: string; count?: number; careerId?: string }) =>
@@ -98,21 +113,17 @@ export const api = {
   getRedacaoHistorico: () =>
     request<{ historico: RedacaoCritique[] }>('/redacao/historico'),
 
-  // Raio-X do Edital
-  getEditalRaioX: (careerId: string) =>
-    request<{
-      career: string;
-      banca: string;
-      cutScoreHistory: { year: number; score: number }[];
-      paretoTopTopics: { subject: string; topic: string; weightPercent: number; incidence: 'alta' | 'media' | 'baixa' }[];
-      subjectsWeights: { name: string; weight: number; questionsCount: number }[];
-    }>(`/edital/raiox?careerId=${careerId}`),
-
-  // Flashcards
+  // Flashcards SM-2
   getFlashcardDecks: (careerId?: string) =>
-    request<{ decks: any[] }>(`/flashcards/decks?careerId=${careerId || ''}`),
-  generateFlashcards: (payload: { topic: string; subject: string; count?: number }) =>
-    request<{ cards: Flashcard[] }>('/flashcards/generate', { method: 'POST', body: JSON.stringify(payload) }),
-  reviewFlashcard: (cardId: number, rating: number) =>
-    request<{ nextReviewDate: string; interval: number }>('/flashcards/review', { method: 'POST', body: JSON.stringify({ cardId, rating }) }),
+    request<any[]>(`/flashcards/decks?careerId=${careerId || ''}`),
+  getFlashcardCards: (deckId: number) =>
+    request<Flashcard[]>(`/flashcards/deck/${deckId}`),
+  generateFlashcards: (payload: { topic: string; subject?: string; careerId?: string }) =>
+    request<{ success: boolean; cards: Flashcard[] }>('/flashcards/generate', { method: 'POST', body: JSON.stringify(payload) }),
+  reviewFlashcard: (payload: { cardId: number; rating: number }) =>
+    request<{ nextReviewDate: string; intervalDays: number; easeFactor: number }>('/flashcards/review', { method: 'POST', body: JSON.stringify(payload) }),
+
+  // Raio-X & Pareto 80/20
+  getRaioX: (careerId?: string) =>
+    request<any>(`/edital/raiox?careerId=${careerId || ''}`)
 };
