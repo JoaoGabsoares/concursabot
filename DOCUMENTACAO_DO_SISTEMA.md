@@ -156,3 +156,20 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 | **Subagent 10** | UI: Simulados & Caderno de Erros | 🟢 **100% PASS** | Tela de simulado com cronômetro, mapa de questões, tela de resultado e selos de superação (+15 XP). |
 | **Subagent 11** | UI: Redação, Raio-X & Settings Hub | 🟢 **100% PASS** | Editor dissertativo com espelho de correção, gráficos Pareto 80/20 e Central de Ajustes/Metodologia. |
 
+---
+
+## 11. Módulos Inovadores de Aprendizado Ativo & Transição de Carreira
+
+1. **⚖️ Caça-Pegadinhas da Lei Seca com IA (`/api/leiseca`)**:
+   - **Mecânica Cognitiva**: Desafios com timer regressivo de 15 segundos apresentando artigos oficiais adulterados pela banca examinadora em um único vocábulo sutil (ex: "é vedado" por "é facultado").
+   - **Gamificação**: Concessão imediata de **+10 XP** (+5 XP bônus para respostas em menos de 8s) e explicação doutrinária do porquê a banca cobra aquela pegadinha.
+   - **Banco de Artigos de Ouro**: Catálogo curado dos diplomas legais mais cobrados (CF/88, Lei 8.112/90, CTN, Lei 13.303/16, Lei 4.595/64, Lei 8.080/90 e Lei 6.880/80).
+
+2. **🧭 Matriz de Aproveitamento & Transição de Editais (`/api/aproveitamento`)**:
+   - **Cálculo de Afinidade Curricular**: Algoritmo que compara duas carreiras e determina a sobreposição percentual de disciplinas e núcleos temáticos.
+   - **Trilha de Transição Acelerada**: Roteiro ranqueado por peso no novo certame indicando matérias inéditas a estudar e estimativa de semanas para cobrir o gap.
+
+3. **🎧 Modo Áudio Flash no Trânsito (`AudioFlashPlayer`)**:
+   - **Hands-Free Learning**: Player de áudio integrado com a Web Speech API nativa (português do Brasil), permitindo escuta contínua de pílulas mnemônicas e pontos de ouro do edital durante deslocamentos.
+
+

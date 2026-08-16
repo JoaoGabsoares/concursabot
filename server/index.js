@@ -29,6 +29,8 @@ import resetRoutes from './routes/reset.js';
 import gamificationRoutes from './routes/gamification.js';
 import cadernoErrosRoutes from './routes/caderno-erros.js';
 import redacaoRoutes from './routes/redacao.js';
+import leisecaRoutes from './routes/leiseca.js';
+import aproveitamentoRoutes from './routes/aproveitamento.js';
 import { generalLimiter, aiRateLimiter } from './middleware/rate-limiter.js';
 import { seedExamBenchmarks } from './seeds/exam_benchmarks_seed.js';
 import { seedUserProfiles } from './seeds/user_profiles_seed.js';
@@ -230,6 +232,8 @@ app.use('/api/study-reset', resetRoutes);
 app.use('/api/gamification', gamificationRoutes);
 app.use('/api/caderno-erros', cadernoErrosRoutes);
 app.use('/api/redacao', aiRateLimiter, redacaoRoutes);
+app.use('/api/leiseca', leisecaRoutes);
+app.use('/api/aproveitamento', aproveitamentoRoutes);
 
 // SPA Client Routing Catch-All (React 19 / Vite)
 app.get('*', (req, res, next) => {

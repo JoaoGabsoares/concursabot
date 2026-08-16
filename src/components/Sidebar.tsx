@@ -46,12 +46,14 @@ export const Sidebar: React.FC<SidebarProps> = ({
         { id: 'simulados' as ActiveTab, label: 'Simulados & Treino' },
         { id: 'erros' as ActiveTab, label: 'Caderno de Erros', badge: pendingErrorsCount },
         { id: 'flashcards' as ActiveTab, label: 'Flashcards SM-2' },
+        { id: 'leiseca' as ActiveTab, label: 'Caça-Pegadinhas da Lei' },
       ]
     },
     {
       title: 'INTELIGÊNCIA & ANÁLISE',
       items: [
         { id: 'redacao' as ActiveTab, label: 'Redação Discursiva' },
+        { id: 'aproveitamento' as ActiveTab, label: 'Transição de Editais' },
         { id: 'edital' as ActiveTab, label: 'Raio-X do Edital' },
       ]
     },

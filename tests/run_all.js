@@ -2,6 +2,7 @@ import { runUniversalPdfTests } from './unit/universal_pdf.test.js';
 import { runAuthAndIsolationTests } from './integration/auth_and_isolation.test.js';
 import { runStudyRoomCadenceTests } from './integration/study_room_cadence.test.js';
 import { runSecurityTests } from './security/pentest_and_ai.test.js';
+import { runLeiSecaAndAproveitamentoTests } from './integration/leiseca_and_aproveitamento.test.js';
 
 async function main() {
   console.log('===============================================================');
@@ -15,6 +16,7 @@ async function main() {
     await runAuthAndIsolationTests();
     await runStudyRoomCadenceTests();
     await runSecurityTests();
+    await runLeiSecaAndAproveitamentoTests();
 
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(2);
     console.log('\n===============================================================');

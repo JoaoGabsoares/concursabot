@@ -92,3 +92,12 @@ npm run dev
 - **Fase 2 (5 Subagentes de UI / Screenshots)**:
   - Subagents 7 a 11: Todas as telas (Auth, Dashboard, Sala de Estudos, Simulados, Caderno de Erros, Redação, Raio-X e Settings) validadas e capturadas com conformidade ao Design System.
 
+---
+
+## ⚡ 6. Inovações de Mercado Implementadas (v3.5 Ultra)
+
+- **Caça-Pegadinhas da Lei Seca**: Gamificação com timer de 15s, identificação de armadilhas da banca e recompensa de +10 a +15 XP.
+- **Matriz de Transição e Aproveitamento**: Análise algorítmica de sobreposição entre as 7 carreiras com trilha passo a passo de complementação.
+- **Modo Áudio Flash**: Revisão hands-free em deslocamentos usando Web Speech API nativa.
+
+

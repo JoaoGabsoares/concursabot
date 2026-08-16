@@ -124,6 +124,8 @@ export type ActiveTab =
   | 'simulados' 
   | 'erros' 
   | 'redacao' 
+  | 'leiseca'
+  | 'aproveitamento'
   | 'edital' 
   | 'flashcards' 
   | 'settings'

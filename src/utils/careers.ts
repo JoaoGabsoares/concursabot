@@ -59,6 +59,10 @@ export const CAREERS_LIST: Career[] = [
   }
 ];
 
+export const CAREERS_MAP: Record<string, Career> = Object.fromEntries(
+  CAREERS_LIST.map(c => [c.id, c])
+);
+
 export function getCareerById(id: string): Career {
-  return CAREERS_LIST.find(c => c.id === id) || CAREERS_LIST[0];
+  return CAREERS_MAP[id] || CAREERS_LIST[0];
 }

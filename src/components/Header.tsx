@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { UserProfile, ActiveTab } from '../types';
 import { getCareerById, CAREERS_LIST } from '../utils/careers';
 import { getConcurseiroRank } from '../utils/gamification';
-import { Menu, X, Sun, Moon, ChevronRight, ChevronDown, Check, Flame } from 'lucide-react';
+import { Menu, X, Sun, Moon, ChevronRight, ChevronDown, Check, Flame, Headphones } from 'lucide-react';
 
 interface HeaderProps {
   user: UserProfile | null;
@@ -13,6 +13,7 @@ interface HeaderProps {
   activeTab: ActiveTab;
   onNavigate: (tab: ActiveTab) => void;
   pendingErrorsCount?: number;
+  onToggleAudio?: () => void;
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -23,7 +24,8 @@ export const Header: React.FC<HeaderProps> = ({
   onToggleTheme,
   activeTab,
   onNavigate,
-  pendingErrorsCount = 0
+  pendingErrorsCount = 0,
+  onToggleAudio
 }) => {
   const [mobileDrawerOpen, setMobileDrawerOpen] = useState(false);
   const [careerDropdownOpen, setCareerDropdownOpen] = useState(false);
@@ -36,9 +38,14 @@ export const Header: React.FC<HeaderProps> = ({
     simulados: { title: 'Simulados & Treino Real', category: 'TREINO & PRÁTICA' },
     erros: { title: 'Caderno de Erros', category: 'TREINO & PRÁTICA' },
     flashcards: { title: 'Flashcards SM-2', category: 'TREINO & PRÁTICA' },
+    leiseca: { title: 'Caça-Pegadinhas da Lei', category: 'TREINO & PRÁTICA' },
+    aproveitamento: { title: 'Transição de Editais', category: 'INTELIGÊNCIA' },
     redacao: { title: 'Corretor de Redação', category: 'INTELIGÊNCIA' },
     edital: { title: 'Raio-X do Edital', category: 'INTELIGÊNCIA' },
     settings: { title: 'Configurações', category: 'SISTEMA' },
+    settings_ajustes: { title: 'Ajustes & API', category: 'SISTEMA' },
+    settings_guia: { title: 'Guia de Uso & Método', category: 'SISTEMA' },
+    settings_sobre: { title: 'Sobre o Gabarito.AI', category: 'SISTEMA' },
   };
 
   const currentTabInfo = tabLabels[activeTab] || { title: 'Painel', category: 'GABARITO.AI' };
@@ -89,6 +96,18 @@ export const Header: React.FC<HeaderProps> = ({
             <Flame className="w-3.5 h-3.5" />
             <span>{user?.streakDays || 0} DIAS</span>
           </div>
+
+          {/* Audio Flash Button */}
+          {onToggleAudio && (
+            <button
+              onClick={onToggleAudio}
+              className="flex items-center gap-1.5 px-3 py-1 rounded-lg bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/40 text-xs font-mono text-[var(--accent-primary)] font-bold hover:bg-[var(--accent-primary)] hover:text-white transition-all shadow-sm active:scale-95"
+              title="Ouvir pílulas de áudio da carreira no trânsito"
+            >
+              <Headphones className="w-3.5 h-3.5" />
+              <span className="hidden md:inline">ÁUDIO FLASH</span>
+            </button>
+          )}
 
           {/* Career Indicator (Mobile) */}
           <div className="relative lg:hidden">
@@ -167,6 +186,8 @@ export const Header: React.FC<HeaderProps> = ({
                 { id: 'simulados' as ActiveTab, label: 'Simulados & Treino' },
                 { id: 'erros' as ActiveTab, label: 'Caderno de Erros', badge: pendingErrorsCount },
                 { id: 'flashcards' as ActiveTab, label: 'Flashcards SM-2' },
+                { id: 'leiseca' as ActiveTab, label: 'Caça-Pegadinhas da Lei' },
+                { id: 'aproveitamento' as ActiveTab, label: 'Transição de Editais' },
                 { id: 'redacao' as ActiveTab, label: 'Redação Discursiva' },
                 { id: 'edital' as ActiveTab, label: 'Raio-X do Edital' },
                 { id: 'settings' as ActiveTab, label: 'Configurações' },

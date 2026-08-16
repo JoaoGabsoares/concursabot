@@ -27,9 +27,15 @@
 4. 🔒 **Autenticação Segura & Isolamento Multi-Perfil:**
    - Criptografia Scrypt nativa com salt individual para senhas.
    - Isolamento total entre contas e perfis (cada usuário novo inicia com rigorosamente 0 XP, Level 1 Aspirante).
-5. ✍️ **Corretor de Redação Discursiva por IA:**
+5. ⚖️ **Caça-Pegadinhas da Lei Seca com IA:**
+   - Desafios dinâmicos de 15 segundos para identificar palavras adulteradas pela banca em artigos fundamentais (CF/88, Lei 8.112, CTN, Lei 13.303) com +10 a +15 XP.
+6. 🧭 **Matriz de Aproveitamento & Transição de Editais:**
+   - Comparador inteligente que calcula a afinidade percentual entre certames e gera a trilha de complementação de disciplinas.
+7. 🎧 **Modo Áudio Flash para Estudo no Trânsito:**
+   - Síntese de voz nativa no navegador (Web Speech API) para revisão hands-free de mnemônicos e tópicos 80/20.
+8. ✍️ **Corretor de Redação Discursiva por IA:**
    - Avaliação por espelho oficial em 4 eixos (*Domínio Temático, Estrutura Dissertativa, Norma Culta e Argumentação*).
-6. 🎯 **Caderno de Erros com Repetição Espaçada SM-2:**
+9. 🎯 **Caderno de Erros com Repetição Espaçada SM-2:**
    - Captura automática de itens incorretos em simulados com re-treino focado e recompensa de **+15 XP**.
 
 ---
