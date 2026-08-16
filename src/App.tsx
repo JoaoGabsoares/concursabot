@@ -175,8 +175,8 @@ export const App: React.FC = () => {
         />
 
         {/* Scrollable Viewport */}
-        <main className="flex-1 overflow-y-auto p-4 sm:p-6 lg:p-8">
-          <div className="max-w-7xl w-full mx-auto">
+        <main className="flex-1 overflow-y-auto p-5 sm:p-8 lg:p-10">
+          <div className="max-w-7xl w-full mx-auto space-y-8">
             {activeTab === 'dashboard' && (
               <DashboardPage
                 user={user}

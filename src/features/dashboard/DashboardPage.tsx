@@ -17,7 +17,10 @@ import {
   RefreshCw,
   Sparkles,
   BookOpen,
-  ArrowUpRight
+  ArrowUpRight,
+  TrendingUp,
+  Layers,
+  Award
 } from 'lucide-react';
 
 interface DashboardPageProps {
@@ -36,7 +39,7 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
   onStartStudy
 }) => {
   const currentCareer = getCareerById(careerId);
-  const streak = user?.streakDays || 1;
+  const streak = user?.streakDays || 0;
   const level = user?.level || 1;
   const xp = user?.xp || 0;
   const currentLevelProgress = xp % 500;
@@ -59,321 +62,317 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
   };
 
   const weekDays = [
-    { day: 'Seg', done: true },
-    { day: 'Ter', done: true },
-    { day: 'Qua', done: true },
-    { day: 'Qui', done: true },
-    { day: 'Sex', done: true },
-    { day: 'Sáb', done: true },
-    { day: 'Dom', done: true, isToday: true },
+    { day: 'Seg', done: streak > 0 },
+    { day: 'Ter', done: streak > 1 },
+    { day: 'Qua', done: streak > 2 },
+    { day: 'Qui', done: streak > 3 },
+    { day: 'Sex', done: streak > 4 },
+    { day: 'Sáb', done: streak > 5 },
+    { day: 'Dom', done: streak > 0, isToday: true },
   ];
 
   return (
-    <div className="space-y-6 pb-20 md:pb-8 animate-fade-in">
-      {/* Bento Grid Principal (2/3 Coluna Conteúdo + 1/3 Coluna Status) */}
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-5">
-        
-        {/* === COLUNA PRINCIPAL (2 COLUNAS) === */}
-        <div className="lg:col-span-2 space-y-5">
-          
-          {/* 1. HERO CARD: SUA MISSÃO DE HOJE */}
-          <div className="relative overflow-hidden rounded-2xl border border-[var(--border-subtle)] bg-gradient-to-b from-[var(--bg-surface)] to-[var(--bg-elevated)] p-6 sm:p-7 transition-all duration-200 hover:border-[var(--border-focus)] shadow-lg group">
-            {/* Background subtle radial glow */}
-            <div className="absolute top-0 right-0 -mr-20 -mt-20 w-64 h-64 bg-[var(--accent-primary)]/10 rounded-full blur-3xl pointer-events-none" />
+    <div className="space-y-8 pb-24 md:pb-12 animate-fade-in">
+      
+      {/* 1. HERO EXPANSIVO — SUA MISSÃO DE ESTUDO DE HOJE */}
+      <div className="relative overflow-hidden rounded-3xl border border-[var(--border-subtle)] bg-gradient-to-b from-[var(--bg-surface)] to-[var(--bg-elevated)] p-7 sm:p-10 shadow-2xl transition-all duration-300 hover:border-[var(--border-focus)]">
+        {/* Glow ambient background */}
+        <div className="absolute top-0 right-0 -mr-24 -mt-24 w-96 h-96 bg-[var(--accent-primary)]/10 rounded-full blur-3xl pointer-events-none" />
+        <div className="absolute bottom-0 left-1/3 -mb-20 w-72 h-72 bg-amber-500/5 rounded-full blur-3xl pointer-events-none" />
 
-            <div className="relative z-10 space-y-4">
-              <div className="flex items-center justify-between gap-2">
-                <div className="flex items-center gap-2">
-                  <span className="px-2.5 py-1 rounded-md text-[11px] font-mono font-bold uppercase tracking-wider bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/30 flex items-center gap-1.5">
-                    <Sparkles className="w-3.5 h-3.5" /> Missão do Dia
-                  </span>
-                  <span className="text-xs font-mono text-[var(--text-muted)]">
-                    {currentCareer.banca} • Ciclo D+1
-                  </span>
-                </div>
-                <Badge variant="brand">Prioridade Alta</Badge>
-              </div>
-
-              <div>
-                <h2 className="text-xl sm:text-2xl font-bold tracking-tight text-[var(--text-primary)] leading-snug">
-                  {nextMission.subject}
-                </h2>
-                <p className="text-xs sm:text-sm text-[var(--text-secondary)] mt-1.5 leading-relaxed">
-                  {nextMission.topic}
-                </p>
-              </div>
-
-              <div className="flex flex-wrap items-center gap-4 text-xs font-mono text-[var(--text-muted)] pt-1">
-                <span className="flex items-center gap-1.5">
-                  <Clock className="w-4 h-4 text-[var(--text-secondary)]" /> ~{nextMission.estimatedMinutes} min sugeridos
-                </span>
-                <span>•</span>
-                <span className="flex items-center gap-1.5 text-amber-400">
-                  <RefreshCw className="w-3.5 h-3.5" /> Revisão Espaçada Ativa
-                </span>
-              </div>
-
-              {/* Action Buttons */}
-              <div className="pt-2 flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
-                <Button
-                  size="lg"
-                  variant="primary"
-                  icon={Play}
-                  onClick={() => onStartStudy(nextMission)}
-                  className="font-bold text-sm px-6 shadow-md"
-                >
-                  Começar a Estudar Agora
-                </Button>
-                <Button
-                  size="lg"
-                  variant="secondary"
-                  icon={BookOpen}
-                  onClick={() => onNavigate('study')}
-                  className="text-xs sm:text-sm"
-                >
-                  Abrir Sala de Estudos Split
-                </Button>
-              </div>
+        <div className="relative z-10 space-y-6">
+          <div className="flex flex-wrap items-center justify-between gap-3">
+            <div className="flex items-center gap-3">
+              <span className="px-3 py-1.5 rounded-lg text-xs font-mono font-bold uppercase tracking-wider bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/30 flex items-center gap-2">
+                <Sparkles className="w-4 h-4" /> Missão Prioritária do Dia
+              </span>
+              <span className="text-xs font-mono text-[var(--text-muted)]">
+                Banca: {currentCareer.banca} • Ciclo de Fixação Ativo
+              </span>
             </div>
+            <Badge variant="brand">Prioridade Alta</Badge>
           </div>
 
-          {/* 2. METAS DIÁRIAS (Dois Cards Balanceados) */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            {/* Meta 1: Questões Resolvidas */}
-            <Card className="p-5 flex flex-col justify-between space-y-3">
-              <div className="flex items-center justify-between">
-                <span className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider">
-                  Questões Hoje
-                </span>
-                <span className="text-xs font-mono font-semibold text-[var(--accent-success)]">
-                  {questionsPercent}% da meta
-                </span>
-              </div>
-              <div className="flex items-baseline gap-2">
-                <span className="text-3xl font-bold text-[var(--text-primary)] tracking-tight font-mono">
-                  {questionsDone}
-                </span>
-                <span className="text-xs text-[var(--text-muted)] font-mono">
-                  / {questionsGoal} questões
-                </span>
-              </div>
-              <ProgressBar value={questionsPercent} variant="success" />
-            </Card>
-
-            {/* Meta 2: Tempo Líquido */}
-            <Card className="p-5 flex flex-col justify-between space-y-3">
-              <div className="flex items-center justify-between">
-                <span className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider">
-                  Tempo Líquido
-                </span>
-                <span className="text-xs font-mono font-semibold text-[var(--accent-primary)]">
-                  {minutesPercent}% da meta
-                </span>
-              </div>
-              <div className="flex items-baseline gap-2">
-                <span className="text-3xl font-bold text-[var(--text-primary)] tracking-tight font-mono">
-                  {minutesDone}
-                </span>
-                <span className="text-xs text-[var(--text-muted)] font-mono">
-                  / {minutesGoal} minutos
-                </span>
-              </div>
-              <ProgressBar value={minutesPercent} variant="brand" />
-            </Card>
+          <div className="space-y-2 max-w-4xl">
+            <h1 className="text-2xl sm:text-4xl font-bold tracking-tight text-[var(--text-primary)] leading-tight">
+              {nextMission.subject}
+            </h1>
+            <p className="text-sm sm:text-base text-[var(--text-secondary)] leading-relaxed">
+              {nextMission.topic}
+            </p>
           </div>
 
-          {/* 3. RADAR DE ATENÇÃO (Caderno de Erros) */}
-          {pendingErrorsCount > 0 && (
-            <div 
-              onClick={() => onNavigate('erros')}
-              className="p-4 rounded-xl border border-red-900/30 bg-red-950/15 hover:bg-red-950/25 transition-colors cursor-pointer flex items-center justify-between gap-4 group"
+          <div className="flex flex-wrap items-center gap-5 text-xs sm:text-sm font-mono text-[var(--text-muted)] pt-1">
+            <span className="flex items-center gap-2">
+              <Clock className="w-4 h-4 text-[var(--text-primary)]" /> ~{nextMission.estimatedMinutes} min sugeridos
+            </span>
+            <span>•</span>
+            <span className="flex items-center gap-2 text-amber-400 font-medium">
+              <RefreshCw className="w-4 h-4" /> Revisão Espaçada (Curva do Esquecimento)
+            </span>
+            <span>•</span>
+            <span className="flex items-center gap-2 text-[var(--accent-success)] font-medium">
+              <Award className="w-4 h-4" /> +25 XP ao Concluir
+            </span>
+          </div>
+
+          {/* Action CTAs (Large 48px tactile buttons) */}
+          <div className="pt-3 flex flex-col sm:flex-row items-stretch sm:items-center gap-4">
+            <Button
+              size="lg"
+              variant="brand"
+              icon={Play}
+              onClick={() => onStartStudy(nextMission)}
+              className="h-12 px-8 font-bold text-sm shadow-xl"
             >
-              <div className="flex items-center gap-3.5">
-                <div className="w-10 h-10 rounded-xl bg-red-500/15 border border-red-500/30 flex items-center justify-center text-[var(--accent-danger)] shrink-0">
-                  <AlertTriangle className="w-5 h-5" />
-                </div>
-                <div>
-                  <div className="text-xs sm:text-sm font-semibold text-[var(--text-primary)] flex items-center gap-2">
-                    <span>Radar de Atenção: {pendingErrorsCount} {pendingErrorsCount === 1 ? 'questão errada pendente' : 'questões erradas pendentes'}</span>
-                    <Badge variant="danger">Superação +15 XP</Badge>
-                  </div>
-                  <p className="text-xs text-[var(--text-secondary)] mt-0.5">
-                    Refaça as questões capturadas no Caderno de Erros para zerar suas vulnerabilidades.
-                  </p>
-                </div>
-              </div>
-              <ChevronRight className="w-5 h-5 text-[var(--text-muted)] group-hover:text-[var(--text-primary)] shrink-0 transition-transform group-hover:translate-x-0.5" />
-            </div>
-          )}
-
-          {/* 4. ATALHOS RÁPIDOS (Grid 3 Colunas) */}
-          <div className="space-y-3">
-            <div className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider px-1">
-              Ferramentas de Alta Performance
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
-              <Card 
-                hoverable={true} 
-                onClick={() => onNavigate('simulados')}
-                className="p-4 flex items-center gap-3 group"
-              >
-                <div className="w-10 h-10 rounded-lg bg-[var(--bg-elevated)] flex items-center justify-center text-[var(--accent-primary)] shrink-0 group-hover:scale-105 transition-transform">
-                  <Target className="w-5 h-5" />
-                </div>
-                <div className="truncate">
-                  <div className="text-xs font-semibold text-[var(--text-primary)] truncate">Simulados Oficiais</div>
-                  <div className="text-[10px] text-[var(--text-muted)] truncate">Tempo de prova cronometrado</div>
-                </div>
-              </Card>
-
-              <Card 
-                hoverable={true} 
-                onClick={() => onNavigate('redacao')}
-                className="p-4 flex items-center gap-3 group"
-              >
-                <div className="w-10 h-10 rounded-lg bg-[var(--bg-elevated)] flex items-center justify-center text-amber-400 shrink-0 group-hover:scale-105 transition-transform">
-                  <PenTool className="w-5 h-5" />
-                </div>
-                <div className="truncate">
-                  <div className="text-xs font-semibold text-[var(--text-primary)] truncate">Redação Discursiva</div>
-                  <div className="text-[10px] text-[var(--text-muted)] truncate">Correção nos 4 critérios</div>
-                </div>
-              </Card>
-
-              <Card 
-                hoverable={true} 
-                onClick={() => onNavigate('edital')}
-                className="p-4 flex items-center gap-3 group"
-              >
-                <div className="w-10 h-10 rounded-lg bg-[var(--bg-elevated)] flex items-center justify-center text-sky-400 shrink-0 group-hover:scale-105 transition-transform">
-                  <BarChart3 className="w-5 h-5" />
-                </div>
-                <div className="truncate">
-                  <div className="text-xs font-semibold text-[var(--text-primary)] truncate">Raio-X do Edital</div>
-                  <div className="text-[10px] text-[var(--text-muted)] truncate">Pareto 80/20 & Pesos</div>
-                </div>
-              </Card>
-            </div>
+              Começar a Estudar Agora
+            </Button>
+            <Button
+              size="lg"
+              variant="outline"
+              icon={BookOpen}
+              onClick={() => onNavigate('study')}
+              className="h-12 px-6 text-sm font-medium"
+            >
+              Abrir Sala de Estudos Split
+            </Button>
           </div>
         </div>
+      </div>
 
-        {/* === COLUNA LATERAL DE STATUS & GAMIFICAÇÃO (1 COLUNA) === */}
-        <div className="space-y-5">
-          
-          {/* Card 1: Streak de Fogo & Calendário Semanal */}
-          <Card className="p-5 space-y-4">
-            <div className="flex items-center justify-between">
-              <div className="flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-400 fill-amber-400 animate-flame" />
-                <span className="text-xs font-mono font-bold uppercase tracking-wider text-[var(--text-primary)]">
-                  Ofensiva de Estudos
-                </span>
+      {/* 2. GRID DE 4 MÉTRICAS PRINCIPAIS (Preenchimento Completo da Tela) */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+        
+        {/* Card 1: Questões Hoje */}
+        <Card className="p-6 flex flex-col justify-between space-y-4 shadow-md">
+          <div className="flex items-center justify-between">
+            <span className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider">
+              Questões Hoje
+            </span>
+            <span className="text-xs font-mono font-semibold text-[var(--accent-success)]">
+              {questionsPercent}% da meta
+            </span>
+          </div>
+          <div className="flex items-baseline gap-2">
+            <span className="text-3xl sm:text-4xl font-bold text-[var(--text-primary)] tracking-tight font-mono">
+              {questionsDone}
+            </span>
+            <span className="text-xs text-[var(--text-muted)] font-mono">
+              / {questionsGoal} questões
+            </span>
+          </div>
+          <ProgressBar value={questionsPercent} variant="success" />
+        </Card>
+
+        {/* Card 2: Tempo Líquido */}
+        <Card className="p-6 flex flex-col justify-between space-y-4 shadow-md">
+          <div className="flex items-center justify-between">
+            <span className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider">
+              Tempo Líquido
+            </span>
+            <span className="text-xs font-mono font-semibold text-[var(--accent-primary)]">
+              {minutesPercent}% da meta
+            </span>
+          </div>
+          <div className="flex items-baseline gap-2">
+            <span className="text-3xl sm:text-4xl font-bold text-[var(--text-primary)] tracking-tight font-mono">
+              {minutesDone}
+            </span>
+            <span className="text-xs text-[var(--text-muted)] font-mono">
+              / {minutesGoal} minutos
+            </span>
+          </div>
+          <ProgressBar value={minutesPercent} variant="brand" />
+        </Card>
+
+        {/* Card 3: Ofensiva & Streak */}
+        <Card className="p-6 flex flex-col justify-between space-y-4 shadow-md">
+          <div className="flex items-center justify-between">
+            <span className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider">
+              Ofensiva Diária
+            </span>
+            <Badge variant="warning">{streak} {streak === 1 ? 'Dia' : 'Dias'}</Badge>
+          </div>
+          <div className="flex items-baseline gap-2">
+            <span className="text-3xl sm:text-4xl font-bold text-amber-400 tracking-tight font-mono flex items-center gap-2">
+              <Flame className="w-7 h-7 fill-amber-400 animate-flame" />
+              {streak}
+            </span>
+            <span className="text-xs text-[var(--text-muted)] font-mono">
+              dias consecutivos
+            </span>
+          </div>
+          <div className="text-[11px] text-[var(--text-secondary)] font-mono">
+            {streak > 0 ? '🔥 Hábito mantido com sucesso' : '⚡ Inicie sua sequência hoje'}
+          </div>
+        </Card>
+
+        {/* Card 4: Nível & Gamificação */}
+        <Card className="p-6 flex flex-col justify-between space-y-4 shadow-md">
+          <div className="flex items-center justify-between">
+            <span className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider">
+              Nível do Aluno
+            </span>
+            <span className="text-xs font-mono font-bold text-[var(--accent-warning)]">
+              {xp} XP Total
+            </span>
+          </div>
+          <div className="flex items-baseline gap-2">
+            <span className="text-3xl sm:text-4xl font-bold text-[var(--text-primary)] tracking-tight font-mono">
+              Nível {level}
+            </span>
+            <span className="text-xs text-[var(--text-muted)] font-mono">
+              ({currentLevelProgress}/500 XP)
+            </span>
+          </div>
+          <ProgressBar value={xpPercent} variant="warning" />
+        </Card>
+
+      </div>
+
+      {/* 3. SEÇÃO CENTRAL: RADAR DO CADERNO DE ERROS & SUPERAÇÃO */}
+      <div className="space-y-4">
+        <div className="flex items-center justify-between px-1">
+          <div className="flex items-center gap-2">
+            <AlertTriangle className="w-4 h-4 text-red-400" />
+            <h2 className="text-sm font-mono font-bold uppercase tracking-wider text-[var(--text-primary)]">
+              Radar de Vulnerabilidades & Caderno de Erros
+            </h2>
+          </div>
+          <button 
+            onClick={() => onNavigate('erros')}
+            className="text-xs font-mono text-[var(--accent-primary)] hover:underline flex items-center gap-1"
+          >
+            Abrir Caderno Completo <ChevronRight className="w-3.5 h-3.5" />
+          </button>
+        </div>
+
+        <Card className="p-6 border border-red-900/30 bg-gradient-to-r from-red-950/20 via-[var(--bg-surface)] to-[var(--bg-surface)] shadow-lg">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-5">
+            <div className="flex items-start gap-4">
+              <div className="w-12 h-12 rounded-2xl bg-red-500/15 border border-red-500/30 flex items-center justify-center text-[var(--accent-danger)] shrink-0">
+                <AlertTriangle className="w-6 h-6" />
               </div>
-              <Badge variant="warning">{streak} Dias</Badge>
-            </div>
-
-            <div className="text-center py-2">
-              <div className="text-4xl font-bold font-mono tracking-tight text-[var(--text-primary)]">
-                {streak} <span className="text-sm font-sans font-normal text-[var(--text-muted)]">dias seguidos</span>
-              </div>
-              <p className="text-xs text-[var(--text-secondary)] mt-1">
-                Você está mais consistente do que 88% dos candidatos.
-              </p>
-            </div>
-
-            {/* Week Streak Tracker */}
-            <div className="grid grid-cols-7 gap-1.5 pt-2 border-t border-[var(--border-subtle)]">
-              {weekDays.map((w, idx) => (
-                <div key={idx} className="flex flex-col items-center gap-1">
-                  <span className="text-[10px] font-mono text-[var(--text-muted)]">{w.day}</span>
-                  <div 
-                    className={`w-7 h-7 rounded-lg flex items-center justify-center text-xs font-mono font-bold ${
-                      w.done 
-                        ? 'bg-amber-500/20 border border-amber-500/40 text-amber-400' 
-                        : 'bg-[var(--bg-elevated)] text-[var(--text-muted)]'
-                    } ${w.isToday ? 'ring-2 ring-amber-400 ring-offset-1 ring-offset-[var(--bg-surface)]' : ''}`}
-                  >
-                    ✓
-                  </div>
+              <div className="space-y-1">
+                <div className="flex items-center gap-3">
+                  <h3 className="font-bold text-base text-[var(--text-primary)]">
+                    {pendingErrorsCount > 0 
+                      ? `${pendingErrorsCount} ${pendingErrorsCount === 1 ? 'questão errada aguardando revisão' : 'questões erradas aguardando revisão'}`
+                      : 'Nenhuma vulnerabilidade pendente'
+                    }
+                  </h3>
+                  <Badge variant={pendingErrorsCount > 0 ? "danger" : "success"}>
+                    {pendingErrorsCount > 0 ? "Superação +15 XP" : "100% Zerado"}
+                  </Badge>
                 </div>
-              ))}
-            </div>
-          </Card>
-
-          {/* Card 2: Nível & Gamificação */}
-          <Card className="p-5 space-y-3">
-            <div className="flex items-center justify-between">
-              <div className="flex items-center gap-2">
-                <Trophy className="w-4 h-4 text-[var(--accent-primary)]" />
-                <span className="text-xs font-mono font-bold uppercase tracking-wider text-[var(--text-primary)]">
-                  Nível {level}
-                </span>
+                <p className="text-xs sm:text-sm text-[var(--text-secondary)] max-w-2xl leading-relaxed">
+                  {pendingErrorsCount > 0 
+                    ? 'O algoritmo isolou as questões que você errou em simulados e treinos anteriores. Refaça-as agora para consolidar os pontos cegos.'
+                    : 'Excelente! Todas as questões erradas anteriores foram retreinadas e superadas no Caderno de Erros.'
+                  }
+                </p>
               </div>
-              <span className="text-xs font-mono text-[var(--text-muted)]">{xp} XP Total</span>
             </div>
 
-            <div className="space-y-1.5">
-              <div className="flex justify-between text-xs font-mono text-[var(--text-secondary)]">
-                <span>Rumo ao Nível {level + 1}</span>
-                <span>{currentLevelProgress} / 500 XP</span>
-              </div>
-              <ProgressBar value={xpPercent} variant="brand" />
-            </div>
-
-            <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[11px] text-[var(--text-secondary)] space-y-1">
-              <div className="font-semibold text-[var(--text-primary)] flex items-center gap-1.5">
-                <Zap className="w-3.5 h-3.5 text-amber-400" /> Bônus de XP Ativos:
-              </div>
-              <div className="flex justify-between">
-                <span>• Questão acertada:</span>
-                <span className="font-mono text-[var(--accent-success)]">+10 XP</span>
-              </div>
-              <div className="flex justify-between">
-                <span>• Superação no Caderno:</span>
-                <span className="font-mono text-amber-400">+15 XP</span>
-              </div>
-              <div className="flex justify-between">
-                <span>• Redação corrigida:</span>
-                <span className="font-mono text-[var(--accent-primary)]">+50 XP</span>
-              </div>
-            </div>
-          </Card>
-
-          {/* Card 3: Resumo da Carreira & Corte Histórico */}
-          <Card className="p-5 space-y-3">
-            <div className="flex items-center justify-between">
-              <span className="text-xs font-mono font-bold uppercase tracking-wider text-[var(--text-muted)]">
-                Concurso Alvo
-              </span>
-              <Badge variant="default">{currentCareer.banca}</Badge>
-            </div>
-            <div className="font-semibold text-sm text-[var(--text-primary)]">
-              {currentCareer.name}
-            </div>
-            <div className="text-xs text-[var(--text-secondary)] space-y-1 border-t border-[var(--border-subtle)] pt-2.5">
-              <div className="flex justify-between">
-                <span>Nota de corte estimada:</span>
-                <span className="font-mono font-bold text-[var(--text-primary)]">78.5%</span>
-              </div>
-              <div className="flex justify-between">
-                <span>Disciplinas no edital:</span>
-                <span className="font-mono text-[var(--text-primary)]">6 matérias</span>
-              </div>
-            </div>
             <Button
-              variant="outline"
-              size="sm"
-              fullWidth={true}
-              icon={ArrowUpRight}
-              onClick={() => onNavigate('edital')}
-              className="text-xs mt-1"
+              variant={pendingErrorsCount > 0 ? "brand" : "secondary"}
+              size="md"
+              icon={pendingErrorsCount > 0 ? RefreshCw : BookOpen}
+              onClick={() => onNavigate('erros')}
+              className="h-11 px-6 text-xs sm:text-sm font-semibold shrink-0"
             >
-              Ver Raio-X Completo do Edital
+              {pendingErrorsCount > 0 ? 'Retreinar Erros Agora' : 'Explorar Caderno'}
             </Button>
+          </div>
+        </Card>
+      </div>
+
+      {/* 4. ATALHOS & FERRAMENTAS DE ALTA PERFORMANCE (Grid 3 Colunas Expansivo) */}
+      <div className="space-y-4">
+        <div className="text-xs font-mono font-bold uppercase tracking-wider text-[var(--text-muted)] px-1">
+          Ferramentas Oficiais de Preparação
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+          
+          {/* Card: Simulados Oficiais */}
+          <Card 
+            hoverable={true} 
+            onClick={() => onNavigate('simulados')}
+            className="p-6 flex flex-col justify-between space-y-4 group border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] shadow-md"
+          >
+            <div className="space-y-3">
+              <div className="w-12 h-12 rounded-2xl bg-indigo-500/10 border border-indigo-500/25 flex items-center justify-center text-[var(--accent-primary)] group-hover:scale-105 transition-transform">
+                <Target className="w-6 h-6" />
+              </div>
+              <div>
+                <h3 className="font-bold text-base text-[var(--text-primary)]">
+                  Simulados & Treino Real
+                </h3>
+                <p className="text-xs text-[var(--text-secondary)] mt-1.5 leading-relaxed">
+                  Provas completas com contagem regressiva oficial, distribuição por pesos da banca e relatório estatístico detalhado.
+                </p>
+              </div>
+            </div>
+            <div className="pt-2 flex items-center justify-between text-xs font-mono text-[var(--accent-primary)] font-semibold border-t border-[var(--border-subtle)]">
+              <span>Iniciar Simulado</span>
+              <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            </div>
+          </Card>
+
+          {/* Card: Redação Discursiva */}
+          <Card 
+            hoverable={true} 
+            onClick={() => onNavigate('redacao')}
+            className="p-6 flex flex-col justify-between space-y-4 group border border-[var(--border-subtle)] hover:border-amber-500 shadow-md"
+          >
+            <div className="space-y-3">
+              <div className="w-12 h-12 rounded-2xl bg-amber-500/10 border border-amber-500/25 flex items-center justify-center text-amber-400 group-hover:scale-105 transition-transform">
+                <PenTool className="w-6 h-6" />
+              </div>
+              <div>
+                <h3 className="font-bold text-base text-[var(--text-primary)]">
+                  Corretor de Redação IA
+                </h3>
+                <p className="text-xs text-[var(--text-secondary)] mt-1.5 leading-relaxed">
+                  Correção rigorosa nos 4 critérios oficiais da banca examinadora (tema, estrutura formal, gramática e argumentação).
+                </p>
+              </div>
+            </div>
+            <div className="pt-2 flex items-center justify-between text-xs font-mono text-amber-400 font-semibold border-t border-[var(--border-subtle)]">
+              <span>Escrever Redação</span>
+              <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            </div>
+          </Card>
+
+          {/* Card: Raio-X do Edital */}
+          <Card 
+            hoverable={true} 
+            onClick={() => onNavigate('edital')}
+            className="p-6 flex flex-col justify-between space-y-4 group border border-[var(--border-subtle)] hover:border-sky-500 shadow-md"
+          >
+            <div className="space-y-3">
+              <div className="w-12 h-12 rounded-2xl bg-sky-500/10 border border-sky-500/25 flex items-center justify-center text-sky-400 group-hover:scale-105 transition-transform">
+                <BarChart3 className="w-6 h-6" />
+              </div>
+              <div>
+                <h3 className="font-bold text-base text-[var(--text-primary)]">
+                  Raio-X de Incidência (Pareto)
+                </h3>
+                <p className="text-xs text-[var(--text-secondary)] mt-1.5 leading-relaxed">
+                  Análise estatística 80/20 dos assuntos mais recorrentes nas últimas provas da banca {currentCareer.banca}.
+                </p>
+              </div>
+            </div>
+            <div className="pt-2 flex items-center justify-between text-xs font-mono text-sky-400 font-semibold border-t border-[var(--border-subtle)]">
+              <span>Ver Tópicos de Ouro</span>
+              <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            </div>
           </Card>
 
         </div>
       </div>
+
     </div>
   );
 };
