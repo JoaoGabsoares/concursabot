@@ -1,8 +1,20 @@
 import React, { useState, useEffect } from 'react';
-import { Card, Button, CarimboStatus, ProgressBar } from '../../components/UIPrimitives';
+import { Card, Button, CarimboStatus, ProgressBar, Badge } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
 import { getSubjectsForCareer } from '../../utils/gamification';
 import { getLessonContent } from '../../utils/studyContent';
+import { 
+  Timer, 
+  FileText, 
+  CheckCircle, 
+  AlertTriangle, 
+  PenTool, 
+  Grid, 
+  Award, 
+  Clock, 
+  Sparkles,
+  RotateCcw
+} from 'lucide-react';
 
 interface SimuladosPageProps {
   careerId: string;
@@ -26,11 +38,19 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
     };
   });
 
+  const [modoProva, setModoModo] = useState<'treino_rapido' | 'dia_d'>('treino_rapido');
   const [examRunning, setExamRunning] = useState(false);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [answers, setAnswers] = useState<{ [key: number]: string }>({});
   const [finished, setFinished] = useState(false);
+  
+  // Timers
   const [secondsElapsed, setSecondsElapsed] = useState(0);
+  const [secondsRemainingDiaD, setSecondsRemainingDiaD] = useState(4 * 3600); // 4 horas
+
+  // Sub-abas durante o Dia D
+  const [diaDTab, setDiaDTab] = useState<'questoes' | 'cartao_resposta' | 'redacao'>('questoes');
+  const [textoRedacao, setTextoRedacao] = useState('');
 
   // Reseta ao trocar de carreira
   useEffect(() => {
@@ -39,6 +59,8 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
     setAnswers({});
     setFinished(false);
     setSecondsElapsed(0);
+    setSecondsRemainingDiaD(4 * 3600);
+    setTextoRedacao('');
   }, [careerId]);
 
   // Timer do simulado
@@ -47,23 +69,36 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
     if (examRunning && !finished) {
       interval = setInterval(() => {
         setSecondsElapsed((prev) => prev + 1);
+        if (modoProva === 'dia_d') {
+          setSecondsRemainingDiaD((prev) => {
+            if (prev <= 1) {
+              setFinished(true);
+              return 0;
+            }
+            return prev - 1;
+          });
+        }
       }, 1000);
     }
     return () => clearInterval(interval);
-  }, [examRunning, finished]);
+  }, [examRunning, finished, modoProva]);
 
   const formatTimer = (totalSecs: number) => {
-    const mins = Math.floor(totalSecs / 60);
+    const hours = Math.floor(totalSecs / 3600);
+    const mins = Math.floor((totalSecs % 3600) / 60);
     const secs = totalSecs % 60;
+    if (hours > 0) {
+      return `${String(hours).padStart(2, '0')}:${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+    }
     return `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
   };
 
-  const handleSelectAnswer = (letter: string) => {
+  const handleSelectAnswer = (qIndex: number, letter: string) => {
     if (finished) return;
-    setAnswers({
-      ...answers,
-      [currentQuestionIndex]: letter
-    });
+    setAnswers(prev => ({
+      ...prev,
+      [qIndex]: letter
+    }));
   };
 
   const handleFinishExam = () => {
@@ -98,6 +133,9 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
   const scorePct = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
   const activeQ = questionsList[currentQuestionIndex] || questionsList[0];
 
+  const wordCount = textoRedacao.trim() ? textoRedacao.trim().split(/\s+/).length : 0;
+  const lineCount = textoRedacao.split('\n').filter(l => l.trim().length > 0).length || (wordCount > 0 ? Math.ceil(wordCount / 10) : 0);
+
   return (
     <div className="space-y-6 pb-20 font-sans animate-fade-in max-w-6xl mx-auto">
       {/* Header Bar */}
@@ -105,12 +143,12 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
         <div>
           <div className="flex items-center gap-3">
             <h1 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
-              Simulados Oficiais da Banca
+              Simulados Oficiais & Dia D de Prova
             </h1>
             <CarimboStatus status="homologado" label={`BANCA ${currentCareer.banca}`} />
           </div>
           <p className="text-xs sm:text-sm text-[var(--text-muted)] mt-1">
-            Simulação de prova real para {currentCareer.name.split('—')[0]} com cronômetro e certificação técnica
+            Treino realístico para {currentCareer.name.split('—')[0]} com Cartão-Resposta e Redação Integrada
           </p>
         </div>
 
@@ -118,7 +156,11 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
           <div className="flex items-center gap-4">
             <div className="px-4 py-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-sm font-bold text-[var(--text-primary)] flex items-center gap-2 shadow-sm">
               <span className="text-[var(--accent-danger)] animate-pulse">●</span>
-              <span>TEMPO: {formatTimer(secondsElapsed)}</span>
+              {modoProva === 'dia_d' ? (
+                <span>RESTANTE: {formatTimer(secondsRemainingDiaD)}</span>
+              ) : (
+                <span>TEMPO: {formatTimer(secondsElapsed)}</span>
+              )}
             </div>
             <Button
               variant="brand"
@@ -126,186 +168,333 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
               onClick={handleFinishExam}
               className="font-mono text-xs"
             >
-              Finalizar Simulado
+              Entregar Prova
             </Button>
           </div>
         )}
       </div>
 
+      {/* Tela Pré-Prova (Seleção de Modo) */}
       {!examRunning && !finished && (
-        <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)]">
-          <div className="space-y-2">
-            <h2 className="font-display font-bold text-xl text-[var(--text-primary)]">
-              Simulado Geral: {currentCareer.name}
-            </h2>
-            <p className="text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed">
-              Este simulado abrange a totalidade das disciplinas do edital ({totalQuestions} itens representativos com os pesos oficiais da banca <strong className="text-[var(--text-primary)]">{currentCareer.banca}</strong>).
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 font-mono text-xs">
-            <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-              <span className="text-[var(--text-muted)] uppercase block text-[10px]">Total de Itens</span>
-              <span className="font-bold text-[var(--text-primary)] text-sm">{totalQuestions} Questões</span>
-            </div>
-            <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-              <span className="text-[var(--text-muted)] uppercase block text-[10px]">Tempo Estimado</span>
-              <span className="font-bold text-[var(--text-primary)] text-sm">~{totalQuestions * 3} Minutos</span>
-            </div>
-            <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
-              <span className="text-[var(--text-muted)] uppercase block text-[10px]">Banca Examinadora</span>
-              <span className="font-bold text-[var(--accent-primary)] text-sm">{currentCareer.banca}</span>
-            </div>
-          </div>
-
-          <div className="pt-2 flex items-center justify-between">
-            <span className="text-xs font-mono text-[var(--text-muted)]">
-              Gera relatório de desempenho e alimenta o Caderno de Erros automaticamente.
-            </span>
-            <Button
-              variant="brand"
-              onClick={() => {
-                setExamRunning(true);
-                setSecondsElapsed(0);
-              }}
-              className="font-mono text-xs"
+        <div className="space-y-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {/* Modo 1: Treino Rápido */}
+            <Card 
+              className={`p-6 space-y-4 cursor-pointer transition-all border-2 ${
+                modoProva === 'treino_rapido' ? 'border-[var(--accent-primary)] bg-[var(--bg-surface)]' : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] opacity-75'
+              }`}
+              onClick={() => setModoModo('treino_rapido')}
             >
-              Iniciar Simulado Cronometrado
-            </Button>
-          </div>
-        </Card>
-      )}
-
-      {examRunning && !finished && (
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
-          {/* Question View (8 cols) */}
-          <div className="lg:col-span-8 space-y-6">
-            <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)]">
-              {/* Question Header */}
-              <div className="flex items-center justify-between pb-4 border-b border-[var(--border-subtle)]">
-                <span className="text-xs font-mono font-bold text-[var(--accent-primary)] uppercase tracking-wider">
-                  QUESTÃO {currentQuestionIndex + 1} DE {totalQuestions} • {activeQ.subject}
-                </span>
-                <CarimboStatus status="homologado" label={`BANCA ${currentCareer.banca}`} />
+              <div className="flex items-center justify-between">
+                <Badge variant="brand">MODO ÁGIL</Badge>
+                <Clock className="w-5 h-5 text-[var(--accent-primary)]" />
               </div>
-
-              {/* Question Text */}
-              <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-sans font-medium">
-                {activeQ.question}
-              </p>
-
-              {/* Options */}
-              <div className="space-y-3">
-                {Object.entries(activeQ.options).map(([letter, text]) => {
-                  const isSelected = answers[currentQuestionIndex] === letter;
-                  return (
-                    <button
-                      key={letter}
-                      onClick={() => handleSelectAnswer(letter)}
-                      className={`w-full text-left p-3.5 rounded-lg border text-xs leading-relaxed transition-all flex items-start gap-3 ${
-                        isSelected
-                          ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)] text-[var(--text-primary)] font-semibold shadow-sm'
-                          : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--border-focus)] hover:text-[var(--text-primary)]'
-                      }`}
-                    >
-                      <span className={`font-mono font-bold shrink-0 px-2 py-0.5 rounded border text-xs ${
-                        isSelected ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)]' : 'bg-[var(--bg-surface)] border-[var(--border-subtle)]'
-                      }`}>
-                        {letter}
-                      </span>
-                      <span>{text}</span>
-                    </button>
-                  );
-                })}
+              <div>
+                <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
+                  Simulado Rápido de Treino
+                </h3>
+                <p className="text-xs text-[var(--text-secondary)] mt-1 leading-relaxed">
+                  Resolva as {totalQuestions} questões representativas no seu ritmo com cronômetro progressivo e gabarito imediato.
+                </p>
               </div>
-
-              {/* Navigation Footer */}
-              <div className="pt-4 border-t border-[var(--border-subtle)] flex items-center justify-between">
-                <Button
-                  variant="outline"
-                  size="sm"
-                  disabled={currentQuestionIndex === 0}
-                  onClick={() => setCurrentQuestionIndex((prev) => Math.max(0, prev - 1))}
-                  className="font-mono text-xs"
-                >
-                  ← Anterior
-                </Button>
-
-                <Button
-                  variant={currentQuestionIndex === totalQuestions - 1 ? "brand" : "outline"}
-                  size="sm"
+              <div className="pt-2">
+                <Button 
+                  variant={modoProva === 'treino_rapido' ? 'brand' : 'outline'}
+                  fullWidth
                   onClick={() => {
-                    if (currentQuestionIndex === totalQuestions - 1) {
-                      handleFinishExam();
-                    } else {
-                      setCurrentQuestionIndex((prev) => Math.min(totalQuestions - 1, prev + 1));
-                    }
+                    setModoModo('treino_rapido');
+                    setExamRunning(true);
+                    setSecondsElapsed(0);
                   }}
-                  className="font-mono text-xs"
                 >
-                  {currentQuestionIndex === totalQuestions - 1 ? "Finalizar Simulado" : "Próxima →"}
+                  Iniciar Treino Rápido
                 </Button>
               </div>
             </Card>
-          </div>
 
-          {/* Navigator Sidebar (4 cols) */}
-          <div className="lg:col-span-4 space-y-6">
-            <Card className="p-6 space-y-5 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)]">
-              <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-                <h3 className="font-display font-bold text-sm text-[var(--text-primary)]">
-                  Mapa de Respostas
+            {/* Modo 2: Dia D de Prova */}
+            <Card 
+              className={`p-6 space-y-4 cursor-pointer transition-all border-2 ${
+                modoProva === 'dia_d' ? 'border-amber-500 bg-[var(--bg-surface)] shadow-lg' : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] opacity-75'
+              }`}
+              onClick={() => setModoModo('dia_d')}
+            >
+              <div className="flex items-center justify-between">
+                <Badge variant="warning">IMERSÃO TOTAL • 4 HORAS</Badge>
+                <Award className="w-5 h-5 text-amber-500" />
+              </div>
+              <div>
+                <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
+                  Simulação Oficial: "Dia D de Prova"
                 </h3>
-                <span className="font-mono text-xs text-[var(--text-muted)]">
-                  {answeredCount}/{totalQuestions} Respondidas
-                </span>
+                <p className="text-xs text-[var(--text-secondary)] mt-1 leading-relaxed">
+                  Condições reais de concurso: 4h00 contínuas, <strong>Folha de Respostas Digital (Cartão-Resposta)</strong> e <strong>Redação Discursiva</strong> no mesmo bloco.
+                </p>
               </div>
-
-              <div className="grid grid-cols-5 gap-2.5">
-                {questionsList.map((_, idx) => {
-                  const isCurrent = currentQuestionIndex === idx;
-                  const isAnswered = answers[idx] !== undefined;
-
-                  return (
-                    <button
-                      key={idx}
-                      onClick={() => setCurrentQuestionIndex(idx)}
-                      className={`h-9 rounded-lg font-mono text-xs font-bold transition-all border ${
-                        isCurrent
-                          ? 'border-[var(--accent-primary)] ring-2 ring-[var(--accent-primary-glow)] bg-[var(--accent-primary)] text-white'
-                          : isAnswered
-                          ? 'bg-[var(--bg-elevated)] text-[var(--text-primary)] border-[var(--border-focus)]'
-                          : 'bg-[var(--bg-surface)] text-[var(--text-muted)] border-[var(--border-subtle)] hover:border-[var(--border-focus)]'
-                      }`}
-                    >
-                      {idx + 1}
-                    </button>
-                  );
-                })}
-              </div>
-
-              <div className="pt-3 border-t border-[var(--border-subtle)]">
-                <ProgressBar
-                  value={answeredCount}
-                  max={totalQuestions}
-                  label="Progresso da Prova"
-                  showPercentage
-                />
+              <div className="pt-2">
+                <Button 
+                  variant="brand"
+                  fullWidth
+                  className="bg-amber-600 hover:bg-amber-700 text-white"
+                  onClick={() => {
+                    setModoModo('dia_d');
+                    setExamRunning(true);
+                    setSecondsRemainingDiaD(4 * 3600);
+                  }}
+                >
+                  Iniciar Dia D de Prova (4h)
+                </Button>
               </div>
             </Card>
           </div>
         </div>
       )}
 
+      {/* Prova em Andamento */}
+      {examRunning && !finished && (
+        <div className="space-y-6">
+          {/* Seletor de visualização do Dia D */}
+          {modoProva === 'dia_d' && (
+            <div className="flex flex-wrap items-center justify-between gap-3 p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+              <div className="flex items-center gap-2">
+                <button
+                  onClick={() => setDiaDTab('questoes')}
+                  className={`flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg text-xs font-mono font-bold transition-all ${
+                    diaDTab === 'questoes' ? 'bg-[var(--accent-primary)] text-white shadow-sm' : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
+                  }`}
+                >
+                  <FileText className="w-4 h-4" />
+                  <span>CADERNO DE QUESTÕES ({answeredCount}/{totalQuestions})</span>
+                </button>
+
+                <button
+                  onClick={() => setDiaDTab('cartao_resposta')}
+                  className={`flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg text-xs font-mono font-bold transition-all ${
+                    diaDTab === 'cartao_resposta' ? 'bg-[var(--accent-primary)] text-white shadow-sm' : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
+                  }`}
+                >
+                  <Grid className="w-4 h-4" />
+                  <span>CARTÃO-RESPOSTA DIGITAL</span>
+                </button>
+
+                <button
+                  onClick={() => setDiaDTab('redacao')}
+                  className={`flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg text-xs font-mono font-bold transition-all ${
+                    diaDTab === 'redacao' ? 'bg-[var(--accent-primary)] text-white shadow-sm' : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
+                  }`}
+                >
+                  <PenTool className="w-4 h-4" />
+                  <span>FOLHA DE REDAÇÃO {textoRedacao.trim() ? `(${wordCount} pal.)` : ''}</span>
+                </button>
+              </div>
+
+              {secondsRemainingDiaD <= 1800 && (
+                <div className="flex items-center gap-1.5 text-xs font-mono font-bold text-amber-500 animate-pulse">
+                  <AlertTriangle className="w-4 h-4" />
+                  <span>ÚLTIMOS 30 MIN: Transfira suas respostas para o Cartão!</span>
+                </div>
+              )}
+            </div>
+          )}
+
+          {/* VISÃO 1: CADERNO DE QUESTÕES */}
+          {(modoProva === 'treino_rapido' || diaDTab === 'questoes') && (
+            <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
+              {/* Question View (8 cols) */}
+              <div className="lg:col-span-8 space-y-6">
+                <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)]">
+                  {/* Question Header */}
+                  <div className="flex items-center justify-between pb-4 border-b border-[var(--border-subtle)]">
+                    <span className="text-xs font-mono font-bold text-[var(--accent-primary)] uppercase tracking-wider">
+                      QUESTÃO {currentQuestionIndex + 1} DE {totalQuestions} • {activeQ.subject}
+                    </span>
+                    <CarimboStatus status="homologado" label={`BANCA ${currentCareer.banca}`} />
+                  </div>
+
+                  {/* Question Text */}
+                  <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-sans font-medium">
+                    {activeQ.question}
+                  </p>
+
+                  {/* Options */}
+                  <div className="space-y-3">
+                    {Object.entries(activeQ.options).map(([letter, text]) => {
+                      const isSelected = answers[currentQuestionIndex] === letter;
+
+                      return (
+                        <div
+                          key={letter}
+                          onClick={() => handleSelectAnswer(currentQuestionIndex, letter)}
+                          className={`p-4 rounded-xl border transition-all cursor-pointer select-none text-xs sm:text-sm flex items-start gap-3 ${
+                            isSelected
+                              ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)] text-[var(--text-primary)] shadow-sm'
+                              : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--border-focus)] hover:text-[var(--text-primary)]'
+                          }`}
+                        >
+                          <div
+                            className={`w-6 h-6 rounded-full flex items-center justify-center font-mono font-bold text-xs shrink-0 ${
+                              isSelected
+                                ? 'bg-[var(--accent-primary)] text-white'
+                                : 'bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-[var(--text-muted)]'
+                            }`}
+                          >
+                            {letter}
+                          </div>
+                          <span className="leading-relaxed font-sans mt-0.5">{text}</span>
+                        </div>
+                      );
+                    })}
+                  </div>
+
+                  {/* Navigation Footer */}
+                  <div className="flex items-center justify-between pt-4 border-t border-[var(--border-subtle)]">
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      disabled={currentQuestionIndex === 0}
+                      onClick={() => setCurrentQuestionIndex((prev) => prev - 1)}
+                    >
+                      &larr; Anterior
+                    </Button>
+
+                    <Button
+                      variant="brand"
+                      size="sm"
+                      disabled={currentQuestionIndex === totalQuestions - 1}
+                      onClick={() => setCurrentQuestionIndex((prev) => prev + 1)}
+                    >
+                      Próxima &rarr;
+                    </Button>
+                  </div>
+                </Card>
+              </div>
+
+              {/* Sidebar Navigation Matrix (4 cols) */}
+              <div className="lg:col-span-4 space-y-6">
+                <Card className="p-6 space-y-4 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)]">
+                  <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
+                    <span className="text-xs font-mono uppercase tracking-wider text-[var(--text-muted)] font-bold">
+                      MAPA DE RESPOSTAS
+                    </span>
+                    <span className="text-xs font-mono font-bold text-[var(--accent-primary)]">
+                      {answeredCount}/{totalQuestions}
+                    </span>
+                  </div>
+
+                  <div className="grid grid-cols-5 gap-2">
+                    {questionsList.map((_, idx) => {
+                      const isAnswered = answers[idx] !== undefined;
+                      const isCurrent = idx === currentQuestionIndex;
+
+                      return (
+                        <button
+                          key={idx}
+                          onClick={() => setCurrentQuestionIndex(idx)}
+                          className={`h-9 rounded-lg font-mono text-xs font-bold transition-all ${
+                            isCurrent
+                              ? 'ring-2 ring-[var(--accent-primary)] bg-[var(--bg-surface)] text-[var(--text-primary)]'
+                              : isAnswered
+                              ? 'bg-[var(--accent-primary)] text-white shadow-xs'
+                              : 'bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+                          }`}
+                        >
+                          {idx + 1}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </Card>
+              </div>
+            </div>
+          )}
+
+          {/* VISÃO 2: CARTÃO-RESPOSTA DIGITAL (FOLHA OFICIAL) */}
+          {diaDTab === 'cartao_resposta' && (
+            <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] border-[var(--border-focus)] shadow-xl">
+              <div className="flex items-center justify-between pb-4 border-b border-[var(--border-subtle)]">
+                <div>
+                  <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
+                    Folha Oficial de Respostas (Cartão-Resposta)
+                  </h3>
+                  <p className="text-xs text-[var(--text-muted)] font-mono">
+                    Preencha as bolhas de cada questão com atenção antes do encerramento da prova
+                  </p>
+                </div>
+                <Badge variant="brand">GABARITO DEFINITIVO</Badge>
+              </div>
+
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
+                {questionsList.map((q, idx) => (
+                  <div key={idx} className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
+                    <div className="flex items-center justify-between text-xs font-mono">
+                      <span className="font-bold text-[var(--text-primary)]">Item #{idx + 1}</span>
+                      <span className="text-[10px] text-[var(--text-muted)] truncate max-w-[100px]">{q.subject}</span>
+                    </div>
+                    <div className="flex items-center justify-between gap-1 pt-1">
+                      {['A', 'B', 'C', 'D', 'E'].map((letter) => {
+                        const isMarked = answers[idx] === letter;
+                        return (
+                          <button
+                            key={letter}
+                            onClick={() => handleSelectAnswer(idx, letter)}
+                            className={`w-7 h-7 rounded-full font-mono text-xs font-bold transition-all border ${
+                              isMarked
+                                ? 'bg-black dark:bg-white text-white dark:text-black border-black dark:border-white shadow-md scale-105'
+                                : 'bg-[var(--bg-surface)] border-[var(--border-subtle)] text-[var(--text-muted)] hover:border-[var(--border-focus)]'
+                            }`}
+                          >
+                            {letter}
+                          </button>
+                        );
+                      })}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </Card>
+          )}
+
+          {/* VISÃO 3: FOLHA DE REDAÇÃO DISCURSIVA */}
+          {diaDTab === 'redacao' && (
+            <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] border-[var(--border-focus)] shadow-xl">
+              <div className="flex items-center justify-between pb-4 border-b border-[var(--border-subtle)]">
+                <div>
+                  <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
+                    Folha Oficial da Prova Discursiva
+                  </h3>
+                  <p className="text-xs text-[var(--text-muted)] font-mono">
+                    Redija seu texto dissertativo-argumentativo em norma-padrão (20 a 30 linhas)
+                  </p>
+                </div>
+                <div className="flex items-center gap-3 font-mono text-xs text-[var(--text-muted)]">
+                  <span>{wordCount} palavras</span>
+                  <span>•</span>
+                  <span>~{lineCount} linhas</span>
+                </div>
+              </div>
+
+              <textarea
+                value={textoRedacao}
+                onChange={(e) => setTextoRedacao(e.target.value)}
+                placeholder="Rascunhe e passe a limpo sua redação oficial aqui..."
+                rows={16}
+                className="w-full p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-sm font-sans text-[var(--text-primary)] leading-relaxed outline-none focus:border-[var(--border-focus)] resize-none"
+              />
+            </Card>
+          )}
+        </div>
+      )}
+
+      {/* Resultado Oficial */}
       {finished && (
         <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] shadow-md border-[var(--border-subtle)] animate-fade-in">
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-6 border-b border-[var(--border-subtle)]">
             <div className="space-y-1">
               <span className="text-xs font-mono text-[var(--text-muted)] uppercase tracking-wider block font-bold">
-                RELATÓRIO HOMOLOGADO DE SIMULADO
+                BOLETIM OFICIAL HOMOLOGADO
               </span>
               <h2 className="font-display font-bold text-2xl text-[var(--text-primary)]">
-                Resultado Oficial do Treino Real
+                Resultado do Simulado {modoProva === 'dia_d' ? '• Dia D de Prova' : ''}
               </h2>
             </div>
             <CarimboStatus
@@ -329,9 +518,21 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
             </div>
             <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
               <span className="text-[var(--text-muted)] uppercase block text-[10px]">XP Conquistado</span>
-              <span className="font-bold text-[var(--accent-primary)] text-lg">+{correctCount * 15} XP</span>
+              <span className="font-bold text-[var(--accent-primary)] text-lg">+{correctCount * 15 + (textoRedacao.trim() ? 50 : 0)} XP</span>
             </div>
           </div>
+
+          {textoRedacao.trim() && (
+            <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
+              <div className="flex items-center justify-between text-xs font-mono">
+                <span className="font-bold text-[var(--text-primary)]">📝 REDAÇÃO ENTREGUE</span>
+                <Badge variant="success">{wordCount} palavras • ~{lineCount} linhas</Badge>
+              </div>
+              <p className="text-xs text-[var(--text-secondary)] italic line-clamp-3">
+                "{textoRedacao}"
+              </p>
+            </div>
+          )}
 
           {/* Detailed Question Review */}
           <div className="space-y-4 pt-4">
@@ -384,6 +585,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                 setFinished(false);
                 setAnswers({});
                 setCurrentQuestionIndex(0);
+                setTextoRedacao('');
               }}
               className="font-mono text-xs"
             >

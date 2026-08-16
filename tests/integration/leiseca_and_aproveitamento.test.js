@@ -53,4 +53,18 @@ export async function runLeiSecaAndAproveitamentoTests(baseUrl = 'http://localho
   assert.ok(compData.trilhaTransicao.length > 0, 'Deve gerar trilha de transicao');
   assert.ok(compData.estimativaSemanasTransicao > 0, 'Deve estimar semanas');
   console.log(`  ✅ 5. Matriz de Aproveitamento BB -> Transpetro (${compData.percentualAproveitamento}% base comum): PASSOU`);
+
+  // 6. Súmulas e Jurisprudência dos Tribunais (STF/STJ)
+  const sumRes = await fetch(`${baseUrl}/api/jurisprudencia/sumulas?careerId=atrfb`);
+  const sumData = await sumRes.json();
+  assert.ok(sumData.total > 0, 'Deve retornar sumulas vinculantes');
+  assert.ok(Array.isArray(sumData.sumulas), 'Sumulas deve ser array');
+  console.log(`  ✅ 6. Consulta de Súmulas Vinculantes & Jurisprudência (${sumData.total} súmulas): PASSOU`);
+
+  // 7. Desafio de Jurisprudência
+  const desJurRes = await fetch(`${baseUrl}/api/jurisprudencia/desafio?careerId=transpetro_adm`);
+  const desJurData = await desJurRes.json();
+  assert.ok(desJurData.numero, 'Deve conter numero da sumula');
+  assert.ok(desJurData.pegadinha, 'Deve conter pegadinha da banca examinadora');
+  console.log('  ✅ 7. Sorteio de Pegadinha de Jurisprudência com Alerta de Banca: PASSOU');
 }

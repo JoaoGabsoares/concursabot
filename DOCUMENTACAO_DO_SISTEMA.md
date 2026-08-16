@@ -158,18 +158,21 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
 
 ---
 
-## 11. Módulos Inovadores de Aprendizado Ativo & Transição de Carreira
+## 11. Módulos Inovadores de Aprendizado Ativo & Simulação Realista
 
-1. **⚖️ Caça-Pegadinhas da Lei Seca com IA (`/api/leiseca`)**:
+1. **⚖️ Caça-Pegadinhas da Lei Seca & Súmulas dos Tribunais (`/api/leiseca` e `/api/jurisprudencia`)**:
    - **Mecânica Cognitiva**: Desafios com timer regressivo de 15 segundos apresentando artigos oficiais adulterados pela banca examinadora em um único vocábulo sutil (ex: "é vedado" por "é facultado").
    - **Gamificação**: Concessão imediata de **+10 XP** (+5 XP bônus para respostas em menos de 8s) e explicação doutrinária do porquê a banca cobra aquela pegadinha.
-   - **Banco de Artigos de Ouro**: Catálogo curado dos diplomas legais mais cobrados (CF/88, Lei 8.112/90, CTN, Lei 13.303/16, Lei 4.595/64, Lei 8.080/90 e Lei 6.880/80).
+   - **Mapeamento de Súmulas Vinculantes & Jurisprudência**: Catálogo de súmulas (STF, STJ, TST) com alertas de pegadinhas jurisprudenciais mais cobradas por bancas como FGV, Cesgranrio e Cebraspe.
 
-2. **🧭 Matriz de Aproveitamento & Transição de Editais (`/api/aproveitamento`)**:
+2. **🏛️ Simulação Oficial "Dia D de Prova" (`SimuladosPage`)**:
+   - **Imersão de 4 Horas Contínuas**: Prova objetiva completa com cronômetro regressivo e alerta nos últimos 30 minutos.
+   - **Folha Oficial de Respostas (Cartão-Resposta Digital)**: Interface tátil com bolhas A-E para transcrição do gabarito definitivo.
+   - **Folha Oficial de Redação Integrada**: Bloco de rascunho e versão final da discursiva com contadores de palavras e estimativa de linhas.
+   - **Boletim de Classificação Homologado**: Comparação automática com as notas de corte históricas da carreira.
+
+3. **🧭 Matriz de Aproveitamento & Transição de Editais (`/api/aproveitamento`)**:
    - **Cálculo de Afinidade Curricular**: Algoritmo que compara duas carreiras e determina a sobreposição percentual de disciplinas e núcleos temáticos.
    - **Trilha de Transição Acelerada**: Roteiro ranqueado por peso no novo certame indicando matérias inéditas a estudar e estimativa de semanas para cobrir o gap.
-
-3. **🎧 Modo Áudio Flash no Trânsito (`AudioFlashPlayer`)**:
-   - **Hands-Free Learning**: Player de áudio integrado com a Web Speech API nativa (português do Brasil), permitindo escuta contínua de pílulas mnemônicas e pontos de ouro do edital durante deslocamentos.
 
 

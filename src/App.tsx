@@ -17,7 +17,6 @@ import { AproveitamentoPage } from './features/aproveitamento/AproveitamentoPage
 import { EditalPage } from './features/edital/EditalPage';
 import { FlashcardsPage } from './features/flashcards/FlashcardsPage';
 import { SettingsPage } from './features/settings/SettingsPage';
-import { AudioFlashPlayer } from './components/AudioFlashPlayer';
 import { ToastProvider } from './components/Toast';
 
 export const App: React.FC = () => {
@@ -33,7 +32,6 @@ export const App: React.FC = () => {
   const [pendingErrorsCount, setPendingErrorsCount] = useState<number>(0);
   const [user, setUser] = useState<UserProfile | null>(null);
   const [loadingUser, setLoadingUser] = useState<boolean>(true);
-  const [audioPlayerOpen, setAudioPlayerOpen] = useState<boolean>(false);
 
   // Apply theme class to <html>
   useEffect(() => {
@@ -177,7 +175,6 @@ export const App: React.FC = () => {
           activeTab={activeTab}
           onNavigate={(tab) => setActiveTab(tab)}
           pendingErrorsCount={pendingErrorsCount}
-          onToggleAudio={() => setAudioPlayerOpen(prev => !prev)}
         />
 
         {/* Scrollable Viewport */}
@@ -240,13 +237,6 @@ export const App: React.FC = () => {
             )}
           </div>
         </main>
-
-        {/* Audio Flash Player Flutuante */}
-        <AudioFlashPlayer
-          careerId={careerId}
-          isOpen={audioPlayerOpen}
-          onClose={() => setAudioPlayerOpen(false)}
-        />
       </div>
 
       {/* 3. Mobile Bottom Navigation (Thumb Zone) */}

@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { UserProfile, ActiveTab } from '../types';
 import { getCareerById, CAREERS_LIST } from '../utils/careers';
 import { getConcurseiroRank } from '../utils/gamification';
-import { Menu, X, Sun, Moon, ChevronRight, ChevronDown, Check, Flame, Headphones } from 'lucide-react';
+import { Menu, X, Sun, Moon, ChevronRight, ChevronDown, Check, Flame } from 'lucide-react';
 
 interface HeaderProps {
   user: UserProfile | null;
@@ -13,7 +13,6 @@ interface HeaderProps {
   activeTab: ActiveTab;
   onNavigate: (tab: ActiveTab) => void;
   pendingErrorsCount?: number;
-  onToggleAudio?: () => void;
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -96,18 +95,6 @@ export const Header: React.FC<HeaderProps> = ({
             <Flame className="w-3.5 h-3.5" />
             <span>{user?.streakDays || 0} DIAS</span>
           </div>
-
-          {/* Audio Flash Button */}
-          {onToggleAudio && (
-            <button
-              onClick={onToggleAudio}
-              className="flex items-center gap-1.5 px-3 py-1 rounded-lg bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/40 text-xs font-mono text-[var(--accent-primary)] font-bold hover:bg-[var(--accent-primary)] hover:text-white transition-all shadow-sm active:scale-95"
-              title="Ouvir pílulas de áudio da carreira no trânsito"
-            >
-              <Headphones className="w-3.5 h-3.5" />
-              <span className="hidden md:inline">ÁUDIO FLASH</span>
-            </button>
-          )}
 
           {/* Career Indicator (Mobile) */}
           <div className="relative lg:hidden">

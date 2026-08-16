@@ -12,7 +12,9 @@ import {
   RotateCcw,
   Sparkles,
   HelpCircle,
-  FileText
+  Scale,
+  Search,
+  Filter
 } from 'lucide-react';
 import { CAREERS_MAP } from '../../utils/careers';
 
@@ -50,6 +52,21 @@ interface ResultadoResposta {
   xpGanho: number;
 }
 
+interface SumulaItem {
+  id: string;
+  tribunal: string;
+  tipo: string;
+  numero: string;
+  materia: string;
+  tema: string;
+  enunciado: string;
+  pegadinhaBanca: {
+    banca: string;
+    alerta: string;
+  };
+  relevancia: string;
+}
+
 export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
   const currentCareer = CAREERS_MAP[careerId] || {
     id: careerId,
@@ -57,9 +74,13 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
     banca: 'Banca Oficial'
   };
 
-  const [activeSubTab, setActiveSubTab] = useState<'caca_pegadinha' | 'artigos_ouro'>('caca_pegadinha');
+  const [activeSubTab, setActiveSubTab] = useState<'caca_pegadinha' | 'artigos_ouro' | 'jurisprudencia'>('caca_pegadinha');
   const [artigos, setArtigos] = useState<ArtigoLeiSeca[]>([]);
+  const [sumulas, setSumulas] = useState<SumulaItem[]>([]);
   const [loadingArtigos, setLoadingArtigos] = useState(false);
+  const [loadingSumulas, setLoadingSumulas] = useState(false);
+  const [busca, setBusca] = useState('');
+  const [tribunalFiltro, setTribunalFiltro] = useState<string>('TODOS');
 
   // Estados do Jogo Caça-Pegadinhas
   const [desafio, setDesafio] = useState<DesafioLeiSeca | null>(null);
@@ -90,6 +111,23 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
       }
     }
     loadArtigos();
+  }, [careerId]);
+
+  // Carrega súmulas e jurisprudência
+  useEffect(() => {
+    async function loadSumulas() {
+      setLoadingSumulas(true);
+      try {
+        const res = await fetch(`/api/jurisprudencia/sumulas?careerId=${careerId}`);
+        const data = await res.json();
+        if (data.sumulas) setSumulas(data.sumulas);
+      } catch (err) {
+        console.error('Erro ao carregar súmulas:', err);
+      } finally {
+        setLoadingSumulas(false);
+      }
+    }
+    loadSumulas();
   }, [careerId]);
 
   // Carrega novo desafio
@@ -161,20 +199,29 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
     }
   };
 
+  const sumulasFiltradas = sumulas.filter(s => {
+    const matchTribunal = tribunalFiltro === 'TODOS' || s.tribunal === tribunalFiltro;
+    const matchBusca = busca === '' || 
+      s.numero.toLowerCase().includes(busca.toLowerCase()) ||
+      s.tema.toLowerCase().includes(busca.toLowerCase()) ||
+      s.enunciado.toLowerCase().includes(busca.toLowerCase());
+    return matchTribunal && matchBusca;
+  });
+
   return (
     <div className="space-y-6 animate-fade-in pb-12">
       {/* Header Institucional */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-[var(--border-subtle)] pb-4">
         <div>
           <div className="flex items-center gap-2 mb-1">
-            <CarimboStatus status="homologado" label="LEI SECA ATIVA • ALTA RETENÇÃO" />
+            <CarimboStatus status="homologado" label="LEI SECA & JURISPRUDÊNCIA • ALTA RETENÇÃO" />
             <Badge variant="brand">{currentCareer.banca}</Badge>
           </div>
           <h1 className="text-2xl sm:text-3xl font-display font-bold text-[var(--text-primary)]">
-            Caça-Pegadinhas da Lei Seca
+            Lei Seca Ativa & Súmulas dos Tribunais
           </h1>
           <p className="text-xs sm:text-sm text-[var(--text-muted)] font-mono">
-            75%+ das questões cobram a letra da lei. Treine seu cérebro para identificar alterações sutis da banca.
+            Treine a literalidade da lei, desarme pegadinhas de bancas e domine as súmulas mais cobradas pelo edital.
           </p>
         </div>
 
@@ -199,8 +246,8 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
         </div>
       </div>
 
-      {/* Seletor de Modo */}
-      <div className="flex items-center gap-2 border-b border-[var(--border-subtle)] pb-2">
+      {/* Seletor de Abas */}
+      <div className="flex flex-wrap items-center gap-2 border-b border-[var(--border-subtle)] pb-2">
         <button
           onClick={() => setActiveSubTab('caca_pegadinha')}
           className={`flex items-center gap-2 px-4 py-2 rounded-lg font-mono text-xs font-bold transition-all ${
@@ -210,8 +257,21 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
           }`}
         >
           <Target className="w-4 h-4" />
-          <span>MODO CAÇA-PEGADINHA (AGILIDADE)</span>
+          <span>CAÇA-PEGADINHA DA LEI (15s)</span>
         </button>
+
+        <button
+          onClick={() => setActiveSubTab('jurisprudencia')}
+          className={`flex items-center gap-2 px-4 py-2 rounded-lg font-mono text-xs font-bold transition-all ${
+            activeSubTab === 'jurisprudencia'
+              ? 'bg-[var(--accent-primary)] text-white shadow-md'
+              : 'text-[var(--text-secondary)] hover:bg-[var(--bg-elevated)]'
+          }`}
+        >
+          <Scale className="w-4 h-4" />
+          <span>SÚMULAS & JURISPRUDÊNCIA ({sumulas.length})</span>
+        </button>
+
         <button
           onClick={() => setActiveSubTab('artigos_ouro')}
           className={`flex items-center gap-2 px-4 py-2 rounded-lg font-mono text-xs font-bold transition-all ${
@@ -221,7 +281,7 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
           }`}
         >
           <BookOpen className="w-4 h-4" />
-          <span>ARTIGOS DE OURO DA CARREIRA ({artigos.length})</span>
+          <span>ARTIGOS DE OURO ({artigos.length})</span>
         </button>
       </div>
 
@@ -403,7 +463,80 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
         </div>
       )}
 
-      {/* ABA 2: ARTIGOS DE OURO DA CARREIRA */}
+      {/* ABA 2: SÚMULAS E JURISPRUDÊNCIA */}
+      {activeSubTab === 'jurisprudencia' && (
+        <div className="space-y-6">
+          {/* Barra de Filtros */}
+          <div className="flex flex-col sm:flex-row gap-3">
+            <div className="relative flex-1">
+              <Search className="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-[var(--text-muted)]" />
+              <input
+                type="text"
+                value={busca}
+                onChange={(e) => setBusca(e.target.value)}
+                placeholder="Pesquisar por súmula, tema ou tribunal (ex: Nepotismo, SV 13, PAD)..."
+                className="w-full pl-9 pr-4 py-2.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs sm:text-sm text-[var(--text-primary)] outline-none focus:border-[var(--border-focus)] font-medium"
+              />
+            </div>
+            <div className="flex items-center gap-1.5">
+              {['TODOS', 'STF', 'STJ', 'TST'].map((trib) => (
+                <button
+                  key={trib}
+                  onClick={() => setTribunalFiltro(trib)}
+                  className={`px-3 py-2 rounded-lg font-mono text-xs font-bold transition-all ${
+                    tribunalFiltro === trib
+                      ? 'bg-[var(--accent-primary)] text-white shadow-sm'
+                      : 'bg-[var(--bg-elevated)] text-[var(--text-muted)] hover:text-[var(--text-primary)] border border-[var(--border-subtle)]'
+                  }`}
+                >
+                  {trib}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Grid de Súmulas */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {sumulasFiltradas.map((sum) => (
+              <Card key={sum.id} className="p-5 space-y-3.5 hoverable border-[var(--border-subtle)]">
+                <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
+                  <div className="flex items-center gap-2">
+                    <Badge variant="brand">{sum.tribunal}</Badge>
+                    <span className="font-mono text-xs font-bold text-[var(--text-primary)]">{sum.numero}</span>
+                  </div>
+                  <Badge variant="outline">{sum.materia}</Badge>
+                </div>
+
+                <div>
+                  <h4 className="font-sans font-bold text-sm text-[var(--text-primary)]">
+                    {sum.tema}
+                  </h4>
+                  <div className="text-[11px] font-mono text-emerald-400 mt-0.5">
+                    {sum.relevancia}
+                  </div>
+                </div>
+
+                <p className="text-xs text-[var(--text-secondary)] font-sans leading-relaxed p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+                  "{sum.enunciado}"
+                </p>
+
+                {/* Caixa de Pegadinha da Banca */}
+                <div className="p-3 rounded-lg bg-[var(--color-status-warning-bg)] border border-[var(--color-status-warning)]/30 text-xs text-[var(--color-status-warning)] space-y-1">
+                  <div className="font-bold font-mono text-[11px] flex items-center gap-1.5">
+                    <AlertTriangle className="w-3.5 h-3.5 shrink-0" />
+                    <span>PEGADINHA DA BANCA ({sum.pegadinhaBanca.banca}):</span>
+                  </div>
+                  <p className="text-xs text-[var(--text-primary)] leading-relaxed">
+                    {sum.pegadinhaBanca.alerta}
+                  </p>
+                </div>
+              </Card>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* ABA 3: ARTIGOS DE OURO DA CARREIRA */}
       {activeSubTab === 'artigos_ouro' && (
         <div className="space-y-4">
           <div className="flex items-center justify-between">
