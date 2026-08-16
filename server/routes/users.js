@@ -130,7 +130,10 @@ router.post('/', (req, res) => {
       google_calendar_enabled,
       google_calendar_url,
       tutor_style,
-      sound_effects_enabled
+      sound_effects_enabled,
+      cadence_reading_min,
+      cadence_questions_min,
+      cadence_mode
     } = req.body;
 
     if (!name || !name.trim()) {
@@ -152,17 +155,21 @@ router.post('/', (req, res) => {
     const gcalUrl = google_calendar_url || null;
     const tutStyle = tutor_style || 'pratico';
     const sounds = sound_effects_enabled !== undefined ? (sound_effects_enabled ? 1 : 0) : 1;
+    const cadRead = parseInt(cadence_reading_min, 10) || 60;
+    const cadQuest = parseInt(cadence_questions_min, 10) || 30;
+    const cadMode = cadence_mode || '60_30';
 
     const stmt = db.prepare(`
       INSERT INTO user_profiles (
         id, account_id, name, avatar_emoji, active_career_id, color_theme, is_default, 
         target_role, target_banca, experience_level, daily_hours, study_shifts, preferred_material, custom_exam_title,
         google_calendar_enabled, google_calendar_url, tutor_style, sound_effects_enabled,
+        cadence_reading_min, cadence_questions_min, cadence_mode,
         last_active_at
       )
-      VALUES (?, ?, ?, ?, ?, ?, 0, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+      VALUES (?, ?, ?, ?, ?, ?, 0, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
     `);
-    stmt.run(id, accountId, name.trim(), avatar, career, color, role, banca, exp, hours, shifts, material, customTitle, gcalEnabled, gcalUrl, tutStyle, sounds);
+    stmt.run(id, accountId, name.trim(), avatar, career, color, role, banca, exp, hours, shifts, material, customTitle, gcalEnabled, gcalUrl, tutStyle, sounds, cadRead, cadQuest, cadMode);
 
     const created = db.prepare('SELECT * FROM user_profiles WHERE id = ?').get(id);
     res.status(201).json(created);
@@ -208,7 +215,10 @@ router.put('/:id', (req, res) => {
       google_calendar_enabled,
       google_calendar_url,
       tutor_style,
-      sound_effects_enabled
+      sound_effects_enabled,
+      cadence_reading_min,
+      cadence_questions_min,
+      cadence_mode
     } = req.body;
 
     const profile = db.prepare('SELECT * FROM user_profiles WHERE id = ?').get(id);
@@ -229,15 +239,19 @@ router.put('/:id', (req, res) => {
     const newGcalUrl = google_calendar_url !== undefined ? google_calendar_url : profile.google_calendar_url;
     const newTutorStyle = tutor_style !== undefined ? tutor_style : (profile.tutor_style || 'pratico');
     const newSounds = sound_effects_enabled !== undefined ? (sound_effects_enabled ? 1 : 0) : (profile.sound_effects_enabled !== undefined ? profile.sound_effects_enabled : 1);
+    const newCadRead = cadence_reading_min !== undefined ? parseInt(cadence_reading_min, 10) : (profile.cadence_reading_min || 60);
+    const newCadQuest = cadence_questions_min !== undefined ? parseInt(cadence_questions_min, 10) : (profile.cadence_questions_min || 30);
+    const newCadMode = cadence_mode !== undefined ? cadence_mode : (profile.cadence_mode || '60_30');
 
     db.prepare(`
       UPDATE user_profiles 
       SET name = ?, avatar_emoji = ?, active_career_id = ?, color_theme = ?, 
           target_role = ?, target_banca = ?, experience_level = ?, daily_hours = ?, study_shifts = ?, preferred_material = ?, custom_exam_title = ?,
           google_calendar_enabled = ?, google_calendar_url = ?, tutor_style = ?, sound_effects_enabled = ?,
+          cadence_reading_min = ?, cadence_questions_min = ?, cadence_mode = ?,
           last_active_at = CURRENT_TIMESTAMP
       WHERE id = ?
-    `).run(newName, newAvatar, newCareer, newColor, newRole, newBanca, newExp, newHours, newShifts, newMaterial, newCustom, newGcalEnabled, newGcalUrl, newTutorStyle, newSounds, id);
+    `).run(newName, newAvatar, newCareer, newColor, newRole, newBanca, newExp, newHours, newShifts, newMaterial, newCustom, newGcalEnabled, newGcalUrl, newTutorStyle, newSounds, newCadRead, newCadQuest, newCadMode, id);
 
     const updated = db.prepare('SELECT * FROM user_profiles WHERE id = ?').get(id);
     res.json(updated);

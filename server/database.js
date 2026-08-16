@@ -488,6 +488,16 @@ function initDB() {
             db.exec('ALTER TABLE user_profiles ADD COLUMN sound_effects_enabled INTEGER DEFAULT 1;');
         }
 
+        if (!userCols.includes('cadence_reading_min')) {
+            db.exec('ALTER TABLE user_profiles ADD COLUMN cadence_reading_min INTEGER DEFAULT 60;');
+        }
+        if (!userCols.includes('cadence_questions_min')) {
+            db.exec('ALTER TABLE user_profiles ADD COLUMN cadence_questions_min INTEGER DEFAULT 30;');
+        }
+        if (!userCols.includes('cadence_mode')) {
+            db.exec('ALTER TABLE user_profiles ADD COLUMN cadence_mode TEXT DEFAULT "60_30";');
+        }
+
         // Migration for study_materials columns
         const matCols = db.pragma('table_info(study_materials)').map(c => c.name);
         if (!matCols.includes('caderno_enxuto')) {
@@ -501,6 +511,21 @@ function initDB() {
         }
         if (!matCols.includes('total_pages')) {
             db.exec('ALTER TABLE study_materials ADD COLUMN total_pages INTEGER DEFAULT NULL;');
+        }
+        if (!matCols.includes('theory_pages')) {
+            db.exec('ALTER TABLE study_materials ADD COLUMN theory_pages INTEGER DEFAULT NULL;');
+        }
+        if (!matCols.includes('exercise_pages')) {
+            db.exec('ALTER TABLE study_materials ADD COLUMN exercise_pages INTEGER DEFAULT NULL;');
+        }
+        if (!matCols.includes('has_exercises')) {
+            db.exec('ALTER TABLE study_materials ADD COLUMN has_exercises BOOLEAN DEFAULT 1;');
+        }
+        if (!matCols.includes('table_of_contents_json')) {
+            db.exec('ALTER TABLE study_materials ADD COLUMN table_of_contents_json TEXT DEFAULT NULL;');
+        }
+        if (!matCols.includes('reading_metrics_json')) {
+            db.exec('ALTER TABLE study_materials ADD COLUMN reading_metrics_json TEXT DEFAULT NULL;');
         }
         if (!matCols.includes('notes')) {
             db.exec('ALTER TABLE study_materials ADD COLUMN notes TEXT DEFAULT NULL;');

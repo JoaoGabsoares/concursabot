@@ -129,6 +129,23 @@ export const api = {
     ),
   deleteStudyMaterial: (id: number) =>
     request<{ success: boolean }>(`/study-room/materials/${id}`, { method: 'DELETE' }),
+  getReadingPace: (materialId: number, userId?: string) =>
+    request<{
+      materialId: number;
+      title: string;
+      subject: string;
+      currentPage: number;
+      totalPages: number;
+      theoryPages: number;
+      pagesRemaining: number;
+      progressPct: number;
+      cadence: { readingMin: number; questionsMin: number; mode: string };
+      estimatedMinutesRemaining: number;
+      estimatedSessionsRemaining: number;
+      resumeRecommendation: string;
+    }>(`/study-room/materials/${materialId}/pace`, {
+      headers: userId ? { 'x-user-id': userId } : {}
+    }),
 
   // Questions & Simulado
   generateQuestions: (params: { subject: string; topic?: string; banca?: string; count?: number; careerId?: string }) =>

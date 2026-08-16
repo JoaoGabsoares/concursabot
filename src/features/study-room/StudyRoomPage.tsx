@@ -28,7 +28,11 @@ import {
   Download,
   Scale,
   ShieldCheck,
-  FileSearch
+  FileSearch,
+  SlidersHorizontal,
+  Flame,
+  ArrowRight,
+  Trash2
 } from 'lucide-react';
 
 interface StudyRoomPageProps {
@@ -47,6 +51,16 @@ interface CustomMaterial {
   content_text?: string;
   current_page?: number;
   total_pages?: number;
+  theory_pages?: number;
+  exercise_pages?: number;
+  has_exercises?: boolean;
+  tableOfContents?: Array<{ title: string; page: number | null }>;
+  readingMetrics?: {
+    totalWords: number;
+    wordsPerPage: number;
+    estimatedReadingMinutesTotal: number;
+    estimatedPagesPerHour: number;
+  };
   theory_completed?: boolean;
   questions_completed?: boolean;
   notes?: string;
@@ -54,13 +68,29 @@ interface CustomMaterial {
   caderno_enxuto?: string;
 }
 
+interface ReadingPaceInfo {
+  materialId: number;
+  title: string;
+  subject: string;
+  currentPage: number;
+  totalPages: number;
+  theoryPages: number;
+  pagesRemaining: number;
+  progressPct: number;
+  cadence: { readingMin: number; questionsMin: number; mode: string };
+  estimatedMinutesRemaining: number;
+  estimatedSessionsRemaining: number;
+  resumeRecommendation: string;
+}
+
+type CadencePreset = '60_30' | '45_15' | '50_10' | '90_30' | 'custom';
+
 export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   const { success, error: toastError, info } = useToast();
   const currentCareer = getCareerById(careerId);
   const careerSubjects = getSubjectsForCareer(careerId);
   
   const [selectedSubject, setSelectedSubject] = useState<string>(careerSubjects[0]?.name || 'Direito Constitucional');
-  const [showQuestions, setShowQuestions] = useState<boolean>(true);
   const [userSelectedOption, setUserSelectedOption] = useState<string | null>(null);
   const [answered, setAnswered] = useState<boolean>(false);
 
@@ -74,11 +104,20 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   const [studyNotes, setStudyNotes] = useState<string>('');
   const [isSavingProgress, setIsSavingProgress] = useState<boolean>(false);
 
-  // Timer State (60m Leitura | 30m Questões | Modo Livre)
+  // Cadence State (Configurável: 60/30, 45/15, 50/10, 90/30 ou Custom)
+  const [cadencePreset, setCadencePreset] = useState<CadencePreset>('60_30');
+  const [customReadingMin, setCustomReadingMin] = useState<number>(60);
+  const [customQuestionsMin, setCustomQuestionsMin] = useState<number>(30);
+  const [isCadenceModalOpen, setIsCadenceModalOpen] = useState<boolean>(false);
+
+  // Timer State (Leitura vs Questões vs Livre)
   const [timerMode, setTimerMode] = useState<'leitura' | 'questoes' | 'livre'>('leitura');
   const [timerSeconds, setTimerSeconds] = useState<number>(60 * 60); // 60 min default
   const [initialTimerSeconds, setInitialTimerSeconds] = useState<number>(60 * 60);
   const [isTimerRunning, setIsTimerRunning] = useState<boolean>(false);
+
+  // Reading Pace & Velocity state
+  const [paceInfo, setPaceInfo] = useState<ReadingPaceInfo | null>(null);
 
   // Upload Modal State
   const [isUploadModalOpen, setIsUploadModalOpen] = useState(false);
@@ -100,7 +139,12 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         setTimerSeconds((prev) => {
           if (prev <= 1) {
             setIsTimerRunning(false);
-            info('⏱️ Tempo Encerrado!', timerMode === 'leitura' ? 'Hora de fazer as questões de fixação!' : 'Bloco de questões concluído!');
+            if (timerMode === 'leitura') {
+              info('⏱️ Bloco de Leitura Concluído!', `Excelente foco! Hora de iniciar o bloco de ${getQuestionsMinutes()} min de questões de fixação.`);
+              handleSwitchToQuestions();
+            } else {
+              info('⏱️ Bloco de Questões Encerrado!', 'Sessão completa de estudos registrada com sucesso!');
+            }
             return 0;
           }
           return prev - 1;
@@ -112,6 +156,23 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     };
   }, [isTimerRunning, timerSeconds, timerMode, info]);
 
+  // Helpers to get minutes based on cadence preset
+  const getReadingMinutes = () => {
+    if (cadencePreset === '60_30') return 60;
+    if (cadencePreset === '45_15') return 45;
+    if (cadencePreset === '50_10') return 50;
+    if (cadencePreset === '90_30') return 90;
+    return customReadingMin;
+  };
+
+  const getQuestionsMinutes = () => {
+    if (cadencePreset === '60_30') return 30;
+    if (cadencePreset === '45_15') return 15;
+    if (cadencePreset === '50_10') return 10;
+    if (cadencePreset === '90_30') return 30;
+    return customQuestionsMin;
+  };
+
   // Format timer MM:SS
   const formatTimer = (secs: number) => {
     const mins = Math.floor(secs / 60);
@@ -119,19 +180,49 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     return `${mins.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
   };
 
-  const handleSetTimer = (mode: 'leitura' | 'questoes' | 'livre') => {
+  const applyCadencePreset = (preset: CadencePreset) => {
+    setCadencePreset(preset);
+    setIsTimerRunning(false);
+    let rMin = 60;
+    if (preset === '45_15') rMin = 45;
+    else if (preset === '50_10') rMin = 50;
+    else if (preset === '90_30') rMin = 90;
+    else if (preset === 'custom') rMin = customReadingMin;
+
+    if (timerMode === 'leitura') {
+      setTimerSeconds(rMin * 60);
+      setInitialTimerSeconds(rMin * 60);
+    }
+    setIsCadenceModalOpen(false);
+    info('Cadência Atualizada', `Definido: ${rMin}m Leitura + ${getQuestionsMinutes()}m Questões.`);
+  };
+
+  const handleSetTimerMode = (mode: 'leitura' | 'questoes' | 'livre') => {
     setTimerMode(mode);
     setIsTimerRunning(false);
     if (mode === 'leitura') {
-      setTimerSeconds(60 * 60);
-      setInitialTimerSeconds(60 * 60);
+      const secs = getReadingMinutes() * 60;
+      setTimerSeconds(secs);
+      setInitialTimerSeconds(secs);
     } else if (mode === 'questoes') {
-      setTimerSeconds(30 * 60);
-      setInitialTimerSeconds(30 * 60);
+      const secs = getQuestionsMinutes() * 60;
+      setTimerSeconds(secs);
+      setInitialTimerSeconds(secs);
     } else {
-      setTimerSeconds(15 * 60);
-      setInitialTimerSeconds(15 * 60);
+      setTimerSeconds(20 * 60);
+      setInitialTimerSeconds(20 * 60);
     }
+  };
+
+  // Transição rápida: Marcar parada atual e ir direto para bloco de questões
+  const handleSwitchToQuestions = async () => {
+    await handleRegisterStudy();
+    setTimerMode('questoes');
+    const qSecs = getQuestionsMinutes() * 60;
+    setTimerSeconds(qSecs);
+    setInitialTimerSeconds(qSecs);
+    setIsTimerRunning(true);
+    info('🎯 Bloco de Prática Iniciado', `Cronômetro ajustado para ${getQuestionsMinutes()} min de questões de fixação.`);
   };
 
   // Carrega materiais do backend
@@ -150,6 +241,18 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     loadMaterials();
   }, [careerId]);
 
+  // Carrega ritmo de leitura quando seleciona material
+  const fetchReadingPace = async (materialId: number) => {
+    try {
+      const pace = await api.getReadingPace(materialId);
+      if (pace) {
+        setPaceInfo(pace);
+      }
+    } catch (e) {
+      console.warn('Erro ao buscar ritmo:', e);
+    }
+  };
+
   // Sincroniza a disciplina caso a carreira mude
   useEffect(() => {
     if (careerSubjects.length > 0) {
@@ -161,6 +264,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
       setCurrentPage(1);
       setIsCompleted(false);
       setViewMode('notebook');
+      setPaceInfo(null);
     }
   }, [careerId]);
 
@@ -173,6 +277,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     setCurrentPage(1);
     setIsCompleted(false);
     setViewMode('notebook');
+    setPaceInfo(null);
   };
 
   // Ao selecionar material customizado com PDF
@@ -181,15 +286,15 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     setUserSelectedOption(null);
     setAnswered(false);
     setCurrentPage(mat.current_page || 1);
-    setTotalPages(mat.total_pages || 60);
+    setTotalPages(mat.theory_pages || mat.total_pages || 45);
     setIsCompleted(Boolean(mat.theory_completed));
     setStudyNotes(mat.notes || '');
-    // Se o material tem link de PDF, abre por padrão no Leitor de PDF Embutido
     if (mat.pdfUrl) {
       setViewMode('pdf');
     } else {
       setViewMode('notebook');
     }
+    fetchReadingPace(mat.id);
   };
 
   const lesson = getLessonContent(selectedSubject);
@@ -236,7 +341,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
     try {
       const result = await api.uploadStudyMaterial(formData, 'user_joao', careerId);
-      success('PDF Indexado!', 'Material carregado na Sala de Estudos.');
+      success('PDF Indexado com Heurísticas Universais!', `Detectadas ${result.theoryPages || 45} páginas de teoria e ${result.exercisePages || 0} páginas de exercícios.`);
       setSelectedFile(null);
       setIsUploadModalOpen(false);
       await loadMaterials();
@@ -270,6 +375,9 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         } else {
           info('🔖 Marca-Página Salvo!', `Progresso salvo na Página ${currentPage} de ${totalPages}. (+${res.xpGained || 15} XP)`);
         }
+        if (selectedCustomMaterial) {
+          fetchReadingPace(selectedCustomMaterial.id);
+        }
         await loadMaterials();
       }
     } catch (err: any) {
@@ -290,6 +398,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
       if (selectedCustomMaterial?.id === materialId) {
         setSelectedCustomMaterial(null);
         setViewMode('notebook');
+        setPaceInfo(null);
       }
       await loadMaterials();
     } catch (err: any) {
@@ -306,12 +415,13 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     setCurrentPage((prev) => Math.min(totalPages, prev + 1));
   };
 
-  const progressPercent = Math.min(100, Math.max(1, Math.round((currentPage / (totalPages || 1)) * 100)));
+  const effectiveTotalPages = selectedCustomMaterial?.theory_pages || totalPages || 45;
+  const progressPercent = Math.min(100, Math.max(1, Math.round((currentPage / (effectiveTotalPages || 1)) * 100)));
 
   return (
     <div className="space-y-6 animate-fade-in font-sans pb-16">
       
-      {/* 1. Header & Subject Selector */}
+      {/* 1. Header & Cadence Config Bar */}
       <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-4 p-5 rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] shadow-sm">
         <div className="space-y-1">
           <div className="flex items-center gap-2">
@@ -324,12 +434,22 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             Leitura de Doutrina & Fixação de Questões
           </h1>
           <p className="text-xs sm:text-sm text-[var(--text-muted)]">
-            Ciclo de Alta Retenção: 60 min de Leitura + 30 min de Questões da Banca
+            Ciclo Personalizado: <strong className="text-[var(--text-primary)]">{getReadingMinutes()} min de Leitura</strong> + <strong className="text-[var(--accent-primary)]">{getQuestionsMinutes()} min de Questões</strong>
           </p>
         </div>
 
-        {/* Action: Upload PDF */}
-        <div className="flex items-center gap-2 self-stretch sm:self-auto shrink-0">
+        {/* Action Controls: Cadence Preset & Upload PDF */}
+        <div className="flex flex-wrap items-center gap-2 self-stretch sm:self-auto shrink-0">
+          <button
+            type="button"
+            onClick={() => setIsCadenceModalOpen(true)}
+            className="px-3 py-2 rounded-xl text-xs font-mono font-bold bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center gap-1.5 transition-all shadow-sm"
+            title="Ajustar proporção de tempo entre Leitura Teórica e Questões"
+          >
+            <SlidersHorizontal className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
+            <span>Cadência: {getReadingMinutes()}m / {getQuestionsMinutes()}m</span>
+          </button>
+
           <Button
             variant="brand"
             size="sm"
@@ -366,11 +486,11 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         })}
       </div>
 
-      {/* Uploaded PDF Shelf if any */}
+      {/* Uploaded PDF Shelf with Smart Indicators */}
       {uploadedMaterials.length > 0 && (
         <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center gap-2 overflow-x-auto">
           <span className="text-[10px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0">
-            📁 Meus PDFs Enviados:
+            📁 PDFs Carregados:
           </span>
           {uploadedMaterials.map((mat) => {
             const isSelected = selectedCustomMaterial?.id === mat.id;
@@ -378,22 +498,24 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
               <div
                 key={mat.id}
                 onClick={() => handleSelectMaterial(mat)}
-                className={`group px-2.5 py-1 rounded-md text-xs font-mono transition-all flex items-center gap-1.5 shrink-0 cursor-pointer ${
+                className={`group px-3 py-1.5 rounded-lg text-xs font-mono transition-all flex items-center gap-2 shrink-0 cursor-pointer ${
                   isSelected
-                    ? 'bg-[var(--accent-primary)] text-white font-bold'
+                    ? 'bg-[var(--accent-primary)] text-white font-bold shadow-sm'
                     : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border border-[var(--border-subtle)] hover:text-[var(--text-primary)]'
                 }`}
               >
                 <FileText className="w-3.5 h-3.5" />
-                <span className="max-w-[180px] truncate">{mat.title || mat.filename}</span>
-                {mat.current_page && (
-                  <span className="text-[10px] opacity-80">(pág {mat.current_page}/{mat.total_pages || 50})</span>
+                <span className="max-w-[160px] truncate">{mat.title || mat.filename}</span>
+                {mat.theory_pages && (
+                  <span className="text-[10px] opacity-80 bg-black/20 px-1.5 py-0.5 rounded">
+                    {mat.current_page || 1}/{mat.theory_pages}p teoria
+                  </span>
                 )}
                 <button
                   type="button"
                   title="Excluir este PDF do computador"
                   onClick={(e) => handleDeleteMaterial(e, mat.id)}
-                  className="opacity-0 group-hover:opacity-100 p-0.5 hover:text-rose-400 transition-opacity ml-1"
+                  className="opacity-0 group-hover:opacity-100 p-0.5 hover:text-rose-400 transition-opacity ml-0.5"
                 >
                   <Trash2 className="w-3.5 h-3.5" />
                 </button>
@@ -413,7 +535,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
           
           <Card className="p-5 sm:p-7 space-y-5 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
             
-            {/* View Mode Bar & PDF Action Links */}
+            {/* View Mode Bar & Smart Universal PDF Badges */}
             <div className="flex flex-wrap items-center justify-between gap-3 pb-4 border-b border-[var(--border-subtle)]">
               <div className="flex items-center gap-2">
                 <button
@@ -447,25 +569,26 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 </button>
               </div>
 
-              {/* PDF External Link */}
-              {selectedCustomMaterial?.pdfUrl && (
-                <div className="flex items-center gap-3">
+              {/* Universal Badges */}
+              {selectedCustomMaterial && (
+                <div className="flex items-center gap-2 font-mono text-[11px]">
+                  {selectedCustomMaterial.theory_pages && (
+                    <span className="px-2 py-0.5 rounded bg-blue-500/10 text-blue-400 border border-blue-500/20 font-bold">
+                      📖 {selectedCustomMaterial.theory_pages}p Teoria
+                    </span>
+                  )}
+                  {selectedCustomMaterial.exercise_pages && selectedCustomMaterial.exercise_pages > 0 && (
+                    <span className="px-2 py-0.5 rounded bg-purple-500/10 text-purple-400 border border-purple-500/20 font-bold">
+                      🎯 {selectedCustomMaterial.exercise_pages}p Questões
+                    </span>
+                  )}
                   <a
                     href={selectedCustomMaterial.pdfUrl}
                     target="_blank"
                     rel="noreferrer"
-                    className="text-xs font-mono text-[var(--accent-primary)] hover:underline flex items-center gap-1 shrink-0"
+                    className="text-xs font-mono text-[var(--accent-primary)] hover:underline flex items-center gap-1 shrink-0 ml-1"
                   >
                     <ExternalLink className="w-3.5 h-3.5" />
-                    <span>Abrir em Nova Aba</span>
-                  </a>
-                  <a
-                    href={selectedCustomMaterial.pdfUrl}
-                    download
-                    className="text-xs font-mono text-[var(--text-muted)] hover:text-[var(--text-primary)] flex items-center gap-1 shrink-0"
-                  >
-                    <Download className="w-3.5 h-3.5" />
-                    <span>Baixar</span>
                   </a>
                 </div>
               )}
@@ -485,7 +608,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
                 <CarimboStatus 
                   status={isCompleted ? "homologado" : "em_revisao"} 
-                  label={isCompleted ? "AULA CONCLUÍDA" : `EM LEITURA • PÁG ${currentPage}/${totalPages}`} 
+                  label={isCompleted ? "AULA CONCLUÍDA" : `EM LEITURA • PÁG ${currentPage}/${effectiveTotalPages}`} 
                 />
               </div>
 
@@ -493,6 +616,32 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 {selectedCustomMaterial ? (selectedCustomMaterial.title || selectedCustomMaterial.filename) : lesson.topic}
               </h2>
             </div>
+
+            {/* Partial Reading Progress & Pace Intelligence Banner */}
+            {selectedCustomMaterial && (
+              <div className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs">
+                <div className="space-y-0.5">
+                  <div className="flex items-center gap-2 font-mono font-bold text-[var(--text-primary)]">
+                    <Flame className="w-4 h-4 text-amber-400" />
+                    <span>Ritmo de Estudo & Parada:</span>
+                  </div>
+                  <p className="text-[var(--text-secondary)] font-sans text-xs">
+                    {paceInfo?.resumeRecommendation || `Você está na página ${currentPage}. Faltam ${Math.max(0, effectiveTotalPages - currentPage)} páginas de teoria.`}
+                  </p>
+                </div>
+
+                <Button
+                  variant="brand"
+                  size="sm"
+                  onClick={handleSwitchToQuestions}
+                  className="font-mono text-xs font-bold flex items-center gap-1.5 shrink-0 shadow-sm"
+                  title="Salva a página onde você parou e já inicia o bloco de questões"
+                >
+                  <span>⚡ Ir p/ Questões ({getQuestionsMinutes()}m)</span>
+                  <ArrowRight className="w-3.5 h-3.5" />
+                </Button>
+              </div>
+            )}
 
             {/* ============================================================ */}
             {/* VIEW 1: NATIVE EMBEDDED PDF VIEWER                          */}
@@ -507,7 +656,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   />
                 </div>
                 <div className="flex items-center justify-between text-[11px] font-mono text-[var(--text-muted)] px-1">
-                  <span>Visualizador de Alta Fidelidade com grifos, tabelas e sumário nativo</span>
+                  <span>Visualizador Universal: compatível com qualquer banca e editora</span>
                   <span>Use o controle abaixo para salvar sua página de leitura</span>
                 </div>
               </div>
@@ -594,7 +743,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 </div>
 
                 <div className="text-xs font-mono text-[var(--text-muted)] flex items-center gap-2">
-                  <span>Progresso da Aula:</span>
+                  <span>Progresso Teórico:</span>
                   <span className="font-bold text-[var(--accent-primary)]">{progressPercent}%</span>
                 </div>
               </div>
@@ -626,18 +775,18 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                       <input
                         type="number"
                         min="1"
-                        max={totalPages}
+                        max={effectiveTotalPages}
                         value={currentPage}
-                        onChange={(e) => setCurrentPage(Math.max(1, Math.min(totalPages, parseInt(e.target.value, 10) || 1)))}
+                        onChange={(e) => setCurrentPage(Math.max(1, Math.min(effectiveTotalPages, parseInt(e.target.value, 10) || 1)))}
                         className="w-16 h-8 text-center rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
                       />
-                      <span className="text-[var(--text-muted)]">de {totalPages}</span>
+                      <span className="text-[var(--text-muted)]">de {effectiveTotalPages}</span>
                     </div>
 
                     <button
                       type="button"
                       onClick={handleNextPage}
-                      disabled={currentPage >= totalPages}
+                      disabled={currentPage >= effectiveTotalPages}
                       className="w-8 h-8 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center justify-center disabled:opacity-40 transition-colors"
                       title="Próxima Página"
                     >
@@ -729,52 +878,52 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         {/* ============================================================ */}
         <div className="lg:col-span-5 xl:col-span-4 space-y-5">
           
-          {/* 1. Timer Block (60m Leitura | 30m Questões) */}
+          {/* 1. Timer Block (Cadência Configurável) */}
           <Card className="p-5 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-2 text-xs font-mono font-bold text-[var(--text-primary)]">
                 <Clock className="w-4 h-4 text-[var(--accent-primary)]" />
-                <span>TIMER DE FOCO</span>
+                <span>TIMER DE CADÊNCIA</span>
               </div>
               <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-[var(--bg-elevated)] text-[var(--accent-primary)] font-bold uppercase">
-                {timerMode === 'leitura' ? '60m Leitura' : timerMode === 'questoes' ? '30m Questões' : 'Livre'}
+                {timerMode === 'leitura' ? `${getReadingMinutes()}m Leitura` : timerMode === 'questoes' ? `${getQuestionsMinutes()}m Questões` : 'Livre'}
               </span>
             </div>
 
-            {/* Timer Presets */}
+            {/* Timer Modes */}
             <div className="grid grid-cols-3 gap-1.5 p-1 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-[11px]">
               <button
                 type="button"
-                onClick={() => handleSetTimer('leitura')}
+                onClick={() => handleSetTimerMode('leitura')}
                 className={`py-1.5 rounded-md font-bold transition-all ${
                   timerMode === 'leitura'
                     ? 'bg-[var(--accent-primary)] text-white shadow-sm'
                     : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
                 }`}
               >
-                60 min
+                Leitura ({getReadingMinutes()}m)
               </button>
               <button
                 type="button"
-                onClick={() => handleSetTimer('questoes')}
+                onClick={() => handleSetTimerMode('questoes')}
                 className={`py-1.5 rounded-md font-bold transition-all ${
                   timerMode === 'questoes'
                     ? 'bg-[var(--accent-primary)] text-white shadow-sm'
                     : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
                 }`}
               >
-                30 min
+                Questões ({getQuestionsMinutes()}m)
               </button>
               <button
                 type="button"
-                onClick={() => handleSetTimer('livre')}
+                onClick={() => handleSetTimerMode('livre')}
                 className={`py-1.5 rounded-md font-bold transition-all ${
                   timerMode === 'livre'
                     ? 'bg-[var(--accent-primary)] text-white shadow-sm'
                     : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
                 }`}
               >
-                15 min
+                Livre (20m)
               </button>
             </div>
 
@@ -802,7 +951,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 ) : (
                   <>
                     <Play className="w-3.5 h-3.5" />
-                    <span>{timerSeconds === initialTimerSeconds ? "Iniciar Estudo" : "Continuar"}</span>
+                    <span>{timerSeconds === initialTimerSeconds ? "Iniciar Bloco" : "Continuar"}</span>
                   </>
                 )}
               </Button>
@@ -899,7 +1048,143 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
       </div>
 
-      {/* 4. Upload Modal */}
+      {/* 4. Cadence Configuration Modal */}
+      {isCadenceModalOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-fade-in">
+          <div className="w-full max-w-md bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-2xl p-6 space-y-5 shadow-2xl animate-fade-in">
+            <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
+              <div>
+                <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
+                  Configurar Cadência de Estudo
+                </h3>
+                <p className="text-xs text-[var(--text-muted)] font-mono">
+                  Defina a proporção ideal para o seu perfil
+                </p>
+              </div>
+              <button
+                onClick={() => setIsCadenceModalOpen(false)}
+                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)]"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            <div className="space-y-3 font-mono text-xs">
+              <label className="text-[11px] font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                Selecione o Modelo de Sessão:
+              </label>
+              
+              <div className="grid grid-cols-1 gap-2">
+                <button
+                  type="button"
+                  onClick={() => applyCadencePreset('60_30')}
+                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all ${
+                    cadencePreset === '60_30'
+                      ? 'bg-[var(--accent-primary)]/10 border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
+                      : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--accent-primary)]'
+                  }`}
+                >
+                  <div>
+                    <div className="text-xs">⚡ Foco Profundo (Recomendado)</div>
+                    <div className="text-[11px] text-[var(--text-muted)] font-sans">60 min Teoria + 30 min Questões FGV</div>
+                  </div>
+                  {cadencePreset === '60_30' && <Check className="w-4 h-4 text-[var(--accent-primary)]" />}
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => applyCadencePreset('45_15')}
+                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all ${
+                    cadencePreset === '45_15'
+                      ? 'bg-[var(--accent-primary)]/10 border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
+                      : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--accent-primary)]'
+                  }`}
+                >
+                  <div>
+                    <div className="text-xs">🚀 Sprint Ágil</div>
+                    <div className="text-[11px] text-[var(--text-muted)] font-sans">45 min Teoria + 15 min Questões</div>
+                  </div>
+                  {cadencePreset === '45_15' && <Check className="w-4 h-4 text-[var(--accent-primary)]" />}
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => applyCadencePreset('50_10')}
+                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all ${
+                    cadencePreset === '50_10'
+                      ? 'bg-[var(--accent-primary)]/10 border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
+                      : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--accent-primary)]'
+                  }`}
+                >
+                  <div>
+                    <div className="text-xs">🍅 Pomodoro Concurseiro</div>
+                    <div className="text-[11px] text-[var(--text-muted)] font-sans">50 min Teoria + 10 min Questões</div>
+                  </div>
+                  {cadencePreset === '50_10' && <Check className="w-4 h-4 text-[var(--accent-primary)]" />}
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => applyCadencePreset('90_30')}
+                  className={`p-3 rounded-xl border text-left flex items-center justify-between transition-all ${
+                    cadencePreset === '90_30'
+                      ? 'bg-[var(--accent-primary)]/10 border-[var(--accent-primary)] text-[var(--text-primary)] font-bold'
+                      : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--accent-primary)]'
+                  }`}
+                >
+                  <div>
+                    <div className="text-xs">🏛️ Ciclo Imersivo (2 Horas)</div>
+                    <div className="text-[11px] text-[var(--text-muted)] font-sans">90 min Teoria + 30 min Questões</div>
+                  </div>
+                  {cadencePreset === '90_30' && <Check className="w-4 h-4 text-[var(--accent-primary)]" />}
+                </button>
+              </div>
+
+              {/* Custom Values */}
+              <div className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-3 pt-3">
+                <span className="text-[11px] font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                  Ou digite minutos personalizados:
+                </span>
+                <div className="grid grid-cols-2 gap-3">
+                  <div>
+                    <label className="text-[10px] text-[var(--text-muted)] block mb-1">Leitura (min):</label>
+                    <input
+                      type="number"
+                      min="10"
+                      max="180"
+                      value={customReadingMin}
+                      onChange={(e) => setCustomReadingMin(Math.max(5, parseInt(e.target.value, 10) || 60))}
+                      className="w-full h-9 px-3 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] outline-none"
+                    />
+                  </div>
+                  <div>
+                    <label className="text-[10px] text-[var(--text-muted)] block mb-1">Questões (min):</label>
+                    <input
+                      type="number"
+                      min="5"
+                      max="120"
+                      value={customQuestionsMin}
+                      onChange={(e) => setCustomQuestionsMin(Math.max(5, parseInt(e.target.value, 10) || 30))}
+                      className="w-full h-9 px-3 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] outline-none"
+                    />
+                  </div>
+                </div>
+                <Button
+                  variant="brand"
+                  size="sm"
+                  fullWidth={true}
+                  onClick={() => applyCadencePreset('custom')}
+                  className="font-mono text-xs font-bold"
+                >
+                  Salvar Cadência Personalizada
+                </Button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* 5. Upload Modal */}
       {isUploadModalOpen && (
         <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-fade-in overflow-y-auto">
           <div className="w-full max-w-lg bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-2xl p-6 space-y-5 shadow-2xl animate-fade-in my-auto max-h-[90vh] overflow-y-auto">
@@ -907,10 +1192,10 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
               <div>
                 <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
-                  Subir PDF de Aula
+                  Subir PDF de Aula (Qualquer Formato)
                 </h3>
                 <p className="text-xs text-[var(--text-muted)] font-mono">
-                  Indexe apostilas e materiais do seu curso
+                  Compatível com Estratégia, Gran Cursos, Direção, Doutrina e Resumos
                 </p>
               </div>
               <button
@@ -953,7 +1238,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                     {selectedFile ? selectedFile.name : "Clique para selecionar o PDF"}
                   </div>
                   <p className="text-[10px] text-[var(--text-muted)] font-mono">
-                    Aceita apostilas resumidas, grifadas ou completas (PDF de até 20MB)
+                    Detecta automaticamente teoria vs questões comentadas, sumário e banca
                   </p>
                   <input
                     type="file"

@@ -16,6 +16,7 @@ import {
   STUDY_ROOM_SYSTEM_PROMPT
 } from '../prompts/study-room.js';
 import { CAREERS_CATALOG, getCareerConfig } from '../careers.js';
+import { processUniversalPdf, sanitizePdfText, calculateReadingMetrics } from '../utils/universal-pdf-parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -46,11 +47,10 @@ function toPdfUrl(filepath) {
 
 // Extrai o número da aula a partir do nome do arquivo ou do texto
 export function extractLessonNumber(filename = '', text = '') {
-  // Ex: Aula 01_Apostila_Grifada.pdf, Aula_02.pdf, aula03.pdf, aula 0.pdf
-  const fileMatch = filename.match(/(?:aula|lesson)[_\s-]*0*(\d+)/i);
+  const fileMatch = filename.match(/(?:aula|lesson|m[oó]dulo)[_\s-]*0*(\d+)/i);
   if (fileMatch) return parseInt(fileMatch[1], 10);
 
-  const textMatch = text.substring(0, 2000).match(/(?:aula|lesson)[_\s-]*0*(\d+)/i);
+  const textMatch = text.substring(0, 2000).match(/(?:aula|lesson|m[oó]dulo)[_\s-]*0*(\d+)/i);
   if (textMatch) return parseInt(textMatch[1], 10);
 
   return null;
@@ -63,7 +63,7 @@ if (!fs.existsSync(uploadsDir)) {
 }
 
 // ============================================================
-// PDF UPLOAD & ANALYSIS
+// PDF UPLOAD & ANALYSIS WITH UNIVERSAL HEURISTICS
 // ============================================================
 
 // Agendador automático de Revisões Espaçadas (Curva do Esquecimento: D+1, D+7, D+30)
@@ -84,7 +84,7 @@ export function scheduleSpacedReviews(materialId, subject, lessonNumber, baseDat
     const d30Str = d30.toISOString().split('T')[0];
 
     // Remove pending reviews for this material if updating
-    db.prepare("DELETE FROM study_reviews WHERE material_id = ? AND status = 'pending' AND (user_id = ? OR user_id IS NULL)").run(materialId, userId);
+    db.prepare("DELETE FROM study_reviews WHERE material_id = ? AND status = 'pending' AND user_id = ?").run(materialId, userId);
 
     const insertReview = db.prepare(`
       INSERT INTO study_reviews (material_id, subject, lesson_number, review_type, scheduled_date, status, user_id, career_id)
@@ -99,7 +99,7 @@ export function scheduleSpacedReviews(materialId, subject, lessonNumber, baseDat
   }
 }
 
-// POST /upload — Upload a PDF and analyze with Gemini
+// POST /upload — Upload any PDF format and analyze with Universal Heuristics & Gemini AI
 router.post('/upload', async (req, res) => {
   try {
     if (!req.file) {
@@ -117,12 +117,17 @@ router.post('/upload', async (req, res) => {
     const pdfBuffer = await fs.promises.readFile(filepath);
     const pdfData = await pdfParse(pdfBuffer);
     const textContent = pdfData.text || '';
+    const totalPagesDetected = pdfData.numpages || 1;
 
     if (textContent.trim().length < 100) {
       return res.status(422).json({
         error: 'Não foi possível extrair texto deste PDF (provavelmente é um PDF escaneado/imagem). Tente um PDF com texto selecionável.'
       });
     }
+
+    // Processamento Heurístico Universal (Qualquer Formato)
+    const universalMeta = processUniversalPdf(textContent, totalPagesDetected, originalname);
+    const detectedLessonNumber = extractLessonNumber(originalname, textContent);
 
     // Análise estruturada via Gemini com fallback local resiliente
     let analysisResponse;
@@ -137,13 +142,15 @@ router.post('/upload', async (req, res) => {
       const cleanTitle = originalname.replace(/\.[^/.]+$/, '').replace(/[_-]/g, ' ');
       analysisResponse = {
         titulo: cleanTitle,
-        materia: requestedSubject || 'Geral',
+        materia: requestedSubject !== 'Geral' ? requestedSubject : universalMeta.subject,
         numeroAula: detectedLessonNumber || 1,
-        resumoEstrategico: textContent.substring(0, 350).replace(/\s+/g, ' ') + '...',
-        topicosChave: [requestedSubject || 'Conceitos Chave', 'Legislação e Doutrina'],
+        resumoEstrategico: universalMeta.sanitizedTheoryText.substring(0, 350).replace(/\s+/g, ' ') + '...',
+        topicosChave: universalMeta.tableOfContents.length > 0 
+          ? universalMeta.tableOfContents.slice(0, 5).map(t => t.title)
+          : [universalMeta.subject || 'Conceitos Chave', 'Legislação e Doutrina'],
         jurisprudenciaRelevante: 'Doutrina e jurisprudência aplicável ao edital.',
         artigosChave: [],
-        dicasBanca: 'Atenção aos detalhes literais e pegadinhas recorrentes.',
+        dicasBanca: `Atenção aos detalhes literais da banca ${universalMeta.banca} e pegadinhas recorrentes.`,
         pontosCriticos: ['Revisão sistemática dos tópicos extraídos do PDF.']
       };
     }
@@ -154,16 +161,21 @@ router.post('/upload', async (req, res) => {
 
     const finalSubject = (requestedSubject && requestedSubject !== 'Geral' && requestedSubject !== 'Outra')
       ? requestedSubject
-      : (analysisResponse.materia || 'Geral');
+      : (analysisResponse.materia || universalMeta.subject || 'Geral');
 
     const theoryCompleted = (studyStatus === 'full' || studyStatus === 'theory_only') ? 1 : 0;
     const questionsCompleted = (studyStatus === 'full') ? 1 : 0;
     const finalStudiedDate = studiedAt || (studyStatus !== 'unread' ? new Date().toISOString().split('T')[0] : null);
 
-    // Save to database with user_id and career_id
+    // Save to database with complete universal metrics
     const stmt = db.prepare(`
-      INSERT INTO study_materials (filename, filepath, subject, lesson_number, title, summary, content_text, analysis_json, studied_at, theory_completed, questions_completed, user_id, career_id)
-      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+      INSERT INTO study_materials (
+        filename, filepath, subject, lesson_number, title, summary, content_text, analysis_json, 
+        studied_at, theory_completed, questions_completed, current_page, total_pages,
+        theory_pages, exercise_pages, has_exercises, table_of_contents_json, reading_metrics_json,
+        user_id, career_id
+      )
+      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?, ?, ?, ?, ?, ?, ?, ?)
     `);
 
     const result = stmt.run(
@@ -178,6 +190,12 @@ router.post('/upload', async (req, res) => {
       finalStudiedDate,
       theoryCompleted,
       questionsCompleted,
+      totalPagesDetected,
+      universalMeta.theoryPages,
+      universalMeta.exercisePages,
+      universalMeta.hasExercises ? 1 : 0,
+      JSON.stringify(universalMeta.tableOfContents),
+      JSON.stringify(universalMeta.readingMetrics),
       userId,
       careerId
     );
@@ -199,7 +217,7 @@ router.post('/upload', async (req, res) => {
 
     // Log activity
     db.prepare('INSERT INTO activity_log (type, detail, user_id, career_id) VALUES (?, ?, ?, ?)')
-      .run('material', `Enviou apostila: ${finalSubject} - Aula ${finalLessonNumber || 1} (${analysisResponse.titulo})`, userId, careerId);
+      .run('material', `Enviou material: ${finalSubject} - Aula ${finalLessonNumber || 1} (${analysisResponse.titulo})`, userId, careerId);
 
     res.json({
       materialId,
@@ -209,11 +227,17 @@ router.post('/upload', async (req, res) => {
       lessonNumber: finalLessonNumber,
       title: analysisResponse.titulo,
       summary: analysisResponse.resumoEstrategico,
+      totalPages: totalPagesDetected,
+      theoryPages: universalMeta.theoryPages,
+      exercisePages: universalMeta.exercisePages,
+      hasExercises: universalMeta.hasExercises,
+      tableOfContents: universalMeta.tableOfContents,
+      readingMetrics: universalMeta.readingMetrics,
       analysis: analysisResponse,
       studied_at: finalStudiedDate,
       theory_completed: theoryCompleted,
       questions_completed: questionsCompleted,
-      message: 'Apostila processada com sucesso! Cronograma e revisões atualizados.'
+      message: 'Material processado com parâmetros universais e inteligência de leitura!'
     });
 
   } catch (error) {
@@ -351,6 +375,7 @@ router.get('/materials', (req, res) => {
       SELECT 
         sm.id, sm.filename, sm.filepath, sm.subject, sm.lesson_number, sm.title, sm.summary, sm.created_at,
         sm.studied_at, sm.theory_completed, sm.questions_completed, sm.current_page, sm.total_pages, sm.notes,
+        sm.theory_pages, sm.exercise_pages, sm.has_exercises, sm.table_of_contents_json, sm.reading_metrics_json,
         sm.caderno_enxuto, sm.content_text,
         COUNT(DISTINCT ss.id) as session_count,
         SUM(CASE WHEN ss.status = 'completed' THEN 1 ELSE 0 END) as completed_sessions,
@@ -376,6 +401,8 @@ router.get('/materials', (req, res) => {
     const formatted = materials.map(m => ({
       ...m,
       pdfUrl: toPdfUrl(m.filepath),
+      tableOfContents: m.table_of_contents_json ? JSON.parse(m.table_of_contents_json) : [],
+      readingMetrics: m.reading_metrics_json ? JSON.parse(m.reading_metrics_json) : null,
       accuracy_pct: m.total_questions > 0 ? Math.round((m.correct_questions / m.total_questions) * 100) : null
     }));
 
@@ -383,6 +410,56 @@ router.get('/materials', (req, res) => {
   } catch (error) {
     console.error('Erro ao listar materiais:', error);
     res.status(500).json({ error: 'Falha ao listar materiais.' });
+  }
+});
+
+// GET /materials/:id/pace — Inteligência de Ritmo de Leitura e Retomada de Sessão
+router.get('/materials/:id/pace', (req, res) => {
+  try {
+    const { id } = req.params;
+    const userId = req.headers['x-user-id'] || 'user_joao';
+
+    const mat = db.prepare('SELECT * FROM study_materials WHERE id = ?').get(id);
+    if (!mat) return res.status(404).json({ error: 'Material não encontrado.' });
+
+    const userProfile = db.prepare('SELECT cadence_reading_min, cadence_questions_min, cadence_mode FROM user_profiles WHERE id = ?').get(userId);
+    const readingMinPerSession = userProfile?.cadence_reading_min || 60;
+    const questionsMinPerSession = userProfile?.cadence_questions_min || 30;
+
+    const curPage = mat.current_page || 1;
+    const totPages = mat.total_pages || mat.theory_pages || 45;
+    const theoryPages = mat.theory_pages || totPages;
+    const pagesLeft = Math.max(0, theoryPages - curPage);
+    const progressPct = Math.min(100, Math.round((curPage / (theoryPages || 1)) * 100));
+
+    // Estimativa de velocidade (média 15 págs por hora de leitura)
+    const avgPagesPerHour = 15;
+    const minutesLeft = Math.round((pagesLeft / avgPagesPerHour) * 60);
+    const sessionsNeeded = Math.ceil(minutesLeft / readingMinPerSession) || (pagesLeft > 0 ? 1 : 0);
+
+    res.json({
+      materialId: parseInt(id, 10),
+      title: mat.title,
+      subject: mat.subject,
+      currentPage: curPage,
+      totalPages: totPages,
+      theoryPages,
+      pagesRemaining: pagesLeft,
+      progressPct,
+      cadence: {
+        readingMin: readingMinPerSession,
+        questionsMin: questionsMinPerSession,
+        mode: userProfile?.cadence_mode || '60_30'
+      },
+      estimatedMinutesRemaining: minutesLeft,
+      estimatedSessionsRemaining: sessionsNeeded,
+      resumeRecommendation: curPage > 1 
+        ? `Você parou na página ${curPage}. Faltam ${pagesLeft} páginas de teoria (~${sessionsNeeded} sessão de ${readingMinPerSession}min).`
+        : `Aula nova: ${theoryPages} páginas de teoria. Comece com o bloco de ${readingMinPerSession}min de leitura!`
+    });
+  } catch (error) {
+    console.error('Erro ao calcular ritmo de estudo:', error);
+    res.status(500).json({ error: 'Falha ao calcular ritmo de estudo.' });
   }
 });
 
