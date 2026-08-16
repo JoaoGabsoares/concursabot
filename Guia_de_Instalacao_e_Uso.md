@@ -62,7 +62,7 @@ copy .env.example .env
 Agora abra o arquivo `.env` com qualquer editor de texto e substitua `cole_sua_api_key_aqui` pela sua chave:
 
 ```
-GEMINI_API_KEY=AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+GEMINI_API_KEY=sua_chave_do_google_ai_studio_aqui
 ```
 
 > [!WARNING]

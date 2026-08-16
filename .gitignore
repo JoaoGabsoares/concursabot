@@ -26,8 +26,12 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Pastas Externas, Sessões de Teste & Relatórios Temporários
+# Pastas Externas, Backups Locais, Sessões de Teste & Relatórios
 Faculdade_e_Projetos/
+backups/
+*.tar.gz
+*.zip
+*.7z
 LIVE_TESTING_SESSION.md
 tests_summary.json
 scratch/

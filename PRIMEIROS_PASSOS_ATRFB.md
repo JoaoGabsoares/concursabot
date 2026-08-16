@@ -50,14 +50,7 @@ npm install
 cp .env.example .env
 ```
 
-Se `npm install` falhar especificamente no `better-sqlite3` (erro de compilação, `node-gyp`
-ou `python not found`), instala as ferramentas de build e roda de novo — na maioria das
-distros isso nem é necessário, porque o pacote já vem pré-compilado:
-
-```bash
-sudo apt install -y build-essential python3
-npm install
-```
+O ConcursaBot utiliza o **SQLite oficial embutido no Node.js (`node:sqlite`)**, com instalação 100% instantânea e sem necessidade de compilação C++ ou ferramentas externas.
 
 Abre o `.env` (`nano .env` ou seu editor) e cola sua API key gratuita do
 [Google AI Studio](https://aistudio.google.com/apikey) em `GEMINI_API_KEY=`. Não precisa
