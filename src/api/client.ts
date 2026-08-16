@@ -1,11 +1,25 @@
-import { UserProfile, DailyMission, Question, ErrorItem, Simulado, RedacaoCritique, Flashcard, Career } from '../types';
+import { UserProfile, DailyMission, Question, ErrorItem, Simulado, RedacaoCritique, Flashcard, Career, AuthResponse } from '../types';
 
 const API_BASE = '/api';
 
+export function getAuthToken(): string | null {
+  return localStorage.getItem('GABARITO_AUTH_TOKEN');
+}
+
+export function setAuthToken(token: string | null): void {
+  if (token) {
+    localStorage.setItem('GABARITO_AUTH_TOKEN', token);
+  } else {
+    localStorage.removeItem('GABARITO_AUTH_TOKEN');
+  }
+}
+
 export async function request<T>(endpoint: string, options: RequestInit = {}): Promise<T> {
-  const headers = {
+  const token = getAuthToken();
+  const headers: Record<string, string> = {
     'Content-Type': 'application/json',
-    ...(options.headers || {})
+    ...(token ? { 'Authorization': `Bearer ${token}`, 'x-account-token': token } : {}),
+    ...(options.headers as Record<string, string> || {})
   };
 
   const response = await fetch(`${API_BASE}${endpoint}`, {
@@ -22,6 +36,16 @@ export async function request<T>(endpoint: string, options: RequestInit = {}): P
 }
 
 export const api = {
+  // Account Authentication (Zero Cost Local Multi-Tenant)
+  login: (username: string, password: string) =>
+    request<AuthResponse>('/auth/login', { method: 'POST', body: JSON.stringify({ username, password }) }),
+  registerAccount: (username: string, password: string, email?: string) =>
+    request<AuthResponse>('/auth/register', { method: 'POST', body: JSON.stringify({ username, password, email }) }),
+  getAuthMe: () =>
+    request<AuthResponse>('/auth/me'),
+  logout: () =>
+    request<{ success: boolean }>('/auth/logout', { method: 'POST' }),
+
   // Users & Profile (Full CRUD + Aliases)
   getUsers: () => request<UserProfile[]>('/users'),
   getUserProfiles: () => request<any[]>('/users'),

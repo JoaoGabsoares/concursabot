@@ -399,9 +399,31 @@ function initDB() {
             );
             CREATE INDEX IF NOT EXISTS idx_benchmarks_career ON exam_benchmarks(career_id, edition_year);
 
-            -- Table for User Profiles (Multi-User Switcher)
+            -- Table for Accounts (Zero Cost Multi-Tenant Auth)
+            CREATE TABLE IF NOT EXISTS accounts (
+                id TEXT PRIMARY KEY,
+                username TEXT UNIQUE NOT NULL,
+                email TEXT,
+                password_hash TEXT NOT NULL,
+                salt TEXT NOT NULL,
+                created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+                last_login_at DATETIME
+            );
+            CREATE INDEX IF NOT EXISTS idx_accounts_username ON accounts(username);
+
+            CREATE TABLE IF NOT EXISTS auth_sessions (
+                token TEXT PRIMARY KEY,
+                account_id TEXT NOT NULL,
+                created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+                expires_at DATETIME NOT NULL,
+                FOREIGN KEY (account_id) REFERENCES accounts(id) ON DELETE CASCADE
+            );
+            CREATE INDEX IF NOT EXISTS idx_sessions_account ON auth_sessions(account_id);
+
+            -- Table for User Profiles (Multi-User Switcher, linked to account)
             CREATE TABLE IF NOT EXISTS user_profiles (
                 id TEXT PRIMARY KEY,
+                account_id TEXT DEFAULT NULL,
                 name TEXT NOT NULL,
                 avatar_emoji TEXT DEFAULT '👨‍💼',
                 active_career_id TEXT DEFAULT 'atrfb',
@@ -422,6 +444,16 @@ function initDB() {
 
         // Migration for existing user_profiles columns
         const userCols = db.pragma('table_info(user_profiles)').map(c => c.name);
+        if (!userCols.includes('account_id')) {
+            try {
+                db.exec('ALTER TABLE user_profiles ADD COLUMN account_id TEXT DEFAULT NULL;');
+            } catch (e) {
+                // Column might already exist
+            }
+        }
+        try {
+            db.exec('CREATE INDEX IF NOT EXISTS idx_user_profiles_account ON user_profiles(account_id);');
+        } catch (e) {}
         if (!userCols.includes('target_role')) {
             db.exec('ALTER TABLE user_profiles ADD COLUMN target_role TEXT DEFAULT "Analista Tributário";');
         }

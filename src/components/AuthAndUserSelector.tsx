@@ -1,97 +1,158 @@
 import React, { useState, useEffect } from 'react';
-import { UserProfile } from '../types';
-import { api } from '../api/client';
+import { UserProfile, AccountInfo } from '../types';
+import { api, setAuthToken, getAuthToken } from '../api/client';
 import { CAREERS_LIST } from '../utils/careers';
 import { Card, Button, CarimboStatus } from './UIPrimitives';
-import { ChevronRight } from 'lucide-react';
+import { useToast } from './Toast';
+import { 
+  ChevronRight, 
+  UserPlus, 
+  LogIn, 
+  LogOut, 
+  ShieldCheck, 
+  Lock, 
+  User, 
+  Mail, 
+  Sparkles, 
+  Trash2,
+  AlertCircle
+} from 'lucide-react';
 
 interface AuthAndUserSelectorProps {
   onSelectUser: (user: UserProfile) => void;
 }
 
 export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSelectUser }) => {
-  const [pinRequired, setPinRequired] = useState<boolean>(false);
-  const [pinVerified, setPinVerified] = useState<boolean>(() => {
-    return sessionStorage.getItem('GABARITO_PIN_AUTH') === 'true';
-  });
-  const [pinInput, setPinInput] = useState<string>('');
-  const [pinError, setPinError] = useState<string | null>(null);
+  const { success, error: toastError, info } = useToast();
 
+  // Authentication State
+  const [authStatus, setAuthStatus] = useState<'checking' | 'unauthenticated' | 'authenticated'>('checking');
+  const [authTab, setAuthTab] = useState<'login' | 'register'>('login');
+  const [account, setAccount] = useState<AccountInfo | null>(null);
+
+  // Form Inputs
+  const [usernameInput, setUsernameInput] = useState<string>('');
+  const [passwordInput, setPasswordInput] = useState<string>('');
+  const [emailInput, setEmailInput] = useState<string>('');
+  const [authLoading, setAuthLoading] = useState<boolean>(false);
+  const [authError, setAuthError] = useState<string | null>(null);
+
+  // Profiles State (Exclusively for this account)
   const [profiles, setProfiles] = useState<UserProfile[]>([]);
-  const [loading, setLoading] = useState<boolean>(true);
+  const [profilesLoading, setProfilesLoading] = useState<boolean>(false);
   const [showCreateModal, setShowCreateModal] = useState<boolean>(false);
 
   // New Profile Form State
   const [newName, setNewName] = useState<string>('');
-  const [newCareerId, setNewCareerId] = useState<string>('bb_comercial');
-  const [newGoalHours, setNewGoalHours] = useState<number>(2);
+  const [newCareerId, setNewCareerId] = useState<string>('atrfb');
+  const [newGoalHours, setNewGoalHours] = useState<number>(4);
   const [creatingUser, setCreatingUser] = useState<boolean>(false);
+  const [createProfileError, setCreateProfileError] = useState<string | null>(null);
 
-  // 1. Check Auth Status from server
+  // 1. Check current session on mount
   useEffect(() => {
-    fetch('/api/auth/status')
-      .then(res => res.json())
-      .then(data => {
-        if (data && data.pinRequired && !pinVerified) {
-          setPinRequired(true);
-        } else {
-          setPinRequired(false);
-          loadProfiles();
-        }
-      })
-      .catch(() => {
-        loadProfiles();
-      });
-  }, [pinVerified]);
-
-  const loadProfiles = () => {
-    setLoading(true);
-    api.getUserProfiles()
-      .then(data => {
-        if (Array.isArray(data)) {
-          setProfiles(data);
-        }
-      })
-      .catch(err => {
-        console.error('Erro ao carregar perfis:', err);
-      })
-      .finally(() => {
-        setLoading(false);
-      });
-  };
-
-  const handleVerifyPin = async (e?: React.FormEvent) => {
-    if (e) e.preventDefault();
-    setPinError(null);
-
-    if (!pinInput.trim()) {
-      setPinError('Digite o PIN de acesso.');
+    const token = getAuthToken();
+    if (!token) {
+      setAuthStatus('unauthenticated');
       return;
     }
 
-    try {
-      const res = await fetch('/api/verify-pin', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ pin: pinInput.trim() })
+    api.getAuthMe()
+      .then((data) => {
+        if (data && data.authenticated && data.account) {
+          setAccount(data.account);
+          setProfiles(data.profiles || []);
+          setAuthStatus('authenticated');
+        } else {
+          setAuthToken(null);
+          setAuthStatus('unauthenticated');
+        }
+      })
+      .catch(() => {
+        setAuthToken(null);
+        setAuthStatus('unauthenticated');
       });
+  }, []);
 
-      if (res.ok) {
-        sessionStorage.setItem('GABARITO_PIN_AUTH', 'true');
-        setPinVerified(true);
-        setPinRequired(false);
-        loadProfiles();
-      } else {
-        setPinError('PIN de convite incorreto.');
+  // Handle Login
+  const handleLogin = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setAuthError(null);
+    if (!usernameInput.trim() || !passwordInput) {
+      setAuthError('Informe o usuário e a senha.');
+      return;
+    }
+
+    setAuthLoading(true);
+    try {
+      const res = await api.login(usernameInput.trim(), passwordInput);
+      if (res.success && res.token && res.account) {
+        setAuthToken(res.token);
+        setAccount(res.account);
+        setProfiles(res.profiles || []);
+        setAuthStatus('authenticated');
+        success('Bem-vindo de volta!', `Sessão iniciada como @${res.account.username}`);
       }
     } catch (err: any) {
-      setPinError('Erro ao validar PIN: ' + err.message);
+      setAuthError(err.message || 'Erro ao realizar login.');
+    } finally {
+      setAuthLoading(false);
     }
   };
 
+  // Handle Register
+  const handleRegister = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setAuthError(null);
+    if (!usernameInput.trim() || !passwordInput) {
+      setAuthError('Preencha os campos obrigatórios.');
+      return;
+    }
+
+    setAuthLoading(true);
+    try {
+      const res = await api.registerAccount(usernameInput.trim(), passwordInput, emailInput.trim());
+      if (res.success && res.token && res.account) {
+        setAuthToken(res.token);
+        setAccount(res.account);
+        setProfiles([]); // Zero profiles initially
+        setAuthStatus('authenticated');
+        success('Conta Criada com Sucesso!', `Sua conta @${res.account.username} foi configurada com isolamento total.`);
+      }
+    } catch (err: any) {
+      setAuthError(err.message || 'Erro ao criar conta.');
+    } finally {
+      setAuthLoading(false);
+    }
+  };
+
+  // Handle Logout
+  const handleLogout = async () => {
+    try {
+      await api.logout();
+    } catch (e) {
+      // Ignore network errors on logout
+    }
+    setAuthToken(null);
+    setAccount(null);
+    setProfiles([]);
+    setAuthStatus('unauthenticated');
+    setUsernameInput('');
+    setPasswordInput('');
+    setEmailInput('');
+    info('Sessão Encerrada', 'Você saiu da sua conta.');
+  };
+
+  // Create Profile (Max 3 per account)
   const handleCreateProfile = async (e: React.FormEvent) => {
     e.preventDefault();
+    setCreateProfileError(null);
     if (!newName.trim()) return;
+
+    if (profiles.length >= 3) {
+      setCreateProfileError('Você atingiu o limite de 3 perfis nesta conta.');
+      return;
+    }
 
     setCreatingUser(true);
     try {
@@ -103,31 +164,40 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
       });
 
       if (newProfile && newProfile.id) {
-        localStorage.setItem('CURRENT_USER_ID', newProfile.id);
-        localStorage.setItem('SELECTED_CAREER', newCareerId);
-        onSelectUser({
-          id: newProfile.id,
-          name: newProfile.name,
-          careerId: newCareerId,
-          level: 1,
-          xp: 0,
-          todayQuestions: 0,
-          todayMinutes: 0,
-          dailyGoalQuestions: 30,
-          dailyGoalMinutes: newGoalHours * 60,
-          streakDays: 0
-        });
+        success('Perfil Criado!', `Perfil "${newProfile.name}" adicionado à sua conta.`);
+        const updatedProfiles = [...profiles, newProfile];
+        setProfiles(updatedProfiles);
+        setShowCreateModal(false);
+        setNewName('');
+
+        // Automatically select the newly created user
+        handleSelectExistingUser(newProfile);
       }
     } catch (err: any) {
-      alert('Erro ao criar perfil: ' + err.message);
+      setCreateProfileError(err.message || 'Erro ao criar perfil.');
     } finally {
       setCreatingUser(false);
     }
   };
 
+  // Delete Profile
+  const handleDeleteProfile = async (e: React.MouseEvent, profileId: string) => {
+    e.stopPropagation();
+    if (!window.confirm('Tem certeza que deseja excluir este perfil de estudo?')) return;
+
+    try {
+      await api.deleteUserProfile(profileId);
+      setProfiles((prev) => prev.filter((p) => p.id !== profileId));
+      info('Perfil Excluído', 'O perfil foi removido da sua conta.');
+    } catch (err: any) {
+      toastError('Erro ao excluir perfil: ' + err.message);
+    }
+  };
+
+  // Select User and enter app
   const handleSelectExistingUser = (profile: any) => {
     localStorage.setItem('CURRENT_USER_ID', profile.id);
-    const career = profile.active_career_id || profile.careerId || 'bb_comercial';
+    const career = profile.active_career_id || profile.careerId || 'atrfb';
     localStorage.setItem('SELECTED_CAREER', career);
 
     onSelectUser({
@@ -139,87 +209,272 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
       todayQuestions: profile.todayQuestions || 0,
       todayMinutes: profile.todayMinutes || 0,
       dailyGoalQuestions: profile.dailyGoalQuestions || 30,
-      dailyGoalMinutes: (profile.daily_hours ? profile.daily_hours * 60 : 60),
+      dailyGoalMinutes: (profile.daily_hours ? profile.daily_hours * 60 : 240),
       streakDays: profile.streakDays || 0
     });
   };
 
-  // Phase 1: PIN Verification Screen
-  if (pinRequired && !pinVerified) {
+  // Loading Session Checker
+  if (authStatus === 'checking') {
     return (
       <div className="min-h-screen w-screen flex items-center justify-center p-4 bg-[var(--bg-base)] animate-fade-in font-sans">
-        <div className="w-full max-w-sm space-y-6">
+        <div className="text-center space-y-3">
+          <div className="w-12 h-12 rounded-xl bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)] flex items-center justify-center text-[var(--accent-primary)] mx-auto animate-pulse">
+            <ShieldCheck className="w-6 h-6" />
+          </div>
+          <div className="text-xs font-mono text-[var(--text-muted)] tracking-wider">
+            [ INICIANDO MOTOR DE SEGURANÇA ISOLADO... ]
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  // Phase 1: Unauthenticated Screen (Clean Zero-Cost Login / Register)
+  if (authStatus === 'unauthenticated') {
+    return (
+      <div className="min-h-screen w-screen flex items-center justify-center p-4 sm:p-6 bg-[var(--bg-base)] animate-fade-in font-sans">
+        <div className="w-full max-w-md space-y-6">
+          
+          {/* Brand Header */}
           <div className="text-center space-y-2">
-            <CarimboStatus status="em_revisao" label="ACESSO RESTRITO" />
-            <h1 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[10px] font-mono text-[var(--accent-primary)] font-bold">
+              <ShieldCheck className="w-3.5 h-3.5" />
+              <span>ACESSO PRIVADO • CUSTO ZERO</span>
+            </div>
+            <h1 className="font-display font-bold text-3xl sm:text-4xl text-[var(--text-primary)] tracking-tight">
               Gabarito<span className="text-[var(--accent-primary)] font-mono font-normal">.AI</span>
             </h1>
-            <p className="text-xs text-[var(--text-muted)]">
-              Insira a credencial de acesso para desbloquear a plataforma
+            <p className="text-xs text-[var(--text-muted)] max-w-xs mx-auto">
+              Plataforma de estudos com isolamento total entre dispositivos e usuários
             </p>
           </div>
 
-          <Card className="p-6 sm:p-8 space-y-5 shadow-2xl bg-[var(--bg-surface)]">
-            <form onSubmit={handleVerifyPin} className="space-y-4">
-              <div className="space-y-1.5">
-                <label className="font-mono text-xs uppercase text-[var(--text-muted)] tracking-wider font-bold">
-                  PIN de Acesso Institucional:
-                </label>
-                <input
-                  type="password"
-                  autoFocus
-                  value={pinInput}
-                  onChange={(e) => setPinInput(e.target.value)}
-                  placeholder="••••"
-                  className="w-full h-12 px-4 text-center text-xl font-mono tracking-widest rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none shadow-sm"
-                />
-              </div>
-
-              {pinError && (
-                <div className="p-3 rounded-lg bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)] text-xs text-center border border-[var(--accent-danger)]/30 font-mono font-bold">
-                  [ {pinError} ]
-                </div>
-              )}
-
-              <Button
-                type="submit"
-                variant="brand"
-                fullWidth={true}
-                size="lg"
-                className="font-bold text-sm shadow-md"
+          <Card className="p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-2xl">
+            
+            {/* Auth Mode Switcher Tabs */}
+            <div className="grid grid-cols-2 gap-1 p-1 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-xs font-bold">
+              <button
+                type="button"
+                onClick={() => {
+                  setAuthTab('login');
+                  setAuthError(null);
+                }}
+                className={`py-2 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                  authTab === 'login'
+                    ? 'bg-[var(--bg-surface)] text-[var(--text-primary)] shadow-sm'
+                    : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+                }`}
               >
-                Autenticar & Acessar
-              </Button>
-            </form>
+                <LogIn className="w-3.5 h-3.5" />
+                <span>Entrar</span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => {
+                  setAuthTab('register');
+                  setAuthError(null);
+                }}
+                className={`py-2 rounded-md transition-all flex items-center justify-center gap-1.5 ${
+                  authTab === 'register'
+                    ? 'bg-[var(--bg-surface)] text-[var(--text-primary)] shadow-sm'
+                    : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+                }`}
+              >
+                <UserPlus className="w-3.5 h-3.5" />
+                <span>Criar Conta</span>
+              </button>
+            </div>
+
+            {/* Login Form */}
+            {authTab === 'login' ? (
+              <form onSubmit={handleLogin} className="space-y-4">
+                <div className="space-y-1.5">
+                  <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                    Nome de Usuário:
+                  </label>
+                  <div className="relative">
+                    <User className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3.5" />
+                    <input
+                      type="text"
+                      required
+                      autoFocus
+                      placeholder="ex: joao_concursos"
+                      value={usernameInput}
+                      onChange={(e) => setUsernameInput(e.target.value)}
+                      className="w-full h-11 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                    />
+                  </div>
+                </div>
+
+                <div className="space-y-1.5">
+                  <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                    Senha:
+                  </label>
+                  <div className="relative">
+                    <Lock className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3.5" />
+                    <input
+                      type="password"
+                      required
+                      placeholder="••••••••"
+                      value={passwordInput}
+                      onChange={(e) => setPasswordInput(e.target.value)}
+                      className="w-full h-11 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                    />
+                  </div>
+                </div>
+
+                {authError && (
+                  <div className="p-3 rounded-lg bg-[var(--color-status-danger-bg)] border border-[var(--accent-danger)]/30 text-xs text-[var(--accent-danger)] flex items-center gap-2 font-mono">
+                    <AlertCircle className="w-4 h-4 shrink-0" />
+                    <span>{authError}</span>
+                  </div>
+                )}
+
+                <Button
+                  type="submit"
+                  variant="brand"
+                  fullWidth={true}
+                  size="md"
+                  disabled={authLoading}
+                  className="font-mono text-xs font-bold shadow-md flex items-center justify-center gap-2"
+                >
+                  {authLoading ? "Autenticando..." : "Entrar na Plataforma"}
+                </Button>
+              </form>
+            ) : (
+              /* Register Form */
+              <form onSubmit={handleRegister} className="space-y-4">
+                <div className="space-y-1.5">
+                  <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                    Escolha seu Nome de Usuário:
+                  </label>
+                  <div className="relative">
+                    <User className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3.5" />
+                    <input
+                      type="text"
+                      required
+                      autoFocus
+                      placeholder="ex: concurseiro_alfa"
+                      value={usernameInput}
+                      onChange={(e) => setUsernameInput(e.target.value)}
+                      className="w-full h-11 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                    />
+                  </div>
+                  <span className="text-[10px] text-[var(--text-muted)] font-mono">
+                    Mínimo 3 caracteres (letras, números, underline)
+                  </span>
+                </div>
+
+                <div className="space-y-1.5">
+                  <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                    Email (Opcional):
+                  </label>
+                  <div className="relative">
+                    <Mail className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3.5" />
+                    <input
+                      type="email"
+                      placeholder="seu_email@exemplo.com"
+                      value={emailInput}
+                      onChange={(e) => setEmailInput(e.target.value)}
+                      className="w-full h-11 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                    />
+                  </div>
+                </div>
+
+                <div className="space-y-1.5">
+                  <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
+                    Senha de Acesso:
+                  </label>
+                  <div className="relative">
+                    <Lock className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3.5" />
+                    <input
+                      type="password"
+                      required
+                      placeholder="Mínimo 4 caracteres"
+                      value={passwordInput}
+                      onChange={(e) => setPasswordInput(e.target.value)}
+                      className="w-full h-11 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                    />
+                  </div>
+                </div>
+
+                {authError && (
+                  <div className="p-3 rounded-lg bg-[var(--color-status-danger-bg)] border border-[var(--accent-danger)]/30 text-xs text-[var(--accent-danger)] flex items-center gap-2 font-mono">
+                    <AlertCircle className="w-4 h-4 shrink-0" />
+                    <span>{authError}</span>
+                  </div>
+                )}
+
+                <Button
+                  type="submit"
+                  variant="brand"
+                  fullWidth={true}
+                  size="md"
+                  disabled={authLoading}
+                  className="font-mono text-xs font-bold shadow-md flex items-center justify-center gap-2"
+                >
+                  {authLoading ? "Criando Conta..." : "Criar Conta Gratuita"}
+                </Button>
+              </form>
+            )}
+
+            <div className="pt-2 border-t border-[var(--border-subtle)] text-center">
+              <span className="text-[10px] font-mono text-[var(--text-muted)]">
+                🔒 Criptografia Scrypt Local • Sem custo • Dados 100% Privados
+              </span>
+            </div>
           </Card>
         </div>
       </div>
     );
   }
 
-  // Phase 2: User Profile Selection & Creation Screen
+  // Phase 2: Authenticated Screen (Profile Selector & Creator - Max 3 per Account)
   return (
-    <div className="min-h-screen w-screen flex items-center justify-center p-4 sm:p-6 bg-[var(--bg-base)] animate-fade-in select-none font-sans">
+    <div className="min-h-screen w-screen flex items-center justify-center p-4 sm:p-6 bg-[var(--bg-base)] animate-fade-in font-sans">
       <div className="w-full max-w-2xl space-y-6">
         
-        {/* Brand Top Header */}
-        <div className="text-center space-y-3">
-          <CarimboStatus status="homologado" label="SISTEMA DE IDENTIFICAÇÃO OFICIAL" />
-          <h1 className="font-display font-bold text-3xl sm:text-4xl lg:text-5xl text-[var(--text-primary)] tracking-tight">
-            Quem está estudando hoje?
+        {/* Account Info Header */}
+        <div className="flex flex-col sm:flex-row items-center justify-between gap-3 p-3.5 rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] shadow-sm">
+          <div className="flex items-center gap-3">
+            <div className="w-9 h-9 rounded-lg bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/30 flex items-center justify-center text-[var(--accent-primary)] font-mono font-bold">
+              👤
+            </div>
+            <div>
+              <div className="text-xs font-bold text-[var(--text-primary)]">
+                Conta: @{account?.username}
+              </div>
+              <div className="text-[10px] font-mono text-[var(--text-muted)]">
+                Perfis cadastrados: <span className="font-bold text-[var(--accent-primary)]">{profiles.length}</span> de 3 permitidos
+              </div>
+            </div>
+          </div>
+
+          <button
+            onClick={handleLogout}
+            className="text-xs font-mono text-[var(--text-muted)] hover:text-[var(--accent-danger)] flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-[var(--border-subtle)] hover:border-[var(--accent-danger)]/40 transition-colors"
+          >
+            <LogOut className="w-3.5 h-3.5" />
+            <span>Sair / Trocar Conta</span>
+          </button>
+        </div>
+
+        {/* Title */}
+        <div className="text-center space-y-2">
+          <CarimboStatus status="homologado" label="SELEÇÃO DE PERFIL DE ESTUDO" />
+          <h1 className="font-display font-bold text-2xl sm:text-3xl lg:text-4xl text-[var(--text-primary)] tracking-tight">
+            Quem está estudando agora?
           </h1>
           <p className="text-xs sm:text-sm text-[var(--text-secondary)] max-w-md mx-auto leading-relaxed">
-            Selecione seu perfil de concurseiro para carregar seu histórico ou cadastre um novo estudante
+            Selecione o perfil do concurso que você deseja estudar ou cadastre um novo
           </p>
         </div>
 
         {/* Existing Profiles List */}
         <div className="space-y-3">
-          {loading ? (
-            <div className="text-center py-12 text-xs text-[var(--text-muted)] font-mono">
-              [ CONSULTANDO BANCO DE DADOS OFICIAL... ]
-            </div>
-          ) : profiles.length > 0 ? (
+          {profiles.length > 0 ? (
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3.5">
               {profiles.map((p: any) => {
                 const career = CAREERS_LIST.find(c => c.id === p.active_career_id) || CAREERS_LIST[0];
@@ -228,31 +483,65 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     key={p.id}
                     hoverable={true}
                     onClick={() => handleSelectExistingUser(p)}
-                    className="p-5 flex items-center justify-between gap-3 group border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-[var(--bg-surface)] shadow-sm cursor-pointer"
+                    className="p-5 flex items-center justify-between gap-3 group border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-[var(--bg-surface)] shadow-sm cursor-pointer relative"
                   >
                     <div className="truncate text-left space-y-1">
-                      <div className="text-sm font-bold text-[var(--text-primary)] truncate">
-                        {p.name}
+                      <div className="text-sm font-bold text-[var(--text-primary)] truncate flex items-center gap-2">
+                        <span>{p.name}</span>
+                        {p.xp > 0 && (
+                          <span className="px-1.5 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold">
+                            {p.xp} XP
+                          </span>
+                        )}
                       </div>
                       <div className="text-xs text-[var(--text-muted)] font-mono truncate">
                         {career.name.split('—')[0]} ({career.banca})
                       </div>
                     </div>
-                    <ChevronRight className="w-5 h-5 text-[var(--text-muted)] group-hover:text-[var(--accent-primary)] shrink-0 transition-colors" />
+
+                    <div className="flex items-center gap-2 shrink-0">
+                      <button
+                        type="button"
+                        title="Excluir Perfil"
+                        onClick={(e) => handleDeleteProfile(e, p.id)}
+                        className="opacity-0 group-hover:opacity-100 p-1.5 rounded text-[var(--text-muted)] hover:text-[var(--accent-danger)] hover:bg-[var(--color-status-danger-bg)] transition-all"
+                      >
+                        <Trash2 className="w-4 h-4" />
+                      </button>
+                      <ChevronRight className="w-5 h-5 text-[var(--text-muted)] group-hover:text-[var(--accent-primary)] transition-colors" />
+                    </div>
                   </Card>
                 );
               })}
             </div>
-          ) : null}
+          ) : (
+            <Card className="p-8 text-center space-y-3 bg-[var(--bg-surface)] border-[var(--border-subtle)]">
+              <div className="w-12 h-12 rounded-xl bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/30 flex items-center justify-center text-[var(--accent-primary)] mx-auto">
+                <Sparkles className="w-6 h-6 text-amber-400" />
+              </div>
+              <div className="font-display font-bold text-base text-[var(--text-primary)]">
+                Nenhum Perfil Criado Nesta Conta
+              </div>
+              <p className="text-xs text-[var(--text-muted)] max-w-sm mx-auto">
+                Você pode criar até 3 perfis independentes para estudar para concursos diferentes (ex: Receita Federal, Banco do Brasil, Marinha).
+              </p>
+            </Card>
+          )}
 
           {/* Action Button: Criar Novo Perfil */}
-          <Card
-            hoverable={true}
-            onClick={() => setShowCreateModal(true)}
-            className="p-5 text-center border-dashed border-2 border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-transparent flex items-center justify-center gap-2 text-xs sm:text-sm font-mono font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer uppercase tracking-wider"
-          >
-            <span>[ + Criar Novo Perfil de Estudante ]</span>
-          </Card>
+          {profiles.length < 3 ? (
+            <Card
+              hoverable={true}
+              onClick={() => setShowCreateModal(true)}
+              className="p-5 text-center border-dashed border-2 border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-transparent flex items-center justify-center gap-2 text-xs sm:text-sm font-mono font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer uppercase tracking-wider"
+            >
+              <span>+ Criar Novo Perfil de Estudante ({profiles.length + 1} de 3)</span>
+            </Card>
+          ) : (
+            <div className="p-3 text-center rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs font-mono text-[var(--text-muted)]">
+              🔒 Limite de 3 perfis atingido para esta conta.
+            </div>
+          )}
         </div>
 
         {/* Create Profile Modal */}
@@ -260,9 +549,14 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
           <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-fade-in">
             <div className="w-full max-w-md bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-xl p-6 sm:p-8 space-y-5 shadow-2xl animate-fade-in">
               <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-                <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
-                  Cadastrar Novo Estudante
-                </h3>
+                <div>
+                  <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
+                    Cadastrar Perfil ({profiles.length + 1} de 3)
+                  </h3>
+                  <p className="text-[11px] text-[var(--text-muted)] font-mono">
+                    Vinculado à conta @{account?.username}
+                  </p>
+                </div>
                 <button
                   onClick={() => setShowCreateModal(false)}
                   className="font-mono text-xs text-[var(--text-muted)] hover:text-[var(--text-primary)]"
@@ -274,12 +568,13 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
               <form onSubmit={handleCreateProfile} className="space-y-4 font-sans text-xs sm:text-sm">
                 <div className="space-y-1.5">
                   <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
-                    Nome Completo ou Apelido:
+                    Nome do Estudante / Perfil:
                   </label>
                   <input
                     type="text"
                     required
-                    placeholder="Ex: João Soares"
+                    autoFocus
+                    placeholder="Ex: João - Receita Federal"
                     value={newName}
                     onChange={(e) => setNewName(e.target.value)}
                     className="w-full h-11 px-3.5 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none shadow-sm"
@@ -307,8 +602,8 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
                     Meta Diária de Estudos:
                   </label>
-                  <div className="grid grid-cols-3 gap-2.5 font-mono">
-                    {[1, 2, 4].map((hours) => (
+                  <div className="grid grid-cols-4 gap-2 font-mono">
+                    {[1, 2, 4, 6].map((hours) => (
                       <button
                         type="button"
                         key={hours}
@@ -324,6 +619,12 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     ))}
                   </div>
                 </div>
+
+                {createProfileError && (
+                  <div className="p-3 rounded-lg bg-[var(--color-status-danger-bg)] border border-[var(--accent-danger)]/30 text-xs text-[var(--accent-danger)] font-mono">
+                    {createProfileError}
+                  </div>
+                )}
 
                 <div className="pt-3 flex gap-3">
                   <Button
@@ -344,7 +645,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     disabled={creatingUser || !newName.trim()}
                     className="font-bold font-mono text-xs shadow-md"
                   >
-                    {creatingUser ? "Cadastrando..." : "Iniciar Jornada"}
+                    {creatingUser ? "Cadastrando..." : "Criar Perfil"}
                   </Button>
                 </div>
               </form>

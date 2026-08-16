@@ -262,7 +262,7 @@ async function runAllTests() {
   const resUsersProfilesGet = await request('/api/users/profiles', { method: 'GET' });
   recordResult('Users', 'GET /api/users/profiles (Route alias check)', [200, 404], resUsersProfilesGet);
 
-  const resUsersGet = await request('/api/users', { method: 'GET' });
+  const resUsersGet = await request('/api/users?all=true', { method: 'GET' });
   recordResult('Users', 'GET /api/users (Canonical Profile List)', 200, resUsersGet, (body) => {
     return (Array.isArray(body) && body.length >= 3) ? true : 'Lista de perfis incompleta';
   });

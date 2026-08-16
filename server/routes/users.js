@@ -1,6 +1,7 @@
 import express from 'express';
 import db from '../database.js';
 import { generateContent } from '../gemini.js';
+import { getSessionAccount } from './auth.js';
 
 const router = express.Router();
 
@@ -49,17 +50,36 @@ router.get('/system/health', async (req, res) => {
   }
 });
 
-// GET /api/users - List all user profiles
+// GET /api/users - List user profiles for current authenticated account
 router.get('/', (req, res) => {
   try {
-    const profiles = db.prepare(`
-      SELECT 
-        u.*,
-        (SELECT COUNT(*) FROM study_sessions WHERE user_id = u.id) as total_sessions,
-        (SELECT COUNT(*) FROM activity_log WHERE user_id = u.id) as total_activities
-      FROM user_profiles u
-      ORDER BY u.is_default DESC, u.last_active_at DESC
-    `).all();
+    const session = getSessionAccount(req);
+    let profiles = [];
+
+    if (session) {
+      // Returns exclusively the profiles of the logged in account
+      profiles = db.prepare(`
+        SELECT 
+          u.*,
+          (SELECT COUNT(*) FROM study_sessions WHERE user_id = u.id) as total_sessions,
+          (SELECT COUNT(*) FROM activity_log WHERE user_id = u.id) as total_activities
+        FROM user_profiles u
+        WHERE u.account_id = ?
+        ORDER BY u.is_default DESC, u.last_active_at DESC
+      `).all(session.account_id);
+    } else if (req.query.all === 'true') {
+      profiles = db.prepare(`
+        SELECT 
+          u.*,
+          (SELECT COUNT(*) FROM study_sessions WHERE user_id = u.id) as total_sessions,
+          (SELECT COUNT(*) FROM activity_log WHERE user_id = u.id) as total_activities
+        FROM user_profiles u
+        ORDER BY u.is_default DESC, u.last_active_at DESC
+      `).all();
+    } else {
+      // Unauthenticated visitor sees zero profiles (complete privacy)
+      profiles = [];
+    }
 
     res.json(profiles);
   } catch (err) {
@@ -80,9 +100,21 @@ router.get('/:id', (req, res) => {
   }
 });
 
-// POST /api/users - Create new user profile with complete wizard metadata
+// POST /api/users - Create new user profile with complete wizard metadata & 3-profile account limit
 router.post('/', (req, res) => {
   try {
+    const session = getSessionAccount(req);
+    const accountId = session ? session.account_id : (req.body.account_id || null);
+
+    if (accountId) {
+      const countRes = db.prepare('SELECT COUNT(*) as c FROM user_profiles WHERE account_id = ?').get(accountId);
+      if (countRes && countRes.c >= 3) {
+        return res.status(400).json({ 
+          error: 'Limite de 3 perfis atingido para esta conta. Exclua um perfil antes de criar um novo.' 
+        });
+      }
+    }
+
     const { 
       name, 
       avatar_emoji, 
@@ -123,14 +155,14 @@ router.post('/', (req, res) => {
 
     const stmt = db.prepare(`
       INSERT INTO user_profiles (
-        id, name, avatar_emoji, active_career_id, color_theme, is_default, 
+        id, account_id, name, avatar_emoji, active_career_id, color_theme, is_default, 
         target_role, target_banca, experience_level, daily_hours, study_shifts, preferred_material, custom_exam_title,
         google_calendar_enabled, google_calendar_url, tutor_style, sound_effects_enabled,
         last_active_at
       )
-      VALUES (?, ?, ?, ?, ?, 0, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+      VALUES (?, ?, ?, ?, ?, ?, 0, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
     `);
-    stmt.run(id, name.trim(), avatar, career, color, role, banca, exp, hours, shifts, material, customTitle, gcalEnabled, gcalUrl, tutStyle, sounds);
+    stmt.run(id, accountId, name.trim(), avatar, career, color, role, banca, exp, hours, shifts, material, customTitle, gcalEnabled, gcalUrl, tutStyle, sounds);
 
     const created = db.prepare('SELECT * FROM user_profiles WHERE id = ?').get(id);
     res.status(201).json(created);

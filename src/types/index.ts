@@ -130,3 +130,17 @@ export type ActiveTab =
   | 'settings_ajustes'
   | 'settings_guia'
   | 'settings_sobre';
+
+export interface AccountInfo {
+  id: string;
+  username: string;
+  email?: string | null;
+}
+
+export interface AuthResponse {
+  authenticated: boolean;
+  token?: string;
+  account: AccountInfo | null;
+  profiles: UserProfile[];
+}
+
