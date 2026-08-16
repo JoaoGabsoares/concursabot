@@ -73,10 +73,6 @@ export const api = {
   uploadStudyMaterial: async (formData: FormData, userId?: string, careerId?: string) => {
     const res = await fetch(`${API_BASE}/study-room/upload`, {
       method: 'POST',
-      headers: {
-        'x-user-id': userId || 'user_joao',
-        'x-exam-id': careerId || 'atrfb'
-      },
       body: formData
     });
     if (!res.ok) {
@@ -85,6 +81,30 @@ export const api = {
     }
     return res.json();
   },
+  registerStudy: (payload: {
+    materialId?: number;
+    subject?: string;
+    lessonNumber?: number;
+    title?: string;
+    currentPage?: number;
+    totalPages?: number;
+    isCompleted?: boolean;
+    durationMinutes?: number;
+    notes?: string;
+  }, userId?: string, careerId?: string) =>
+    request<{ success: boolean; xpGained: number; isCompleted: boolean; message: string; user: any }>(
+      '/study-room/register-study',
+      {
+        method: 'POST',
+        headers: {
+          'x-user-id': userId || 'user_joao',
+          'x-exam-id': careerId || 'atrfb'
+        },
+        body: JSON.stringify(payload)
+      }
+    ),
+  deleteStudyMaterial: (id: number) =>
+    request<{ success: boolean }>(`/study-room/materials/${id}`, { method: 'DELETE' }),
 
   // Questions & Simulado
   generateQuestions: (params: { subject: string; topic?: string; banca?: string; count?: number; careerId?: string }) =>

@@ -103,4 +103,30 @@ export interface Flashcard {
   due_date: string;
 }
 
-export type ActiveTab = 'dashboard' | 'study' | 'simulados' | 'erros' | 'redacao' | 'edital' | 'flashcards' | 'settings';
+export interface StudyMaterial {
+  id: number;
+  career_id?: string;
+  user_id?: string;
+  subject: string;
+  title: string;
+  file_path?: string;
+  extracted_text?: string;
+  total_pages?: number;
+  current_page?: number;
+  is_completed?: boolean;
+  notes?: string;
+  created_at?: string;
+}
+
+export type ActiveTab = 
+  | 'dashboard' 
+  | 'study' 
+  | 'simulados' 
+  | 'erros' 
+  | 'redacao' 
+  | 'edital' 
+  | 'flashcards' 
+  | 'settings'
+  | 'settings_ajustes'
+  | 'settings_guia'
+  | 'settings_sobre';

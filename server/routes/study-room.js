@@ -259,6 +259,88 @@ router.put('/materials/:id/study-status', (req, res) => {
   }
 });
 
+// POST /register-study — Registra estudo (conclusão ou progresso de páginas) com XP e estatísticas em tempo real
+router.post('/register-study', (req, res) => {
+  try {
+    const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+    const careerId = req.headers['x-exam-id'] || req.body.careerId || 'atrfb';
+    const { 
+      materialId, 
+      subject, 
+      lessonNumber, 
+      title, 
+      currentPage, 
+      totalPages, 
+      isCompleted, 
+      durationMinutes,
+      notes 
+    } = req.body;
+
+    const minutes = parseInt(durationMinutes, 10) || 30;
+    const isFinished = Boolean(isCompleted);
+    const xpGained = isFinished ? 25 : 15;
+    const now = new Date().toISOString().split('T')[0];
+
+    // 1. Registra a sessão de estudo
+    db.prepare(`
+      INSERT INTO study_sessions (
+        material_id, duration_minutes, status, user_id, completed_at, actual_duration_seconds
+      ) VALUES (?, ?, 'completed', ?, CURRENT_TIMESTAMP, ?)
+    `).run(materialId || null, minutes, userId, minutes * 60);
+
+    // 2. Se houver materialId, atualiza o progresso em study_materials
+    if (materialId) {
+      db.prepare(`
+        UPDATE study_materials 
+        SET studied_at = ?,
+            theory_completed = ?,
+            questions_completed = ?,
+            current_page = ?,
+            total_pages = COALESCE(?, total_pages),
+            notes = COALESCE(?, notes)
+        WHERE id = ?
+      `).run(now, isFinished ? 1 : 0, isFinished ? 1 : 0, currentPage || 1, totalPages || null, notes || null, materialId);
+    }
+
+    // 3. Atualiza os minutos de estudo e XP do usuário
+    db.prepare(`
+      UPDATE user_profiles
+      SET xp = xp + ?,
+          todayMinutes = todayMinutes + ?
+      WHERE id = ?
+    `).run(xpGained, minutes, userId);
+
+    // 4. Registra no log de atividades
+    db.prepare(`
+      INSERT INTO activity_log (type, detail, user_id)
+      VALUES ('study', ?, ?)
+    `).run(
+      `${isFinished ? 'Aula concluída' : 'Progresso de leitura registrado'}: ${subject || 'Estudo'} - ${title || ''} (${currentPage ? `pág. ${currentPage}/${totalPages || '?'}` : `${minutes} min`})`,
+      userId
+    );
+
+    // 5. Se concluído, agenda revisões espaçadas D+1, D+7, D+30
+    if (isFinished && materialId) {
+      scheduleSpacedReviews(materialId, subject, lessonNumber || 1, now, userId, careerId);
+    }
+
+    const updatedProfile = db.prepare('SELECT id, name, xp, level, todayMinutes, todayQuestions, streakDays FROM user_profiles WHERE id = ?').get(userId);
+
+    res.json({
+      success: true,
+      xpGained,
+      isCompleted: isFinished,
+      user: updatedProfile,
+      message: isFinished 
+        ? `Parabéns! Aula de ${subject || 'Estudo'} concluída com sucesso! +${xpGained} XP concedidos.`
+        : `Progresso salvo: Página ${currentPage || 1} de ${totalPages || '?'}. Continue assim! +${xpGained} XP concedidos.`
+    });
+  } catch (err) {
+    console.error('Erro ao registrar estudo:', err);
+    res.status(500).json({ error: 'Falha ao registrar estudo: ' + err.message });
+  }
+});
+
 // GET /materials — List all uploaded materials with study progress
 router.get('/materials', (req, res) => {
   try {
@@ -268,7 +350,8 @@ router.get('/materials', (req, res) => {
     let sql = `
       SELECT 
         sm.id, sm.filename, sm.filepath, sm.subject, sm.lesson_number, sm.title, sm.summary, sm.created_at,
-        sm.studied_at, sm.theory_completed, sm.questions_completed,
+        sm.studied_at, sm.theory_completed, sm.questions_completed, sm.current_page, sm.total_pages, sm.notes,
+        sm.caderno_enxuto, sm.content_text,
         COUNT(DISTINCT ss.id) as session_count,
         SUM(CASE WHEN ss.status = 'completed' THEN 1 ELSE 0 END) as completed_sessions,
         MAX(ss.completed_at) as last_studied_at,

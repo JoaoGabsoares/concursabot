@@ -58,7 +58,9 @@ export const Sidebar: React.FC<SidebarProps> = ({
     {
       title: 'SISTEMA & GUIA',
       items: [
-        { id: 'settings' as ActiveTab, label: 'Configurações & Guia' },
+        { id: 'settings_ajustes' as ActiveTab, label: 'Ajustes & API' },
+        { id: 'settings_guia' as ActiveTab, label: 'Guia de Uso & Método' },
+        { id: 'settings_sobre' as ActiveTab, label: 'Sobre o Gabarito.AI' },
       ]
     }
   ];

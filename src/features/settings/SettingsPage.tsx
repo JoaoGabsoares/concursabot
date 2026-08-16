@@ -1,21 +1,30 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
+import { useToast } from '../../components/Toast';
 import { UserProfile } from '../../types';
 import { Settings, BookOpen, Info, ShieldCheck, Download, Trash2, Key, UserCheck, Flame, Target, Trophy, Cpu } from 'lucide-react';
 
 interface SettingsPageProps {
   user: UserProfile | null;
   onUpdateUser: (name: string) => void;
+  initialTab?: SettingsSubTab;
 }
 
-type SettingsSubTab = 'ajustes' | 'guia' | 'sobre';
+export type SettingsSubTab = 'ajustes' | 'guia' | 'sobre';
 
-export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser }) => {
-  const [activeSubTab, setActiveSubTab] = useState<SettingsSubTab>('ajustes');
+export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser, initialTab = 'ajustes' }) => {
+  const { success, error: toastError } = useToast();
+  const [activeSubTab, setActiveSubTab] = useState<SettingsSubTab>(initialTab);
   const [userName, setUserName] = useState(user?.name || 'João Soares');
   const [geminiKey, setGeminiKey] = useState(() => localStorage.getItem('GEMINI_API_KEY') || '');
   const [savedKey, setSavedKey] = useState(false);
   const [profileSaved, setProfileSaved] = useState(false);
+
+  useEffect(() => {
+    if (initialTab) {
+      setActiveSubTab(initialTab);
+    }
+  }, [initialTab]);
 
   const handleSaveProfile = () => {
     onUpdateUser(userName);
@@ -48,10 +57,10 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser }
           body: JSON.stringify({ xp: 0, level: 1, streakDays: 0, todayQuestions: 0, todayMinutes: 0 })
         });
         localStorage.removeItem('CURRENT_USER_ID');
-        alert('Progresso zerado com sucesso! A página será recarregada.');
-        window.location.reload();
+        success('Progresso Zerado!', 'Histórico resetado para 0 XP com sucesso.');
+        setTimeout(() => window.location.reload(), 1200);
       } catch (e) {
-        alert('Erro ao resetar progresso.');
+        toastError('Erro ao resetar progresso.');
       }
     }
   };

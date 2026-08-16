@@ -464,6 +464,15 @@ function initDB() {
         if (!matCols.includes('is_native_lesson')) {
             db.exec('ALTER TABLE study_materials ADD COLUMN is_native_lesson BOOLEAN DEFAULT 0;');
         }
+        if (!matCols.includes('current_page')) {
+            db.exec('ALTER TABLE study_materials ADD COLUMN current_page INTEGER DEFAULT 1;');
+        }
+        if (!matCols.includes('total_pages')) {
+            db.exec('ALTER TABLE study_materials ADD COLUMN total_pages INTEGER DEFAULT NULL;');
+        }
+        if (!matCols.includes('notes')) {
+            db.exec('ALTER TABLE study_materials ADD COLUMN notes TEXT DEFAULT NULL;');
+        }
 
         // Migration for user_id on operational tables
         const tablesWithUser = [
