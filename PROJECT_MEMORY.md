@@ -48,14 +48,16 @@ O **Gabarito.AI** é uma plataforma web completa de preparação de alta perform
 
 ## 🧪 3. Suíte Unificada de Testes Automatizados (`npm test`)
 
-A pasta `tests/` reúne toda a bateria de testes automatizados:
+A pasta `tests/` reúne toda a bateria de testes automatizados com auto-spawn do servidor caso esteja inativo:
 ```
 tests/
-├── unit/universal_pdf.test.js        # Heurísticas de PDF, sanitização e métricas
-├── integration/auth_and_isolation.test.js # Autenticação, zero-state e multi-conta
-├── integration/study_room_cadence.test.js # Sala de estudos, marca-página e ritmo
-├── security/pentest_and_ai.test.js   # Pentest, SQLi, XSS e sanitização
-└── run_all.js                        # Runner central unificado
+├── unit/universal_pdf.test.js                 # Heurísticas de PDF, sanitização e métricas
+├── integration/auth_and_isolation.test.js      # Autenticação, zero-state e multi-conta
+├── integration/study_room_cadence.test.js      # Sala de estudos, marca-página e ritmo
+├── integration/leiseca_and_aproveitamento.test.js # Lei seca ativa e transição curricular
+├── integration/community_and_caderno_erros.test.js # Chat SSE, @GabaritoAI e exportação
+├── security/pentest_and_ai.test.js            # Pentest, SQLi, XSS e sanitização
+└── run_all.js                                 # Runner central autônomo
 ```
 
 ---
@@ -91,14 +93,16 @@ npm run dev
   - Subagent 5 (Redação & Raio-X 80/20): Espelho em 4 critérios (+50 XP) e matrizes de corte históricas.
   - Subagent 6 (Multi-Conta & Zero XP Inicial): Isolamento multi-tenant hermético e trava no 3º perfil.
 - **Fase 2 (5 Subagentes de UI / Screenshots)**:
-  - Subagents 7 a 11: Todas as telas (Auth, Dashboard, Sala de Estudos, Simulados, Caderno de Erros, Redação, Raio-X e Settings) validadas e capturadas com conformidade ao Design System.
+  - Subagents 7 a 11: Todas as telas (Auth, Dashboard, Sala de Estudos, Simulados, Caderno de Erros, Redação, Raio-X, Comunidade e Settings) validadas e capturadas com conformidade ao Design System.
 
 ---
 
 ## ⚡ 6. Inovações de Mercado Implementadas (v3.5 Ultra)
 
+- **Comunidade & Salas de Estudo em Tempo Real (SSE + SQLite)**: Canais temáticos por certame com broadcast contínuo, reações emoji instantâneas e invocação de Tutor IA com `@GabaritoAI` ou `@Tutor`.
+- **Exportador do Caderno de Erros (Anki CSV & Folha de Revisão Imprimível)**: Exportação em 1 clique para baralhos do Anki e folha em formato Diário Oficial com caixas para ciclos de revisão espaçada (`[ ] D+1`, `[ ] D+7`, `[ ] D+30`).
+- **Simulado Adaptativo de Vulnerabilidades**: Modo direcionado que monta baterias de treino com base nas fraquezas reais do aluno e no histórico do Caderno de Erros.
 - **Caça-Pegadinhas da Lei Seca**: Gamificação com timer de 15s, identificação de armadilhas da banca e recompensa de +10 a +15 XP.
 - **Matriz de Transição e Aproveitamento**: Análise algorítmica de sobreposição entre as 7 carreiras com trilha passo a passo de complementação.
-- **Modo Áudio Flash**: Revisão hands-free em deslocamentos usando Web Speech API nativa.
 
 

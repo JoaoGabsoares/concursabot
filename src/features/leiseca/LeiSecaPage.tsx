@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Card, Button, Badge, CarimboStatus, ProgressBar } from '../../components/UIPrimitives';
+import { api } from '../../api/client';
 import { 
   BookOpen, 
   Target, 
@@ -101,8 +102,7 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
     async function loadArtigos() {
       setLoadingArtigos(true);
       try {
-        const res = await fetch(`/api/leiseca/artigos?careerId=${careerId}`);
-        const data = await res.json();
+        const data = await api.getLeiSecaArtigos(careerId);
         if (data.artigos) setArtigos(data.artigos);
       } catch (err) {
         console.error('Erro ao carregar artigos de lei seca:', err);
@@ -118,8 +118,7 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
     async function loadSumulas() {
       setLoadingSumulas(true);
       try {
-        const res = await fetch(`/api/jurisprudencia/sumulas?careerId=${careerId}`);
-        const data = await res.json();
+        const data = await api.getJurisprudenciaSumulas(careerId);
         if (data.sumulas) setSumulas(data.sumulas);
       } catch (err) {
         console.error('Erro ao carregar súmulas:', err);
@@ -138,8 +137,7 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
     setJogoEncerrado(false);
     setTempoRestante(15);
     try {
-      const res = await fetch(`/api/leiseca/desafio?careerId=${careerId}`);
-      const data = await res.json();
+      const data = await api.getLeiSecaDesafio(careerId);
       setDesafio(data);
       setJogoIniciado(true);
     } catch (err) {
@@ -178,16 +176,12 @@ export const LeiSecaPage: React.FC<LeiSecaPageProps> = ({ careerId }) => {
 
     try {
       const tempoGasto = 15 - tempoRestante;
-      const res = await fetch('/api/leiseca/responder', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          desafioId: desafio.desafioId,
-          palavraSelecionada: palavra,
-          tempoGastoSegundos: tempoGasto
-        })
+      const data = await api.responderLeiSeca({
+        desafioId: desafio.desafioId,
+        palavraSelecionada: palavra,
+        tempoGastoSegundos: tempoGasto,
+        careerId
       });
-      const data = await res.json();
       setResultado(data);
       setTotalJogados(prev => prev + 1);
       if (data.acertou) {

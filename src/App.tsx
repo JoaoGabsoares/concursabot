@@ -16,6 +16,7 @@ import { LeiSecaPage } from './features/leiseca/LeiSecaPage';
 import { AproveitamentoPage } from './features/aproveitamento/AproveitamentoPage';
 import { EditalPage } from './features/edital/EditalPage';
 import { FlashcardsPage } from './features/flashcards/FlashcardsPage';
+import { CommunityPage } from './features/community/CommunityPage';
 import { SettingsPage } from './features/settings/SettingsPage';
 import { ToastProvider } from './components/Toast';
 
@@ -220,6 +221,10 @@ export const App: React.FC = () => {
 
             {activeTab === 'flashcards' && (
               <FlashcardsPage careerId={careerId} />
+            )}
+
+            {activeTab === 'comunidade' && (
+              <CommunityPage careerId={careerId} user={user} />
             )}
 
             {(activeTab === 'settings' || activeTab === 'settings_ajustes' || activeTab === 'settings_guia' || activeTab === 'settings_sobre') && (

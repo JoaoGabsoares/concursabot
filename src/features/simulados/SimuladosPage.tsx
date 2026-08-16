@@ -38,7 +38,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
     };
   });
 
-  const [modoProva, setModoModo] = useState<'treino_rapido' | 'dia_d'>('treino_rapido');
+  const [modoProva, setModoModo] = useState<'treino_rapido' | 'dia_d' | 'vulnerabilidades'>('treino_rapido');
   const [examRunning, setExamRunning] = useState(false);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [answers, setAnswers] = useState<{ [key: number]: string }>({});
@@ -177,11 +177,11 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
       {/* Tela Pré-Prova (Seleção de Modo) */}
       {!examRunning && !finished && (
         <div className="space-y-6">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
             {/* Modo 1: Treino Rápido */}
             <Card 
               className={`p-6 space-y-4 cursor-pointer transition-all border-2 ${
-                modoProva === 'treino_rapido' ? 'border-[var(--accent-primary)] bg-[var(--bg-surface)]' : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] opacity-75'
+                modoProva === 'treino_rapido' ? 'border-[var(--accent-primary)] bg-[var(--bg-surface)] shadow-md' : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] opacity-75'
               }`}
               onClick={() => setModoModo('treino_rapido')}
             >
@@ -190,7 +190,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                 <Clock className="w-5 h-5 text-[var(--accent-primary)]" />
               </div>
               <div>
-                <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
+                <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
                   Simulado Rápido de Treino
                 </h3>
                 <p className="text-xs text-[var(--text-secondary)] mt-1 leading-relaxed">
@@ -212,7 +212,42 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
               </div>
             </Card>
 
-            {/* Modo 2: Dia D de Prova */}
+            {/* Modo 2: Treino de Vulnerabilidades */}
+            <Card 
+              className={`p-6 space-y-4 cursor-pointer transition-all border-2 ${
+                modoProva === 'vulnerabilidades' ? 'border-rose-500 bg-[var(--bg-surface)] shadow-md' : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] opacity-75'
+              }`}
+              onClick={() => setModoModo('vulnerabilidades')}
+            >
+              <div className="flex items-center justify-between">
+                <Badge variant="danger">FOCO EM PONTOS FRACOS</Badge>
+                <AlertTriangle className="w-5 h-5 text-rose-500" />
+              </div>
+              <div>
+                <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+                  Radar de Vulnerabilidades
+                </h3>
+                <p className="text-xs text-[var(--text-secondary)] mt-1 leading-relaxed">
+                  Treino direcionado com base no seu <strong>Caderno de Erros</strong> e disciplinas de maior incidência da banca.
+                </p>
+              </div>
+              <div className="pt-2">
+                <Button 
+                  variant={modoProva === 'vulnerabilidades' ? 'brand' : 'outline'}
+                  fullWidth
+                  className={modoProva === 'vulnerabilidades' ? 'bg-rose-600 hover:bg-rose-700 text-white' : ''}
+                  onClick={() => {
+                    setModoModo('vulnerabilidades');
+                    setExamRunning(true);
+                    setSecondsElapsed(0);
+                  }}
+                >
+                  Iniciar Treino Crítico
+                </Button>
+              </div>
+            </Card>
+
+            {/* Modo 3: Dia D de Prova */}
             <Card 
               className={`p-6 space-y-4 cursor-pointer transition-all border-2 ${
                 modoProva === 'dia_d' ? 'border-amber-500 bg-[var(--bg-surface)] shadow-lg' : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] opacity-75'
@@ -224,11 +259,11 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                 <Award className="w-5 h-5 text-amber-500" />
               </div>
               <div>
-                <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
-                  Simulação Oficial: "Dia D de Prova"
+                <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+                  Simulação Oficial "Dia D"
                 </h3>
                 <p className="text-xs text-[var(--text-secondary)] mt-1 leading-relaxed">
-                  Condições reais de concurso: 4h00 contínuas, <strong>Folha de Respostas Digital (Cartão-Resposta)</strong> e <strong>Redação Discursiva</strong> no mesmo bloco.
+                  4h contínuas com <strong>Cartão-Resposta Digital</strong> e <strong>Redação Oficial</strong> no mesmo bloco.
                 </p>
               </div>
               <div className="pt-2">
@@ -242,7 +277,7 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
                     setSecondsRemainingDiaD(4 * 3600);
                   }}
                 >
-                  Iniciar Dia D de Prova (4h)
+                  Iniciar Dia D (4h)
                 </Button>
               </div>
             </Card>

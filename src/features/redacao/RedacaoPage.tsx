@@ -3,6 +3,7 @@ import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
 import { CAREER_ESSAY_THEMES } from '../../utils/studyContent';
 import { RedacaoCritique } from '../../types';
+import { api } from '../../api/client';
 
 interface RedacaoPageProps {
   careerId: string;
@@ -34,12 +35,7 @@ export const RedacaoPage: React.FC<RedacaoPageProps> = ({ careerId }) => {
 
     setLoading(true);
     try {
-      const res = await fetch('/api/redacao/corrigir', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ tema, texto, careerId: currentCareer.id })
-      });
-      const data = await res.json();
+      const data = await api.corrigirRedacao(tema, texto, currentCareer.id);
       setCritique(data);
     } catch (e: any) {
       alert("Erro ao conectar com a IA: " + e.message);

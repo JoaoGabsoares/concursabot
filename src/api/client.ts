@@ -39,8 +39,10 @@ export class ApiClient {
    */
   public async request<T>(endpoint: string, options: RequestInit = {}): Promise<T> {
     const token = this.getAuthToken();
+    const isFormData = typeof FormData !== 'undefined' && options.body instanceof FormData;
+    
     const headers: Record<string, string> = {
-      'Content-Type': 'application/json',
+      ...(isFormData ? {} : { 'Content-Type': 'application/json' }),
       ...(token ? { 'Authorization': `Bearer ${token}`, 'x-account-token': token } : {}),
       ...(options.headers as Record<string, string> || {})
     };
@@ -144,6 +146,10 @@ export class ApiClient {
     return this.request<DailyMission>(`/dashboard/stats${qs}`);
   }
 
+  public getDashboardStats(userId?: string, careerId?: string): Promise<any> {
+    return this.getDashboard(userId, careerId);
+  }
+
   public getGamification(userId?: string, careerId?: string): Promise<any> {
     const params = new URLSearchParams();
     if (userId) params.append('user_id', userId);
@@ -158,21 +164,54 @@ export class ApiClient {
     return this.request<{ materials: any[] }>(`/study-room/materials${qs}`);
   }
 
-  public updateBookmark(materialId: string, page: number): Promise<{ success: boolean }> {
+  public getStudyMaterials(careerId?: string): Promise<{ materials: any[] }> {
+    return this.getMaterials(careerId);
+  }
+
+  public uploadStudyMaterial(formData: FormData, userId?: string, careerId?: string): Promise<any> {
+    const params = new URLSearchParams();
+    if (userId) params.append('userId', userId);
+    if (careerId) params.append('careerId', careerId);
+    const qs = params.toString() ? `?${params.toString()}` : '';
+    return this.request<any>(`/study-room/upload${qs}`, {
+      method: 'POST',
+      body: formData
+    });
+  }
+
+  public registerStudy(data: { materialId?: number; subject?: string; lessonNumber?: number; minutes?: number; completed?: boolean; notes?: string; careerId?: string }): Promise<any> {
+    return this.request<any>('/study-room/register-study', {
+      method: 'POST',
+      body: JSON.stringify(data)
+    });
+  }
+
+  public updateBookmark(materialId: string | number, page: number): Promise<{ success: boolean }> {
     return this.request<{ success: boolean }>(`/study-room/materials/${materialId}/page`, {
       method: 'PUT',
       body: JSON.stringify({ page })
     });
   }
 
-  public getReadingPace(materialId: string, userId?: string): Promise<any> {
+  public getReadingPace(materialId: string | number, userId?: string): Promise<any> {
     const qs = userId ? `?user_id=${userId}` : '';
     return this.request<any>(`/study-room/materials/${materialId}/pace${qs}`);
   }
 
-  public deleteMaterial(materialId: string): Promise<{ success: boolean; message: string }> {
+  public deleteMaterial(materialId: string | number): Promise<{ success: boolean; message: string }> {
     return this.request<{ success: boolean; message: string }>(`/study-room/materials/${materialId}`, {
       method: 'DELETE'
+    });
+  }
+
+  public deleteStudyMaterial(materialId: string | number): Promise<{ success: boolean; message: string }> {
+    return this.deleteMaterial(materialId);
+  }
+
+  public generateNativeLesson(subject: string, lessonNumber: number, careerId: string): Promise<any> {
+    return this.request<any>('/study-room/generate-native-lesson', {
+      method: 'POST',
+      body: JSON.stringify({ subject, lesson_number: lessonNumber, career_id: careerId })
     });
   }
 
@@ -185,7 +224,7 @@ export class ApiClient {
     return this.request<{ questions: Question[] }>(`/questions?${params.toString()}`);
   }
 
-  public answerQuestion(questionId: string, selectedOption: string, isCorrect: boolean, careerId?: string): Promise<any> {
+  public answerQuestion(questionId: string | number, selectedOption: string, isCorrect: boolean, careerId?: string): Promise<any> {
     return this.request<any>('/questions/answer', {
       method: 'POST',
       body: JSON.stringify({ question_id: questionId, selected_option: selectedOption, is_correct: isCorrect, career_id: careerId })
@@ -210,16 +249,62 @@ export class ApiClient {
     });
   }
 
+  // --- MÓDULO DE LEI SECA & JURISPRUDÊNCIA ---
+  public getLeiSecaArtigos(careerId?: string): Promise<any> {
+    const qs = careerId ? `?careerId=${careerId}` : '';
+    return this.request<any>(`/leiseca/artigos${qs}`);
+  }
+
+  public getLeiSecaDesafio(careerId?: string, subject?: string): Promise<any> {
+    const params = new URLSearchParams();
+    if (careerId) params.append('careerId', careerId);
+    if (subject) params.append('subject', subject);
+    const qs = params.toString() ? `?${params.toString()}` : '';
+    return this.request<any>(`/leiseca/desafio${qs}`);
+  }
+
+  public responderLeiSeca(data: { desafio_id?: string; desafioId?: string; palavra_selecionada?: string; selected_word?: string; tempo_gasto?: number; response_time_sec?: number; career_id?: string; careerId?: string }): Promise<any> {
+    return this.request<any>('/leiseca/responder', {
+      method: 'POST',
+      body: JSON.stringify({
+        desafio_id: data.desafio_id || data.desafioId,
+        palavra_selecionada: data.palavra_selecionada || data.selected_word,
+        tempo_gasto: data.tempo_gasto || data.response_time_sec || 0,
+        career_id: data.career_id || data.careerId
+      })
+    });
+  }
+
+  public getJurisprudenciaSumulas(careerId?: string, search?: string): Promise<any> {
+    const params = new URLSearchParams();
+    if (careerId) params.append('careerId', careerId);
+    if (search) params.append('search', search);
+    const qs = params.toString() ? `?${params.toString()}` : '';
+    return this.request<any>(`/jurisprudencia/sumulas${qs}`);
+  }
+
+  // --- MÓDULO DE MATRIZ DE APROVEITAMENTO ---
+  public getAproveitamentoCatalogo(): Promise<any> {
+    return this.request<any>('/aproveitamento/catalogo');
+  }
+
+  public compararEditais(origem: string, destino: string): Promise<any> {
+    return this.request<any>('/aproveitamento/comparar', {
+      method: 'POST',
+      body: JSON.stringify({ origemCareerId: origem, destinoCareerId: destino })
+    });
+  }
+
   // --- MÓDULO DE REDAÇÃO DISCURSIVA (CORRETOR POR IA) ---
   public getRedacaoTemas(careerId?: string): Promise<any[]> {
     const qs = careerId ? `?careerId=${careerId}` : '';
     return this.request<any[]>(`/redacao/temas${qs}`);
   }
 
-  public corrigirRedacao(temaId: string, texto: string, careerId?: string): Promise<RedacaoCritique> {
+  public corrigirRedacao(tema: string, texto: string, careerId?: string): Promise<RedacaoCritique> {
     return this.request<RedacaoCritique>('/redacao/corrigir', {
       method: 'POST',
-      body: JSON.stringify({ tema_id: temaId, texto, career_id: careerId })
+      body: JSON.stringify({ tema, texto, careerId })
     });
   }
 
@@ -237,6 +322,51 @@ export class ApiClient {
   public getEditalRaioX(careerId?: string): Promise<any> {
     const qs = careerId ? `?career=${careerId}` : '';
     return this.request<any>(`/edital/raiox${qs}`);
+  }
+
+  // --- MÓDULO DE CADERNO DE ERROS (EXTENSÕES) ---
+  public retryErrorNotebook(id: number | string, selectedAnswer: number | string): Promise<any> {
+    return this.request<any>(`/caderno-erros/${id}/retry`, {
+      method: 'POST',
+      body: JSON.stringify({ selectedAnswer })
+    });
+  }
+
+  public updateErrorNotebookNotes(id: number | string, notes: string): Promise<any> {
+    return this.request<any>(`/caderno-erros/${id}/notes`, {
+      method: 'PUT',
+      body: JSON.stringify({ notes })
+    });
+  }
+
+  public deleteErrorNotebookItem(id: number | string): Promise<any> {
+    return this.request<any>(`/caderno-erros/${id}`, {
+      method: 'DELETE'
+    });
+  }
+
+  // --- MÓDULO DE COMUNIDADE & CHAT EM TEMPO REAL ---
+  public getCommunityChannels(careerId?: string): Promise<{ success: boolean; channels: any[] }> {
+    const qs = careerId ? `?careerId=${careerId}` : '';
+    return this.request<{ success: boolean; channels: any[] }>(`/community/channels${qs}`);
+  }
+
+  public getCommunityMessages(channelId: string, limit: number = 60): Promise<{ success: boolean; messages: any[] }> {
+    return this.request<{ success: boolean; messages: any[] }>(`/community/messages/${channelId}?limit=${limit}`);
+  }
+
+  public sendCommunityMessage(payload: { channelId: string; messageText: string; userName?: string; userAvatar?: string; careerBadge?: string; careerId?: string }): Promise<{ success: boolean; message: any }> {
+    return this.request<{ success: boolean; message: any }>('/community/messages', {
+      method: 'POST',
+      body: JSON.stringify(payload)
+    });
+  }
+
+  public reactCommunityMessage(messageId: number, emoji: string, channelId?: string): Promise<{ success: boolean; action: string; reactions: any[] }> {
+    return this.request<{ success: boolean; action: string; reactions: any[] }>(`/community/messages/${messageId}/react`, {
+      method: 'POST',
+      body: JSON.stringify({ emoji, channelId })
+    });
   }
 }
 

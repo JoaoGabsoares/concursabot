@@ -128,6 +128,7 @@ export type ActiveTab =
   | 'aproveitamento'
   | 'edital' 
   | 'flashcards' 
+  | 'comunidade'
   | 'settings'
   | 'settings_ajustes'
   | 'settings_guia'

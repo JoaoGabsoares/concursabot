@@ -179,4 +179,13 @@ A integridade estrutural da plataforma foi submetida a uma bateria completa com 
    - **Cálculo de Afinidade Curricular**: Algoritmo que compara duas carreiras e determina a sobreposição percentual de disciplinas e núcleos temáticos.
    - **Trilha de Transição Acelerada**: Roteiro ranqueado por peso no novo certame indicando matérias inéditas a estudar e estimativa de semanas para cobrir o gap.
 
+4. **💬 Comunidade & Salas de Estudo em Tempo Real (`/api/community`)**:
+   - **Arquitetura Baseada em SSE + SQLite**: Salas de estudo segregadas por certame (`#geral`, `#duvidas`, `#leiseca`, `#redacao`) com streaming de mensagens e reações emoji instantâneas sem polling.
+   - **Tutor IA Integrado (@GabaritoAI)**: Gatilho automático ao marcar `@GabaritoAI` ou `@Tutor` em dúvidas de matéria, acionando o Gemini Flash com persona de banca examinadora e citação direta de leis e jurisprudências.
+
+5. **📥 Exportador do Caderno de Erros (Anki CSV & Folha de Revisão Imprimível)**:
+   - **Exportação para Anki (`.CSV`)**: Estruturação automática de frente e verso compatível com Anki Desktop e AnkiMobile.
+   - **Folha Oficial de Revisão (Print / PDF)**: Formatação estilo Diário Oficial com gabarito fundamentado, anotações do aluno e caixas de checagem para ciclos de repetição espaçada (`[ ] D+1`, `[ ] D+7`, `[ ] D+30`).
+
+
 

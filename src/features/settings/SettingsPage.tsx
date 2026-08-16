@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
 import { useToast } from '../../components/Toast';
 import { UserProfile } from '../../types';
+import { api } from '../../api/client';
 import { Settings, BookOpen, Info, ShieldCheck, Download, Trash2, Key, UserCheck, Flame, Target, Trophy, Cpu } from 'lucide-react';
 
 interface SettingsPageProps {
@@ -51,10 +52,12 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser, 
   const handleResetProgress = async () => {
     if (confirm('Tem certeza de que deseja zerar seu XP e histórico de estudos para reiniciar do zero absoluto?')) {
       try {
-        await fetch(`/api/users/${user?.id || 'user_joao'}`, {
-          method: 'PUT',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ xp: 0, level: 1, streakDays: 0, todayQuestions: 0, todayMinutes: 0 })
+        await api.updateUserProfile(user?.id || 'user_joao', {
+          xp: 0,
+          level: 1,
+          streakDays: 0,
+          todayQuestions: 0,
+          todayMinutes: 0
         });
         localStorage.removeItem('CURRENT_USER_ID');
         success('Progresso Zerado!', 'Histórico resetado para 0 XP com sucesso.');

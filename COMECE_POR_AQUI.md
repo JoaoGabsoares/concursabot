@@ -86,7 +86,12 @@ O **Gabarito.AI** é uma plataforma web full-stack de alto desempenho focada na 
 - Fila de re-treino com algoritmo **SuperMemo-2 (SM-2)**: Intervalos D+1, D+7, D+30.
 - Ao acertar uma questão pendente, evolui para status `mastered` com bônus de **+15 XP de superação**.
 
-### 8. 🔒 Autenticação, Isolamento e Gamificação
+### 8. 💬 Comunidade & Salas de Estudo em Tempo Real (`/api/community`)
+- Canais segregados por carreira (`#geral`, `#duvidas`, `#leiseca`, `#redacao`) com streaming contínuo via Server-Sent Events (SSE).
+- Reações emoji persistentes e instantâneas (`💡`, `🔥`, `✅`, `❤️`).
+- Tutor IA (@GabaritoAI / @Tutor) integrado diretamente no chat para esclarecimento imediato de dúvidas e pegadinhas de bancas.
+
+### 9. 🔒 Autenticação, Isolamento e Gamificação
 - Novas contas iniciam rigorosamente com **0 XP, Level 1 Aspirante (0/500 XP), 0 simulados, 0 pendências no caderno de erros e histórico limpo**.
 - Limite estrito de no máximo **3 perfis de concurseiro por conta de usuário**.
 - Isolamento hermético de dados: Atividades, matérias e pontuações de uma conta nunca vazam para outra.
@@ -112,11 +117,12 @@ CONCURSO_BOT/
 │   ├── routes/                     # Endpoints REST modulares
 │   │   ├── auth.js                 # Registro, login e validação de tokens Scrypt
 │   │   ├── users.js                # Gestão de perfis e troca de carreira ativa
+│   │   ├── community.js            # Canais de chat SSE e menção ao Tutor IA
 │   │   ├── leiseca.js              # Artigos de ouro e Caça-Pegadinhas da Lei Seca
 │   │   ├── jurisprudencia.js       # Súmulas Vinculantes e teses dos tribunais
 │   │   ├── aproveitamento.js       # Matriz de transição e cálculo de afinidade
 │   │   ├── redacao.js              # Temas e corretor de discursiva com espelho
-│   │   ├── caderno-erros.js        # Gestão de erros e repetição espaçada SM-2
+│   │   ├── caderno-erros.js        # Gestão de erros, Anki export e repetição SM-2
 │   │   ├── study-room.js           # Catálogo de aulas, marca-página e ritmo WPM
 │   │   └── dashboard.js            # Métricas e radar de domínio do edital
 │   └── seeds/                      # Cargas iniciais de questões e dados oficiais
@@ -129,20 +135,21 @@ CONCURSO_BOT/
 │   ├── components/                 # Primitivas de UI (Card, Button, Badge, Modal, etc.)
 │   └── features/                   # Páginas modulares
 │       ├── dashboard/              # Dashboard principal mission-driven
-│       ├── study/                  # Sala de Estudos & Leitor de Doutrina
-│       ├── simulados/              # Simulados Rápidos & Modo Dia D de Prova
-│       ├── erros/                  # Caderno de Erros com Repetição Espaçada
+│       ├── study-room/             # Sala de Estudos & Leitor de Doutrina
+│       ├── simulados/              # Simulados Rápidos, Vulnerabilidades & Modo Dia D
+│       ├── error-notebook/         # Caderno de Erros com Anki CSV & Folha Impressa
 │       ├── redacao/                # Corretor Discursivo com Espelho Oficial
 │       ├── leiseca/                # Lei Seca Ativa & Súmulas dos Tribunais
 │       ├── aproveitamento/         # Matriz de Transição e Afinidade de Editais
 │       ├── edital/                 # Raio-X do Edital (Princípio de Pareto 80/20)
 │       ├── flashcards/             # Decks de Flashcards com algoritmo SM-2
+│       ├── community/              # Comunidade em Tempo Real com Tutor IA
 │       └── settings/               # Ajustes de cadência, perfil e guia de estudo
 │
 └── tests/                          # Suíte de Testes Automatizados
-    ├── run_all.js                  # Runner principal de testes (`npm test`)
+    ├── run_all.js                  # Runner principal de testes (`npm test`) com auto-spawn
     ├── unit/                       # Testes unitários do parser de PDFs
-    ├── integration/                # Testes de integração de rotas e isolamento
+    ├── integration/                # Testes de integração (Auth, Cadência, Lei Seca, Comunidade)
     └── security/                   # Testes de segurança OWASP (SQLi, XSS, rate limit)
 ```
 

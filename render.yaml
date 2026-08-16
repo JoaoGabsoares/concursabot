@@ -4,7 +4,7 @@ services:
     runtime: node
     plan: free
     region: oregon
-    buildCommand: npm install && node server/ensure-native.js
+    buildCommand: npm install && npm run build
     startCommand: npm start
     autoDeploy: true
     envVars:

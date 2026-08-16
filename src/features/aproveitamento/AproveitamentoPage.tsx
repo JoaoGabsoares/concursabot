@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Card, Button, Badge, CarimboStatus, ProgressBar } from '../../components/UIPrimitives';
+import { api } from '../../api/client';
 import { 
   GitCompare, 
   ArrowRight, 
@@ -61,15 +62,7 @@ export const AproveitamentoPage: React.FC<AproveitamentoPageProps> = ({ careerId
   const handleComparar = async (origem: string, destino: string) => {
     setLoading(true);
     try {
-      const res = await fetch('/api/aproveitamento/comparar', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          origemCareerId: origem,
-          destinoCareerId: destino
-        })
-      });
-      const data = await res.json();
+      const data = await api.compararEditais(origem, destino);
       setResultado(data);
     } catch (err) {
       console.error('Erro ao comparar editais:', err);
