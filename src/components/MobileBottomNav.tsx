@@ -23,7 +23,7 @@ export const MobileBottomNav: React.FC<MobileBottomNavProps> = ({
   return (
     <nav 
       aria-label="Navegação móvel inferior"
-      className="lg:hidden fixed bottom-0 left-0 right-0 z-40 bg-[var(--bg-surface)] border-t border-[var(--border-subtle)] px-2 py-1 select-none font-sans"
+      className="lg:hidden fixed bottom-0 left-0 right-0 z-40 bg-[var(--bg-surface)] border-t border-[var(--border-subtle)] px-2 py-1.5 select-none font-sans shadow-lg"
     >
       <div className="flex items-center justify-around max-w-md mx-auto">
         {tabs.map((tab) => {
@@ -33,15 +33,15 @@ export const MobileBottomNav: React.FC<MobileBottomNavProps> = ({
             <button
               key={tab.id}
               onClick={() => onNavigate(tab.id)}
-              className={`relative flex items-center justify-center py-2 px-3 rounded text-xs transition-colors select-none ${
+              className={`relative flex items-center justify-center min-h-[44px] py-2 px-3.5 rounded-lg text-xs sm:text-sm font-semibold transition-all select-none ${
                 isActive
                   ? 'text-[var(--accent-primary)] font-bold bg-[var(--accent-primary-glow)] border-b-2 border-[var(--accent-primary)]'
-                  : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+                  : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
               }`}
             >
               <span>{tab.label}</span>
               {tab.badge && tab.badge > 0 ? (
-                <span className="ml-1 font-mono text-[10px] font-bold text-[var(--accent-danger)]">
+                <span className="ml-1.5 font-mono text-xs font-bold text-[var(--accent-danger)]">
                   [{tab.badge}]
                 </span>
               ) : null}
