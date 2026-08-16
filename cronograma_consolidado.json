@@ -1,0 +1,1480 @@
+{
+  "Administração Financeira": {
+    "total_aulas": 5,
+    "total_arquivos_pdf": 16,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Administração financeira de curto prazo - orçamentação"
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Princípios Básicos para Análise de Balanços"
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Conceitos de Administração Financeira de Longo Prazo"
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Exercícios FGV"
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Exercícios de revisão diversos"
+      }
+    ]
+  },
+  "Administração Geral": {
+    "total_aulas": 21,
+    "total_arquivos_pdf": 238,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "O processo administrativo. Funções de administração: planejamento, organização, direção e controle. Papéis e habilidades do administrador."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Teoria da administração e das organizações."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Planejamento estratégico: conceitos, princípios, etapas, níveis, métodos e ferramentas. Planejamento tático. Planejamento operacional. Administração por objetivos. Balanced scorecard. (Parte  I)"
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Planejamento estratégico: conceitos, princípios, etapas, níveis, métodos e ferramentas. Planejamento tático. Planejamento operacional. Administração por objetivos. Balanced scorecard. (Parte  II)"
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Organização: princípios de organização; estrutura organizacional; departamentalização; centralização e  descentralização."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Função direção. Liderança."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Motivação."
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Comunicação."
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Controle: tipos de controle; sistemas de controle. Indicadores de Desempenho.  Tipo. Variáveis."
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Comportamento organizacional: cultura  organizacional."
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Processo decisório: tipos de decisões; decisão racional; heurísticas; ferramentas  de apoio à decisão."
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "Gestão de processos. Conceitos da abordagem por processos. Técnicas de mapeamento, análise e melhoria de processos. Noções de estatística aplicada ao controle e à melhoria de processos. BPM."
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Gestão de projetos: modelos, etapas, elaboração, técnicas de análise e avaliação de projetos."
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Gestão da qualidade e modelo de excelência gerencial: principais teóricos e suas contribuições para a gestão da qualidade; ferramentas de gestão da  qualidade."
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "Equipes de trabalho."
+      },
+      {
+        "lesson": "Aula 16",
+        "title": "Gestão de pessoas: evolução; conceitos básicos; abordagem estratégica; indicadores de gestão de pessoas."
+      },
+      {
+        "lesson": "Aula 17",
+        "title": "Gestão do desempenho: visão geral e conceitos básicos; relação com os demais processos de gestão de pessoas; métodos."
+      },
+      {
+        "lesson": "Aula 18",
+        "title": "Gestão por competências."
+      },
+      {
+        "lesson": "Aula 19",
+        "title": "Recrutamento e seleção de pessoas: visão geral e conceitos básicos; relação com os demais processos de gestão de pessoas; recrutamento interno e externo; técnicas de recrutamento e seleção."
+      },
+      {
+        "lesson": "Aula 20",
+        "title": "Treinamento e desenvolvimento: visão geral e conceitos básicos; relação com os demais processos de gestão de pessoas; métodos; avaliação de programas de treinamento e desenvolvimento."
+      },
+      {
+        "lesson": "Aula 21",
+        "title": "Análise e descrição de cargos."
+      }
+    ]
+  },
+  "Administração Pública": {
+    "total_aulas": 18,
+    "total_arquivos_pdf": 155,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "As reformas administrativas e a redefinição do papel do Estado; reforma do serviço civil (mérito, flexibilidade e responsabilização) e reforma do aparelho do Estado. Administração Pública: do modelo racional-legal ao paradigma pós- burocrático; o Estado oligárquico e patrimonial, o Estado autoritário e burocrático, o Estado do bem-estar, o Estado regulador. (Parte I)"
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "As reformas administrativas e a redefinição do papel do Estado; reforma do serviço civil (mérito, flexibilidade e responsabilização) e reforma do aparelho do Estado. Administração Pública: do modelo racional-legal ao paradigma pós- burocrático; o Estado oligárquico e patrimonial, o Estado autoritário e burocrático, o Estado do bem-estar, o Estado regulador. (Parte II)"
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Accountability. Governança Pública. Conceitos fundamentais. Princípios, diretrizes e níveis de análise. Sistema de governança. Práticas de governança."
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Transparência da administração pública; controle social e cidadania"
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Governo eletrônico."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Gestão por resultados na produção de  serviços públicos."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Gestão por resultados na produção de serviços públicos. (Empreendedorismo  governamental)"
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Governança (Intermediação de Interesses)"
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Processos participativos de gestão pública: conselhos de gestão, orçamento participativo, parceria entre governo e  sociedade."
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Mudanças institucionais: conselhos, organizações sociais, organização da sociedade civil de interesse público (OSCIP), agência reguladora, agência executiva, consórcios públicos."
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Processo de formulação e desenvolvimento de políticas: construção de agendas, formulação de políticas, implementação de políticas, financiamento de políticas públicas, indicadores de desempenho de políticas públicas. Tipos de avaliação. Análise custo benefício e análise custo-  efetividade."
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "As políticas públicas no Estado brasileiro contemporâneo; descentralização e democracia; participação, atores sociais e controle social; gestão local, cidadania e  equidade social."
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Conceitos básicos de planejamento. Aspectos administrativos, técnicos, econômicos e financeiros. Planejamento nas políticas públicas. (Parte I)"
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Conceitos básicos de planejamento. Aspectos administrativos, técnicos, econômicos e financeiros. Planejamento nas políticas públicas. (Parte II)"
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "Comunicação na gestão pública e gestão de redes organizacionais."
+      },
+      {
+        "lesson": "Aula 16",
+        "title": "Avaliação nas políticas públicas. (Controle  e Avaliação)"
+      },
+      {
+        "lesson": "Aula 17",
+        "title": "Gestão de projetos. Elaboração, análise e avaliação de projetos. Formulação de programas e projetos. Avaliação de programas e projetos."
+      },
+      {
+        "lesson": "Aula 18",
+        "title": "Administração de pessoal. (Objetivos, desafios e características da Gestão de  Pessoas)"
+      }
+    ]
+  },
+  "Administração de Compras e Materiais": {
+    "total_aulas": 9,
+    "total_arquivos_pdf": 250,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Administração de Recursos Materiais: Administração de Recursos; Objetivos e Atribuições de Administração de Materiais; Integração em Administração de Recursos Materiais; Nível de Serviço e Medidas de Desempenho; Ética em Administração de Materiais; Tendências em Administração de Recursos Materiais."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Classificação de Materiais: Conceitos e Objetivos da Classificação; Atributos para a Classificação; Princípios Básicos da Classificação; Tipos de Classificação; Etapas da Classificação; Codificação de Materiais."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Compras: Objetivos e Organização de Compras; Operações de Compras; Lotes de Compras; Fornecedores; Estratégias de Compras; Compras no Setor Público; Contratos Administrativos (Tipos de Contrato. Gestor de Contratos. Diligenciamento e follow-up. Contratos Administrativos no Setor Público)."
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Conceitos de Estoques: Conceitos e Importância dos Estoques; Objetivos dos Estoques; Previsão de Estoques (Formas e cálculos de previsão de estoques. Previsão de Consumo. Tipos de Consumo); Previsão de Demanda; Níveis de Estoques; Tipos de Estoques; Custos dos Estoques."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Gestão de Estoques: Sistemas de Controle de Estoques; Inventários (IN 205/1998). Inventário Físico; Fases do Inventário; Indicadores de Estoques; Avaliação de Estoques; Curva ABC e metodologia de cálculo; Políticas de Estoque Zero: Just in Time e Kanban."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Armazenagem e Movimentação: Administração de Almoxarifados; Recebimento de Materiais; Entrada de material. Portaria e Almoxarifado. Conferência Quantitativa. Conferência Qualitativa. Inspeção; Regularização; Embalagens; Estocagem / Armazenagem; Layout; Movimentação."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Transportes e Distribuição: Conceitos Gerais de Transportes; Modais de Transporte; Distribuição Física; Canais de Distribuição e Atendimento; Custos de Distribuição; Roteirização; Sistemas de Gerenciamento de Transporte – TMS; Fator de Estiva."
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Logística e Supply Chain Management: Abordagem Logística; Logística Sustentável; Supply Chain Management; Globalização e Tendências Logísticas; Sistemas de Rastreamento (Código de Barras, RFID e GPS)."
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Dezenas de Questões FGV de Administração de Materiais resolvidas e comentadas em videoaulas."
+      }
+    ]
+  },
+  "Contabilidade Geral - Prof. Gilmar Possati": {
+    "total_aulas": 27,
+    "total_arquivos_pdf": 256,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Contabilidade: Conceito, objeto, objetivos/finalidade, campo de atuação e usuários da informação contábil."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Patrimônio. Componentes patrimoniais: ativo, passivo e patrimônio líquido."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Contas. Patrimoniais e de resultado. Teoria das contas."
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Fatos contábeis e respectivas variações patrimoniais."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Escrituração Contábil. Lançamento Contábil. Livros Contábeis. Balancete de Verificação."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Demonstrações Contábeis: Aspectos Gerais. Balanço Patrimonial."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Demonstração do Resultado do Exercício. Apuração do Resultado do Exercício"
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Operações com Mercadorias"
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Reservas e Dividendos"
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Demonstração de Lucros ou Prejuízos Acumulados"
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Demonstração de Mutações do Patrimônio Líquido"
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "Apresentação das Demonstrações Contábeis (CPC 26). DRA.  Notas explicativas."
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Demonstração dos Fluxos de Caixa (CPC 03)"
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Demonstração do Valor Adicionado (CPC 09)"
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "Estoques. Tipos de inventários. Critérios e métodos de Avaliação (PEPS, UEPS e custo médio). Avaliação de Estoques."
+      },
+      {
+        "lesson": "Aula 16",
+        "title": "Estrutura Conceitual (CPC 00 – R2)"
+      },
+      {
+        "lesson": "Aula 17",
+        "title": "Princípios de Contabilidade. Regimes Contábeis (competência e caixa)"
+      },
+      {
+        "lesson": "Aula 18",
+        "title": "Tópicos Selecionados da Lei 6.404/76"
+      },
+      {
+        "lesson": "Aula 19",
+        "title": "Estoques (CPC 16)"
+      },
+      {
+        "lesson": "Aula 20",
+        "title": "Ativo Imobilizado (CPC 27). Depreciação"
+      },
+      {
+        "lesson": "Aula 21",
+        "title": "Ativos Intangíveis (CPC 04). Amortização."
+      },
+      {
+        "lesson": "Aula 22",
+        "title": "Redução ao Valor Recuperável de Ativos (CPC 01). Teste de Recuperabilidade. Impairment"
+      },
+      {
+        "lesson": "Aula 23",
+        "title": "Provisões, Passivos Contingentes e Ativos Contingentes (CPC 25)"
+      },
+      {
+        "lesson": "Aula 24",
+        "title": "Propriedade para Investimento (CPC 28)"
+      },
+      {
+        "lesson": "Aula 25",
+        "title": "Ativo Não Circulante Mantido para Venda (CPC 31)"
+      },
+      {
+        "lesson": "Aula 26",
+        "title": "Investimentos em Controladas e Coligadas (CPC 18)"
+      },
+      {
+        "lesson": "Aula 27",
+        "title": "Receita de Contrato com Cliente (CPC 47)"
+      }
+    ]
+  },
+  "Contabilidade Geral - Profs. Júlio Cardozo, Luciano Rosa e": {
+    "total_aulas": 29,
+    "total_arquivos_pdf": 202,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Contabilidade Geral: 1. Contabilidade. Conceito, objeto, objetivos, campo de atuação e usuários da informação contábil"
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "3. Conceitos, forma de avaliação, evidenciação, natureza, espécie e estrutura. 4. Atos e fatos administrativos. 10. Fatos contábeis. Permutativos, modificativos e mistos. 11. Itens Patrimoniais. Conteúdo, conceitos, estrutura, formas de avaliação e classificação dos itens patrimoniais do ativo, do passivo e do patrimônio líquido."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "3. Conceitos, forma de avaliação, evidenciação, natureza, espécie e estrutura. 4. Atos e fatos administrativos. 10. Fatos contábeis. Permutativos, modificativos e mistos. 11. Itens Patrimoniais. Conteúdo, conceitos, estrutura, formas de avaliação e classificação dos itens patrimoniais do ativo, do passivo e do patrimônio líquido. Parte II"
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "5. Livros contábeis obrigatórios e documentação contábil. 9. Escrituração contábil. Lançamentos contábeis; contas patrimoniais, resultado"
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "5. Livros contábeis obrigatórios e documentação contábil. 9. Escrituração contábil. Lançamentos contábeis; contas patrimoniais, resultado Parte II"
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "6. Variação do patrimônio líquido. Receita, despesa, ganhos e perdas. 7. Apuração dos resultados. 8. Regimes de apuração. Caixa e competência."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "11. Itens Patrimoniais. Conteúdo, conceitos, estrutura, formas de avaliação e classificação dos itens patrimoniais do ativo, do passivo e do patrimônio líquido. 12. Demonstrações contábeis. Balanço patrimonial – Ativo Circulante. 14. Ajustes, classificações e avaliações dos itens patrimoniais exigidos pelas novas práticas contábeis adotadas no Brasil trazidas pela Lei Federal nº 11.638/07 e suas alterações e Lei Federal nº 11.941/09 e suas alterações."
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "12. Demonstrações contábeis. Balanço patrimonial – Estoques. 15. Estoques. Tipos de inventários, critérios e métodos de avaliação. 16. Apuração do custo das mercadorias vendidas, tratamento contábil dos tributos incidentes em operações de compras e vendas."
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "12. Demonstrações contábeis. Balanço patrimonial – Ativo Não Circulante"
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "12. Demonstrações contábeis. Balanço patrimonial – Ativo Imobilizado."
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "12. Demonstrações contábeis. Balanço patrimonial – Passivo"
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "12. Demonstrações contábeis. Balanço patrimonial – Operações Diversas"
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "12. Demonstrações contábeis. Balanço patrimonial – Patrimônio Líquido Parte I"
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "12. Demonstrações contábeis. Balanço patrimonial – – Patrimônio Líquido Parte II. 13. Notas explicativas às demonstrações contábeis. Conteúdo, forma de apresentação e exigências legais de informações. 14. Ajustes, classificações e avaliações dos itens patrimoniais exigidos pelas novas práticas contábeis adotadas no Brasil trazidas pela Lei Federal nº 11.638/07 e suas alterações e Lei Federal nº 11.941/09 e suas alterações."
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "12. Demonstrações contábeis. demonstração do resultado do exercício,"
+      },
+      {
+        "lesson": "Aula 16",
+        "title": "12. Demonstrações contábeis. demonstração de lucros ou prejuízos acumulados, demonstração das mutações do patrimônio líquido,"
+      },
+      {
+        "lesson": "Aula 17",
+        "title": "12. Demonstrações contábeis. demonstração dos fluxos de caixa"
+      },
+      {
+        "lesson": "Aula 18",
+        "title": "12. Demonstrações contábeis. demonstração do valor adicionado."
+      },
+      {
+        "lesson": "Aula 19",
+        "title": "2. Princípios emanadas pelo Conselho Federal de Contabilidade (CFC)."
+      },
+      {
+        "lesson": "Aula 20",
+        "title": "2. Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade (CFC): CPC 00 (R2) - Estrutura Conceitual para Relatório Financeiro"
+      },
+      {
+        "lesson": "Aula 21",
+        "title": "2. Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade (CFC): CPC 01 (R1) - Redução ao Valor Recuperável de Ativos"
+      },
+      {
+        "lesson": "Aula 22",
+        "title": "2. Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade (CFC): CPC 04 (R1) - Ativo Intangível"
+      },
+      {
+        "lesson": "Aula 23",
+        "title": "2. Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade (CFC): CPC 25 - Provisões, Passivos Contingentes e Ativos Contingentes"
+      },
+      {
+        "lesson": "Aula 24",
+        "title": "2. Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade (CFC): CPC 26 (R1) - Apresentação das Demonstrações Contábeis"
+      },
+      {
+        "lesson": "Aula 25",
+        "title": "2. Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade (CFC): CPC 27 - Ativo Imobilizado"
+      },
+      {
+        "lesson": "Aula 26",
+        "title": "2. Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade (CFC): CPC 32 - Tributos sobre o Lucro"
+      },
+      {
+        "lesson": "Aula 27",
+        "title": "2. Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade (CFC): CPC 47 - Receita de Contrato com Cliente"
+      },
+      {
+        "lesson": "Aula 28",
+        "title": "TRT-13 - Contador: Prova Comentada"
+      },
+      {
+        "lesson": "Aula 29",
+        "title": "CGE-SC: Prova Comentada"
+      }
+    ]
+  },
+  "Direito Administrativo": {
+    "total_aulas": 22,
+    "total_arquivos_pdf": 213,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Apresentação do curso.  Administração pública: princípios básicos."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Poderes administrativos: poder hierárquico, poder disciplinar, poder regulamentar, poder de polícia, uso e abuso do poder."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Ato administrativo: conceito, requisitos e atributos; discricionariedade e vinculação."
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Ato administrativo: anulação, revogação e convalidação."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Organização administrativa: administração direta e indireta; centralizada e descentralizada; autarquias, fundações, empresas públicas, sociedades de economia mista. Órgãos públicos: conceito, natureza e classificação."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Consórcios públicos (Lei nº 11.107/2005)."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Terceiro Setor: Entes paraestatais. Mudanças institucionais: conselhos, organizações sociais, organização da sociedade civil de interesse público (OSCIP), agência reguladora e agência executiva."
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Servidores públicos: cargo, emprego e função públicos."
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Lei nº 8.112/1990 (Regime Jurídico dos Servidores Públicos Civis da União e alterações): disposições preliminares; provimento, vacância, remoção, redistribuição e substituição; direito de petição; regime disciplinar: deveres e proibições, acumulação, responsabilidades, penalidade; processo administrativo disciplinar."
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Nova Lei de Licitações e Contratos da Administração Pública (Lei nº 14.133/2021) – Parte I."
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Nova Lei de Licitações e Contratos da Administração Pública (Lei nº 14.133/2021) – Parte II."
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "Contratos administrativos à luz da Lei 14.133/2021"
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Serviços públicos. Conceito, pressupostos constitucionais, regime jurídico, princípios do serviço público, usuário, titularidade. Delegação de serviço público: autorização, permissão e concessão."
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Processo administrativo (Lei nº 9.784/1999)."
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "Reponsabilidade extracontratual do Estado."
+      },
+      {
+        "lesson": "Aula 16",
+        "title": "Controle e responsabilização da administração: controle administrativo; controle judicial; controle legislativo."
+      },
+      {
+        "lesson": "Aula 17",
+        "title": "Improbidade Administrativa (Lei nº 8.429/1992)."
+      },
+      {
+        "lesson": "Aula 18",
+        "title": "Bens públicos: regime jurídico, classificação, administração, aquisição e alienação, utilização por terceiros: autorização de uso, permissão de uso, concessão de uso, concessão de direito real de uso e cessão de uso."
+      },
+      {
+        "lesson": "Aula 19",
+        "title": "Intervenção do Estado na propriedade: desapropriação, servidão administrativa, tombamento, requisição administrativa, ocupação temporária, limitação administrativa."
+      },
+      {
+        "lesson": "Aula 20",
+        "title": "Lei Federal nº 12.527/2011 e suas alterações (Lei de Acesso à Informação). Lei Complementar nº 131/2009 (Lei da Transparência)."
+      },
+      {
+        "lesson": "Aula 21",
+        "title": "Lei Geral de Proteção a Dados (Lei nº 13.709/2018)"
+      },
+      {
+        "lesson": "Aula 22",
+        "title": "Revisao acelerada em videoaulas."
+      }
+    ]
+  },
+  "Direito Constitucional (Prof. João Trindade)": {
+    "total_aulas": 17,
+    "total_arquivos_pdf": 50,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Teoria da Constituição - Constituição: conceito, classificações, normas constitucionais"
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Poder Constituinte - Poder constituinte originário, derivado e suas espécies"
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Princípios Fundamentais - Título I da CF. Teoria dos princípios. Fundamentos, objetivos fundamentais, princípios das relações internacionais, separação de poderes, forma de governo, sistema de governo, forma de estado"
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Teoria Geral dos Direitos Fundamentais - Teoria dos direitos fundamentais: conceito, fundamentos, características, titularidade, aplicação, tratados internacionais de direitos humanos, fontes dos direitos fundamentais, restrições"
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Direitos Individuais e coletivos - Art. 5º da CF, parte 1: direitos à vida, liberdade, igualdade, segurança, propriedade e privacidade"
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Garantias individuais e coletivas - Garantias processuais gerais, garantias penais, remédios constitucionais"
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Direitos sociais e de nacionalidade - Direitos sociais e direitos de nacionalidade"
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Direitos Políticos e Partidos Políticos - Direitos Políticos posivitos e negativos, ativos e passivos. Normas constitucionais sobre partidos políticos"
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Organização do Estado (parte geral) - Organização político-administrativa. Entes federativos. Bens Públicos. Intervenção"
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Repartição de competências federativas - Repartição de competências federativas: teoria e casuística"
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Poder Legislativo (parte geral) - Poder Legislativo na CF. Congresso Nacional e suas casas. Estatuto dos parlamentares. CPIs. Fiscalização contábil e financeira."
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "Processo Legislativo - Processo constitucional de formação das leis (arts. 59 a 69 da CF)"
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Poder Executivo - Poder Executivo na CF."
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Poder Judiciário (parte geral) - Disposições gerais sobre o Poder Judiciário na CF (arts. 92 a 100)"
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "Competências do Poder Judiciário - Regras sobre distribuição de competências entre os órgãos jurisdicionais"
+      },
+      {
+        "lesson": "Aula 16",
+        "title": "Funções essenciais à Justiça - Funções essenciais à Justiça: Ministério Público, Defensoria Pública, Advocacia Pública e Advocacia Privada"
+      },
+      {
+        "lesson": "Aula 17",
+        "title": "Controle de constitucionalidade - Controle de constitucionalidade das leis e atos normativos. Espécies de controles de validade. Espécies de inconstitucionalidade. Sistemas de controle. Controle no Brasil: difuso e concentrado. Ações de controle concentrado. Efeitos das decisões em controle de constitucionalidade"
+      }
+    ]
+  },
+  "Direito Constitucional": {
+    "total_aulas": 23,
+    "total_arquivos_pdf": 323,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Teoria Geral da Constituição. Conceito. Origens. Conteúdo. Estrutura. Classificação. Supremacia da Constituição. Tipos de Constituição. Poder Constituinte. Normas constitucionais e inconstitucionais. Hierarquia das normas jurídicas."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Os princípios constitucionais. Constituição. Interpretação. Dos princípios fundamentais da Constituição da República Federativa do Brasil. Teoria Geral dos Direitos Fundamentais."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Dos direitos e garantias fundamentais: Direitos e deveres individuais e coletivos - Parte I."
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Dos direitos e garantias fundamentais: Direitos e deveres individuais e coletivos - Parte II."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Dos direitos e garantias fundamentais: Direitos sociais."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Dos direitos e garantias fundamentais: Direitos de nacionalidade."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Dos direitos e garantias fundamentais: Direitos políticos."
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Dos direitos e garantias fundamentais: Partidos políticos."
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Teoria Geral do Estado. Da organização do Estado político-administrativo."
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Da Administração Pública. Dos servidores públicos civis."
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Os poderes do Estado e as respectivas funções: Poder Legislativo. A fiscalização contábil, financeira e orçamentária. O Controle Externo e os Sistemas de Controle Interno. Tribunal de Contas da União."
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "Os poderes do Estado e as respectivas funções: Processo Legislativo. Emenda, reforma e revisão constitucional."
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Os poderes do Estado e as respectivas funções: Poder Executivo. O Presidente e o Vice-Presidente da República. As atribuições do Presidente da República. A responsabilidade do Presidente da República. Os Ministros de Estado."
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Os poderes do Estado e as respectivas funções: Poder Judiciário. Competência dos tribunais. Disposições Gerais. O Supremo Tribunal Federal. O Superior Tribunal de Justiça."
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "O Ministério Público."
+      },
+      {
+        "lesson": "Aula 16",
+        "title": "A defesa do Estado e das instituições democráticas."
+      },
+      {
+        "lesson": "Aula 17",
+        "title": "Da tributação e do orçamento: Sistema Tributário Nacional."
+      },
+      {
+        "lesson": "Aula 18",
+        "title": "Da tributação e do orçamento: Das finanças públicas. Do orçamento."
+      },
+      {
+        "lesson": "Aula 19",
+        "title": "Da ordem econômica e financeira."
+      },
+      {
+        "lesson": "Aula 20",
+        "title": "Da ordem social."
+      },
+      {
+        "lesson": "Aula 21",
+        "title": "Das disposições gerais e das disposições constitucionais transitórias."
+      },
+      {
+        "lesson": "Aula 22",
+        "title": "Controle de constitucionalidade. Efeitos da decisão no controle de constitucionalidade."
+      },
+      {
+        "lesson": "Aula 23",
+        "title": "Últimas provas comentadas - FGV"
+      }
+    ]
+  },
+  "Direito Previdenciário - Prof. Rubens Maurício": {
+    "total_aulas": 11,
+    "total_arquivos_pdf": 120,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Seguridade Social. Aspectos teóricos e conceituais da Seguridade Social e Previdência Social. Conceituação. Organização e princípios constitucionais."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Regime Geral de Previdência Social. Princípios e objetivos. O Conselho Nacional de Previdência Social (CNPS). Segurados obrigatórios. Filiação e inscrição. Conceito, características e abrangência: empregado, empregado doméstico, contribuinte individual, trabalhador avulso e segurado especial. Segurado facultativo: conceito, características, filiação e inscrição. Trabalhadores excluídos do Regime Geral."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Empresa e empregador doméstico: conceito previdenciário. Financiamento da Seguridade Social. Receitas da União.  Receitas das contribuições sociais: dos segurados, das empresas. Contribuições inferiores ao salário mínimo e complementação de contribuições. Salário-base: enquadramento, fracionamento, progressão e regressão. Proporcionalidade. Reajustamento. Questão do equilíbrio financeiro da Previdência Social."
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Receitas das contribuições sociais do empregador doméstico. Receitas das contribuições sociais do produtor rural, do clube de futebol profissional, sobre a receita de concursos de prognósticos e receitas de outras fontes."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Salário-de-contribuição. Conceito. Parcelas integrantes e parcelas não-integrantes.  Limites mínimo e máximo. Reajustamento."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Arrecadação e recolhimento das contribuições destinadas à Seguridade Social. Obrigações da empresa e demais contribuintes. Prazo de recolhimento. Recolhimento fora do prazo: juros, multa e atualização monetária. Obrigações acessórias. Retenção e responsabilidade solidária: conceitos, natureza jurídica e características. Aplicação na construção civil, na cessão de mão de obra e em grupo econômico."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Depententes (RGPS)"
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Manutenção, perda e restabelecimento da qualidade de segurado"
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Legislação previdenciária. Conteúdo, fontes, autonomia. Aplicação das normas previdenciárias. Vigência, hierarquia, interpretação e integração. Isenções e parcelamentos de contribuições: requisitos, manutenção e perda. Problemas estruturais da Previdência Social."
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Origem e evolução legislativa da Seguridade Social no Brasil. Competência do INSS e da Secretaria da Receita Federal do Brasil."
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Crimes contra a Seguridade Social. Infrações à legislação previdenciária."
+      }
+    ]
+  },
+  "Direito Previdenciário - Profª. Adriana Menezes": {
+    "total_aulas": 9,
+    "total_arquivos_pdf": 93,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "1. Aspectos teóricos e conceituais da Seguridade Social e Previdência Social. 2. Seguridade Social. 2.1. Origem e evolução legislativa no Brasil. 2.2. Conceituação. 2.3. Organização e princípios constitucionais."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "3. Legislação previdenciária. 3.1. Conteúdo, fontes, autonomia. 3.2. Aplicação das normas previdenciárias. 3.2.1. Vigência, hierarquia, interpretação e integração. 3.3. Orientação dos tribunais superiores."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "4. Regime Geral de Previdência Social.  4.1. Princípios e objetivos. 4.1. O Conselho Nacional de Previdência Social (CNPS)."
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "4.4 Segurados obrigatórios. 4.5. Filiação e inscrição. 4.6. Conceito, características e abrangência de: empregado, empregado doméstico, empresário, contribuinte individual, equiparado ao contribuinte individual, microempreendedor individual (MEI), trabalhador avulso e segurado especial e Segurado facultativo; 4.8 conceito, características, filiação e inscrição. 4.9. Dos dependentes. 5. Trabalhadores excluídos do Regime Geral."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "6. Empresa e empregador doméstico:  conceito previdenciário. 6. Financiamento da seguridade social. 6.1. Receitas da União. 6.2. Receitas das contribuições sociais: dos segurados, das empresas, do empregador doméstico, do produtor rural, do clube de futebol profissional, de concursos de prognósticos e de outras fontes."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "6.3. Salário de contribuição.  6.3.1. Conceito. 6.3.2. Parcelas integrantes e parcelas não integrantes. 6.3.3. Limites mínimo e máximo. 6.3.4. Salário-base: enquadramento, fracionamento, progressão e regressão. 6.3.5. Proporcionalidade. 6.3.6. Reajustamento. 4.3. Lei nº 8.212, de 24 de julho de 1991, em seu enfoque jurídico, atualizada até a data do edital (Lei do custeio)."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "6.4. Arrecadação e recolhimento das contribuições destinadas à seguridade social 6.4.1. Obrigações da empresa e demais contribuintes. 6.4.2. Prazo de recolhimento. 7. Responsabilidade solidária: conceito, natureza jurídica e características. 7.1. Aplicação na construção civil, na cessão de mão de obra e em grupo econômico. 8. Isenções e parcelamentos de contribuições: requisitos, manutenção e perda."
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "9. Crimes contra a seguridade social. 9.1. Infrações à legislação previdenciária."
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "10. Questão do equilíbrio financeiro da  Previdência Social. 11. Problemas estruturais da Previdência Social."
+      }
+    ]
+  },
+  "Direito Tributário Jurisprudencial": {
+    "total_aulas": 6,
+    "total_arquivos_pdf": 19,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Conceito e Classificação dos Tributos."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Limitações Constitucionais do Poder de Tributar. Princípios Constitucionais Tributários."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Imunidades"
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Competência Tributária. Tributos de Competência da União. Tributos de Competência dos Estados. Tributos de Competência dos Municípios."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Legislação Tributária. Fontes do Direito Tributário. Vigência da Legislação Tributária. Aplicação da Legislação Tributária. Interpretação e Integração da Legislação Tributária. Obrigação Tributária Principal e Acessória. Fato Gerador da Obrigação Tributária. Sujeição Ativa e Passiva. Solidariedade. Capacidade Tributária. Domicílio Tributário. Responsabilidade Tributária. Conceito. Responsabilidade dos Sucessores. Responsabilidade de Terceiros. Responsabilidade por Infrações. Crédito Tributário. Conceito. Constituição do Crédito Tributário. Lançamento. Modalidades de Lançamento. Hipóteses de alteração do lançamento. Suspensão da Exigibilidade do Crédito Tributário. Modalidades. Exclusão do Crédito Tributário. Modalidades."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Extinção do Crédito Tributário. Modalidades. Pagamento Indevido. Garantias e Privilégios do Crédito Tributário. Administração Tributária. Fiscalização. Dívida Ativa. Certidões Negativas. Sigilo Fiscal."
+      }
+    ]
+  },
+  "Direito Tributário": {
+    "total_aulas": 22,
+    "total_arquivos_pdf": 193,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Conceito e Classificação dos Tributos."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Limitações Constitucionais do Poder de Tributar. Princípios Constitucionais Tributários."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Imunidades."
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Competência Tributária."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Legislação Tributária. Fontes do Direito Tributário. Vigência da Legislação Tributária. Aplicação da Legislação Tributária. Interpretação e Integração da Legislação Tributária."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Obrigação Tributária Principal e Acessória. Fato Gerador da Obrigação Tributária. Sujeição Ativa e Passiva. Solidariedade. Capacidade Tributária. Domicílio Tributário."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Responsabilidade Tributária. Conceito. Responsabilidade dos Sucessores. Responsabilidade de Terceiros. Responsabilidade por Infrações."
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Crédito Tributário. Conceito. Constituição do Crédito Tributário. Lançamento. Modalidades de Lançamento. Hipóteses de alteração do lançamento."
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Suspensão da Exigibilidade do Crédito Tributário. Modalidades"
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Exclusão do Crédito Tributário. Modalidades"
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Extinção do Crédito Tributário. Modalidades. Pagamento Indevido."
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "Garantias e Privilégios do Crédito Tributário."
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Administração Tributária. Fiscalização. Dívida Ativa. Certidões Negativas. Sigilo Fiscal"
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Impostos da União."
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "Impostos dos Estados e do DF."
+      },
+      {
+        "lesson": "Aula 16",
+        "title": "Impostos dos Municípios."
+      },
+      {
+        "lesson": "Aula 17",
+        "title": "IBS."
+      },
+      {
+        "lesson": "Aula 18",
+        "title": "CBS."
+      },
+      {
+        "lesson": "Aula 19",
+        "title": "Repartição das Receitas Tributárias."
+      },
+      {
+        "lesson": "Aula 20",
+        "title": "Simples."
+      },
+      {
+        "lesson": "Aula 21",
+        "title": "Processo Administrativo Fiscal (Decreto nº 70.235, de 6 de março de 1972)."
+      },
+      {
+        "lesson": "Aula 22",
+        "title": "Prova Comentada"
+      }
+    ]
+  },
+  "Estatística": {
+    "total_aulas": 19,
+    "total_arquivos_pdf": 276,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Apresentação de Dados"
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Médias"
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Medidas Separatrizes ou Quantis"
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Moda"
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Medidas de Variabilidade ou Dispersão"
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Análise Combinatória"
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Probabilidade"
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Variáveis Discretas"
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Distribuições Discretas de Probabilidade"
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Variáveis Contínuas"
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Distribuições Contínuas"
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "Estimação Pontual e Intervalar"
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Testes de Hipóteses"
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Séries Temporais"
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "Regressão Linear Simples"
+      },
+      {
+        "lesson": "Aula 16",
+        "title": "Regressão Linear Múltipla"
+      },
+      {
+        "lesson": "Aula 17",
+        "title": "Regressão Logística"
+      },
+      {
+        "lesson": "Aula 18",
+        "title": "Estatística"
+      },
+      {
+        "lesson": "Aula 19",
+        "title": "Últimas provas comentadas - FGV"
+      }
+    ]
+  },
+  "Fluência em Dados": {
+    "total_aulas": 15,
+    "total_arquivos_pdf": 116,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Computação em nuvens."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Linguagens de programação para ciência de dados: linguagem Python."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Linguagens de programação para ciência de dados: linguagem R."
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Fluência em dados: conceitos, atributos, métricas, transformação de Dados. Governança de Dados: conceito, tipos (centralizada, compartilhada e colegiada)."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Introdução a Banco de Dados [Assunto não explícito no edital e que não deve ser cobrado diretamente em prova, mas ajuda a entender as aulas seguintes]."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Introdução a Banco de Dados [Assunto não explícito no edital e que não deve ser cobrado diretamente em prova, mas ajuda a entender as aulas seguintes]."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Banco de Dados: Modelagem Relacional [Assunto não explícito no edital e que não deve ser cobrado diretamente em prova, mas ajuda a entender as aulas seguintes]."
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Banco de Dados: Modelagem Relacional [Assunto não explícito no edital e que não deve ser cobrado diretamente em prova, mas ajuda a entender as aulas seguintes]."
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Análise de Dados: Business Intelligence e Data Warehouse. Transformação de Dados [A parte de Business Intelligence e Data Warehouse não veio explícita no edital e não deve ser cobrada diretamente em prova, mas ajuda a entender o tópico de Análise de Dados e Transformação de Dados]."
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Análise de dados. Agrupamentos. Tendências. Projeções. Conceitos de Analytics."
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Inteligência Artificial. Aprendizado de Máquina."
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "Processamento de Linguagem Natural."
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Ciência de dados: Importância da informação. Big Data. Big Data em relação a outras disciplinas. Ciência dos dados. Ciclo de vida do processo de ciência de dados. Papeis dos envolvidos em projetos de Ciência de dados e Big Data. Arquitetura de Big Data. Modelos de entrega e distribuição de serviços de Big Data. Plataformas de computação em nuvem para Big Data. Bancos de dados não relacionais: bancos de dados NoSQL; Modelos Nosql. Principais SGBD's. Soluções para Big Data. (Parte 1)"
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Ciência de dados: Importância da informação. Big Data. Big Data em relação a outras disciplinas. Ciência dos dados. Ciclo de vida do processo de ciência de dados. Papeis dos envolvidos em projetos de Ciência de dados e Big Data. Arquitetura de Big Data. Modelos de entrega e distribuição de serviços de Big Data. Plataformas de computação em nuvem para Big Data. Bancos de dados não relacionais: bancos de dados NoSQL; Modelos Nosql. Principais SGBD's. Soluções para Big Data. (Parte 2)"
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "Principais SGBDs"
+      }
+    ]
+  },
+  "Legislação Aduaneira": {
+    "total_aulas": 10,
+    "total_arquivos_pdf": 121,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Legislação Aduaneira: 1. Jurisdição Aduaneira. 1.1. Território Aduaneiro. 1.2. Portos, Aeroportos e Pontos de Fronteira Alfandegados. 1.2.1. Alfandegamento. 1.3. Recintos Alfandegados. 1.4. Administração Aduaneira. 2. Controle Aduaneiro de Veículos."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": ". Impostos, Taxas e Contribuições na Importação e na Exportação. 3.1. Imposto de Importação. 3.1.1. - Incidência. 3.1.2. - Fato Gerador. 3.1.3. - Base de Cálculo. 3.1.4. - Cálculo. 3.1.5. - Contribuintes e Responsáveis. 3.1.6. - Pagamento e Depósito. 3.1.7. - Restituição e Compensação. 3.1.8. - Isenções e Reduções. 3.1.9. - Imunidade de livros, jornais e periódicos e do papel destinado à sua impressão."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "3.2. Imposto de Exportação. 3.2.1. - Incidência. 3.2.2. - Fato Gerador. 3.2.3. - Base de Cálculo. 3.2.4. - Cálculo. 3.2.5. - Contribuintes. 3.2.6. - Pagamento. 3.2.7. - Isenções. 3.2.8. - Incentivos Fiscais na Exportação.3.3 - Imposto sobre Produtos Industrializados vinculados à Importação. 3.3.1. - Incidência. 3.3.2. - Fato Gerador. 3.3.3. - Base de Cálculo. 3.3.4. - Cálculo. 3.3.5. - Contribuinte. 3.3.6. - Prazo de Recolhimento. 3.3.7. - Isenções. 3.3.8. - Imunidades de Livros, Jornais e Periódicos e do Papel Destinado à sua Impressão. 3.3.10. - Suspensão do Pagamento. 3.4. Contribuição para o PIS/PASEP-Importação e da COFINS-Importação. 3.4.1. - Incidência. 3.4.2. - Fato Gerador. 3.4.3. - Base de Cálculo. 3.4.4. - Contribuintes e Responsáveis Solidários. 3..4.5. - Isenções. 3.4.6. - Pagamento. 3.4.7. - Suspensão do Pagamento. 3.4.8. - Contribuição para o PIS/PASEP e da COFINS na Importação de Cigarros. 3.5. - Contribuição de Intervenção no Domínio Econômico - Combustíveis (CIDE-Com"
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "5. Controle Aduaneiro de Mercadorias. 5.1. - Despacho Aduaneiro. 5.1.1 Despacho de Importação. 5.1.2. - Despacho de Exportação. 5.1.3. - Casos Especiais. 5.1.4. - Revisão Aduaneira. 7.1. - Crédito Tributário. 7.1.1. - Lançamento de ofício. 7.1.2. - Acréscimos Legais. 7.1.3. Decadência e Prescrição."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "4. Regimes Aduaneiros Especiais e Aplicados em Áreas Especiais. 4.1. - Trânsito Aduaneiro. 4.2. - Admissão Temporária. 4.3. - Admissão Temporária para Aperfeiçoamento Ativo. 4.4. - Drawback. 7.1.4 Termo de Responsabilidade."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "4.5. - Entreposto Aduaneiro. 4.6. - Regime de Entreposto Aduaneiro sob Controle Aduaneiro Informatizado - Recof. 4.7. - Regime Aduaneiro Especial de Importação de Insumos Destinados a Industrialização por Encomenda de Produtos Classificados nas Posições 8701 a 8705 da NCM - Recom. 4.8. - Exportação Temporária. 4.9. Exportação Temporária para Aperfeiçoamento Passivo. 4.10. - Regime Aduaneiro Especial de Exportação e de Importação de Bens Destinados às Atividades de Pesquisa e Lavra das Jazidas de Petróleo e Gás Natural - Repetro. 4.11. - Regime Aduaneiro Especial de Importação de Petróleo Bruto e seus Derivados - Repex. 4.12. - Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária - Reporto. 4.13. - Loja Franca. 4.14. - Depósito Especial. 4.15. - Depósito Afiançado. 4.16. - Depósito Alfandegado Certificado. 4.17. Regimes Aduaneiros Aplicados em Áreas Especiais. 4.17.1. - Zona Franca de Manaus. 4.17.2. - Áreas de Livre Comércio. 4.17.3. - Zonas de Processa"
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "6. - Infrações e Penalidades Aduaneiras. 6.1. - Pena de perdimento. 6.2. - Multas. 6.3. Sanções Administrativas. 6.4. - Relevação de penalidades. 6.6. - Infrações praticadas pelos Órgãos da Administração Pública."
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "7. Crédito Tributário, Processo Fiscal e Controle Administrativo Específico da Área Aduaneira. 7.2. - Processo Fiscal. 7.2.1. - Processo de determinação e exigência de crédito tributário. 7.2.2. - Processo de perdimento. 7.2.3. - Processo de aplicação de penalidade pelo transporte rodoviário de mercadoria sujeita a pena de perdimento. 7.2.4. - Processo de aplicação de sanções administrativas aos intervenientes nas operações de comércio exterior. 7.2.5. - Processos de aplicação e de exigências dos direitos antidumping e compensatórios. 7.2.6. - Processos de consulta."
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "5.2. - Normas Especiais. 5.2.1. - Mercadorias provenientes de naufrágio e outros acidentes. 5.2.2. - Abandono de Mercadoria ou de Veículo. 5.2.3. - Avaria, Extravio e Acréscimo. 5.2.4. - Mercadorias presumidas idênticas. 5.2.5. - Tráfego Postal. 5.2.6. - Tráfego de Cabotagem. 6.5. Representação Fiscal para Fins Penais. 7.3. Controle Administrativo Específico. 7.3.1. - Destinação de mercadorias. 7.3.2. - Controle de processos e de declarações. 7.3.3. - Atividades relacionadas aos serviços aduaneiros. 7.4. - Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização (FUNDAF)"
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Valoração Aduaneira"
+      }
+    ]
+  },
+  "Legislação Tributária": {
+    "total_aulas": 15,
+    "total_arquivos_pdf": 136,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Imposto sobre Produtos Industrializados: Princípios e regras constitucionais aplicáveis ao imposto."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Imposto sobre Produtos Industrializados: Contribuinte."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Imposto sobre Produtos Industrializados: Fato gerador. Base de cálculo."
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Imposto sobre a Renda e Proventos de Qualquer Natureza: Princípios e regras constitucionais aplicáveis ao imposto. Critérios orientadores. Renda e Proventos. Conceito. Disponibilidade Econômica ou jurídica. Acréscimo patrimonial."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Tributação das pessoas físicas: Fato Gerador. Contribuintes. Responsáveis."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Tributação das pessoas físicas: Base de cálculo. Deduções."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Tributação das pessoas físicas: Tributação exclusiva. Sistema de bases correntes. Recolhimento mensal obrigatório (carnê-leão). Tributação Definitiva. Ajuste Anual."
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Tributação das pessoas jurídicas: Contribuintes. Responsáveis."
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Tributação das pessoas jurídicas: Fato gerador. Base de cálculo. Despesas dedutíveis e indedutíveis. Lucro real."
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Tributação das pessoas jurídicas: Lucro presumido. Lucro arbitrado. Tributação na fonte."
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Tributação das pessoas jurídicas: Lucros, rendimentos e ganhos de capital obtidos no exterior. Preço de transferência. Investimentos em sociedades coligadas e controladas avaliados pelo método do patrimônio líquido. Reorganizações societárias. Regime de caixa e regime de competência. Apuração."
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "3. Imposto sobre a Propriedade Territorial Rural. 3.1. Princípios e regras constitucionais aplicáveis ao imposto. 3.2. Competência e sujeito ativo. 3.3. Fato gerador. 3.4. Contribuinte. 3.5. Base de cálculo. 3.6. Apuração. 6. Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF. 6.1. Princípios e regras constitucionais aplicáveis ao imposto. 6.2. Fato gerador. 6.3. Contribuinte. 6.4. Base de cálculo. 6.5. Apuração.\""
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Contribuição Social sobre o Lucro Líquido. Princípios e regras constitucionais aplicáveis à contribuição. Fato gerador. Contribuinte. Base de cálculo. Apuração. Contribuição de Intervenção de Domínio Econômico destinada a financiar o Programa de Estímulo à Interação Universidade-Empresa para o Apoio à Inovação (Lei nº 10.168, de 29 de dezembro de 2000). Princípios e regras constitucionais aplicáveis à contribuição. Fato gerador. Contribuinte. Base de cálculo. Apuração."
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Contribuições Sociais. Princípios e regras constitucionais aplicáveis às contribuições sociais. Contribuição para o PIS/Pasep e Contribuição para o Financiamento da Seguridade Social - COFINS. Princípios e regras constitucionais aplicáveis às contribuições. Regime de apuração cumulativa. Fato gerador. Contribuinte. Base de cálculo. Apuração. Regime de apuração não cumulativa. Fato gerador. Contribuinte. Créditos. Base de cálculo. Apuração. 9. Contribuição de Intervenção no Domínio Econômico incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico combustível - Cide-Combustíveis (Lei nº 10.336, de 19 de dezembro de 2001). 9.1. Princípios e regras constitucionais aplicáveis à contribuição. 9.2. Fato gerador. 9.3. Contribuinte. 9.4. Base de cálculo. 9.5. Apuração"
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "IRRF"
+      }
+    ]
+  },
+  "Língua Inglesa": {
+    "total_aulas": 8,
+    "total_arquivos_pdf": 72,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Interpretação de textos, Cognatos e Resolução de Provas"
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Substantivos, Artigos, Pronomes, Preposições e Resolução de Provas"
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Adjetivos, Advérbios, Afixos e Resolução de Provas"
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Verbos Frasais e Resolução de provas"
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Tempos Verbais (Parte 1) e Resolução de Provas"
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Tempos Verbais (Parte 2) e Resolução Provas"
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Expressões (Idioms) e Resolução de Provas"
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Questões Comentadas FGV"
+      }
+    ]
+  },
+  "Língua Portuguesa": {
+    "total_aulas": 17,
+    "total_arquivos_pdf": 528,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Ortografia. Acentuação gráfica."
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Classes gramaticais: substantivo, adjetivo, advérbios, artigo, numeral, interjeição (reconhecimento, emprego e sentido). Mecanismos de flexão dos nomes."
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Classes gramaticais: preposição e conjunção (reconhecimento, emprego e sentido)."
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Classes gramaticais: pronomes. (reconhecimento, emprego e sentido) Padrões gerais de colocação pronominal no português."
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Classes gramaticais: verbos (reconhecimento, emprego e sentido). Emprego de tempos e modos dos verbos em português. Mecanismos de flexão dos verbos."
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Correlação e vozes verbais."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Processos de formação de palavras."
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Sintaxe: frase, oração e período; termos da  oração."
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Sintaxe: processos de coordenação e  subordinação. Paralelismo"
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Pontuação."
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Concordância nominal e verbal."
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "Transitividade e regência de nomes e verbos. Emprego do sinal indicativo de crase."
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Mecanismos de coesão textual."
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Semântica: sentido e emprego dos vocábulos; campos semânticos. Reescrita de frases: substituição, deslocamento."
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "Língua Portuguesa: Elementos de construção do texto e seu sentido: gênero do texto (literário e não literário, narrativo, descritivo e argumentativo); interpretação e organização interna."
+      },
+      {
+        "lesson": "Aula 16",
+        "title": "Variação linguística: norma culta."
+      },
+      {
+        "lesson": "Aula 17",
+        "title": "Resumo"
+      }
+    ]
+  },
+  "Raciocínio Lógico Matemático": {
+    "total_aulas": 27,
+    "total_arquivos_pdf": 430,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Estruturas Lógicas"
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Equivalências Lógicas"
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Diagramas Lógicos"
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Lógica de Primeira Ordem"
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Lógica de Argumentação"
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Formação de Conceitos; Verdades e Mentiras; Discriminação de Elementos"
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Raciocínio Sequencial"
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Orientação Temporal"
+      },
+      {
+        "lesson": "Aula 09",
+        "title": "Orientação Espacial"
+      },
+      {
+        "lesson": "Aula 10",
+        "title": "Associações Lógicas"
+      },
+      {
+        "lesson": "Aula 11",
+        "title": "Princípio da Casa dos Pombos"
+      },
+      {
+        "lesson": "Aula 12",
+        "title": "Teoria dos Conjuntos"
+      },
+      {
+        "lesson": "Aula 13",
+        "title": "Conjuntos Numéricos"
+      },
+      {
+        "lesson": "Aula 14",
+        "title": "Operações Básicas"
+      },
+      {
+        "lesson": "Aula 15",
+        "title": "Potências de Dez e Unidades de Medida."
+      },
+      {
+        "lesson": "Aula 16",
+        "title": "Múltiplos e Divisores. MMC e MDC."
+      },
+      {
+        "lesson": "Aula 17",
+        "title": "Frações, Razão e Proporção"
+      },
+      {
+        "lesson": "Aula 18",
+        "title": "Regra de Três Simples e Compostas"
+      },
+      {
+        "lesson": "Aula 19",
+        "title": "Equações"
+      },
+      {
+        "lesson": "Aula 20",
+        "title": "Porcentagem"
+      },
+      {
+        "lesson": "Aula 21",
+        "title": "Juros Simples"
+      },
+      {
+        "lesson": "Aula 22",
+        "title": "Juros Compostos"
+      },
+      {
+        "lesson": "Aula 23",
+        "title": "Geometria Plana"
+      },
+      {
+        "lesson": "Aula 24",
+        "title": "Matrizes e Determinantes"
+      },
+      {
+        "lesson": "Aula 25",
+        "title": "Sistemas Lineares"
+      },
+      {
+        "lesson": "Aula 26",
+        "title": "Plano cartesiano: sistema de coordenadas, distância"
+      },
+      {
+        "lesson": "Aula 27",
+        "title": "Últimas provas comentadas - FGV"
+      }
+    ]
+  },
+  "Análise das Demonstrações Contábeis": {
+    "total_aulas": 8,
+    "total_arquivos_pdf": 94,
+    "aulas": [
+      {
+        "lesson": "Aula 01",
+        "title": "Noções Iniciais de Contabilidade"
+      },
+      {
+        "lesson": "Aula 02",
+        "title": "Noções Iniciais de Demonstrações Contábeis"
+      },
+      {
+        "lesson": "Aula 03",
+        "title": "Conceitos básicos de análise de balanços e demonstrações financeiras – Parte I"
+      },
+      {
+        "lesson": "Aula 04",
+        "title": "Conceitos básicos de análise de balanços e demonstrações financeiras – Parte II"
+      },
+      {
+        "lesson": "Aula 05",
+        "title": "Conceitos básicos de análise de balanços e demonstrações financeiras – Parte III"
+      },
+      {
+        "lesson": "Aula 06",
+        "title": "Administração Financeira. Indicadores de Desempenho. Tipo. Variáveis. Princípios gerais de alavancagem operacional e financeira. Planejamento financeiro de curto e longo prazo."
+      },
+      {
+        "lesson": "Aula 07",
+        "title": "Conceitos básicos de análise de balanços e demonstrações financeiras – Parte  IV"
+      },
+      {
+        "lesson": "Aula 08",
+        "title": "Conceitos básicos de análise de balanços e demonstrações financeiras – Parte V"
+      }
+    ]
+  }
+}

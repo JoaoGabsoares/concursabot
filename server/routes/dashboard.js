@@ -26,7 +26,7 @@ function getDashboardData(req, res) {
                     SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) as correct
                 FROM question_answers qa
                 JOIN questions q ON qa.question_id = q.id
-                WHERE (qa.user_id = ? OR qa.user_id IS NULL)
+                WHERE qa.user_id = ?
                   AND (qa.career_id = ? OR q.subject IN (${placeholders}))
             `).get(userId, careerId, ...subjects);
 
@@ -46,7 +46,7 @@ function getDashboardData(req, res) {
                     AVG(score) as avg_score
                 FROM simulados 
                 WHERE status = 'completed' 
-                  AND (user_id = ? OR user_id IS NULL)
+                  AND user_id = ?
                   AND career_id = ?
             `).get(userId, careerId);
 
@@ -58,7 +58,7 @@ function getDashboardData(req, res) {
                     SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) * 100.0 / COUNT(qa.id) as correct_pct
                 FROM question_answers qa
                 JOIN questions q ON qa.question_id = q.id
-                WHERE (qa.user_id = ? OR qa.user_id IS NULL)
+                WHERE qa.user_id = ?
                   AND (qa.career_id = ? OR q.subject IN (${placeholders}))
                 GROUP BY q.subject
                 HAVING total >= 3
@@ -68,7 +68,7 @@ function getDashboardData(req, res) {
             // Recent Activity
             recentActivity = db.prepare(`
                 SELECT * FROM activity_log 
-                WHERE (user_id = ? OR user_id IS NULL)
+                WHERE user_id = ?
                   AND (career_id = ? OR career_id IS NULL)
                 ORDER BY created_at DESC 
                 LIMIT 10
@@ -81,7 +81,7 @@ function getDashboardData(req, res) {
                     COUNT(*) as total,
                     SUM(CASE WHEN is_correct = 1 THEN 1 ELSE 0 END) as correct
                 FROM question_answers
-                WHERE (user_id = ? OR user_id IS NULL)
+                WHERE user_id = ?
             `).get(userId);
 
             // Flashcards
@@ -97,7 +97,7 @@ function getDashboardData(req, res) {
                     COUNT(*) as total,
                     AVG(score) as avg_score
                 FROM simulados 
-                WHERE status = 'completed' AND (user_id = ? OR user_id IS NULL)
+                WHERE status = 'completed' AND user_id = ?
             `).get(userId);
 
             // Subject stats
@@ -108,7 +108,7 @@ function getDashboardData(req, res) {
                     SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) * 100.0 / COUNT(qa.id) as correct_pct
                 FROM question_answers qa
                 JOIN questions q ON qa.question_id = q.id
-                WHERE (qa.user_id = ? OR qa.user_id IS NULL)
+                WHERE qa.user_id = ?
                 GROUP BY q.subject
                 HAVING total >= 5
                 ORDER BY correct_pct ASC
@@ -117,7 +117,7 @@ function getDashboardData(req, res) {
             // Recent Activity
             recentActivity = db.prepare(`
                 SELECT * FROM activity_log 
-                WHERE (user_id = ? OR user_id IS NULL)
+                WHERE user_id = ?
                 ORDER BY created_at DESC 
                 LIMIT 10
             `).all(userId);
