@@ -16,75 +16,78 @@
   --space-12: 3.0rem;   /* 48px */
   --space-16: 4.0rem;   /* 64px */
 
-  /* Dark Theme (Official Obsidian / Edital Solene) */
-  --bg-base: #0B0E17;
-  --bg-surface: #131826;
-  --bg-elevated: #1C2336;
+  /* Dark Theme (Official Obsidian / Edital Solene - High Contrast & Depth) */
+  --bg-base: #0A0D14;
+  --bg-surface: #111622;
+  --bg-elevated: #182030;
   --bg-active: #222C42;
-  --bg-glass: rgba(19, 24, 38, 0.88);
+  --bg-glass: rgba(17, 22, 34, 0.92);
 
   --text-primary: #F8FAFC;
   --text-secondary: #94A3B8;
   --text-muted: #64748B;
 
-  --border-subtle: #1F283E;
-  --border-focus: #334155;
-  --border-highlight: #3B82F6;
+  --border-subtle: #243048;
+  --border-focus: #3B82F6;
+  --border-highlight: #60A5FA;
 
   /* Single Primary Color (Idêntica em todas as rotas) */
   --accent-primary: #3B82F6;
   --accent-primary-hover: #2563EB;
-  --accent-primary-glow: rgba(59, 130, 246, 0.14);
+  --accent-primary-glow: rgba(59, 130, 246, 0.16);
 
   /* Status Colors for Official Stamps */
   --color-status-success: #10B981;
-  --color-status-success-bg: rgba(16, 185, 129, 0.10);
+  --color-status-success-bg: rgba(16, 185, 129, 0.12);
   --color-status-warning: #F59E0B;
-  --color-status-warning-bg: rgba(245, 158, 11, 0.10);
+  --color-status-warning-bg: rgba(245, 158, 11, 0.12);
   --color-status-danger: #EF4444;
-  --color-status-danger-bg: rgba(239, 68, 68, 0.10);
+  --color-status-danger-bg: rgba(239, 68, 68, 0.12);
   --color-status-neutral: #64748B;
-  --color-status-neutral-bg: rgba(100, 116, 139, 0.10);
+  --color-status-neutral-bg: rgba(100, 116, 139, 0.12);
 
   --accent-success: #10B981;
   --accent-warning: #F59E0B;
   --accent-danger: #EF4444;
 
-  --btn-primary-bg: #3B82F6;
+  --btn-primary-bg: #2563EB;
   --btn-primary-text: #FFFFFF;
-  --btn-primary-hover: #2563EB;
+  --btn-primary-hover: #1D4ED8;
+  
+  --shadow-card: 0 4px 20px -2px rgba(0, 0, 0, 0.5);
+  --shadow-elevated: 0 8px 30px -4px rgba(0, 0, 0, 0.65);
 }
 
 html:not(.dark) {
-  /* Light Theme (Papel Institucional / Diário Oficial) */
-  --bg-base: #F8FAFC;
+  /* Light Theme (Papel Institucional / Diário Oficial - Crisp & Readable) */
+  --bg-base: #F4F6F9;
   --bg-surface: #FFFFFF;
-  --bg-elevated: #F1F5F9;
-  --bg-active: #E2E8F0;
-  --bg-glass: rgba(255, 255, 255, 0.92);
+  --bg-elevated: #EBF0F7;
+  --bg-active: #DFE7F2;
+  --bg-glass: rgba(255, 255, 255, 0.94);
 
   --text-primary: #0F172A;
-  --text-secondary: #475569;
+  --text-secondary: #334155;
   --text-muted: #64748B;
 
-  --border-subtle: #E2E8F0;
-  --border-focus: #CBD5E1;
-  --border-highlight: #1D4ED8;
+  --border-subtle: #CBD5E1;
+  --border-focus: #1D4ED8;
+  --border-highlight: #2563EB;
 
   /* Single Primary Color (Idêntica em todas as rotas) */
   --accent-primary: #1D4ED8;
   --accent-primary-hover: #1E40AF;
-  --accent-primary-glow: rgba(29, 78, 216, 0.10);
+  --accent-primary-glow: rgba(29, 78, 216, 0.12);
 
   /* Status Colors for Official Stamps */
   --color-status-success: #059669;
-  --color-status-success-bg: rgba(5, 150, 105, 0.08);
+  --color-status-success-bg: rgba(5, 150, 105, 0.10);
   --color-status-warning: #D97706;
-  --color-status-warning-bg: rgba(217, 119, 6, 0.08);
+  --color-status-warning-bg: rgba(217, 119, 6, 0.10);
   --color-status-danger: #DC2626;
-  --color-status-danger-bg: rgba(220, 38, 38, 0.08);
+  --color-status-danger-bg: rgba(220, 38, 38, 0.10);
   --color-status-neutral: #64748B;
-  --color-status-neutral-bg: rgba(100, 116, 139, 0.08);
+  --color-status-neutral-bg: rgba(100, 116, 139, 0.10);
 
   --accent-success: #059669;
   --accent-warning: #D97706;
@@ -93,6 +96,9 @@ html:not(.dark) {
   --btn-primary-bg: #1D4ED8;
   --btn-primary-text: #FFFFFF;
   --btn-primary-hover: #1E40AF;
+
+  --shadow-card: 0 4px 16px -2px rgba(15, 23, 42, 0.08);
+  --shadow-elevated: 0 8px 24px -4px rgba(15, 23, 42, 0.12);
 }
 
 * {
@@ -132,7 +138,7 @@ body {
   font-size: 0.6875rem; /* 11px */
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.10em;
   padding: 0.25rem 0.625rem;
   border-radius: 0.25rem;
   border: 1.5px solid currentColor;
@@ -167,8 +173,8 @@ body {
 
 /* Custom Scrollbars */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 7px;
+  height: 7px;
 }
 ::-webkit-scrollbar-track {
   background: transparent;
@@ -183,10 +189,10 @@ body {
 
 /* Transitions & Animations */
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(4px); }
+  from { opacity: 0; transform: translateY(6px); }
   to { opacity: 1; transform: translateY(0); }
 }
 
 .animate-fade-in {
-  animation: fadeIn 0.18s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation: fadeIn 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }

@@ -24,7 +24,7 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
   ];
 
   return (
-    <div className="space-y-6 pb-20 font-sans animate-fade-in">
+    <div className="space-y-6 pb-20 font-sans animate-fade-in max-w-6xl mx-auto">
       {/* Header Bar */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-[var(--border-subtle)]">
         <div>
@@ -43,20 +43,20 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
       {/* Grid: Pareto 80/20 + Cut Score */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         {/* Cut Score Card */}
-        <Card className="p-6 space-y-4">
+        <Card className="p-6 sm:p-8 space-y-4 bg-[var(--bg-surface)] shadow-md">
           <div className="flex items-center justify-between">
-            <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+            <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
               Notas de Corte Históricas
             </h3>
-            <span className="font-mono text-xs text-[var(--text-muted)]">HISTÓRICO OFICIAL</span>
+            <span className="font-mono text-xs text-[var(--text-muted)] font-bold">HISTÓRICO OFICIAL</span>
           </div>
-          <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
-            Pontuação líquida mínima necessária para aprovação nas últimas edições do concurso:
+          <p className="text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed">
+            Pontuação líquida mínima necessária para aprovação nas últimas edições do certame:
           </p>
 
-          <div className="space-y-2 pt-1 font-mono">
+          <div className="space-y-2.5 pt-2 font-mono">
             {historicalCuts.map((item, idx) => (
-              <div key={idx} className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between text-xs">
+              <div key={idx} className="p-3.5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between text-xs">
                 <span className="font-bold text-[var(--text-primary)]">{item.year}</span>
                 <span className="text-[var(--text-secondary)]">{item.score}</span>
               </div>
@@ -65,9 +65,9 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
         </Card>
 
         {/* Strategy Advice */}
-        <Card className="p-6 space-y-4 border-l-4 border-l-[var(--accent-primary)]">
+        <Card className="p-6 sm:p-8 space-y-4 border-l-4 border-l-[var(--accent-primary)] bg-[var(--bg-surface)] shadow-md">
           <div className="flex items-center justify-between">
-            <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+            <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
               Diretriz de Eficiência Técnica
             </h3>
             <CarimboStatus status="em_revisao" label="METODOLOGIA" />
@@ -75,29 +75,29 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
           <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed">
             O princípio de Pareto 80/20 demonstra que <strong>20% dos tópicos do edital concentram 80% das questões cobradas em prova</strong>. Priorize a fixação dos temas de alta incidência antes de se aprofundar em minúcias periféricas de baixo retorno.
           </p>
-          <div className="font-mono text-[11px] text-[var(--text-muted)] pt-1 border-t border-[var(--border-subtle)]">
+          <div className="font-mono text-[11px] text-[var(--text-muted)] pt-2 border-t border-[var(--border-subtle)]">
             META DO EDITAL: Atingir 85%+ de acerto nos tópicos prioritários.
           </div>
         </Card>
       </div>
 
       {/* Top 5 Golden Topics Table */}
-      <Card className="p-6 space-y-4">
+      <Card className="p-6 sm:p-8 space-y-5 bg-[var(--bg-surface)] shadow-md">
         <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-          <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
+          <h3 className="font-display font-bold text-xl text-[var(--text-primary)]">
             Tópicos de Ouro ({currentCareer.name.split('—')[0]})
           </h3>
           <CarimboStatus status="homologado" label="TOP 5 PRIORITÁRIOS" />
         </div>
 
-        <div className="space-y-2.5">
+        <div className="space-y-3">
           {topTopics.map((item, idx) => (
             <div 
               key={idx} 
-              className="p-4 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-3"
+              className="p-4 sm:p-5 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-3"
             >
               <div className="space-y-1">
-                <div className="text-xs sm:text-sm font-semibold text-[var(--text-primary)]">
+                <div className="text-sm font-semibold text-[var(--text-primary)]">
                   {idx + 1}. {item.subject}
                 </div>
                 <div className="text-xs text-[var(--text-muted)]">
@@ -107,7 +107,7 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
 
               <div className="flex items-center gap-3 self-end sm:self-center font-mono text-xs">
                 <CarimboStatus status={item.status} label={item.label} />
-                <span className="font-bold text-[var(--accent-primary)] px-2 py-1 bg-[var(--bg-surface)] border border-[var(--border-subtle)] rounded">
+                <span className="font-bold text-[var(--accent-primary)] px-3 py-1.5 bg-[var(--bg-surface)] border border-[var(--border-subtle)] rounded-lg shadow-sm">
                   {item.weight}
                 </span>
               </div>

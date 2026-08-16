@@ -60,7 +60,7 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
   };
 
   return (
-    <div className="space-y-6 pb-20 max-w-2xl mx-auto font-sans animate-fade-in">
+    <div className="space-y-6 pb-20 max-w-3xl mx-auto font-sans animate-fade-in">
       {/* Header Bar */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-[var(--border-subtle)]">
         <div>
@@ -71,11 +71,11 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
             <CarimboStatus status="homologado" label="ALGORITMO SM-2" />
           </div>
           <p className="text-xs sm:text-sm text-[var(--text-muted)] mt-1">
-            Repetição espaçada para consolidação de longo prazo
+            Repetição espaçada com feedback ponderado para consolidação de longo prazo
           </p>
         </div>
 
-        <div className="font-mono text-xs text-[var(--text-muted)]">
+        <div className="font-mono text-xs font-bold text-[var(--text-muted)]">
           CARD {currentIndex + 1} DE {sampleFlashcards.length}
         </div>
       </div>
@@ -84,29 +84,29 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
       <Card
         hoverable={true}
         onClick={() => setFlipped(!flipped)}
-        className="min-h-[300px] sm:min-h-[340px] flex flex-col justify-between p-6 sm:p-8 cursor-pointer select-none text-center"
+        className="min-h-[320px] sm:min-h-[360px] flex flex-col justify-between p-8 sm:p-10 cursor-pointer select-none text-center bg-[var(--bg-surface)] shadow-lg hover:border-[var(--border-focus)] transition-all"
       >
         <div className="flex justify-between items-center text-xs font-mono">
           <CarimboStatus status="pendente" label={currentCard.subject} />
-          <span className="text-[var(--text-muted)]">[ CLIQUE PARA VIRAR ]</span>
+          <span className="text-[var(--text-muted)] font-semibold">[ CLIQUE PARA VIRAR 🔄 ]</span>
         </div>
 
-        <div className="my-auto py-6">
+        <div className="my-auto py-8">
           {!flipped ? (
-            <div className="space-y-3 animate-fade-in">
-              <span className="font-mono text-xs uppercase tracking-wider text-[var(--text-muted)]">
+            <div className="space-y-4 animate-fade-in">
+              <span className="font-mono text-xs uppercase tracking-wider text-[var(--text-muted)] font-bold">
                 Conceito / Pergunta Técnica:
               </span>
-              <h2 className="font-display font-bold text-lg sm:text-xl text-[var(--text-primary)] leading-relaxed">
+              <h2 className="font-display font-bold text-xl sm:text-2xl text-[var(--text-primary)] leading-relaxed max-w-xl mx-auto">
                 {currentCard.front}
               </h2>
             </div>
           ) : (
-            <div className="space-y-3 animate-fade-in text-left">
+            <div className="space-y-4 animate-fade-in text-left">
               <span className="font-mono text-xs font-bold text-[var(--accent-primary)] uppercase tracking-wider">
                 Gabarito Técnico:
               </span>
-              <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed whitespace-pre-line bg-[var(--bg-elevated)] p-4 rounded border border-[var(--border-subtle)] font-mono">
+              <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed whitespace-pre-line bg-[var(--bg-elevated)] p-5 rounded-lg border border-[var(--border-subtle)] font-mono shadow-inner">
                 {currentCard.back}
               </p>
             </div>
@@ -114,18 +114,18 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
         </div>
 
         <div className="font-mono text-xs text-[var(--text-muted)]">
-          {flipped ? "Classifique sua retenção para calcular a próxima revisão:" : "Toque no card para inspecionar a resposta"}
+          {flipped ? "Classifique sua retenção para calcular o próximo ciclo:" : "Toque no card para inspecionar a resposta"}
         </div>
       </Card>
 
       {/* SM-2 Rating Buttons (Only shown when flipped) */}
       {flipped && (
-        <div className="grid grid-cols-4 gap-2 animate-fade-in font-mono">
+        <div className="grid grid-cols-4 gap-3 animate-fade-in font-mono">
           <Button
             size="md"
             variant="danger"
             onClick={handleNext}
-            className="text-xs font-bold"
+            className="text-xs font-bold shadow-sm"
           >
             Errei (1d)
           </Button>
@@ -133,7 +133,7 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
             size="md"
             variant="secondary"
             onClick={handleNext}
-            className="text-xs font-bold text-[var(--accent-warning)]"
+            className="text-xs font-bold text-[var(--accent-warning)] shadow-sm"
           >
             Difícil (3d)
           </Button>
@@ -141,7 +141,7 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
             size="md"
             variant="secondary"
             onClick={handleNext}
-            className="text-xs font-bold text-[var(--accent-primary)]"
+            className="text-xs font-bold text-[var(--accent-primary)] shadow-sm"
           >
             Bom (7d)
           </Button>
@@ -149,7 +149,7 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
             size="md"
             variant="brand"
             onClick={handleNext}
-            className="text-xs font-bold"
+            className="text-xs font-bold shadow-md"
           >
             Fácil (15d)
           </Button>

@@ -74,7 +74,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
   };
 
   return (
-    <div className="space-y-6 pb-20 font-sans animate-fade-in">
+    <div className="space-y-6 pb-20 font-sans animate-fade-in max-w-6xl mx-auto">
       {/* Header Bar */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-[var(--border-subtle)]">
         <div>
@@ -93,12 +93,12 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
         </div>
 
         {/* Filter Tabs */}
-        <div className="flex items-center gap-1 p-1 rounded bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-mono text-xs">
+        <div className="flex items-center gap-1.5 p-1 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-mono text-xs">
           <button
             onClick={() => setFilterStatus('pending')}
-            className={`px-3 py-1.5 rounded transition-colors ${
+            className={`px-4 py-1.5 rounded-md transition-all ${
               filterStatus === 'pending'
-                ? 'bg-[var(--accent-primary)] text-white font-bold'
+                ? 'bg-[var(--accent-primary)] text-white font-bold shadow-sm'
                 : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
             }`}
           >
@@ -106,9 +106,9 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
           </button>
           <button
             onClick={() => setFilterStatus('mastered')}
-            className={`px-3 py-1.5 rounded transition-colors ${
+            className={`px-4 py-1.5 rounded-md transition-all ${
               filterStatus === 'mastered'
-                ? 'bg-[var(--accent-primary)] text-white font-bold'
+                ? 'bg-[var(--accent-primary)] text-white font-bold shadow-sm'
                 : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
             }`}
           >
@@ -116,9 +116,9 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
           </button>
           <button
             onClick={() => setFilterStatus('all')}
-            className={`px-3 py-1.5 rounded transition-colors ${
+            className={`px-4 py-1.5 rounded-md transition-all ${
               filterStatus === 'all'
-                ? 'bg-[var(--bg-elevated)] text-[var(--text-primary)] font-bold'
+                ? 'bg-[var(--bg-elevated)] text-[var(--text-primary)] font-bold shadow-sm'
                 : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
             }`}
           >
@@ -128,14 +128,14 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
       </div>
 
       {/* Errors List */}
-      <div className="space-y-3">
+      <div className="space-y-3.5">
         {displayedErrors.length === 0 ? (
-          <Card className="text-center py-12 space-y-3">
+          <Card className="text-center py-16 space-y-3 bg-[var(--bg-surface)] shadow-md">
             <CarimboStatus status="homologado" label="CADERNO 100% ZERADO" />
-            <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
+            <h3 className="font-display font-bold text-xl text-[var(--text-primary)] tracking-tight">
               Nenhuma vulnerabilidade pendente
             </h3>
-            <p className="text-xs text-[var(--text-muted)] max-w-md mx-auto">
+            <p className="text-xs sm:text-sm text-[var(--text-muted)] max-w-md mx-auto leading-relaxed">
               Você superou todos os itens do caderno de erros ou ainda não registrou falhas nos simulados oficiais.
             </p>
           </Card>
@@ -147,24 +147,24 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                 key={item.id}
                 hoverable={true}
                 onClick={() => handleOpenRetry(item)}
-                className={`p-5 flex flex-col sm:flex-row sm:items-center justify-between gap-4 border ${
-                  isMastered ? 'border-[var(--color-status-success)]/30' : 'border-[var(--color-status-danger)]/30'
+                className={`p-6 flex flex-col sm:flex-row sm:items-center justify-between gap-5 border bg-[var(--bg-surface)] shadow-md ${
+                  isMastered ? 'border-[var(--color-status-success)]/40' : 'border-[var(--color-status-danger)]/40'
                 }`}
               >
-                <div className="space-y-1.5 max-w-3xl">
-                  <div className="flex flex-wrap items-center gap-2">
+                <div className="space-y-2 max-w-3xl">
+                  <div className="flex flex-wrap items-center gap-2.5">
                     <CarimboStatus status={isMastered ? "homologado" : "vulneravel"} label={isMastered ? "SUPERADO" : "PENDENTE"} />
-                    <span className="font-mono text-xs font-semibold text-[var(--text-primary)]">{item.subject}</span>
+                    <span className="font-mono text-xs font-bold text-[var(--text-primary)]">{item.subject}</span>
                     <span className="text-[var(--text-muted)]">•</span>
                     <span className="font-mono text-xs text-[var(--text-muted)]">{item.topic}</span>
                   </div>
 
-                  <p className="text-xs sm:text-sm text-[var(--text-primary)] font-medium line-clamp-2 leading-relaxed">
+                  <p className="text-xs sm:text-sm text-[var(--text-primary)] font-medium leading-relaxed">
                     {item.question_text}
                   </p>
 
                   {item.personal_notes && (
-                    <div className="font-mono text-xs text-[var(--accent-primary)] bg-[var(--bg-elevated)] px-2.5 py-1 rounded border border-[var(--border-subtle)] inline-block">
+                    <div className="font-mono text-xs text-[var(--accent-primary)] bg-[var(--bg-elevated)] px-3 py-1.5 rounded-md border border-[var(--border-subtle)] inline-block">
                       NOTA: {item.personal_notes}
                     </div>
                   )}
@@ -173,7 +173,7 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                 <Button
                   variant={isMastered ? "outline" : "brand"}
                   size="sm"
-                  className="font-mono text-xs shrink-0"
+                  className="font-mono text-xs shrink-0 font-bold self-start sm:self-center"
                 >
                   {isMastered ? 'Revisar' : 'Retreinar Item'}
                 </Button>
@@ -190,19 +190,19 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
           onClose={() => setSelectedError(null)}
           title={`Retreino de Item • ${selectedError.subject}`}
         >
-          <div className="space-y-4 font-sans text-xs sm:text-sm">
+          <div className="space-y-5 font-sans text-xs sm:text-sm">
             <p className="text-[var(--text-primary)] font-medium leading-relaxed">
               {selectedError.question_text}
             </p>
 
-            <div className="grid grid-cols-5 gap-2 pt-2">
+            <div className="grid grid-cols-5 gap-2.5 pt-2">
               {['A', 'B', 'C', 'D', 'E'].map((opt) => (
                 <button
                   key={opt}
                   onClick={() => setRetryOption(opt)}
-                  className={`h-11 rounded font-mono font-bold text-sm transition-all border ${
+                  className={`h-12 rounded-lg font-mono font-bold text-sm sm:text-base transition-all border ${
                     retryOption === opt
-                      ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)]'
+                      ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] shadow-md'
                       : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-primary)] hover:border-[var(--border-focus)]'
                   }`}
                 >
@@ -216,13 +216,13 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
               fullWidth={true}
               onClick={handleExecuteRetry}
               disabled={!retryOption}
-              className="font-bold mt-2"
+              className="font-bold text-sm mt-2 shadow-md"
             >
               Confirmar Resposta de Retreino
             </Button>
 
             {retryResult && (
-              <div className="p-4 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 animate-fade-in">
+              <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 animate-fade-in">
                 <CarimboStatus 
                   status={retryResult.correct ? "homologado" : "vulneravel"} 
                   label={retryResult.correct ? "ACERTOU • SUPERAÇÃO HOMOLOGADA (+15 XP)" : "INCORRETO • MANTIDO NO CADERNO"} 
@@ -234,8 +234,8 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
             )}
 
             {/* Anotação Técnica */}
-            <div className="space-y-1.5 pt-2 border-t border-[var(--border-subtle)]">
-              <label className="font-mono text-xs text-[var(--text-muted)] uppercase">
+            <div className="space-y-2 pt-3 border-t border-[var(--border-subtle)]">
+              <label className="font-mono text-xs text-[var(--text-muted)] uppercase font-bold">
                 Anotação Técnica Pessoal:
               </label>
               <textarea
@@ -243,13 +243,14 @@ export const ErrorNotebookPage: React.FC<ErrorNotebookPageProps> = ({ careerId }
                 onChange={(e) => setNotes(e.target.value)}
                 placeholder="Ex: Artigo de lei ou mnemônico chave para não errar..."
                 rows={2}
-                className="w-full p-2.5 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans"
+                className="w-full p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-sans"
               />
               <Button
                 variant="outline"
                 size="sm"
                 fullWidth={true}
                 onClick={handleSaveNotes}
+                className="font-mono text-xs font-semibold"
               >
                 Salvar Nota Técnica
               </Button>

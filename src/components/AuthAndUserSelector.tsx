@@ -151,7 +151,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
         <div className="w-full max-w-sm space-y-6">
           <div className="text-center space-y-2">
             <CarimboStatus status="em_revisao" label="ACESSO RESTRITO" />
-            <h1 className="font-display font-bold text-2xl text-[var(--text-primary)] tracking-tight">
+            <h1 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
               Gabarito<span className="text-[var(--accent-primary)] font-mono font-normal">.AI</span>
             </h1>
             <p className="text-xs text-[var(--text-muted)]">
@@ -159,10 +159,10 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
             </p>
           </div>
 
-          <Card className="p-6 space-y-4 shadow-xl">
+          <Card className="p-6 sm:p-8 space-y-5 shadow-2xl bg-[var(--bg-surface)]">
             <form onSubmit={handleVerifyPin} className="space-y-4">
               <div className="space-y-1.5">
-                <label className="font-mono text-xs uppercase text-[var(--text-muted)] tracking-wider">
+                <label className="font-mono text-xs uppercase text-[var(--text-muted)] tracking-wider font-bold">
                   PIN de Acesso Institucional:
                 </label>
                 <input
@@ -171,12 +171,12 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   value={pinInput}
                   onChange={(e) => setPinInput(e.target.value)}
                   placeholder="••••"
-                  className="w-full h-11 px-3 text-center text-lg font-mono tracking-widest rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                  className="w-full h-12 px-4 text-center text-xl font-mono tracking-widest rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none shadow-sm"
                 />
               </div>
 
               {pinError && (
-                <div className="p-2.5 rounded bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)] text-xs text-center border border-[var(--accent-danger)]/30 font-mono">
+                <div className="p-3 rounded-lg bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)] text-xs text-center border border-[var(--accent-danger)]/30 font-mono font-bold">
                   [ {pinError} ]
                 </div>
               )}
@@ -186,7 +186,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                 variant="brand"
                 fullWidth={true}
                 size="lg"
-                className="font-bold text-sm"
+                className="font-bold text-sm shadow-md"
               >
                 Autenticar & Acessar
               </Button>
@@ -200,15 +200,15 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
   // Phase 2: User Profile Selection & Creation Screen
   return (
     <div className="min-h-screen w-screen flex items-center justify-center p-4 sm:p-6 bg-[var(--bg-base)] animate-fade-in select-none font-sans">
-      <div className="w-full max-w-xl space-y-6">
+      <div className="w-full max-w-2xl space-y-6">
         
         {/* Brand Top Header */}
-        <div className="text-center space-y-2">
+        <div className="text-center space-y-3">
           <CarimboStatus status="homologado" label="SISTEMA DE IDENTIFICAÇÃO OFICIAL" />
-          <h1 className="font-display font-bold text-3xl sm:text-4xl text-[var(--text-primary)] tracking-tight">
+          <h1 className="font-display font-bold text-3xl sm:text-4xl lg:text-5xl text-[var(--text-primary)] tracking-tight">
             Quem está estudando hoje?
           </h1>
-          <p className="text-xs sm:text-sm text-[var(--text-secondary)]">
+          <p className="text-xs sm:text-sm text-[var(--text-secondary)] max-w-md mx-auto leading-relaxed">
             Selecione seu perfil de concurseiro para carregar seu histórico ou cadastre um novo estudante
           </p>
         </div>
@@ -216,11 +216,11 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
         {/* Existing Profiles List */}
         <div className="space-y-3">
           {loading ? (
-            <div className="text-center py-8 text-xs text-[var(--text-muted)] font-mono">
+            <div className="text-center py-12 text-xs text-[var(--text-muted)] font-mono">
               [ CONSULTANDO BANCO DE DADOS OFICIAL... ]
             </div>
           ) : profiles.length > 0 ? (
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3.5">
               {profiles.map((p: any) => {
                 const career = CAREERS_LIST.find(c => c.id === p.active_career_id) || CAREERS_LIST[0];
                 return (
@@ -228,17 +228,17 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     key={p.id}
                     hoverable={true}
                     onClick={() => handleSelectExistingUser(p)}
-                    className="p-4 flex items-center justify-between gap-3 group border border-[var(--border-subtle)] hover:border-[var(--accent-primary)]"
+                    className="p-5 flex items-center justify-between gap-3 group border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-[var(--bg-surface)] shadow-sm cursor-pointer"
                   >
-                    <div className="truncate text-left space-y-0.5">
-                      <div className="text-xs font-bold text-[var(--text-primary)] truncate">
+                    <div className="truncate text-left space-y-1">
+                      <div className="text-sm font-bold text-[var(--text-primary)] truncate">
                         {p.name}
                       </div>
-                      <div className="text-[11px] text-[var(--text-muted)] font-mono truncate">
+                      <div className="text-xs text-[var(--text-muted)] font-mono truncate">
                         {career.name.split('—')[0]} ({career.banca})
                       </div>
                     </div>
-                    <ChevronRight className="w-4 h-4 text-[var(--text-muted)] group-hover:text-[var(--accent-primary)] shrink-0 transition-colors" />
+                    <ChevronRight className="w-5 h-5 text-[var(--text-muted)] group-hover:text-[var(--accent-primary)] shrink-0 transition-colors" />
                   </Card>
                 );
               })}
@@ -249,7 +249,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
           <Card
             hoverable={true}
             onClick={() => setShowCreateModal(true)}
-            className="p-4 text-center border-dashed border-2 border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-transparent flex items-center justify-center gap-2 text-xs font-mono font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer uppercase tracking-wider"
+            className="p-5 text-center border-dashed border-2 border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-transparent flex items-center justify-center gap-2 text-xs sm:text-sm font-mono font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer uppercase tracking-wider"
           >
             <span>[ + Criar Novo Perfil de Estudante ]</span>
           </Card>
@@ -257,23 +257,23 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
 
         {/* Create Profile Modal */}
         {showCreateModal && (
-          <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/75 backdrop-blur-sm animate-fade-in">
-            <div className="w-full max-w-md bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-xl p-6 space-y-4 shadow-2xl animate-fade-in">
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-fade-in">
+            <div className="w-full max-w-md bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-xl p-6 sm:p-8 space-y-5 shadow-2xl animate-fade-in">
               <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-                <h3 className="font-display font-bold text-base text-[var(--text-primary)] tracking-tight">
+                <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
                   Cadastrar Novo Estudante
                 </h3>
                 <button
                   onClick={() => setShowCreateModal(false)}
                   className="font-mono text-xs text-[var(--text-muted)] hover:text-[var(--text-primary)]"
                 >
-                  [ X ]
+                  [ FECHAR ]
                 </button>
               </div>
 
-              <form onSubmit={handleCreateProfile} className="space-y-4 font-sans text-xs">
-                <div className="space-y-1">
-                  <label className="font-mono text-[11px] uppercase text-[var(--text-muted)]">
+              <form onSubmit={handleCreateProfile} className="space-y-4 font-sans text-xs sm:text-sm">
+                <div className="space-y-1.5">
+                  <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
                     Nome Completo ou Apelido:
                   </label>
                   <input
@@ -282,18 +282,18 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     placeholder="Ex: João Soares"
                     value={newName}
                     onChange={(e) => setNewName(e.target.value)}
-                    className="w-full h-10 px-3 rounded text-xs bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                    className="w-full h-11 px-3.5 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none shadow-sm"
                   />
                 </div>
 
-                <div className="space-y-1">
-                  <label className="font-mono text-[11px] uppercase text-[var(--text-muted)]">
+                <div className="space-y-1.5">
+                  <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
                     Concurso / Edital Alvo:
                   </label>
                   <select
                     value={newCareerId}
                     onChange={(e) => setNewCareerId(e.target.value)}
-                    className="w-full h-10 px-3 rounded text-xs bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none cursor-pointer font-sans"
+                    className="w-full h-11 px-3.5 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none cursor-pointer font-sans shadow-sm"
                   >
                     {CAREERS_LIST.map((c) => (
                       <option key={c.id} value={c.id}>
@@ -303,19 +303,19 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   </select>
                 </div>
 
-                <div className="space-y-1">
-                  <label className="font-mono text-[11px] uppercase text-[var(--text-muted)]">
+                <div className="space-y-1.5">
+                  <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
                     Meta Diária de Estudos:
                   </label>
-                  <div className="grid grid-cols-3 gap-2 font-mono">
+                  <div className="grid grid-cols-3 gap-2.5 font-mono">
                     {[1, 2, 4].map((hours) => (
                       <button
                         type="button"
                         key={hours}
                         onClick={() => setNewGoalHours(hours)}
-                        className={`h-9 rounded text-xs font-bold transition-all border ${
+                        className={`h-10 rounded-lg text-xs font-bold transition-all border ${
                           newGoalHours === hours
-                            ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)]'
+                            ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] shadow-md'
                             : 'bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
                         }`}
                       >
@@ -325,13 +325,14 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   </div>
                 </div>
 
-                <div className="pt-2 flex gap-2">
+                <div className="pt-3 flex gap-3">
                   <Button
                     type="button"
                     variant="outline"
                     size="md"
                     fullWidth={true}
                     onClick={() => setShowCreateModal(false)}
+                    className="font-mono text-xs"
                   >
                     Cancelar
                   </Button>
@@ -341,7 +342,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     size="md"
                     fullWidth={true}
                     disabled={creatingUser || !newName.trim()}
-                    className="font-bold font-mono"
+                    className="font-bold font-mono text-xs shadow-md"
                   >
                     {creatingUser ? "Cadastrando..." : "Iniciar Jornada"}
                   </Button>

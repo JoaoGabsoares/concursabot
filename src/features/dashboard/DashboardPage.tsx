@@ -20,261 +20,236 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
   onStartStudy
 }) => {
   const currentCareer = getCareerById(careerId);
-  const streak = user?.streakDays || 0;
-  const level = user?.level || 1;
-  const xp = user?.xp || 0;
-  const currentLevelProgress = xp % 500;
-  const xpPercent = Math.min(100, Math.round((currentLevelProgress / 500) * 100));
 
-  const questionsDone = user?.todayQuestions || 0;
-  const questionsGoal = user?.dailyGoalQuestions || 30;
-  const questionsPercent = Math.min(100, Math.round((questionsDone / questionsGoal) * 100));
-
-  const minutesDone = user?.todayMinutes || 0;
-  const minutesGoal = user?.dailyGoalMinutes || 60;
-  const minutesPercent = Math.min(100, Math.round((minutesDone / minutesGoal) * 100));
-
-  const nextMission: DailyMission = {
-    subject: currentCareer.id.includes('bb') ? 'Conhecimentos Bancários' : currentCareer.id.includes('atrfb') ? 'Direito Tributário' : 'Legislação do SUS',
-    topic: currentCareer.id.includes('bb') ? 'Sistema Financeiro Nacional, Mercado de Câmbio & Resoluções CMN' : currentCareer.id.includes('atrfb') ? 'Competência Tributária, Princípios Constitucionais & CTN' : 'Princípios e Diretrizes do SUS (Lei Federal 8.080/90)',
-    revisionType: 'D+1',
-    estimatedMinutes: 30
+  // Focus mission based on active career
+  const currentMission: DailyMission = {
+    subject: careerId.includes('bb')
+      ? 'Conhecimentos Bancários'
+      : careerId.includes('atrfb')
+      ? 'Direito Tributário'
+      : careerId.includes('marinha')
+      ? 'Organização Básica da Marinha'
+      : 'Legislação do SUS',
+    topic: careerId.includes('bb')
+      ? 'Sistema Financeiro Nacional & Mercado Financeiro'
+      : careerId.includes('atrfb')
+      ? 'Competência Tributária, Princípios Constitucionais & CTN'
+      : careerId.includes('marinha')
+      ? 'História Naval, Tradições Navais & Hierarquia'
+      : 'Princípios Doutrinários e Organizativos do SUS (Lei 8.080/90)',
+    estimatedMinutes: 30,
+    rewardXp: 25,
+    status: 'pending'
   };
 
+  const todayQuestions = user?.todayQuestions || 0;
+  const goalQuestions = user?.dailyGoalQuestions || 30;
+  const todayMinutes = user?.todayMinutes || 0;
+  const goalMinutes = user?.dailyGoalMinutes || 180;
+  const userXp = user?.xp || 0;
+  const userLevel = user?.level || 1;
+  const userStreak = user?.streakDays || 0;
+
   return (
-    <div className="space-y-8 pb-20 font-sans animate-fade-in">
+    <div className="space-y-6 pb-20 max-w-6xl mx-auto font-sans animate-fade-in">
       
-      {/* 1. HERO INSTITUCIONAL DO EDITAL (Newsreader Display + Carimbo de Status) */}
-      <div className="rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-surface)] p-6 sm:p-8 space-y-6">
-        <div className="flex flex-wrap items-center justify-between gap-3 border-b border-[var(--border-subtle)] pb-4">
+      {/* 1. HERO: Missão Oficial do Dia */}
+      <Card className="p-6 sm:p-8 space-y-6 border-l-4 border-l-[var(--accent-primary)] bg-[var(--bg-surface)] shadow-lg">
+        
+        {/* Top Meta Line */}
+        <div className="flex flex-wrap items-center justify-between gap-3 pb-3 border-b border-[var(--border-subtle)]">
           <div className="flex items-center gap-3">
-            <span className="font-mono text-xs uppercase tracking-wider text-[var(--text-muted)]">
-              EDITAL: {currentCareer.name} ({currentCareer.banca})
-            </span>
-            <span className="text-[var(--border-subtle)]">|</span>
-            <span className="font-mono text-xs text-[var(--text-muted)]">
-              CICLO DE REVISÃO ESPAÇADA
+            <CarimboStatus status="homologado" label="DISCIPLINA EM PAUTA" />
+            <span className="font-mono text-xs text-[var(--text-muted)] uppercase tracking-wider">
+              {currentCareer.name.split('—')[0]} • {currentCareer.banca}
             </span>
           </div>
-          <CarimboStatus status="em_revisao" label="PRIORITÁRIO NO EDITAL" />
+
+          <div className="flex items-center gap-3 font-mono text-xs">
+            <span className="text-[var(--text-muted)]">TEMPO: <strong className="text-[var(--text-primary)]">~30 MIN</strong></span>
+            <span className="text-[var(--text-muted)]">•</span>
+            <span className="text-[var(--accent-primary)] font-bold">+{currentMission.rewardXp} XP</span>
+          </div>
         </div>
 
-        <div className="space-y-2 max-w-4xl">
-          <div className="font-mono text-xs uppercase tracking-wider text-[var(--accent-primary)] font-semibold">
-            Disciplina em Pauta
-          </div>
-          <h1 className="font-display font-bold text-2xl sm:text-4xl text-[var(--text-primary)] leading-tight tracking-tight">
-            {nextMission.subject}
+        {/* Main Title & Topic */}
+        <div className="space-y-2">
+          <h1 className="font-display font-bold text-2xl sm:text-3xl lg:text-4xl text-[var(--text-primary)] tracking-tight leading-tight">
+            {currentMission.subject}
           </h1>
-          <p className="text-sm sm:text-base text-[var(--text-secondary)] leading-relaxed">
-            {nextMission.topic}
+          <p className="text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed max-w-3xl">
+            {currentMission.topic}
           </p>
         </div>
 
-        <div className="flex flex-wrap items-center gap-6 font-mono text-xs text-[var(--text-muted)] pt-2 border-t border-[var(--border-subtle)]">
-          <div>TEMPO SUGERIDO: <span className="text-[var(--text-primary)] font-bold">~{nextMission.estimatedMinutes} MINUTOS</span></div>
-          <div>MÉTODO: <span className="text-[var(--text-primary)] font-bold">REPETIÇÃO ESPAÇADA D+1</span></div>
-          <div>RECOMPENSA: <span className="text-[var(--accent-primary)] font-bold">+25 XP</span></div>
-        </div>
-
-        {/* Action CTAs */}
-        <div className="pt-2 flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
+        {/* Action Button Group */}
+        <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 pt-2">
           <Button
             size="lg"
             variant="brand"
-            onClick={() => onStartStudy(nextMission)}
-            className="font-bold text-sm"
+            onClick={() => onStartStudy(currentMission)}
+            className="font-bold text-sm sm:text-base px-6 shadow-md"
           >
             Iniciar Estudo da Disciplina
           </Button>
+
           <Button
             size="lg"
             variant="outline"
             onClick={() => onNavigate('study')}
-            className="text-sm"
+            className="text-xs sm:text-sm font-semibold px-5"
           >
             Abrir Sala de Estudos Teórica
           </Button>
         </div>
-      </div>
+      </Card>
 
-      {/* 2. GRID DE 4 MÉTRICAS DO ALUNO (IBM Plex Mono para Dados e Números Reais) */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      {/* 2. GRID DE 4 MÉTRICAS (Alinhamento & Contraste Calibrado) */}
+      <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
         
         {/* Questões Hoje */}
-        <Card className="flex flex-col justify-between space-y-4">
-          <div className="flex items-center justify-between">
-            <span className="font-mono text-xs uppercase tracking-wider text-[var(--text-muted)]">
-              Questões Hoje
-            </span>
-            <span className="font-mono text-xs font-semibold text-[var(--accent-primary)]">
-              {questionsPercent}%
+        <Card className="p-5 flex flex-col justify-between space-y-3">
+          <div className="flex items-center justify-between font-mono text-[11px] text-[var(--text-muted)]">
+            <span className="font-bold uppercase tracking-wider">Questões Hoje</span>
+            <span className="font-bold text-[var(--accent-primary)]">
+              {Math.min(100, Math.round((todayQuestions / goalQuestions) * 100))}%
             </span>
           </div>
-          <div className="space-y-1">
-            <div className="font-mono text-3xl sm:text-4xl font-bold text-[var(--text-primary)]">
-              {questionsDone}
-              <span className="text-xs text-[var(--text-muted)] font-normal ml-1">/ {questionsGoal}</span>
+          <div>
+            <div className="font-mono text-2xl sm:text-3xl font-bold text-[var(--text-primary)] tracking-tight">
+              {todayQuestions} <span className="text-xs sm:text-sm text-[var(--text-muted)] font-normal">/ {goalQuestions}</span>
             </div>
-            <div className="text-xs text-[var(--text-secondary)]">Meta diária de resolução</div>
+            <div className="text-[11px] text-[var(--text-muted)] mt-1">Meta de resolução diária</div>
           </div>
-          <ProgressBar value={questionsPercent} variant="brand" />
+          <ProgressBar value={todayQuestions} max={goalQuestions} />
         </Card>
 
         {/* Tempo Líquido */}
-        <Card className="flex flex-col justify-between space-y-4">
-          <div className="flex items-center justify-between">
-            <span className="font-mono text-xs uppercase tracking-wider text-[var(--text-muted)]">
-              Tempo Líquido
-            </span>
-            <span className="font-mono text-xs font-semibold text-[var(--accent-primary)]">
-              {minutesPercent}%
+        <Card className="p-5 flex flex-col justify-between space-y-3">
+          <div className="flex items-center justify-between font-mono text-[11px] text-[var(--text-muted)]">
+            <span className="font-bold uppercase tracking-wider">Tempo Líquido</span>
+            <span className="font-bold text-[var(--accent-primary)]">
+              {Math.min(100, Math.round((todayMinutes / goalMinutes) * 100))}%
             </span>
           </div>
-          <div className="space-y-1">
-            <div className="font-mono text-3xl sm:text-4xl font-bold text-[var(--text-primary)]">
-              {minutesDone}
-              <span className="text-xs text-[var(--text-muted)] font-normal ml-1">/ {minutesGoal}m</span>
+          <div>
+            <div className="font-mono text-2xl sm:text-3xl font-bold text-[var(--text-primary)] tracking-tight">
+              {todayMinutes} <span className="text-xs sm:text-sm text-[var(--text-muted)] font-normal">/ {goalMinutes}m</span>
             </div>
-            <div className="text-xs text-[var(--text-secondary)]">Minutos de estudo focado</div>
+            <div className="text-[11px] text-[var(--text-muted)] mt-1">Minutos de estudo focado</div>
           </div>
-          <ProgressBar value={minutesPercent} variant="brand" />
+          <ProgressBar value={todayMinutes} max={goalMinutes} />
         </Card>
 
         {/* Ofensiva */}
-        <Card className="flex flex-col justify-between space-y-4">
-          <div className="flex items-center justify-between">
-            <span className="font-mono text-xs uppercase tracking-wider text-[var(--text-muted)]">
-              Ofensiva
-            </span>
-            <CarimboStatus status={streak > 0 ? "homologado" : "pendente"} label={streak > 0 ? "ATIVO" : "INATIVO"} />
+        <Card className="p-5 flex flex-col justify-between space-y-3">
+          <div className="flex items-center justify-between font-mono text-[11px] text-[var(--text-muted)]">
+            <span className="font-bold uppercase tracking-wider">Ofensiva</span>
+            <CarimboStatus status={userStreak > 0 ? "homologado" : "pendente"} label={userStreak > 0 ? "ATIVO" : "INATIVO"} />
           </div>
-          <div className="space-y-1">
-            <div className="font-mono text-3xl sm:text-4xl font-bold text-[var(--text-primary)]">
-              {streak}
-              <span className="text-xs text-[var(--text-muted)] font-normal ml-1">dias</span>
+          <div>
+            <div className="font-mono text-2xl sm:text-3xl font-bold text-[var(--text-primary)] tracking-tight">
+              {userStreak} <span className="text-xs sm:text-sm text-[var(--text-muted)] font-normal">dias</span>
             </div>
-            <div className="text-xs text-[var(--text-secondary)]">Consistência de estudos</div>
+            <div className="text-[11px] text-[var(--text-muted)] mt-1">Consistência ininterrupta</div>
           </div>
-          <div className="font-mono text-[11px] text-[var(--text-muted)]">
-            {streak > 0 ? 'Frequência regular registrada' : 'Inicie sua sequência hoje'}
+          <div className="w-full h-2 rounded-full bg-[var(--bg-elevated)] border border-[var(--border-subtle)] overflow-hidden">
+            <div 
+              className="h-full bg-[var(--accent-primary)] transition-all duration-300"
+              style={{ width: `${Math.min(100, userStreak * 14)}%` }}
+            />
           </div>
         </Card>
 
-        {/* Nível do Estudante */}
-        <Card className="flex flex-col justify-between space-y-4">
-          <div className="flex items-center justify-between">
-            <span className="font-mono text-xs uppercase tracking-wider text-[var(--text-muted)]">
-              Nível & Progresso
-            </span>
-            <span className="font-mono text-xs font-bold text-[var(--accent-primary)]">
-              {xp} XP
-            </span>
+        {/* Nível & XP */}
+        <Card className="p-5 flex flex-col justify-between space-y-3">
+          <div className="flex items-center justify-between font-mono text-[11px] text-[var(--text-muted)]">
+            <span className="font-bold uppercase tracking-wider">Progresso XP</span>
+            <span className="font-bold text-[var(--accent-primary)]">{userXp} XP</span>
           </div>
-          <div className="space-y-1">
-            <div className="font-mono text-3xl sm:text-4xl font-bold text-[var(--text-primary)]">
-              Nível {level}
+          <div>
+            <div className="font-mono text-2xl sm:text-3xl font-bold text-[var(--text-primary)] tracking-tight">
+              Nível {userLevel}
             </div>
-            <div className="text-xs text-[var(--text-secondary)]">
-              {currentLevelProgress} / 500 XP para Nível {level + 1}
-            </div>
+            <div className="text-[11px] text-[var(--text-muted)] mt-1">{userXp % 500} / 500 XP para Nível {userLevel + 1}</div>
           </div>
-          <ProgressBar value={xpPercent} variant="brand" />
+          <ProgressBar value={userXp % 500} max={500} />
         </Card>
 
       </div>
 
       {/* 3. RADAR DE VULNERABILIDADES & CADERNO DE ERROS */}
-      <div className="space-y-3">
-        <div className="flex items-center justify-between px-1">
-          <h2 className="font-mono text-xs font-bold uppercase tracking-wider text-[var(--text-muted)]">
-            Vulnerabilidades & Caderno de Erros
-          </h2>
-          <button 
-            onClick={() => onNavigate('erros')}
-            className="font-mono text-xs text-[var(--accent-primary)] hover:underline flex items-center gap-1"
-          >
-            Abrir Caderno Completo <ChevronRight className="w-3.5 h-3.5" />
-          </button>
+      <Card className="p-5 sm:p-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4 border border-[var(--border-subtle)] bg-[var(--bg-surface)]">
+        <div className="space-y-1.5">
+          <div className="flex items-center gap-2.5">
+            <CarimboStatus 
+              status={pendingErrorsCount > 0 ? "vulneravel" : "homologado"} 
+              label={pendingErrorsCount > 0 ? `${pendingErrorsCount} PENDENTES` : "ZERADO"} 
+            />
+            <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+              Caderno de Erros & Vulnerabilidades
+            </h3>
+          </div>
+          <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
+            {pendingErrorsCount > 0
+              ? `Você possui ${pendingErrorsCount} falhas registradas aguardando retreino com ganho de +15 XP.`
+              : 'Todas as falhas identificadas anteriormente foram retreinadas e superadas com sucesso.'}
+          </p>
         </div>
 
-        <Card className="space-y-4 border-l-4 border-l-[var(--color-status-danger)]">
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-            <div className="space-y-1.5">
-              <div className="flex items-center gap-3">
-                <CarimboStatus 
-                  status={pendingErrorsCount > 0 ? "vulneravel" : "homologado"} 
-                  label={pendingErrorsCount > 0 ? `${pendingErrorsCount} PENDENTES` : "ZERADO"} 
-                />
-                <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                  {pendingErrorsCount > 0 
-                    ? `${pendingErrorsCount} ${pendingErrorsCount === 1 ? 'questão errada aguardando superação' : 'questões erradas aguardando superação'}`
-                    : 'Nenhuma vulnerabilidade pendente no caderno'
-                  }
-                </h3>
-              </div>
-              <p className="text-xs sm:text-sm text-[var(--text-secondary)] max-w-3xl leading-relaxed">
-                {pendingErrorsCount > 0 
-                  ? 'Questões erradas em simulados anteriores foram isoladas. Refaça cada uma para consolidar os pontos cegos e ganhar bônus de superação (+15 XP).'
-                  : 'Todas as falhas identificadas anteriormente foram retreinadas e superadas.'
-                }
-              </p>
-            </div>
+        <Button
+          variant="outline"
+          size="md"
+          onClick={() => onNavigate('erros')}
+          className="font-mono text-xs shrink-0 self-start sm:self-center"
+        >
+          Acessar Caderno de Erros
+        </Button>
+      </Card>
 
-            <Button
-              variant={pendingErrorsCount > 0 ? "brand" : "secondary"}
-              size="md"
-              onClick={() => onNavigate('erros')}
-              className="text-xs font-semibold shrink-0"
-            >
-              {pendingErrorsCount > 0 ? 'Retreinar Erros Agora' : 'Acessar Caderno'}
-            </Button>
-          </div>
-        </Card>
-      </div>
-
-      {/* 4. MÓDULOS DE PREPARAÇÃO (3 Cards Institucionais) */}
+      {/* 4. MÓDULOS OFICIAIS DE PREPARAÇÃO (Alturas Equalizadas) */}
       <div className="space-y-3">
-        <div className="font-mono text-xs font-bold uppercase tracking-wider text-[var(--text-muted)] px-1">
+        <div className="font-mono text-xs font-bold text-[var(--text-muted)] uppercase tracking-wider px-1">
           Módulos Oficiais de Preparação
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           
-          {/* Card: Simulados */}
+          {/* Módulo 1: Simulados */}
           <Card 
-            hoverable={true} 
+            hoverable={true}
             onClick={() => onNavigate('simulados')}
-            className="flex flex-col justify-between space-y-4"
+            className="p-6 h-full flex flex-col justify-between space-y-4 cursor-pointer"
           >
-            <div className="space-y-2">
+            <div className="space-y-2.5">
               <div className="flex items-center justify-between">
-                <span className="font-mono text-[10px] uppercase tracking-wider text-[var(--text-muted)]">Módulo 01</span>
-                <CarimboStatus status="pendente" label="CRONOMETRADO" />
+                <span className="font-mono text-[10px] text-[var(--text-muted)] uppercase font-bold">Módulo 01</span>
+                <CarimboStatus status="em_revisao" label="CRONOMETRADO" />
               </div>
               <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
                 Simulados & Treino Real
               </h3>
               <p className="text-xs text-[var(--text-secondary)] leading-relaxed">
-                Provas estruturadas com distribuição de pesos conforme a banca examinadora e tempo oficial de prova.
+                Provas estruturadas com distribuição de pesos conforme a banca examinadora {currentCareer.banca} e tempo oficial de prova.
               </p>
             </div>
-            <div className="pt-2 flex items-center justify-between font-mono text-xs text-[var(--accent-primary)] font-semibold border-t border-[var(--border-subtle)]">
+
+            <div className="pt-2 border-t border-[var(--border-subtle)] flex items-center justify-between font-mono text-xs font-semibold text-[var(--accent-primary)]">
               <span>Acessar Simulados</span>
               <ChevronRight className="w-4 h-4" />
             </div>
           </Card>
 
-          {/* Card: Redação */}
+          {/* Módulo 2: Redação */}
           <Card 
-            hoverable={true} 
+            hoverable={true}
             onClick={() => onNavigate('redacao')}
-            className="flex flex-col justify-between space-y-4"
+            className="p-6 h-full flex flex-col justify-between space-y-4 cursor-pointer"
           >
-            <div className="space-y-2">
+            <div className="space-y-2.5">
               <div className="flex items-center justify-between">
-                <span className="font-mono text-[10px] uppercase tracking-wider text-[var(--text-muted)]">Módulo 02</span>
-                <CarimboStatus status="pendente" label="4 CRITÉRIOS" />
+                <span className="font-mono text-[10px] text-[var(--text-muted)] uppercase font-bold">Módulo 02</span>
+                <CarimboStatus status="homologado" label="4 CRITÉRIOS" />
               </div>
               <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
                 Redação Discursiva
@@ -283,21 +258,22 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
                 Avaliação técnica em 4 critérios da banca (tema, estrutura dissertativa, gramática e argumentação jurídica).
               </p>
             </div>
-            <div className="pt-2 flex items-center justify-between font-mono text-xs text-[var(--accent-primary)] font-semibold border-t border-[var(--border-subtle)]">
+
+            <div className="pt-2 border-t border-[var(--border-subtle)] flex items-center justify-between font-mono text-xs font-semibold text-[var(--accent-primary)]">
               <span>Escrever Redação</span>
               <ChevronRight className="w-4 h-4" />
             </div>
           </Card>
 
-          {/* Card: Raio-X */}
+          {/* Módulo 3: Raio-X */}
           <Card 
-            hoverable={true} 
+            hoverable={true}
             onClick={() => onNavigate('edital')}
-            className="flex flex-col justify-between space-y-4"
+            className="p-6 h-full flex flex-col justify-between space-y-4 cursor-pointer"
           >
-            <div className="space-y-2">
+            <div className="space-y-2.5">
               <div className="flex items-center justify-between">
-                <span className="font-mono text-[10px] uppercase tracking-wider text-[var(--text-muted)]">Módulo 03</span>
+                <span className="font-mono text-[10px] text-[var(--text-muted)] uppercase font-bold">Módulo 03</span>
                 <CarimboStatus status="homologado" label="PARETO 80/20" />
               </div>
               <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
@@ -307,7 +283,8 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
                 Mapeamento estatístico dos assuntos com maior frequência histórica nas provas anteriores da banca {currentCareer.banca}.
               </p>
             </div>
-            <div className="pt-2 flex items-center justify-between font-mono text-xs text-[var(--accent-primary)] font-semibold border-t border-[var(--border-subtle)]">
+
+            <div className="pt-2 border-t border-[var(--border-subtle)] flex items-center justify-between font-mono text-xs font-semibold text-[var(--accent-primary)]">
               <span>Ver Tópicos de Ouro</span>
               <ChevronRight className="w-4 h-4" />
             </div>

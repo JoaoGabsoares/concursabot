@@ -1,102 +1,67 @@
-import React, { ReactNode } from 'react';
-import { X } from 'lucide-react';
+import React from 'react';
 
-// 1. Signature Element: Carimbo de Processo / Selo de Edital
-export type CarimboState = 'homologado' | 'em_revisao' | 'pendente' | 'vulneravel' | 'coberto';
-
+// 1. Signature Element: Carimbo de Status do Edital
 export interface CarimboStatusProps {
-  status: CarimboState;
-  label?: string;
+  status: 'homologado' | 'em_revisao' | 'vulneravel' | 'pendente';
+  label: string;
   className?: string;
 }
 
 export const CarimboStatus: React.FC<CarimboStatusProps> = ({ status, label, className = '' }) => {
-  const statusLabels: Record<CarimboState, string> = {
-    homologado: 'HOMOLOGADO',
-    coberto: 'COBERTO',
-    em_revisao: 'EM REVISÃO',
-    pendente: 'PENDENTE',
-    vulneravel: 'VULNERÁVEL'
-  };
-
-  const statusClasses: Record<CarimboState, string> = {
+  const classMap = {
     homologado: 'carimbo-homologado',
-    coberto: 'carimbo-homologado',
     em_revisao: 'carimbo-em-revisao',
-    pendente: 'carimbo-pendente',
-    vulneravel: 'carimbo-vulneravel'
+    vulneravel: 'carimbo-vulneravel',
+    pendente: 'carimbo-pendente'
   };
-
-  const text = label || statusLabels[status];
 
   return (
-    <span className={`carimbo-status ${statusClasses[status]} ${className}`}>
-      [ {text} ]
+    <span className={`carimbo-status ${classMap[status]} ${className}`}>
+      [ {label} ]
     </span>
   );
 };
 
-// 2. Card Primitive (Structured Institutional Surface)
-export interface CardProps {
-  children: ReactNode;
-  className?: string;
-  onClick?: () => void;
-  hoverable?: boolean;
-}
-
-export const Card: React.FC<CardProps> = ({ children, className = '', onClick, hoverable = false }) => {
-  return (
-    <div
-      onClick={onClick}
-      className={`rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-surface)] p-5 sm:p-6 transition-all duration-150 ${
-        hoverable ? 'hover:border-[var(--border-focus)] hover:bg-[var(--bg-elevated)] cursor-pointer hover:shadow-xs' : ''
-      } ${className}`}
-    >
-      {children}
-    </div>
-  );
-};
-
-// 3. Button Primitive (Tactile Institutional Action)
+// 2. Tactile Button Component (Rich backgrounds, clear borders, tactile depth)
 export interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
-  variant?: 'primary' | 'secondary' | 'outline' | 'danger' | 'ghost' | 'brand';
+  variant?: 'primary' | 'secondary' | 'outline' | 'ghost' | 'brand' | 'danger';
   size?: 'sm' | 'md' | 'lg';
   fullWidth?: boolean;
-  children: ReactNode;
-  icon?: React.ComponentType<{ className?: string }>;
+  icon?: any;
+  children: React.ReactNode;
 }
 
 export const Button: React.FC<ButtonProps> = ({
   variant = 'primary',
   size = 'md',
   fullWidth = false,
-  children,
   icon: Icon,
+  children,
   className = '',
   disabled,
   ...props
 }) => {
-  const sizeClasses = {
-    sm: 'h-8 px-3 text-xs rounded-md',
-    md: 'h-10 px-4 text-xs sm:text-sm rounded-lg min-h-[40px]',
-    lg: 'h-12 px-6 text-sm sm:text-base rounded-xl min-h-[48px]'
+  const baseStyles = 'inline-flex items-center justify-center font-semibold rounded-lg transition-all duration-150 cursor-pointer select-none active:scale-[0.98] disabled:opacity-45 disabled:pointer-events-none disabled:active:scale-100';
+
+  const sizeStyles = {
+    sm: 'h-9 px-3.5 text-xs gap-2',
+    md: 'h-10 px-5 text-xs sm:text-sm gap-2.5',
+    lg: 'h-12 px-6 text-sm sm:text-base gap-3 font-bold',
   };
 
-  const variantClasses = {
-    primary: 'bg-[var(--btn-primary-bg)] text-[var(--btn-primary-text)] font-semibold hover:bg-[var(--btn-primary-hover)] active:scale-[0.98]',
-    brand: 'bg-[var(--accent-primary)] text-white font-semibold hover:bg-[var(--accent-primary-hover)] active:scale-[0.98]',
-    secondary: 'bg-[var(--bg-elevated)] text-[var(--text-primary)] hover:bg-[var(--bg-active)] border border-[var(--border-subtle)] font-medium active:scale-[0.98]',
-    outline: 'bg-transparent text-[var(--text-primary)] border border-[var(--border-subtle)] hover:border-[var(--border-focus)] hover:bg-[var(--bg-elevated)] font-medium',
-    danger: 'bg-[var(--accent-danger)] text-white font-medium hover:opacity-90 active:scale-[0.98]',
-    ghost: 'bg-transparent text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] font-medium'
+  const variantStyles = {
+    brand: 'bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-white shadow-md hover:shadow-lg border border-blue-400/20 active:bg-blue-800',
+    primary: 'bg-[var(--btn-primary-bg)] hover:bg-[var(--btn-primary-hover)] text-white shadow-md hover:shadow-lg border border-blue-400/20',
+    secondary: 'bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] text-[var(--text-primary)] border border-[var(--border-subtle)] hover:border-[var(--border-focus)] shadow-sm',
+    outline: 'bg-[var(--bg-elevated)] hover:bg-[var(--bg-active)] text-[var(--text-primary)] border border-[var(--border-subtle)] hover:border-[var(--border-focus)] shadow-sm',
+    ghost: 'bg-transparent hover:bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]',
+    danger: 'bg-red-600 hover:bg-red-700 text-white shadow-sm border border-red-500/30'
   };
 
   return (
     <button
+      className={`${baseStyles} ${sizeStyles[size]} ${variantStyles[variant]} ${fullWidth ? 'w-full' : ''} ${className}`}
       disabled={disabled}
-      className={`inline-flex items-center justify-center gap-2 font-sans select-none transition-all duration-150 touch-manipulation disabled:opacity-40 disabled:pointer-events-none ${
-        sizeClasses[size]
-      } ${variantClasses[variant]} ${fullWidth ? 'w-full' : ''} ${className}`}
       {...props}
     >
       {Icon && <Icon className="w-4 h-4 shrink-0" />}
@@ -105,102 +70,126 @@ export const Button: React.FC<ButtonProps> = ({
   );
 };
 
-// 4. Badge Primitive (Subtle Tint & Hairline Border)
-export interface BadgeProps {
-  children: ReactNode;
-  variant?: 'default' | 'success' | 'danger' | 'warning' | 'info' | 'brand';
+// 3. Card Component with Border Contrast & Subtle Elevation
+export interface CardProps extends React.HTMLAttributes<HTMLDivElement> {
+  children: React.ReactNode;
+  hoverable?: boolean;
   className?: string;
 }
 
-export const Badge: React.FC<BadgeProps> = ({ children, variant = 'default', className = '' }) => {
+export const Card: React.FC<CardProps> = ({
+  children,
+  hoverable = false,
+  className = '',
+  ...props
+}) => {
+  return (
+    <div
+      className={`rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-surface)] text-[var(--text-primary)] shadow-[var(--shadow-card)] transition-all duration-200 ${
+        hoverable ? 'hover:border-[var(--border-focus)] hover:shadow-[var(--shadow-elevated)] hover:translate-y-[-1px]' : ''
+      } ${className}`}
+      {...props}
+    >
+      {children}
+    </div>
+  );
+};
+
+// 4. Badge Component
+export interface BadgeProps {
+  variant?: 'default' | 'brand' | 'success' | 'warning' | 'danger' | 'outline';
+  children: React.ReactNode;
+  className?: string;
+}
+
+export const Badge: React.FC<BadgeProps> = ({
+  variant = 'default',
+  children,
+  className = '',
+}) => {
   const variantStyles = {
-    default: 'bg-[var(--bg-elevated)] text-[var(--text-secondary)] border-[var(--border-subtle)]',
-    brand: 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border-[var(--accent-primary)]/30 font-semibold',
-    success: 'bg-[var(--color-status-success-bg)] text-[var(--accent-success)] border-[var(--accent-success)]/30 font-semibold',
-    danger: 'bg-[var(--color-status-danger-bg)] text-[var(--accent-danger)] border-[var(--accent-danger)]/30 font-semibold',
-    warning: 'bg-[var(--color-status-warning-bg)] text-[var(--accent-warning)] border-[var(--accent-warning)]/30 font-semibold',
-    info: 'bg-sky-500/10 text-sky-400 border-sky-500/25 font-semibold'
+    default: 'bg-[var(--bg-elevated)] text-[var(--text-secondary)] border border-[var(--border-subtle)]',
+    brand: 'bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] border border-[var(--accent-primary)]/30',
+    success: 'bg-[var(--color-status-success-bg)] text-[var(--color-status-success)] border border-[var(--color-status-success)]/30',
+    warning: 'bg-[var(--color-status-warning-bg)] text-[var(--color-status-warning)] border border-[var(--color-status-warning)]/30',
+    danger: 'bg-[var(--color-status-danger-bg)] text-[var(--color-status-danger)] border border-[var(--color-status-danger)]/30',
+    outline: 'bg-transparent text-[var(--text-secondary)] border border-[var(--border-subtle)]',
   };
 
   return (
-    <span className={`inline-flex items-center px-2 py-0.5 rounded text-[11px] font-mono border ${variantStyles[variant]} ${className}`}>
+    <span
+      className={`inline-flex items-center px-2 py-0.5 rounded text-[11px] font-mono font-bold uppercase tracking-wider ${variantStyles[variant]} ${className}`}
+    >
       {children}
     </span>
   );
 };
 
-// 5. Progress Bar Primitive (Only with Real Metric Value)
+// 5. ProgressBar Component with High Contrast Track
 export interface ProgressBarProps {
   value: number; // 0 to 100
-  variant?: 'brand' | 'success' | 'warning' | 'danger';
+  max?: number;
+  label?: string;
   className?: string;
 }
 
 export const ProgressBar: React.FC<ProgressBarProps> = ({
   value,
-  variant = 'brand',
-  className = ''
+  max = 100,
+  label,
+  className = '',
 }) => {
-  const clamped = Math.min(100, Math.max(0, value));
-
-  const barColors = {
-    brand: 'bg-[var(--accent-primary)]',
-    success: 'bg-[var(--accent-success)]',
-    warning: 'bg-[var(--accent-warning)]',
-    danger: 'bg-[var(--accent-danger)]'
-  };
+  const percentage = Math.min(100, Math.max(0, Math.round((value / max) * 100)));
 
   return (
-    <div className={`w-full bg-[var(--bg-elevated)] h-1.5 rounded-full overflow-hidden border border-[var(--border-subtle)] ${className}`}>
-      <div
-        className={`h-full rounded-full transition-all duration-300 ease-out ${barColors[variant]}`}
-        style={{ width: `${clamped}%` }}
-      />
+    <div className={`w-full space-y-1.5 ${className}`}>
+      {label && (
+        <div className="flex justify-between text-xs font-mono text-[var(--text-muted)]">
+          <span>{label}</span>
+          <span className="font-bold text-[var(--text-primary)]">{percentage}%</span>
+        </div>
+      )}
+      <div className="w-full h-2 rounded-full bg-[var(--bg-elevated)] border border-[var(--border-subtle)] overflow-hidden">
+        <div
+          className="h-full bg-[var(--accent-primary)] transition-all duration-300 rounded-full"
+          style={{ width: `${percentage}%` }}
+        />
+      </div>
     </div>
   );
 };
 
-// 6. Bottom Sheet / Modal Primitive
+// 6. Bottom Sheet / Modal Primitives
 export interface BottomSheetProps {
   isOpen: boolean;
   onClose: () => void;
   title: string;
-  children: ReactNode;
+  children: React.ReactNode;
 }
 
-export const BottomSheet: React.FC<BottomSheetProps> = ({ isOpen, onClose, title, children }) => {
+export const BottomSheet: React.FC<BottomSheetProps> = ({
+  isOpen,
+  onClose,
+  title,
+  children,
+}) => {
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4">
-      {/* Backdrop */}
-      <div 
-        className="fixed inset-0 bg-black/70 backdrop-blur-sm transition-opacity animate-fade-in"
-        onClick={onClose}
-      />
-
-      {/* Sheet Modal Container */}
-      <div className="relative w-full sm:max-w-lg bg-[var(--bg-surface)] border-t sm:border border-[var(--border-subtle)] rounded-t-2xl sm:rounded-2xl max-h-[88vh] sm:max-h-[90vh] flex flex-col shadow-2xl z-10 animate-fade-in">
-        {/* Drag Handle (Mobile) */}
-        <div className="w-12 h-1.5 bg-[var(--border-subtle)] rounded-full mx-auto mt-3 sm:hidden" />
-
-        {/* Header */}
-        <div className="flex items-center justify-between px-5 py-4 border-b border-[var(--border-subtle)]">
-          <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)] tracking-tight">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-fade-in">
+      <div className="w-full max-w-lg bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-xl p-6 space-y-4 shadow-2xl animate-fade-in max-h-[90vh] overflow-y-auto">
+        <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
+          <h3 className="font-display font-bold text-base text-[var(--text-primary)] tracking-tight">
             {title}
           </h3>
           <button
             onClick={onClose}
-            className="w-8 h-8 rounded-lg flex items-center justify-center hover:bg-[var(--bg-elevated)] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+            className="font-mono text-xs text-[var(--text-muted)] hover:text-[var(--text-primary)] p-1"
           >
-            <X className="w-4 h-4" />
+            [ FECHAR ]
           </button>
         </div>
-
-        {/* Content Body */}
-        <div className="p-5 overflow-y-auto space-y-4 font-sans">
-          {children}
-        </div>
+        {children}
       </div>
     </div>
   );
