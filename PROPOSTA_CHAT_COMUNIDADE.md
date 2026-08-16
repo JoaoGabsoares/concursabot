@@ -1,15 +1,15 @@
-# 💡 PROPOSTA DE ARQUITETURA — CHAT & COMUNIDADE DE ESTUDOS POR CONCURSO
+# 💡 PROPOSTA DE ARQUITETURA — GABARITO.AI COMUNIDADE & CHAT
 **Status:** Arquivado / Ideia para Futura Implementação | **Nenhum código aplicado no sistema**
 
 ---
 
 ## 🎯 1. Visão Geral & Proposta de Valor
 
-O **ConcursaBot Community Chat** é um conceito para criar uma rede colaborativa em tempo real integrada à plataforma, onde estudantes focados no **mesmo concurso ou carreira** poderão:
+O **Gabarito.AI Community Chat** é um conceito para criar uma rede colaborativa em tempo real integrada à plataforma, onde estudantes focados no **mesmo concurso ou carreira** poderão:
 1. **Trocar Dúvidas & Macetes**: Discutir pegadinhas de bancas específicas (FGV, IBDO, DEnsM).
 2. **Compartilhar Questões & Flashcards**: Enviar questões do banco diretamente no chat com botão "Resolver Agora".
 3. **Salas de Estudo em Grupo (Pomodoro Coletivo)**: Estudar juntos com contadores de tempo sincronizados.
-4. **Tutor IA Co-Piloto no Grupo (`@ConcursaBot`)**: Marcar o bot para tirar dúvidas rápidas ou gerar enquetes ao vivo no grupo com base na base RAG de PDFs.
+4. **Tutor IA Co-Piloto no Grupo (`@GabaritoAI`)**: Marcar o bot para tirar dúvidas rápidas ou gerar enquetes ao vivo no grupo com base na base RAG de PDFs.
 
 ---
 

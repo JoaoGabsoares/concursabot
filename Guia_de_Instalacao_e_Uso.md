@@ -1,6 +1,6 @@
-# 🧠 ConcursaBot — Guia de Instalação e Uso
+# 🎯 Gabarito.AI — Guia de Instalação e Uso
 
-> Seu Cérebro IA Pessoal para Concursos Públicos
+> Seu Cérebro IA Pessoal de Alta Performance para Concursos Públicos
 
 > **📝 Nota de revisão (11/08/2026):** o pacote original gerado pelo Antigravity usava dois
 > modelos do Gemini que a Google já desligou (`gemini-2.0-flash`, morto desde 01/06/2026, e

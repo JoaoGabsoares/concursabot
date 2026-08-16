@@ -1,8 +1,6 @@
-# ConcursaBot — Primeiros Passos (foco: ATRFB)
+# 🎯 Gabarito.AI — Primeiros Passos (Foco: ATRFB)
 
-Este guia assume o cenário real: app local, sem hospedagem web, PDFs vivem no seu Google
-Drive (curso completo da Estratégia Concursos), e você não vai baixar a base inteira pro
-notebook. Fluxo é sob demanda: baixar o material do dia, alimentar o app, estudar.
+Este guia assume o cenário real: app local, alta performance, PDFs organizados e estudo sob demanda. O fluxo é cirúrgico: alimentar o material do dia, abrir a Sala de Estudos Split e absorver o conteúdo com o Caderno Enxuto e questões de fixação.
 
 ---
 

@@ -1,6 +1,6 @@
-# 🌐 Guia Definitivo: Como Deixar o ConcursaBot Online com CUSTO ZERO (R$ 0,00)
+# 🌐 Guia Definitivo: Como Deixar o Gabarito.AI Online com CUSTO ZERO (R$ 0,00)
 
-Este guia prático foi elaborado para você disponibilizar o **ConcursaBot na internet com segurança, alta velocidade e zero custo**, permitindo que amigos e pequenos grupos de estudantes testem a plataforma pelo celular ou computador sem você precisar gastar nada com servidores caros ou bancos de dados na nuvem.
+Este guia prático foi elaborado para você disponibilizar o **Gabarito.AI na internet com segurança, alta velocidade e zero custo**, permitindo que amigos e pequenos grupos de estudantes testem a plataforma pelo celular ou computador sem você precisar gastar nada com servidores caros ou bancos de dados na nuvem.
 
 ---
 
@@ -17,7 +17,7 @@ Este guia prático foi elaborado para você disponibilizar o **ConcursaBot na in
 
 ## 🔒 Passo Fundamental: Proteção de Acesso com PIN de Convite
 
-Para evitar que pessoas não autorizadas acessem sua aplicação na internet e consumam sua cota gratuita da API do Gemini, o ConcursaBot conta com um sistema nativo de **Autenticação por PIN de Convite**.
+Para evitar que pessoas não autorizadas acessem sua aplicação na internet e consumam sua cota gratuita da API do Gemini, o Gabarito.AI conta com um sistema nativo de **Autenticação por PIN de Convite**.
 
 ### Como ativar:
 1. Abra o arquivo `.env` na raiz do projeto.
@@ -25,7 +25,7 @@ Para evitar que pessoas não autorizadas acessem sua aplicação na internet e c
    ```env
    INVITE_PIN=2026
    ```
-3. Quando alguém abrir o link do ConcursaBot pela primeira vez, uma tela solicitará o **PIN de Acesso**. Ao digitar o PIN correto, a sessão do estudante é liberada e ele pode criar seu próprio perfil isolado!
+3. Quando alguém abrir o link do Gabarito.AI pela primeira vez, uma tela solicitará o **PIN de Acesso**. Ao digitar o PIN correto, a sessão do estudante é liberada e ele pode criar seu próprio perfil isolado!
 
 ---
 

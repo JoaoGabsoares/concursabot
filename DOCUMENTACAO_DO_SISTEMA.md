@@ -49,22 +49,22 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                           FRONTEND WEB SPA                              │
-│  - HTML5 Semântico + Vanilla JS Moderno (ES Modules)                   │
-│  - CSS3 Design System com Tokens HSL, Modo Claro e Modo Escuro          │
-│  - Google Fonts: Plus Jakarta Sans (UI) & Outfit (Títulos & Métricas)   │
-│  - PDF Viewer nativo em split-screen + Canvas de Confetes               │
+│                      FRONTEND WEB SPA (REACT 19 + VITE)                 │
+│  - React 19 + TypeScript + Vite 8 (Code-Splitting por Domínio)          │
+│  - Design System "Surgical Minimalism" (Dark Void & Papel Linho)        │
+│  - Google Fonts: Fraunces (Serif), Inter (Sans) & JetBrains Mono (Data) │
+│  - Navegação Mobile First com Bottom Navigation Bar & Bottom Sheets     │
 │  - PWA: Service Worker para cache e uso offline completo                │
 └────────────────────────────────────┬────────────────────────────────────┘
                                      │ HTTP / REST APIs (JSON)
 ┌────────────────────────────────────▼────────────────────────────────────┐
 │                        NODE.JS BACKEND (v22 LTS)                        │
 │  - Express.js com ESM & Arquitetura de Rotas Modulares                  │
-│  - Better-SQLite3 (com WAL Mode, Prepared Statements e Migrations)      │
-│  - Google Gemini API (gemini-3.7-flash com fallback 3.6/3.5/3.1-lite)  │
-│  - gemini-embedding-001 (768-d via MRL para busca vetorial RAG)         │
+│  - node:sqlite oficial (DatabaseSync, Zero Compilação C++)              │
+│  - Google Gemini API (gemini-3.5-flash-lite com fallback em cadeia)     │
+│  - Blindagem 360° contra Pentest, OWASP Top 10 e Prompt Injection       │
 │  - Exportação .ICS nativa (Google Agenda / Apple Calendar)              │
-│  - Multer (upload e catalogação segura de PDFs de estudo)               │
+│  - Multer com contenção estrita de caminho de uploads                   │
 └────────────────────────────────────┬────────────────────────────────────┘
                                      │ SQL Queries
 ┌────────────────────────────────────▼────────────────────────────────────┐
