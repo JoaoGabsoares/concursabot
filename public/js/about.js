@@ -8,8 +8,8 @@ export async function render(container) {
       
       <!-- Top Hero Section -->
       <div class="card" style="padding: 2.5rem 2rem; text-align: center; background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-tertiary) 100%); border-radius: var(--radius-lg); border: 1px solid var(--border-color); margin-bottom: 2rem; position: relative; overflow: hidden;">
-        <div style="display:inline-flex; align-items:center; gap:0.5rem; background:rgba(99,102,241,0.15); color:var(--color-primary); padding:0.4rem 1rem; border-radius:20px; font-weight:700; font-size:0.85rem; margin-bottom:1rem; border:1px solid rgba(99,102,241,0.3);">
-          <span>🧠 Ecossistema ConcursaBot • v2.5.0 Pro</span>
+        <div style="display:inline-flex; align-items:center; gap:0.5rem; background:rgba(139,92,246,0.15); color:var(--color-primary); padding:0.4rem 1.2rem; border-radius:20px; font-weight:700; font-size:0.85rem; margin-bottom:1rem; border:1px solid rgba(139,92,246,0.35);">
+          <span>✨ Projeto Vibecoding • Ecossistema ConcursaBot v2.5.0 Pro</span>
         </div>
         
         <h1 style="font-size: 2.3rem; font-weight: 800; color: var(--text-primary); margin: 0 0 1rem 0; letter-spacing: -0.02em;">
@@ -30,28 +30,39 @@ export async function render(container) {
         </div>
       </div>
 
-      <!-- Grid: O Motivo & Manifesto -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+      <!-- Grid: O Motivo, Manifesto & Vibecoding -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
         
         <!-- Card 1: O Motivo -->
         <div class="card" style="padding: 1.75rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); background: var(--bg-secondary);">
           <div style="font-size: 2rem; margin-bottom: 0.75rem;">💡</div>
-          <h2 style="font-size: 1.3rem; font-weight: 700; color: var(--text-primary); margin: 0 0 0.6rem 0;">
+          <h2 style="font-size: 1.25rem; font-weight: 700; color: var(--text-primary); margin: 0 0 0.6rem 0;">
             Por que o ConcursaBot nasceu?
           </h2>
-          <p style="font-size: 0.92rem; color: var(--text-secondary); line-height: 1.6; margin: 0;">
-            A maioria dos estudantes gasta <strong>80% do tempo assistindo vídeos lentos</strong> e apenas 20% resolvendo questões reais de prova. O ConcursaBot inverte essa lógica: você lê a <strong>apostila original em tela dividida</strong> ao lado de um <strong>Caderno Enxuto gerado por IA</strong> que sintetiza leis secas, súmulas e pegadinhas em minutos.
+          <p style="font-size: 0.9rem; color: var(--text-secondary); line-height: 1.6; margin: 0;">
+            A maioria dos estudantes gasta <strong>80% do tempo assistindo vídeos lentos</strong> e apenas 20% resolvendo questões. O ConcursaBot inverte essa lógica: você lê a <strong>apostila em tela dividida</strong> ao lado de um <strong>Caderno Enxuto por IA</strong> que sintetiza leis secas, súmulas e pegadinhas em minutos.
           </p>
         </div>
 
         <!-- Card 2: A Missão & Privacidade -->
         <div class="card" style="padding: 1.75rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); background: var(--bg-secondary);">
           <div style="font-size: 2rem; margin-bottom: 0.75rem;">🛡️</div>
-          <h2 style="font-size: 1.3rem; font-weight: 700; color: var(--text-primary); margin: 0 0 0.6rem 0;">
+          <h2 style="font-size: 1.25rem; font-weight: 700; color: var(--text-primary); margin: 0 0 0.6rem 0;">
             Privacidade Total & Custo Zero
           </h2>
-          <p style="font-size: 0.92rem; color: var(--text-secondary); line-height: 1.6; margin: 0;">
-            Sem mensalidades de R$ 150/mês, sem travas comerciais e sem vender seus dados de estudo. Seus simulados, anotações e progresso ficam armazenados no seu próprio banco de dados SQLite local, com suporte a <strong>PWA 100% Offline</strong> para estudar onde quiser.
+          <p style="font-size: 0.9rem; color: var(--text-secondary); line-height: 1.6; margin: 0;">
+            Sem mensalidades de R$ 150/mês, sem travas comerciais e sem vender seus dados de estudo. Seus simulados, anotações e progresso ficam armazenados no seu banco SQLite local, com suporte a <strong>PWA 100% Offline</strong>.
+          </p>
+        </div>
+
+        <!-- Card 3: Metodologia Vibecoding -->
+        <div class="card" style="padding: 1.75rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); background: var(--bg-secondary);">
+          <div style="font-size: 2rem; margin-bottom: 0.75rem;">⚡</div>
+          <h2 style="font-size: 1.25rem; font-weight: 700; color: var(--text-primary); margin: 0 0 0.6rem 0;">
+            Metodologia Vibecoding
+          </h2>
+          <p style="font-size: 0.9rem; color: var(--text-secondary); line-height: 1.6; margin: 0;">
+            Desenvolvido sob a filosofia de <strong>Vibecoding</strong>: combinando visão de produto e necessidades reais de estudantes com pair programming contínuo via modelos de IA de última geração (Gemini 3.7 Flash) para construir soluções robustas em tempo recorde.
           </p>
         </div>
 

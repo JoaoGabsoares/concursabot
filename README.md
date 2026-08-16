@@ -5,9 +5,13 @@
 [![Google Gemini](https://img.shields.io/badge/AI-Gemini%203.7%20Flash-orange.svg)](https://aistudio.google.com)
 [![PWA](https://img.shields.io/badge/PWA-Offline%20Ready-purple.svg)](https://web.dev/progressive-web-apps/)
 [![Tests](https://img.shields.io/badge/Tests-74%2F74%20Passing%20(100%25)-brightgreen.svg)]()
+[![Methodology](https://img.shields.io/badge/Methodology-Vibecoding%20%E2%9C%A8-blueviolet.svg)]()
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
 
 > **O ConcursaBot é uma plataforma web completa, local, segura e gratuita de preparação para concursos públicos de elite**, integrando leitura de apostilas em PDF com **Caderno Enxuto**, Raio-X de incidência da banca (Pareto 80/20), corretor discursivo de redação por IA, repetição espaçada automática (D+1, D+7, D+30), simulados oficiais, **Caderno de Erros inteligente**, cronograma adaptativo com IA e gamificação com ganho de XP.
+
+> 💡 **Nota de Transparência & Metodologia (Vibecoding):**  
+> Este projeto foi idealizado e construído através da abordagem de **Vibecoding** (*desenvolvimento de software assistido por IA e pair programming com LLMs*), combinando visão de produto focada na dor real dos estudantes com engenharia ágil em tempo real.
 
 ---
 
