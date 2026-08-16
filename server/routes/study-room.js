@@ -16,6 +16,8 @@ import {
   STUDY_ROOM_SYSTEM_PROMPT
 } from '../prompts/study-room.js';
 import { CAREERS_CATALOG, getCareerConfig } from '../careers.js';
+import { universalPdfService } from '../services/UniversalPdfService.js';
+import { studyCadenceService } from '../services/StudyCadenceService.js';
 import { processUniversalPdf, sanitizePdfText, calculateReadingMetrics } from '../utils/universal-pdf-parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -417,49 +419,13 @@ router.get('/materials', (req, res) => {
 router.get('/materials/:id/pace', (req, res) => {
   try {
     const { id } = req.params;
-    const userId = req.headers['x-user-id'] || 'user_joao';
+    const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
 
-    const mat = db.prepare('SELECT * FROM study_materials WHERE id = ?').get(id);
-    if (!mat) return res.status(404).json({ error: 'Material não encontrado.' });
-
-    const userProfile = db.prepare('SELECT cadence_reading_min, cadence_questions_min, cadence_mode FROM user_profiles WHERE id = ?').get(userId);
-    const readingMinPerSession = userProfile?.cadence_reading_min || 60;
-    const questionsMinPerSession = userProfile?.cadence_questions_min || 30;
-
-    const curPage = mat.current_page || 1;
-    const totPages = mat.total_pages || mat.theory_pages || 45;
-    const theoryPages = mat.theory_pages || totPages;
-    const pagesLeft = Math.max(0, theoryPages - curPage);
-    const progressPct = Math.min(100, Math.round((curPage / (theoryPages || 1)) * 100));
-
-    // Estimativa de velocidade (média 15 págs por hora de leitura)
-    const avgPagesPerHour = 15;
-    const minutesLeft = Math.round((pagesLeft / avgPagesPerHour) * 60);
-    const sessionsNeeded = Math.ceil(minutesLeft / readingMinPerSession) || (pagesLeft > 0 ? 1 : 0);
-
-    res.json({
-      materialId: parseInt(id, 10),
-      title: mat.title,
-      subject: mat.subject,
-      currentPage: curPage,
-      totalPages: totPages,
-      theoryPages,
-      pagesRemaining: pagesLeft,
-      progressPct,
-      cadence: {
-        readingMin: readingMinPerSession,
-        questionsMin: questionsMinPerSession,
-        mode: userProfile?.cadence_mode || '60_30'
-      },
-      estimatedMinutesRemaining: minutesLeft,
-      estimatedSessionsRemaining: sessionsNeeded,
-      resumeRecommendation: curPage > 1 
-        ? `Você parou na página ${curPage}. Faltam ${pagesLeft} páginas de teoria (~${sessionsNeeded} sessão de ${readingMinPerSession}min).`
-        : `Aula nova: ${theoryPages} páginas de teoria. Comece com o bloco de ${readingMinPerSession}min de leitura!`
-    });
+    const pace = studyCadenceService.calculateReadingPace(id, userId);
+    res.json(pace);
   } catch (error) {
     console.error('Erro ao calcular ritmo de estudo:', error);
-    res.status(500).json({ error: 'Falha ao calcular ritmo de estudo.' });
+    res.status(error.message.includes('não encontrado') ? 404 : 500).json({ error: error.message || 'Falha ao calcular ritmo de estudo.' });
   }
 });
 

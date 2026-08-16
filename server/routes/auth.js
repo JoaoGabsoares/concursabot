@@ -1,18 +1,8 @@
 import express from 'express';
-import crypto from 'crypto';
+import { authService } from '../services/AuthService.js';
 import db from '../database.js';
 
 const router = express.Router();
-
-// Helper: Hash password with salt
-function hashPassword(password, salt) {
-  return crypto.scryptSync(password, salt, 64).toString('hex');
-}
-
-// Helper: Generate secure token
-function generateToken() {
-  return crypto.randomBytes(32).toString('hex');
-}
 
 // Helper: Extract session token from request
 export function getSessionAccount(req) {
@@ -54,59 +44,15 @@ router.get('/status', (req, res) => {
 router.post('/register', (req, res) => {
   try {
     const { username, password, email } = req.body;
-
-    if (!username || typeof username !== 'string' || username.trim().length < 2) {
-      return res.status(400).json({ error: 'O nome de usuário deve ter pelo menos 2 caracteres.' });
-    }
-
-    const cleanUsername = username.trim().toLowerCase();
-    if (!/^[\p{L}\p{N}_.\-\s]+$/u.test(cleanUsername)) {
-      return res.status(400).json({ error: 'O nome de usuário deve conter apenas letras, números, espaço, ponto ou traço.' });
-    }
-
-    if (!password || typeof password !== 'string' || password.length < 3) {
-      return res.status(400).json({ error: 'A senha deve ter no mínimo 3 caracteres.' });
-    }
-
-    // Check if account already exists
-    const existing = db.prepare('SELECT id FROM accounts WHERE LOWER(username) = ?').get(cleanUsername);
-    if (existing) {
-      return res.status(409).json({ error: 'Este nome de usuário já está em uso. Escolha outro ou faça login.' });
-    }
-
-    const accountId = `acc_${Date.now()}_${crypto.randomBytes(4).toString('hex')}`;
-    const salt = crypto.randomBytes(16).toString('hex');
-    const passwordHash = hashPassword(password, salt);
-    const cleanEmail = email && typeof email === 'string' ? email.trim() : null;
-
-    db.prepare(`
-      INSERT INTO accounts (id, username, email, password_hash, salt, created_at, last_login_at)
-      VALUES (?, ?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)
-    `).run(accountId, cleanUsername, cleanEmail, passwordHash, salt);
-
-    // Create 30-day session token
-    const token = generateToken();
-    const expiresAt = new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toISOString();
-
-    db.prepare(`
-      INSERT INTO auth_sessions (token, account_id, created_at, expires_at)
-      VALUES (?, ?, CURRENT_TIMESTAMP, ?)
-    `).run(token, accountId, expiresAt);
-
+    const result = authService.register(username, password, email);
     res.status(201).json({
       success: true,
       message: 'Conta criada com sucesso!',
-      token,
-      account: {
-        id: accountId,
-        username: cleanUsername,
-        email: cleanEmail
-      },
-      profiles: [] // Newly created account starts with 0 profiles (100% clean)
+      ...result
     });
   } catch (err) {
-    console.error('Error during account registration:', err);
-    res.status(500).json({ error: 'Erro ao registrar conta: ' + err.message });
+    const isClientError = err.message.includes('obrigatórios') || err.message.includes('caracteres') || err.message.includes('cadastrado');
+    res.status(isClientError ? 400 : 500).json({ error: err.message });
   }
 });
 
@@ -114,99 +60,50 @@ router.post('/register', (req, res) => {
 router.post('/login', (req, res) => {
   try {
     const { username, password } = req.body;
-
-    if (!username || !password) {
-      return res.status(400).json({ error: 'Informe usuário e senha.' });
-    }
-
-    const cleanUsername = username.trim().toLowerCase();
-    const account = db.prepare(`
-      SELECT * FROM accounts WHERE LOWER(username) = ? OR LOWER(email) = ?
-    `).get(cleanUsername, cleanUsername);
-
-    if (!account) {
-      return res.status(401).json({ error: 'Usuário ou senha incorretos.' });
-    }
-
-    const expectedHash = hashPassword(password, account.salt);
-    if (account.password_hash !== expectedHash) {
-      return res.status(401).json({ error: 'Usuário ou senha incorretos.' });
-    }
-
-    // Update last login
-    db.prepare('UPDATE accounts SET last_login_at = CURRENT_TIMESTAMP WHERE id = ?').run(account.id);
-
-    // Create session token
-    const token = generateToken();
-    const expiresAt = new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toISOString();
-
-    db.prepare(`
-      INSERT INTO auth_sessions (token, account_id, created_at, expires_at)
-      VALUES (?, ?, CURRENT_TIMESTAMP, ?)
-    `).run(token, account.id, expiresAt);
-
-    // Query profiles belonging exclusively to this account
-    const profiles = db.prepare(`
-      SELECT 
-        u.*,
-        (SELECT COUNT(*) FROM study_sessions WHERE user_id = u.id) as total_sessions,
-        (SELECT COUNT(*) FROM activity_log WHERE user_id = u.id) as total_activities
-      FROM user_profiles u
-      WHERE u.account_id = ?
-      ORDER BY u.is_default DESC, u.last_active_at DESC
-    `).all(account.id);
-
+    const result = authService.login(username, password);
     res.json({
       success: true,
       message: 'Login realizado com sucesso!',
-      token,
-      account: {
-        id: account.id,
-        username: account.username,
-        email: account.email
-      },
-      profiles
+      ...result
     });
   } catch (err) {
-    console.error('Error during login:', err);
-    res.status(500).json({ error: 'Erro ao fazer login: ' + err.message });
+    const isUnauthorized = err.message.includes('incorretos');
+    res.status(isUnauthorized ? 401 : 400).json({ error: err.message });
   }
 });
 
-// GET /api/auth/me - Check current session and get account's profiles
+// GET /api/auth/me - Verify current session & return active account
 router.get('/me', (req, res) => {
   try {
-    const session = getSessionAccount(req);
-    if (!session) {
-      return res.json({ authenticated: false, account: null, profiles: [] });
+    const authHeader = req.headers['authorization'];
+    let token = null;
+    if (authHeader && authHeader.startsWith('Bearer ')) {
+      token = authHeader.substring(7).trim();
+    } else if (req.headers['x-account-token']) {
+      token = req.headers['x-account-token'].trim();
     }
 
-    const profiles = db.prepare(`
-      SELECT 
-        u.*,
-        (SELECT COUNT(*) FROM study_sessions WHERE user_id = u.id) as total_sessions,
-        (SELECT COUNT(*) FROM activity_log WHERE user_id = u.id) as total_activities
-      FROM user_profiles u
-      WHERE u.account_id = ?
-      ORDER BY u.is_default DESC, u.last_active_at DESC
-    `).all(session.account_id);
+    if (!token) {
+      return res.status(401).json({ authenticated: false, error: 'Sessão não informada.' });
+    }
+
+    const data = authService.validateToken(token);
+    if (!data) {
+      return res.status(401).json({ authenticated: false, error: 'Sessão expirada ou inválida.' });
+    }
 
     res.json({
       authenticated: true,
-      account: {
-        id: session.id,
-        username: session.username,
-        email: session.email
-      },
-      profiles
+      account: data.account,
+      profiles: data.profiles
     });
   } catch (err) {
-    console.error('Error verifying auth/me:', err);
-    res.status(500).json({ error: 'Erro ao verificar sessão.' });
+    console.error('Error fetching session profile:', err);
+    res.status(500).json({ error: 'Erro ao validar sessão.' });
   }
 });
 
-// POST /api/auth/logout - End session
+// POST /api/auth/logout - Terminate session
 router.post('/logout', (req, res) => {
   try {
     const authHeader = req.headers['authorization'];
@@ -217,13 +114,9 @@ router.post('/logout', (req, res) => {
       token = req.headers['x-account-token'].trim();
     }
 
-    if (token) {
-      db.prepare('DELETE FROM auth_sessions WHERE token = ?').run(token);
-    }
-
+    authService.logout(token);
     res.json({ success: true, message: 'Sessão encerrada com sucesso.' });
   } catch (err) {
-    console.error('Error during logout:', err);
     res.status(500).json({ error: 'Erro ao encerrar sessão.' });
   }
 });

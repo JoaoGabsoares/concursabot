@@ -1,190 +1,248 @@
+/**
+ * ApiClient.ts
+ * 
+ * Cliente HTTP Orientado a Objetos (POO) com tipagem TypeScript estrita,
+ * injeção transparente de headers de autenticação, perfil e tratamento de erros.
+ * 
+ * Padrões: Singleton Pattern, Typed Facade, Clean Code.
+ */
+
 import { UserProfile, DailyMission, Question, ErrorItem, Simulado, RedacaoCritique, Flashcard, Career, AuthResponse } from '../types';
 
-const API_BASE = '/api';
+export class ApiClient {
+  private readonly baseUrl: string;
 
-export function getAuthToken(): string | null {
-  return localStorage.getItem('GABARITO_AUTH_TOKEN');
-}
-
-export function setAuthToken(token: string | null): void {
-  if (token) {
-    localStorage.setItem('GABARITO_AUTH_TOKEN', token);
-  } else {
-    localStorage.removeItem('GABARITO_AUTH_TOKEN');
-  }
-}
-
-export async function request<T>(endpoint: string, options: RequestInit = {}): Promise<T> {
-  const token = getAuthToken();
-  const headers: Record<string, string> = {
-    'Content-Type': 'application/json',
-    ...(token ? { 'Authorization': `Bearer ${token}`, 'x-account-token': token } : {}),
-    ...(options.headers as Record<string, string> || {})
-  };
-
-  const response = await fetch(`${API_BASE}${endpoint}`, {
-    ...options,
-    headers
-  });
-
-  if (!response.ok) {
-    const errData = await response.json().catch(() => ({ error: response.statusText }));
-    throw new Error(errData.error || `HTTP error ${response.status}`);
+  constructor(baseUrl: string = '/api') {
+    this.baseUrl = baseUrl;
   }
 
-  return response.json();
-}
+  /**
+   * Obtém o token de autenticação armazenado.
+   */
+  public getAuthToken(): string | null {
+    return localStorage.getItem('GABARITO_AUTH_TOKEN');
+  }
 
-export const api = {
-  // Account Authentication (Zero Cost Local Multi-Tenant)
-  login: (username: string, password: string) =>
-    request<AuthResponse>('/auth/login', { method: 'POST', body: JSON.stringify({ username, password }) }),
-  registerAccount: (username: string, password: string, email?: string) =>
-    request<AuthResponse>('/auth/register', { method: 'POST', body: JSON.stringify({ username, password, email }) }),
-  getAuthMe: () =>
-    request<AuthResponse>('/auth/me'),
-  logout: () =>
-    request<{ success: boolean }>('/auth/logout', { method: 'POST' }),
+  /**
+   * Armazena ou remove o token de autenticação.
+   */
+  public setAuthToken(token: string | null): void {
+    if (token) {
+      localStorage.setItem('GABARITO_AUTH_TOKEN', token);
+    } else {
+      localStorage.removeItem('GABARITO_AUTH_TOKEN');
+    }
+  }
 
-  // Users & Profile (Full CRUD + Aliases)
-  getUsers: () => request<UserProfile[]>('/users'),
-  getUserProfiles: () => request<any[]>('/users'),
-  getUser: (id: string) => request<UserProfile>(`/users/${id}`),
-  getUserProfile: (id: string) => request<any>(`/users/${id}`),
-  createUser: (name: string, careerId: string) => 
-    request<UserProfile>('/users', { method: 'POST', body: JSON.stringify({ name, active_career_id: careerId }) }),
-  createUserProfile: (payload: { name: string; active_career_id?: string; daily_hours?: number; experience_level?: string; careerId?: string }) =>
-    request<any>('/users', { 
-      method: 'POST', 
+  /**
+   * Método central de requisição HTTP com injeção de headers de segurança.
+   */
+  public async request<T>(endpoint: string, options: RequestInit = {}): Promise<T> {
+    const token = this.getAuthToken();
+    const headers: Record<string, string> = {
+      'Content-Type': 'application/json',
+      ...(token ? { 'Authorization': `Bearer ${token}`, 'x-account-token': token } : {}),
+      ...(options.headers as Record<string, string> || {})
+    };
+
+    const response = await fetch(`${this.baseUrl}${endpoint}`, {
+      ...options,
+      headers
+    });
+
+    if (!response.ok) {
+      const errData = await response.json().catch(() => ({ error: response.statusText }));
+      throw new Error(errData.error || `HTTP error ${response.status}`);
+    }
+
+    return response.json();
+  }
+
+  // --- MÓDULO DE AUTENTICAÇÃO ---
+  public login(username: string, password: string): Promise<AuthResponse> {
+    return this.request<AuthResponse>('/auth/login', {
+      method: 'POST',
+      body: JSON.stringify({ username, password })
+    });
+  }
+
+  public registerAccount(username: string, password: string, email?: string): Promise<AuthResponse> {
+    return this.request<AuthResponse>('/auth/register', {
+      method: 'POST',
+      body: JSON.stringify({ username, password, email })
+    });
+  }
+
+  public getAuthMe(): Promise<AuthResponse> {
+    return this.request<AuthResponse>('/auth/me');
+  }
+
+  public logout(): Promise<{ success: boolean }> {
+    return this.request<{ success: boolean }>('/auth/logout', { method: 'POST' });
+  }
+
+  // --- MÓDULO DE PERFIS DE USUÁRIO ---
+  public getUsers(): Promise<UserProfile[]> {
+    return this.request<UserProfile[]>('/users');
+  }
+
+  public getUserProfiles(): Promise<any[]> {
+    return this.request<any[]>('/users');
+  }
+
+  public getUser(id: string): Promise<UserProfile> {
+    return this.request<UserProfile>(`/users/${id}`);
+  }
+
+  public getUserProfile(id: string): Promise<any> {
+    return this.request<any>(`/users/${id}`);
+  }
+
+  public createUser(name: string, careerId: string): Promise<UserProfile> {
+    return this.request<UserProfile>('/users', {
+      method: 'POST',
+      body: JSON.stringify({ name, active_career_id: careerId })
+    });
+  }
+
+  public createUserProfile(payload: { name: string; active_career_id?: string; daily_hours?: number; experience_level?: string; careerId?: string }): Promise<any> {
+    return this.request<any>('/users', {
+      method: 'POST',
       body: JSON.stringify({
         name: payload.name,
-        active_career_id: payload.active_career_id || payload.careerId || 'bb_comercial',
-        daily_hours: payload.daily_hours || 2,
+        active_career_id: payload.active_career_id || payload.careerId || 'atrfb',
+        daily_hours: payload.daily_hours || 4,
         experience_level: payload.experience_level || 'iniciante'
-      }) 
-    }),
-  updateUserProfile: (id: string, payload: any) =>
-    request<any>(`/users/${id}`, { method: 'PUT', body: JSON.stringify(payload) }),
-  updateUserStats: (id: string, stats: Partial<UserProfile>) =>
-    request<UserProfile>(`/users/${id}`, { method: 'PUT', body: JSON.stringify(stats) }),
-  deleteUserProfile: (id: string) =>
-    request<{ success: boolean }>(`/users/${id}`, { method: 'DELETE' }),
-  
-  // Dashboard & Mission
-  getDashboardStats: (userId?: string, careerId?: string) => 
-    request<{
-      streak: number;
-      xp: number;
-      level: number;
-      nextLevelXp: number;
-      progressPercent: number;
-      todayQuestions: number;
-      goalQuestions: number;
-      todayMinutes: number;
-      goalMinutes: number;
-      pendingErrorsCount: number;
-      nextMission?: DailyMission;
-    }>(`/dashboard/stats?userId=${userId || ''}&careerId=${careerId || ''}`),
-
-  getScheduleToday: (careerId?: string) => 
-    request<{ items: any[]; focusSubject: string }>(`/schedule/today?careerId=${careerId || ''}`),
-
-  // Study Room & Materials (RAG 2.0)
-  getStudyMaterials: (careerId?: string) => 
-    request<{ materials: any[] }>(`/study-room/materials?careerId=${careerId || ''}`),
-  getStudyCatalog: (careerId?: string) => 
-    request<{ catalog: any[] }>(`/study-room/catalog?careerId=${careerId || ''}`),
-  uploadStudyMaterial: async (formData: FormData, userId?: string, careerId?: string) => {
-    const res = await fetch(`${API_BASE}/study-room/upload`, {
-      method: 'POST',
-      body: formData
+      })
     });
-    if (!res.ok) {
-      const err = await res.json().catch(() => ({ error: res.statusText }));
-      throw new Error(err.error || `Erro no upload HTTP ${res.status}`);
-    }
-    return res.json();
-  },
-  registerStudy: (payload: {
-    materialId?: number;
-    subject?: string;
-    lessonNumber?: number;
-    title?: string;
-    currentPage?: number;
-    totalPages?: number;
-    isCompleted?: boolean;
-    durationMinutes?: number;
-    notes?: string;
-  }, userId?: string, careerId?: string) =>
-    request<{ success: boolean; xpGained: number; isCompleted: boolean; message: string; user: any }>(
-      '/study-room/register-study',
-      {
-        method: 'POST',
-        headers: {
-          'x-user-id': userId || 'user_joao',
-          'x-exam-id': careerId || 'atrfb'
-        },
-        body: JSON.stringify(payload)
-      }
-    ),
-  deleteStudyMaterial: (id: number) =>
-    request<{ success: boolean }>(`/study-room/materials/${id}`, { method: 'DELETE' }),
-  getReadingPace: (materialId: number, userId?: string) =>
-    request<{
-      materialId: number;
-      title: string;
-      subject: string;
-      currentPage: number;
-      totalPages: number;
-      theoryPages: number;
-      pagesRemaining: number;
-      progressPct: number;
-      cadence: { readingMin: number; questionsMin: number; mode: string };
-      estimatedMinutesRemaining: number;
-      estimatedSessionsRemaining: number;
-      resumeRecommendation: string;
-    }>(`/study-room/materials/${materialId}/pace`, {
-      headers: userId ? { 'x-user-id': userId } : {}
-    }),
+  }
 
-  // Questions & Simulado
-  generateQuestions: (params: { subject: string; topic?: string; banca?: string; count?: number; careerId?: string }) =>
-    request<{ questions: Question[] }>('/questions/generate', { method: 'POST', body: JSON.stringify(params) }),
-  answerQuestion: (payload: { questionId: number | string; selectedOption: string; isCorrect: boolean; timeSpentSeconds?: number }) =>
-    request<{ xpAwarded: number; correct: boolean; explanation: string }>('/questions/answer', { method: 'POST', body: JSON.stringify(payload) }),
-  
-  getSimulados: (careerId?: string) => 
-    request<{ simulados: Simulado[] }>(`/simulados?careerId=${careerId || ''}`),
-  createSimulado: (payload: { title: string; careerId: string; subjects: string[]; count: number }) =>
-    request<{ simuladoId: number; questions: Question[] }>('/simulados/create', { method: 'POST', body: JSON.stringify(payload) }),
+  public updateUserProfile(id: string, updates: any): Promise<any> {
+    return this.request<any>(`/users/${id}`, {
+      method: 'PUT',
+      body: JSON.stringify(updates)
+    });
+  }
 
-  // Caderno de Erros
-  getCadernoErros: (status: 'pending' | 'mastered' | 'all' = 'pending', careerId?: string) =>
-    request<{ errors: ErrorItem[]; total: number }>(`/caderno-erros?status=${status}&careerId=${careerId || ''}`),
-  retryCadernoErro: (id: number, selectedOption: string) =>
-    request<{ success: boolean; correct: boolean; xpAwarded: number }>(`/caderno-erros/${id}/retry`, { method: 'POST', body: JSON.stringify({ selectedOption }) }),
-  updateCadernoNotes: (id: number, notes: string) =>
-    request<{ success: boolean }>(`/caderno-erros/${id}/notes`, { method: 'PUT', body: JSON.stringify({ notes }) }),
+  public deleteUserProfile(id: string): Promise<{ success: boolean }> {
+    return this.request<{ success: boolean }>(`/users/${id}`, { method: 'DELETE' });
+  }
 
-  // Redação IA
-  getRedacaoTemas: (careerId?: string) =>
-    request<{ temas: Array<{ id: string; titulo: string; banca: string; contexto: string }> }>(`/redacao/temas?careerId=${careerId || ''}`),
-  corrigirRedacao: (payload: { tema: string; texto: string; careerId?: string }) =>
-    request<RedacaoCritique>('/redacao/corrigir', { method: 'POST', body: JSON.stringify(payload) }),
-  getRedacaoHistorico: () =>
-    request<{ historico: RedacaoCritique[] }>('/redacao/historico'),
+  public switchCareer(userId: string, careerId: string): Promise<UserProfile> {
+    return this.request<UserProfile>(`/users/${userId}`, {
+      method: 'PUT',
+      body: JSON.stringify({ active_career_id: careerId })
+    });
+  }
 
-  // Flashcards SM-2
-  getFlashcardDecks: (careerId?: string) =>
-    request<any[]>(`/flashcards/decks?careerId=${careerId || ''}`),
-  getFlashcardCards: (deckId: number) =>
-    request<Flashcard[]>(`/flashcards/deck/${deckId}`),
-  generateFlashcards: (payload: { topic: string; subject?: string; careerId?: string }) =>
-    request<{ success: boolean; cards: Flashcard[] }>('/flashcards/generate', { method: 'POST', body: JSON.stringify(payload) }),
-  reviewFlashcard: (payload: { cardId: number; rating: number }) =>
-    request<{ nextReviewDate: string; intervalDays: number; easeFactor: number }>('/flashcards/review', { method: 'POST', body: JSON.stringify(payload) }),
+  // --- MÓDULO DE DASHBOARD & ESTATÍSTICAS ---
+  public getDashboard(userId?: string, careerId?: string): Promise<DailyMission> {
+    const params = new URLSearchParams();
+    if (userId) params.append('userId', userId);
+    if (careerId) params.append('careerId', careerId);
+    const qs = params.toString() ? `?${params.toString()}` : '';
+    return this.request<DailyMission>(`/dashboard/stats${qs}`);
+  }
 
-  // Raio-X & Pareto 80/20
-  getRaioX: (careerId?: string) =>
-    request<any>(`/edital/raiox?careerId=${careerId || ''}`)
-};
+  public getGamification(userId?: string, careerId?: string): Promise<any> {
+    const params = new URLSearchParams();
+    if (userId) params.append('user_id', userId);
+    if (careerId) params.append('career_id', careerId);
+    const qs = params.toString() ? `?${params.toString()}` : '';
+    return this.request<any>(`/gamification/status${qs}`);
+  }
+
+  // --- MÓDULO DE SALA DE ESTUDOS & CADÊNCIA ---
+  public getMaterials(careerId?: string): Promise<{ materials: any[] }> {
+    const qs = careerId ? `?careerId=${careerId}` : '';
+    return this.request<{ materials: any[] }>(`/study-room/materials${qs}`);
+  }
+
+  public updateBookmark(materialId: string, page: number): Promise<{ success: boolean }> {
+    return this.request<{ success: boolean }>(`/study-room/materials/${materialId}/page`, {
+      method: 'PUT',
+      body: JSON.stringify({ page })
+    });
+  }
+
+  public getReadingPace(materialId: string, userId?: string): Promise<any> {
+    const qs = userId ? `?user_id=${userId}` : '';
+    return this.request<any>(`/study-room/materials/${materialId}/pace${qs}`);
+  }
+
+  public deleteMaterial(materialId: string): Promise<{ success: boolean; message: string }> {
+    return this.request<{ success: boolean; message: string }>(`/study-room/materials/${materialId}`, {
+      method: 'DELETE'
+    });
+  }
+
+  // --- MÓDULO DE QUESTÕES & CADERNO DE ERROS ---
+  public getQuestions(subject?: string, careerId?: string, limit: number = 10): Promise<{ questions: Question[] }> {
+    const params = new URLSearchParams();
+    if (subject) params.append('subject', subject);
+    if (careerId) params.append('careerId', careerId);
+    params.append('limit', limit.toString());
+    return this.request<{ questions: Question[] }>(`/questions?${params.toString()}`);
+  }
+
+  public answerQuestion(questionId: string, selectedOption: string, isCorrect: boolean, careerId?: string): Promise<any> {
+    return this.request<any>('/questions/answer', {
+      method: 'POST',
+      body: JSON.stringify({ question_id: questionId, selected_option: selectedOption, is_correct: isCorrect, career_id: careerId })
+    });
+  }
+
+  public getErrorNotebook(careerId?: string): Promise<ErrorItem[]> {
+    const qs = careerId ? `?careerId=${careerId}` : '';
+    return this.request<ErrorItem[]>(`/caderno-erros${qs}`);
+  }
+
+  // --- MÓDULO DE SIMULADOS ---
+  public getSimulados(careerId?: string): Promise<Simulado[]> {
+    const qs = careerId ? `?careerId=${careerId}` : '';
+    return this.request<Simulado[]>(`/simulados${qs}`);
+  }
+
+  public createSimulado(careerId: string, numQuestions: number = 20, subject?: string): Promise<Simulado> {
+    return this.request<Simulado>('/simulados/create', {
+      method: 'POST',
+      body: JSON.stringify({ career_id: careerId, num_questions: numQuestions, subject })
+    });
+  }
+
+  // --- MÓDULO DE REDAÇÃO DISCURSIVA (CORRETOR POR IA) ---
+  public getRedacaoTemas(careerId?: string): Promise<any[]> {
+    const qs = careerId ? `?careerId=${careerId}` : '';
+    return this.request<any[]>(`/redacao/temas${qs}`);
+  }
+
+  public corrigirRedacao(temaId: string, texto: string, careerId?: string): Promise<RedacaoCritique> {
+    return this.request<RedacaoCritique>('/redacao/corrigir', {
+      method: 'POST',
+      body: JSON.stringify({ tema_id: temaId, texto, career_id: careerId })
+    });
+  }
+
+  public getRedacaoHistorico(careerId?: string): Promise<any[]> {
+    const qs = careerId ? `?careerId=${careerId}` : '';
+    return this.request<any[]>(`/redacao/historico${qs}`);
+  }
+
+  // --- MÓDULO DE FLASHCARDS & RAIO-X ---
+  public getFlashcards(careerId?: string): Promise<Flashcard[]> {
+    const qs = careerId ? `?careerId=${careerId}` : '';
+    return this.request<Flashcard[]>(`/flashcards${qs}`);
+  }
+
+  public getEditalRaioX(careerId?: string): Promise<any> {
+    const qs = careerId ? `?career=${careerId}` : '';
+    return this.request<any>(`/edital/raiox${qs}`);
+  }
+}
+
+// Singleton Instance Export
+export const api = new ApiClient();
+export const getAuthToken = () => api.getAuthToken();
+export const setAuthToken = (token: string | null) => api.setAuthToken(token);
+export const request = <T>(endpoint: string, options?: RequestInit) => api.request<T>(endpoint, options);
+export default api;

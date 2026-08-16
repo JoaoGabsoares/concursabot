@@ -1,6 +1,6 @@
 # 🎯 Gabarito.AI — Memória Mestra & Estado Permanente do Projeto (PROJECT_MEMORY.md)
 
-> **Data de Atualização:** Agosto/2026 • Versão 3.0 Ultra  
+> **Data de Atualização:** Agosto/2026 • Versão 3.5 Ultra  
 > **Objetivo deste documento:** Servir como **Fonte Única da Verdade** para o usuário e para qualquer agente de IA em futuras sessões, garantindo que nenhum contexto, decisão arquitetural, funcionalidade ou comando seja perdido mesmo com o truncamento de conversas.
 
 ---
@@ -18,52 +18,43 @@ O **Gabarito.AI** é uma plataforma web completa de preparação de alta perform
 
 ## 🏛️ 2. Arquitetura & Decisões Tecnológicas Cruciais
 
-### ⚡ 2.1. Frontend Moderno (React 19 + Vite 8 + TypeScript + Tailwind CSS v4)
-- **Modularização Completa:** Arquitetura SPA com **Code-Splitting por domínio (`src/features/`)**:
-  - `src/features/dashboard/DashboardPage.tsx` (Missão dinâmica por concurso, Streaks, Patentes e Metas).
-  - `src/features/study-room/StudyRoomPage.tsx` (Doutrina esquematizada, mnemônicos, fixação e upload de PDF).
-  - `src/features/simulados/SimuladosPage.tsx` (Simulados cronometrados e mapas de gabarito).
-  - `src/features/error-notebook/ErrorNotebookPage.tsx` (Caderno de Erros com re-teste e bônus de +15 XP).
-  - `src/features/flashcards/FlashcardsPage.tsx` (Repetição espaçada com algoritmo SuperMemo-2).
-  - `src/features/redacao/RedacaoPage.tsx` (Corretor discursivo com 4 critérios de banca).
-  - `src/features/edital/EditalPage.tsx` (Raio-X de incidência 80/20 e notas de corte).
-  - `src/features/settings/SettingsPage.tsx` (Abas de Ajustes & BYOK API, Guia de Uso e Sobre o Sistema).
-- **Design System (*Institutional Editorial & Surgical Minimalism*):** Dark Mode imersivo em Void Black (`#0D0E12`), Light Mode em Papel Linho (`#FAFAFA`), tipografia de autoridade (**Fraunces**, **Inter**, **JetBrains Mono**) e touch targets rigorosos >= 44px na **Thumb Zone**.
+### ⚡ 2.1. Programação Orientada a Objetos (POO & Domain Services)
+- **Camada de Serviços Desacoplada (`server/services/`)**:
+  - `UniversalPdfService`: Ingestão universal, sanitização de ruídos/CPFs, fronteira teoria vs exercícios, extração de sumários e métricas de leitura.
+  - `StudyCadenceService`: Gestão de cadência de estudos (60m/30m), cálculo de ritmo de leitura e controle de marcação de página.
+  - `AuthService`: Criptografia Scrypt nativa com salt, gerenciamento de sessões e perfis de estudo.
+  - `GamificationService`: Motor de XP, streaks, patentes (Ranks) e troféus desbloqueáveis por carreira.
+  - `QuestionRepository`: Gestão de questões, respostas, estatísticas de acerto e Caderno de Erros.
+- **Frontend com ApiClient POO (`src/api/client.ts`)**:
+  - Classe `ApiClient` com tipagem estrita TypeScript, auto-injeção de headers de autenticação e tratamento de erros.
 
-### ⚡ 2.2. Zero-Build SQLite Oficial (`node:sqlite` / `DatabaseSync`)
-- **Solução Definitiva:** 100% migrado para o **SQLite embutido no núcleo do Node.js (`import { DatabaseSync } from 'node:sqlite'`)**.
-- **Resultado:** **Zero compilação C++**, inicialização instantânea (<50ms), compatibilidade total com Node 22 e 24, e sanitização universal de parâmetros `undefined -> null`.
+### 🎨 2.2. Design System Modular & Tokens Tipados
+- **Tokens Centrais (`src/styles/design-tokens.ts`)**:
+  - Cores HSL (`#0a0d14` background, `#111726` surface, `#3b82f6` primary, `#10b981` success).
+  - Tipografia institucional: **Fraunces/Newsreader** (Display Editorial), **Inter** (Interface/Corpo), **JetBrains Mono** (Dados).
+  - Componentes primitivos consistentes e acessíveis em `src/components/UIPrimitives.tsx`.
 
-### 🛡️ 2.3. Blindagem de Segurança 360° (OWASP + AI Guard)
-- **Segurança Web & Pentest:** Cabeçalhos HSTS, X-Content-Type-Options, CSP, proteção contra prototype pollution (`security-guard.js`), anti-timing attack (`crypto.timingSafeEqual`) e contenção de uploads (`uploadsDir`).
-- **Blindagem de IA contra Prompt Injection:** Sanitização de padrões adversariais (`ignore previous instructions`, `DAN mode`, `system prompt leak`) e cláusula de contenção hermética no motor Gemini.
+### ⏱️ 2.3. Cadência de Estudo Flexível (60m/30m) & Reconhecimento de Parada
+- Ciclo personalizável de estudo: **60 min de leitura teórica + 30 min de questões**.
+- O sistema salva a página exata de interrupção (ex: pág. 18 de 45), calcula o tempo restante de teoria e permite transitar imediatamente para o bloco de questões com 1 toque.
+
+### 🛡️ 2.4. Segurança, Autenticação & Zero XP para Novos Usuários
+- Contas privadas isoladas com Scrypt.
+- Cada novo usuário registrado inicia com rigorosamente **0 XP, Level 1 Aspirante (0/500), Streak 0 e zero histórico**, sem qualquer vazamento cross-account.
 
 ---
 
-## 🧪 3. Suítes de Testes Automatizados (117 Provas Aprovadas)
+## 🧪 3. Suíte Unificada de Testes Automatizados (`npm test`)
 
-O projeto possui **117 testes automatizados** com **100% de taxa de aprovação**:
-
-1. **🛡️ Pentest Security Suite:**
-   ```bash
-   node test_pentest_suite.js
-   # Resultado: 28/28 APROVADOS (100%)
-   ```
-2. **🤖 AI Security & Prompt Injection Suite:**
-   ```bash
-   node test_ai_security.js
-   # Resultado: 15/15 APROVADOS (100%)
-   ```
-3. **🧠 Novas Funcionalidades (Raio-X, Caderno de Erros, Redação):**
-   ```bash
-   node test_new_features.js
-   # Resultado: 24/24 APROVADOS (100%)
-   ```
-4. **⚙️ Suíte Completa de QA & REST APIs E2E:**
-   ```bash
-   node run_qa_tests.js
-   # Resultado: 50/50 APROVADOS (100%)
-   ```
+A pasta `tests/` reúne toda a bateria de testes automatizados:
+```
+tests/
+├── unit/universal_pdf.test.js        # Heurísticas de PDF, sanitização e métricas
+├── integration/auth_and_isolation.test.js # Autenticação, zero-state e multi-conta
+├── integration/study_room_cadence.test.js # Sala de estudos, marca-página e ritmo
+├── security/pentest_and_ai.test.js   # Pentest, SQLi, XSS e sanitização
+└── run_all.js                        # Runner central unificado
+```
 
 ---
 
@@ -73,7 +64,10 @@ O projeto possui **117 testes automatizados** com **100% de taxa de aprovação*
 # Instalar dependências:
 npm install
 
-# Compilar frontend React 19:
+# Executar todos os testes automatizados:
+npm test
+
+# Compilar frontend React 19 (Vite):
 npm run build
 
 # Iniciar servidor em produção (porta 3000):
@@ -81,7 +75,4 @@ npm start
 
 # Iniciar ambiente de desenvolvimento com Vite HMR (porta 5173):
 npm run dev
-
-# Executar todas as 117 provas de teste:
-node test_pentest_suite.js && node test_ai_security.js && node test_new_features.js && node run_qa_tests.js
 ```
