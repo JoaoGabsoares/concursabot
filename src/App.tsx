@@ -147,96 +147,94 @@ export const App: React.FC = () => {
   }
 
   return (
-    <ToastProvider>
-      <div className="flex h-screen w-screen overflow-hidden bg-[var(--bg-base)] text-[var(--text-primary)] transition-colors duration-200">
-        {/* 1. Desktop Left Sidebar (Fixed 64px width on desktop) */}
-        <Sidebar
+    <div className="flex h-screen w-screen overflow-hidden bg-[var(--bg-base)] text-[var(--text-primary)] transition-colors duration-200">
+      {/* 1. Desktop Left Sidebar (Fixed 64px width on desktop) */}
+      <Sidebar
+        user={user}
+        currentCareerId={careerId}
+        onSelectCareer={handleSelectCareer}
+        activeTab={activeTab}
+        onNavigate={(tab) => setActiveTab(tab)}
+        pendingErrorsCount={pendingErrorsCount}
+        isDark={isDark}
+        onToggleTheme={() => setIsDark(!isDark)}
+        onSwitchUser={handleSwitchUser}
+      />
+
+      {/* 2. Main Application Viewport (Full Height & Width) */}
+      <div className="flex-1 flex flex-col h-screen overflow-hidden min-w-0">
+        {/* Topbar Header */}
+        <Header
           user={user}
           currentCareerId={careerId}
           onSelectCareer={handleSelectCareer}
-          activeTab={activeTab}
-          onNavigate={(tab) => setActiveTab(tab)}
-          pendingErrorsCount={pendingErrorsCount}
           isDark={isDark}
           onToggleTheme={() => setIsDark(!isDark)}
-          onSwitchUser={handleSwitchUser}
-        />
-
-        {/* 2. Main Application Viewport (Full Height & Width) */}
-        <div className="flex-1 flex flex-col h-screen overflow-hidden min-w-0">
-          {/* Topbar Header */}
-          <Header
-            user={user}
-            currentCareerId={careerId}
-            onSelectCareer={handleSelectCareer}
-            isDark={isDark}
-            onToggleTheme={() => setIsDark(!isDark)}
-            activeTab={activeTab}
-            onNavigate={(tab) => setActiveTab(tab)}
-            pendingErrorsCount={pendingErrorsCount}
-          />
-
-          {/* Scrollable Viewport */}
-          <main className="flex-1 overflow-y-auto p-5 sm:p-8 lg:p-10">
-            <div className="max-w-7xl w-full mx-auto space-y-8">
-              {activeTab === 'dashboard' && (
-                <DashboardPage
-                  user={user}
-                  careerId={careerId}
-                  onNavigate={(tab) => setActiveTab(tab)}
-                  pendingErrorsCount={pendingErrorsCount}
-                  onStartStudy={handleStartStudy}
-                />
-              )}
-
-              {activeTab === 'study' && (
-                <StudyRoomPage careerId={careerId} />
-              )}
-
-              {activeTab === 'simulados' && (
-                <SimuladosPage careerId={careerId} />
-              )}
-
-              {activeTab === 'erros' && (
-                <ErrorNotebookPage careerId={careerId} />
-              )}
-
-              {activeTab === 'redacao' && (
-                <RedacaoPage careerId={careerId} />
-              )}
-
-              {activeTab === 'edital' && (
-                <EditalPage careerId={careerId} />
-              )}
-
-              {activeTab === 'flashcards' && (
-                <FlashcardsPage careerId={careerId} />
-              )}
-
-              {(activeTab === 'settings' || activeTab === 'settings_ajustes' || activeTab === 'settings_guia' || activeTab === 'settings_sobre') && (
-                <SettingsPage
-                  user={user}
-                  onUpdateUser={(name) => setUser((prev) => (prev ? { ...prev, name } : null))}
-                  initialTab={
-                    activeTab === 'settings_guia'
-                      ? 'guia'
-                      : activeTab === 'settings_sobre'
-                      ? 'sobre'
-                      : 'ajustes'
-                  }
-                />
-              )}
-            </div>
-          </main>
-        </div>
-
-        {/* 3. Mobile Bottom Navigation (Thumb Zone) */}
-        <MobileBottomNav
           activeTab={activeTab}
           onNavigate={(tab) => setActiveTab(tab)}
           pendingErrorsCount={pendingErrorsCount}
         />
+
+        {/* Scrollable Viewport */}
+        <main className="flex-1 overflow-y-auto p-5 sm:p-8 lg:p-10">
+          <div className="max-w-7xl w-full mx-auto space-y-8">
+            {activeTab === 'dashboard' && (
+              <DashboardPage
+                user={user}
+                careerId={careerId}
+                onNavigate={(tab) => setActiveTab(tab)}
+                pendingErrorsCount={pendingErrorsCount}
+                onStartStudy={handleStartStudy}
+              />
+            )}
+
+            {activeTab === 'study' && (
+              <StudyRoomPage careerId={careerId} />
+            )}
+
+            {activeTab === 'simulados' && (
+              <SimuladosPage careerId={careerId} />
+            )}
+
+            {activeTab === 'erros' && (
+              <ErrorNotebookPage careerId={careerId} />
+            )}
+
+            {activeTab === 'redacao' && (
+              <RedacaoPage careerId={careerId} />
+            )}
+
+            {activeTab === 'edital' && (
+              <EditalPage careerId={careerId} />
+            )}
+
+            {activeTab === 'flashcards' && (
+              <FlashcardsPage careerId={careerId} />
+            )}
+
+            {(activeTab === 'settings' || activeTab === 'settings_ajustes' || activeTab === 'settings_guia' || activeTab === 'settings_sobre') && (
+              <SettingsPage
+                user={user}
+                onUpdateUser={(name) => setUser((prev) => (prev ? { ...prev, name } : null))}
+                initialTab={
+                  activeTab === 'settings_guia'
+                    ? 'guia'
+                    : activeTab === 'settings_sobre'
+                    ? 'sobre'
+                    : 'ajustes'
+                }
+              />
+            )}
+          </div>
+        </main>
       </div>
-    </ToastProvider>
+
+      {/* 3. Mobile Bottom Navigation (Thumb Zone) */}
+      <MobileBottomNav
+        activeTab={activeTab}
+        onNavigate={(tab) => setActiveTab(tab)}
+        pendingErrorsCount={pendingErrorsCount}
+      />
+    </div>
   );
 };
