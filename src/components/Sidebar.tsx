@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { UserProfile, ActiveTab } from '../types';
 import { CAREERS_LIST, getCareerById } from '../utils/careers';
+import { getConcurseiroRank } from '../utils/gamification';
 import { ChevronDown, Check, Sun, Moon, LogOut, Settings } from 'lucide-react';
 import { CarimboStatus } from './UIPrimitives';
 
@@ -29,6 +30,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
 }) => {
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const currentCareer = getCareerById(currentCareerId);
+  const currentRank = getConcurseiroRank(user?.xp || 0);
 
   const navGroups = [
     {
@@ -133,7 +135,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           )}
         </div>
 
-        {/* 3. Navigation Links (Generous Padding & Clear Active State) */}
+        {/* 3. Navigation Links */}
         <div className="p-4 space-y-5">
           {navGroups.map((group) => (
             <div key={group.title} className="space-y-1">
@@ -167,7 +169,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
         </div>
       </div>
 
-      {/* 4. Student Footer Card (Rich, Anchored & Clear) */}
+      {/* 4. Student Footer Card with Patente & Rank */}
       <div className="p-4 border-t border-[var(--border-subtle)] bg-[var(--bg-elevated)]/40 space-y-3">
         <div 
           onClick={() => onNavigate('settings')}
@@ -179,8 +181,8 @@ export const Sidebar: React.FC<SidebarProps> = ({
             <div className="text-xs font-bold text-[var(--text-primary)] truncate">
               {user?.name || 'Estudante'}
             </div>
-            <div className="text-[10px] text-[var(--text-muted)] font-mono">
-              Nível {user?.level || 1} • {user?.xp || 0} XP
+            <div className="text-[10px] text-[var(--accent-primary)] font-mono font-bold truncate">
+              {currentRank.title} ({user?.xp || 0} XP)
             </div>
           </div>
           <Settings className="w-4 h-4 text-[var(--text-muted)] shrink-0 hover:text-[var(--text-primary)] transition-colors" />
