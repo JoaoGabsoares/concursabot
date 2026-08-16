@@ -2,6 +2,7 @@ import React from 'react';
 import { UserProfile, ActiveTab, DailyMission } from '../../types';
 import { getCareerById } from '../../utils/careers';
 import { getConcurseiroRank, getSubjectsForCareer } from '../../utils/gamification';
+import { getLessonContent } from '../../utils/studyContent';
 import { Card, Button, ProgressBar, CarimboStatus } from '../../components/UIPrimitives';
 import { ChevronRight, Flame, Target, Trophy, CheckCircle2, Circle, ArrowRight } from 'lucide-react';
 
@@ -31,27 +32,13 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
 
   const currentRank = getConcurseiroRank(userXp);
   const subjectsList = getSubjectsForCareer(careerId);
+  const topSubject = subjectsList[0]?.name || 'Direito Tributário';
+  const topLesson = getLessonContent(topSubject);
 
-  // Focus mission based on active career
+  // Focus mission dynamically bound to the primary subject of the selected career
   const currentMission: DailyMission = {
-    subject: careerId.includes('bb_ti')
-      ? 'Tecnologia da Informação & Banco de Dados'
-      : careerId.includes('bb')
-      ? 'Conhecimentos Bancários'
-      : careerId.includes('atrfb')
-      ? 'Direito Tributário'
-      : careerId.includes('marinha')
-      ? 'Organização Básica da Marinha'
-      : 'Legislação do SUS',
-    topic: careerId.includes('bb_ti')
-      ? 'Modelagem Relacional, SQL Avançado & Arquitetura de Nuvem'
-      : careerId.includes('bb')
-      ? 'Sistema Financeiro Nacional, Mercado de Capitais & Moeda'
-      : careerId.includes('atrfb')
-      ? 'Competência Tributária, Princípios Constitucionais & CTN'
-      : careerId.includes('marinha')
-      ? 'História Naval, Tradições Navais & Hierarquia Militar'
-      : 'Princípios Doutrinários e Organizativos do SUS (Lei 8.080/90)',
+    subject: topSubject,
+    topic: topLesson.topic,
     estimatedMinutes: 30,
     rewardXp: 25,
     status: 'pending'
