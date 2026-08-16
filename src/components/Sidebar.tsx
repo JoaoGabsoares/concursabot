@@ -15,8 +15,8 @@ import {
   Flame, 
   Moon, 
   Sun, 
-  Sparkles,
-  ShieldCheck
+  LogOut,
+  UserCheck
 } from 'lucide-react';
 
 interface SidebarProps {
@@ -28,6 +28,7 @@ interface SidebarProps {
   pendingErrorsCount: number;
   isDark: boolean;
   onToggleTheme: () => void;
+  onSwitchUser: () => void;
 }
 
 export const Sidebar: React.FC<SidebarProps> = ({
@@ -38,7 +39,8 @@ export const Sidebar: React.FC<SidebarProps> = ({
   onNavigate,
   pendingErrorsCount,
   isDark,
-  onToggleTheme
+  onToggleTheme,
+  onSwitchUser
 }) => {
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const currentCareer = getCareerById(currentCareerId);
@@ -187,8 +189,8 @@ export const Sidebar: React.FC<SidebarProps> = ({
         ))}
       </div>
 
-      {/* 4. Bottom User Profile Footer */}
-      <div className="p-3 border-t border-[var(--border-subtle)] bg-[var(--bg-surface)]">
+      {/* 4. Bottom User Profile & Switch Button Footer */}
+      <div className="p-3 border-t border-[var(--border-subtle)] bg-[var(--bg-surface)] space-y-2">
         <div 
           onClick={() => onNavigate('settings')}
           className={`flex items-center justify-between p-2 rounded-lg cursor-pointer transition-colors ${
@@ -197,7 +199,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
         >
           <div className="flex items-center gap-2.5 truncate">
             <div className="w-8 h-8 rounded-full bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-center font-bold text-xs text-[var(--text-primary)] shrink-0">
-              {user?.name ? user.name.charAt(0).toUpperCase() : 'J'}
+              {user?.name ? user.name.charAt(0).toUpperCase() : 'E'}
             </div>
             <div className="truncate">
               <div className="text-xs font-semibold text-[var(--text-primary)] truncate">
@@ -212,6 +214,15 @@ export const Sidebar: React.FC<SidebarProps> = ({
           </div>
           <Settings className="w-3.5 h-3.5 text-[var(--text-muted)] shrink-0 hover:text-[var(--text-primary)]" />
         </div>
+
+        {/* Switch User Button */}
+        <button
+          onClick={onSwitchUser}
+          className="w-full flex items-center justify-center gap-2 p-1.5 rounded-lg text-[11px] font-mono text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors border border-transparent hover:border-[var(--border-subtle)]"
+        >
+          <LogOut className="w-3.5 h-3.5" />
+          <span>Trocar Estudante</span>
+        </button>
       </div>
     </aside>
   );

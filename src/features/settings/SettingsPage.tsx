@@ -133,7 +133,31 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser }
         </div>
       </Card>
 
-      {/* 4. Security & Architecture Notice */}
+      {/* 4. Trocar de Estudante */}
+      <Card className="p-5 space-y-3">
+        <div className="flex items-center justify-between">
+          <div>
+            <h3 className="font-semibold text-sm text-[var(--text-primary)]">
+              Trocar de Perfil de Estudante
+            </h3>
+            <p className="text-xs text-[var(--text-muted)] mt-0.5">
+              Alternar para outro perfil cadastrado ou criar uma nova conta de estudos
+            </p>
+          </div>
+          <Button
+            variant="secondary"
+            size="sm"
+            onClick={() => {
+              localStorage.removeItem('CURRENT_USER_ID');
+              window.location.reload();
+            }}
+          >
+            Trocar Estudante
+          </Button>
+        </div>
+      </Card>
+
+      {/* 5. Security & Architecture Notice */}
       <div className="p-4 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] space-y-1 text-xs">
         <div className="flex items-center gap-1.5 font-semibold text-[var(--text-primary)]">
           <Shield className="w-4 h-4 text-[var(--accent-success)]" />

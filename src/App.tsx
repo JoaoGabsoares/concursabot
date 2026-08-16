@@ -4,6 +4,7 @@ import { api } from './api/client';
 import { Sidebar } from './components/Sidebar';
 import { Header } from './components/Header';
 import { MobileBottomNav } from './components/MobileBottomNav';
+import { AuthAndUserSelector } from './components/AuthAndUserSelector';
 
 // Pages
 import { DashboardPage } from './features/dashboard/DashboardPage';
@@ -25,20 +26,9 @@ export const App: React.FC = () => {
   });
 
   const [activeTab, setActiveTab] = useState<ActiveTab>('dashboard');
-  const [pendingErrorsCount, setPendingErrorsCount] = useState<number>(2);
-
-  const [user, setUser] = useState<UserProfile>({
-    id: 'user_joao',
-    name: 'João Soares',
-    careerId: 'bb_comercial',
-    level: 4,
-    xp: 2500,
-    dailyGoalMinutes: 120,
-    dailyGoalQuestions: 50,
-    todayQuestions: 45,
-    todayMinutes: 90,
-    streakDays: 12
-  });
+  const [pendingErrorsCount, setPendingErrorsCount] = useState<number>(0);
+  const [user, setUser] = useState<UserProfile | null>(null);
+  const [loadingUser, setLoadingUser] = useState<boolean>(true);
 
   // Apply theme class to <html>
   useEffect(() => {
@@ -51,21 +41,64 @@ export const App: React.FC = () => {
     }
   }, [isDark]);
 
-  // Load live user stats from backend
+  // Check if there is an active saved user in localStorage
   useEffect(() => {
+    const savedUserId = localStorage.getItem('CURRENT_USER_ID');
+    if (!savedUserId) {
+      setLoadingUser(false);
+      return;
+    }
+
+    api.getUserProfile(savedUserId)
+      .then((profile) => {
+        if (profile && profile.id) {
+          const userCareer = profile.active_career_id || careerId;
+          setCareerId(userCareer);
+          setUser({
+            id: profile.id,
+            name: profile.name,
+            careerId: userCareer,
+            level: profile.level || 1,
+            xp: profile.xp || 0,
+            dailyGoalMinutes: (profile.daily_hours ? profile.daily_hours * 60 : 120),
+            dailyGoalQuestions: 30,
+            todayQuestions: 0,
+            todayMinutes: 0,
+            streakDays: 0
+          });
+        } else {
+          localStorage.removeItem('CURRENT_USER_ID');
+        }
+      })
+      .catch(() => {
+        // If user profile fails to load, prompt selector
+        localStorage.removeItem('CURRENT_USER_ID');
+      })
+      .finally(() => {
+        setLoadingUser(false);
+      });
+  }, []);
+
+  // Load live user stats from backend whenever user or career changes
+  useEffect(() => {
+    if (!user?.id) return;
+
     api.getDashboardStats(user.id, careerId)
       .then((data) => {
         if (data) {
-          setUser((prev) => ({
-            ...prev,
-            streakDays: data.streak || prev.streakDays,
-            xp: data.xp || prev.xp,
-            level: data.level || prev.level,
-            todayQuestions: data.todayQuestions || prev.todayQuestions,
-            dailyGoalQuestions: data.goalQuestions || prev.dailyGoalQuestions,
-            todayMinutes: data.todayMinutes || prev.todayMinutes,
-            dailyGoalMinutes: data.goalMinutes || prev.dailyGoalMinutes,
-          }));
+          setUser((prev) => {
+            if (!prev) return null;
+            return {
+              ...prev,
+              streakDays: data.streak !== undefined ? data.streak : prev.streakDays,
+              xp: data.xp !== undefined ? data.xp : prev.xp,
+              level: data.level !== undefined ? data.level : prev.level,
+              todayQuestions: data.todayQuestions !== undefined ? data.todayQuestions : prev.todayQuestions,
+              dailyGoalQuestions: data.goalQuestions || prev.dailyGoalQuestions,
+              todayMinutes: data.todayMinutes !== undefined ? data.todayMinutes : prev.todayMinutes,
+              dailyGoalMinutes: data.goalMinutes || prev.dailyGoalMinutes,
+            };
+          });
           if (typeof data.pendingErrorsCount === 'number') {
             setPendingErrorsCount(data.pendingErrorsCount);
           }
@@ -74,16 +107,43 @@ export const App: React.FC = () => {
       .catch(() => {
         // Safe offline fallback
       });
-  }, [careerId]);
+  }, [user?.id, careerId]);
 
   const handleSelectCareer = (newCareerId: string) => {
     setCareerId(newCareerId);
     localStorage.setItem('SELECTED_CAREER', newCareerId);
+    if (user?.id) {
+      api.updateUserProfile(user.id, { active_career_id: newCareerId }).catch(() => {});
+    }
   };
 
   const handleStartStudy = (mission?: DailyMission) => {
     setActiveTab('study');
   };
+
+  const handleSwitchUser = () => {
+    localStorage.removeItem('CURRENT_USER_ID');
+    setUser(null);
+  };
+
+  const handleSelectUser = (selectedUser: UserProfile) => {
+    setUser(selectedUser);
+    setCareerId(selectedUser.careerId);
+    setActiveTab('dashboard');
+  };
+
+  if (loadingUser) {
+    return (
+      <div className="h-screen w-screen flex items-center justify-center bg-[var(--bg-base)] text-xs text-[var(--text-muted)] font-mono">
+        Carregando ambiente Gabarito.AI...
+      </div>
+    );
+  }
+
+  // If no active user, render Auth & Profile Selector Screen
+  if (!user) {
+    return <AuthAndUserSelector onSelectUser={handleSelectUser} />;
+  }
 
   return (
     <div className="flex h-screen w-screen overflow-hidden bg-[var(--bg-base)] text-[var(--text-primary)] transition-colors duration-200">
@@ -97,6 +157,7 @@ export const App: React.FC = () => {
         pendingErrorsCount={pendingErrorsCount}
         isDark={isDark}
         onToggleTheme={() => setIsDark(!isDark)}
+        onSwitchUser={handleSwitchUser}
       />
 
       {/* 2. Main Application Viewport (Full Height & Width) */}
@@ -153,7 +214,7 @@ export const App: React.FC = () => {
             {activeTab === 'settings' && (
               <SettingsPage
                 user={user}
-                onUpdateUser={(name) => setUser((prev) => ({ ...prev, name }))}
+                onUpdateUser={(name) => setUser((prev) => (prev ? { ...prev, name } : null))}
               />
             )}
           </div>
