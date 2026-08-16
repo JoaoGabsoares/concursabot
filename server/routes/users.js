@@ -140,17 +140,20 @@ router.post('/', (req, res) => {
       return res.status(400).json({ error: 'Nome do estudante é obrigatório.' });
     }
 
+    const sanitizeString = (str) => typeof str === 'string' ? str.replace(/<[^>]*>?/gm, '').trim() : str;
+
     const id = 'user_' + Date.now();
+    const cleanName = sanitizeString(name);
     const avatar = avatar_emoji || '👨‍🎓';
     const career = active_career_id || 'atrfb';
     const color = color_theme || 'primary';
-    const role = target_role || 'Analista Tributário';
-    const banca = target_banca || 'FGV';
+    const role = sanitizeString(target_role) || 'Analista Tributário';
+    const banca = sanitizeString(target_banca) || 'FGV';
     const exp = experience_level || 'iniciante';
     const hours = daily_hours || 4;
     const shifts = Array.isArray(study_shifts) ? JSON.stringify(study_shifts) : (study_shifts || '["manha", "noite"]');
     const material = preferred_material || 'enxuto';
-    const customTitle = custom_exam_title || null;
+    const customTitle = custom_exam_title ? sanitizeString(custom_exam_title) : null;
     const gcalEnabled = google_calendar_enabled ? 1 : 0;
     const gcalUrl = google_calendar_url || null;
     const tutStyle = tutor_style || 'pratico';
@@ -169,7 +172,7 @@ router.post('/', (req, res) => {
       )
       VALUES (?, ?, ?, ?, ?, ?, 0, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
     `);
-    stmt.run(id, accountId, name.trim(), avatar, career, color, role, banca, exp, hours, shifts, material, customTitle, gcalEnabled, gcalUrl, tutStyle, sounds, cadRead, cadQuest, cadMode);
+    stmt.run(id, accountId, cleanName, avatar, career, color, role, banca, exp, hours, shifts, material, customTitle, gcalEnabled, gcalUrl, tutStyle, sounds, cadRead, cadQuest, cadMode);
 
     const created = db.prepare('SELECT * FROM user_profiles WHERE id = ?').get(id);
     res.status(201).json(created);

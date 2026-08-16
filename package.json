@@ -10,6 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "test": "node tests/run_all.js",
     "ingest": "node server/ingest.js",
     "preload": "node server/preload-library.js"
   },
