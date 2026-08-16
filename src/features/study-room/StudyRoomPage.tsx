@@ -200,7 +200,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             const isSelected = selectedSubject === subj.name && !selectedCustomMaterial;
             return (
               <button
-                key={subj.id}
+                key={subj.name}
                 onClick={() => handleSubjectChange(subj.name)}
                 className={`px-3.5 py-2 rounded-lg text-xs font-semibold whitespace-nowrap transition-all border shadow-sm ${
                   isSelected
@@ -512,7 +512,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                   className="w-full p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] focus:border-[var(--border-focus)] text-xs text-[var(--text-primary)] outline-none"
                 >
                   {careerSubjects.map((s) => (
-                    <option key={s.id} value={s.name}>
+                    <option key={s.name} value={s.name}>
                       {s.name}
                     </option>
                   ))}

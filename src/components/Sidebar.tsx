@@ -54,6 +54,12 @@ export const Sidebar: React.FC<SidebarProps> = ({
         { id: 'redacao' as ActiveTab, label: 'Redação Discursiva' },
         { id: 'edital' as ActiveTab, label: 'Raio-X do Edital' },
       ]
+    },
+    {
+      title: 'SISTEMA & GUIA',
+      items: [
+        { id: 'settings' as ActiveTab, label: 'Configurações & Guia' },
+      ]
     }
   ];
 

@@ -124,15 +124,29 @@ router.post('/upload', async (req, res) => {
       });
     }
 
-    // Extrai número de aula pelo nome do arquivo ou texto
-    const detectedLessonNumber = extractLessonNumber(originalname, textContent);
-
-    // Análise estruturada via Gemini
-    const analysisResponse = await generateJSON(
-      `${MATERIAL_ANALYSIS_PROMPT}\n\nCONTEÚDO DO PDF:\n${textContent.substring(0, 100000)}`,
-      'Você é um especialista em análise de materiais de estudo para concursos públicos.',
-      MATERIAL_ANALYSIS_SCHEMA
-    );
+    // Análise estruturada via Gemini com fallback local resiliente
+    let analysisResponse;
+    try {
+      analysisResponse = await generateJSON(
+        `${MATERIAL_ANALYSIS_PROMPT}\n\nCONTEÚDO DO PDF:\n${textContent.substring(0, 100000)}`,
+        'Você é um especialista em análise de materiais de estudo para concursos públicos.',
+        MATERIAL_ANALYSIS_SCHEMA
+      );
+    } catch (aiErr) {
+      console.warn('Gemini AI analysis fallback ativado:', aiErr.message);
+      const cleanTitle = originalname.replace(/\.[^/.]+$/, '').replace(/[_-]/g, ' ');
+      analysisResponse = {
+        titulo: cleanTitle,
+        materia: requestedSubject || 'Geral',
+        numeroAula: detectedLessonNumber || 1,
+        resumoEstrategico: textContent.substring(0, 350).replace(/\s+/g, ' ') + '...',
+        topicosChave: [requestedSubject || 'Conceitos Chave', 'Legislação e Doutrina'],
+        jurisprudenciaRelevante: 'Doutrina e jurisprudência aplicável ao edital.',
+        artigosChave: [],
+        dicasBanca: 'Atenção aos detalhes literais e pegadinhas recorrentes.',
+        pontosCriticos: ['Revisão sistemática dos tópicos extraídos do PDF.']
+      };
+    }
 
     const finalLessonNumber = detectedLessonNumber !== null 
       ? detectedLessonNumber 
@@ -248,8 +262,10 @@ router.put('/materials/:id/study-status', (req, res) => {
 // GET /materials — List all uploaded materials with study progress
 router.get('/materials', (req, res) => {
   try {
-    const userId = req.headers['x-user-id'] || 'user_joao';
-    const materials = db.prepare(`
+    const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
+    const careerId = req.headers['x-exam-id'] || req.query.careerId || req.query.career_id || null;
+
+    let sql = `
       SELECT 
         sm.id, sm.filename, sm.filepath, sm.subject, sm.lesson_number, sm.title, sm.summary, sm.created_at,
         sm.studied_at, sm.theory_completed, sm.questions_completed,
@@ -261,10 +277,18 @@ router.get('/materials', (req, res) => {
       FROM study_materials sm
       LEFT JOIN study_sessions ss ON sm.id = ss.material_id AND (ss.user_id = ? OR ss.user_id IS NULL)
       LEFT JOIN session_questions sq ON ss.id = sq.session_id
-      WHERE (sm.user_id = ? OR sm.user_id = 'user_joao' OR sm.user_id IS NULL)
-      GROUP BY sm.id
-      ORDER BY sm.subject ASC, CASE WHEN sm.lesson_number IS NULL THEN 999 ELSE sm.lesson_number END ASC, sm.created_at DESC
-    `).all(userId, userId);
+      WHERE (sm.user_id = ? OR sm.user_id IS NULL)
+    `;
+    const params = [userId, userId];
+
+    if (careerId) {
+      sql += ` AND (sm.career_id = ? OR sm.career_id IS NULL) `;
+      params.push(careerId);
+    }
+
+    sql += ` GROUP BY sm.id ORDER BY sm.subject ASC, CASE WHEN sm.lesson_number IS NULL THEN 999 ELSE sm.lesson_number END ASC, sm.created_at DESC`;
+
+    const materials = db.prepare(sql).all(...params);
 
     const formatted = materials.map(m => ({
       ...m,
