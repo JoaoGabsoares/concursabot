@@ -279,6 +279,24 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     }
   };
 
+  // Excluir Material e Arquivo PDF do disco
+  const handleDeleteMaterial = async (e: React.MouseEvent, materialId: number) => {
+    e.stopPropagation();
+    if (!window.confirm('Deseja excluir este PDF e liberar espaço no disco local?')) return;
+
+    try {
+      await api.deleteStudyMaterial(materialId);
+      info('PDF Excluído', 'O arquivo físico e os dados foram removidos do seu computador.');
+      if (selectedCustomMaterial?.id === materialId) {
+        setSelectedCustomMaterial(null);
+        setViewMode('notebook');
+      }
+      await loadMaterials();
+    } catch (err: any) {
+      toastError('Erro ao excluir material: ' + err.message);
+    }
+  };
+
   // Quick page controls
   const handlePrevPage = () => {
     setCurrentPage((prev) => Math.max(1, prev - 1));
@@ -357,11 +375,10 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
           {uploadedMaterials.map((mat) => {
             const isSelected = selectedCustomMaterial?.id === mat.id;
             return (
-              <button
+              <div
                 key={mat.id}
-                type="button"
                 onClick={() => handleSelectMaterial(mat)}
-                className={`px-2.5 py-1 rounded-md text-xs font-mono transition-all flex items-center gap-1.5 shrink-0 ${
+                className={`group px-2.5 py-1 rounded-md text-xs font-mono transition-all flex items-center gap-1.5 shrink-0 cursor-pointer ${
                   isSelected
                     ? 'bg-[var(--accent-primary)] text-white font-bold'
                     : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border border-[var(--border-subtle)] hover:text-[var(--text-primary)]'
@@ -372,7 +389,15 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 {mat.current_page && (
                   <span className="text-[10px] opacity-80">(pág {mat.current_page}/{mat.total_pages || 50})</span>
                 )}
-              </button>
+                <button
+                  type="button"
+                  title="Excluir este PDF do computador"
+                  onClick={(e) => handleDeleteMaterial(e, mat.id)}
+                  className="opacity-0 group-hover:opacity-100 p-0.5 hover:text-rose-400 transition-opacity ml-1"
+                >
+                  <Trash2 className="w-3.5 h-3.5" />
+                </button>
+              </div>
             );
           })}
         </div>
