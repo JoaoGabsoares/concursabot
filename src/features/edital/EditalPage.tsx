@@ -25,33 +25,33 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
   ];
 
   return (
-    <div className="space-y-4 sm:space-y-6 pb-24 sm:pb-8 animate-fade-in">
+    <div className="space-y-5 pb-20 md:pb-8 animate-fade-in">
       {/* Header Bar */}
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-2 border-b border-[var(--border-subtle)]">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-[var(--border-subtle)]">
         <div>
           <div className="flex items-center gap-2">
-            <h1 className="text-xl sm:text-2xl font-serif font-bold text-[var(--text-primary)]">
+            <h1 className="text-xl font-bold text-[var(--text-primary)] tracking-tight">
               Raio-X de Incidência da Banca
             </h1>
-            <Badge variant="success">Pareto 80/20</Badge>
+            <Badge variant="brand">Pareto 80/20</Badge>
           </div>
-          <p className="text-xs text-[var(--text-muted)] font-sans">
+          <p className="text-xs text-[var(--text-muted)] mt-0.5">
             Mapeamento estatístico das matérias com maior peso e histórico de corte da <strong>{currentCareer.banca}</strong>
           </p>
         </div>
       </div>
 
       {/* Grid: Pareto 80/20 + Cut Score */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         {/* Cut Score Card */}
-        <Card className="space-y-3">
+        <Card className="p-5 space-y-3">
           <div className="flex items-center gap-2">
             <Award className="w-5 h-5 text-amber-400" />
-            <h3 className="font-serif font-bold text-base text-[var(--text-primary)]">
+            <h3 className="font-semibold text-sm text-[var(--text-primary)]">
               Notas de Corte Históricas
             </h3>
           </div>
-          <p className="text-xs text-[var(--text-muted)] font-sans">
+          <p className="text-xs text-[var(--text-muted)]">
             Pontuação mínima necessária para aprovação nas últimas edições do concurso:
           </p>
 
@@ -59,21 +59,21 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
             {historicalCuts.map((item, idx) => (
               <div key={idx} className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center justify-between text-xs">
                 <span className="font-mono font-bold text-[var(--text-primary)]">{item.year}</span>
-                <span className="font-sans text-[var(--text-muted)]">{item.score}</span>
+                <span className="text-[var(--text-secondary)]">{item.score}</span>
               </div>
             ))}
           </div>
         </Card>
 
         {/* Strategy Advice */}
-        <Card className="space-y-3 border-[var(--accent-gabarito)]/30 bg-[var(--accent-gabarito-glow)]/20">
+        <Card className="p-5 space-y-3 border-[var(--accent-primary)]/30 bg-[var(--accent-primary-glow)]/10">
           <div className="flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-[var(--accent-gabarito)]" />
-            <h3 className="font-serif font-bold text-base text-[var(--accent-gabarito)]">
+            <Sparkles className="w-5 h-5 text-[var(--accent-primary)]" />
+            <h3 className="font-semibold text-sm text-[var(--accent-primary)]">
               Estratégia de Alta Performance
             </h3>
           </div>
-          <p className="text-xs sm:text-sm text-[var(--text-primary)] font-sans leading-relaxed">
+          <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed">
             O princípio de Pareto 80/20 indica que <strong>20% dos tópicos do edital respondem por 80% das questões de prova</strong>. Priorize o estudo verticalizado das disciplinas com maior incidência antes de tentar esgotar os tópicos periféricos.
           </p>
           <div className="text-[11px] font-mono text-[var(--text-muted)]">
@@ -83,9 +83,9 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
       </div>
 
       {/* Top 5 Golden Topics Table */}
-      <Card className="space-y-4">
+      <Card className="p-5 space-y-4">
         <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
-          <h3 className="font-serif font-bold text-base text-[var(--text-primary)]">
+          <h3 className="font-semibold text-sm text-[var(--text-primary)]">
             Tópicos de Ouro ({currentCareer.name.split('—')[0]})
           </h3>
           <Badge variant="warning">Top 5 Prioritários</Badge>
@@ -98,10 +98,10 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
               className="p-3 sm:p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-2"
             >
               <div className="space-y-1">
-                <div className="text-xs font-semibold text-[var(--text-primary)] font-serif">
+                <div className="text-xs font-semibold text-[var(--text-primary)]">
                   {idx + 1}. {item.subject}
                 </div>
-                <div className="text-xs text-[var(--text-muted)] font-sans">
+                <div className="text-xs text-[var(--text-muted)]">
                   {item.topic}
                 </div>
               </div>
@@ -110,7 +110,7 @@ export const EditalPage: React.FC<EditalPageProps> = ({ careerId }) => {
                 <Badge variant={item.incidence === 'Alta' ? 'danger' : 'warning'}>
                   Incidência {item.incidence}
                 </Badge>
-                <span className="font-bold text-[var(--accent-gabarito)]">{item.weight}</span>
+                <span className="font-bold text-[var(--accent-success)]">{item.weight}</span>
               </div>
             </div>
           ))}

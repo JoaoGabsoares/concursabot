@@ -30,25 +30,25 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser }
   };
 
   return (
-    <div className="space-y-4 sm:space-y-6 pb-24 sm:pb-8 max-w-3xl mx-auto animate-fade-in">
+    <div className="space-y-5 pb-20 md:pb-8 max-w-3xl mx-auto animate-fade-in">
       {/* Header Bar */}
-      <div className="pb-2 border-b border-[var(--border-subtle)]">
+      <div className="pb-3 border-b border-[var(--border-subtle)]">
         <div className="flex items-center gap-2">
-          <h1 className="text-xl sm:text-2xl font-serif font-bold text-[var(--text-primary)]">
+          <h1 className="text-xl font-bold text-[var(--text-primary)] tracking-tight">
             Ajustes do Sistema & Perfil
           </h1>
-          <Badge variant="info">v3.0 Pro</Badge>
+          <Badge variant="brand">v3.0 Pro</Badge>
         </div>
-        <p className="text-xs text-[var(--text-muted)] font-sans">
+        <p className="text-xs text-[var(--text-muted)] mt-0.5">
           Gerenciamento de credenciais, motor de IA e backup local de progresso
         </p>
       </div>
 
       {/* 1. Profile Settings */}
-      <Card className="space-y-4">
+      <Card className="p-5 space-y-4">
         <div className="flex items-center gap-2 pb-2 border-b border-[var(--border-subtle)]">
-          <User className="w-4 h-4 text-[var(--accent-gabarito)]" />
-          <h3 className="font-serif font-bold text-sm text-[var(--text-primary)]">
+          <User className="w-4 h-4 text-[var(--accent-primary)]" />
+          <h3 className="font-semibold text-sm text-[var(--text-primary)]">
             Identidade do Estudante
           </h3>
         </div>
@@ -62,7 +62,7 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser }
               type="text"
               value={userName}
               onChange={(e) => setUserName(e.target.value)}
-              className="flex-1 p-2.5 rounded-lg text-xs bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-gabarito)] outline-none"
+              className="flex-1 p-2.5 rounded-lg text-xs bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
             />
             <Button
               variant="primary"
@@ -76,15 +76,15 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser }
       </Card>
 
       {/* 2. Gemini AI Key */}
-      <Card className="space-y-4">
+      <Card className="p-5 space-y-4">
         <div className="flex items-center gap-2 pb-2 border-b border-[var(--border-subtle)]">
           <Key className="w-4 h-4 text-amber-400" />
-          <h3 className="font-serif font-bold text-sm text-[var(--text-primary)]">
+          <h3 className="font-semibold text-sm text-[var(--text-primary)]">
             Chave de API Gemini (Opcional / Bring Your Own Key)
           </h3>
         </div>
 
-        <p className="text-xs text-[var(--text-muted)] font-sans">
+        <p className="text-xs text-[var(--text-muted)]">
           O servidor já possui o motor padrão ativo. Caso deseje utilizar sua própria cota pessoal do Google Gemini para limites mais altos, insira sua chave abaixo:
         </p>
 
@@ -95,7 +95,7 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser }
               value={geminiKey}
               onChange={(e) => setGeminiKey(e.target.value)}
               placeholder="AIzaSy..."
-              className="flex-1 p-2.5 rounded-lg text-xs bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-gabarito)] outline-none font-mono"
+              className="flex-1 p-2.5 rounded-lg text-xs bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none font-mono"
             />
             <Button
               variant="secondary"
@@ -109,15 +109,15 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser }
       </Card>
 
       {/* 3. Backup & Export */}
-      <Card className="space-y-4">
+      <Card className="p-5 space-y-4">
         <div className="flex items-center gap-2 pb-2 border-b border-[var(--border-subtle)]">
           <Download className="w-4 h-4 text-sky-400" />
-          <h3 className="font-serif font-bold text-sm text-[var(--text-primary)]">
+          <h3 className="font-semibold text-sm text-[var(--text-primary)]">
             Backup & Integridade dos Dados
           </h3>
         </div>
 
-        <p className="text-xs text-[var(--text-muted)] font-sans">
+        <p className="text-xs text-[var(--text-muted)]">
           Faça download completo das suas respostas, anotações do Caderno de Erros, histórico de simulados e redações em formato JSON padronizado.
         </p>
 
@@ -134,12 +134,12 @@ export const SettingsPage: React.FC<SettingsPageProps> = ({ user, onUpdateUser }
       </Card>
 
       {/* 4. Security & Architecture Notice */}
-      <div className="p-4 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] space-y-1.5 text-xs">
+      <div className="p-4 rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-elevated)] space-y-1 text-xs">
         <div className="flex items-center gap-1.5 font-semibold text-[var(--text-primary)]">
-          <Shield className="w-4 h-4 text-[var(--accent-gabarito)]" />
-          <span>Gabarito.AI — Blindagem de Segurança Ativa</span>
+          <Shield className="w-4 h-4 text-[var(--accent-success)]" />
+          <span>Gabarito.AI — Blindagem de Segurança 360° Ativa</span>
         </div>
-        <p className="text-[var(--text-muted)] font-sans leading-relaxed">
+        <p className="text-[var(--text-muted)] leading-relaxed">
           Zero-Build SQLite oficial (`node:sqlite`), proteção contra prototype pollution, sanitização HPP, anti-timing attack, rate limiting e cabeçalhos OWASP ativos.
         </p>
       </div>

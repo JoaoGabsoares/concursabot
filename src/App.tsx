@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { UserProfile, ActiveTab, DailyMission } from './types';
 import { api } from './api/client';
+import { Sidebar } from './components/Sidebar';
 import { Header } from './components/Header';
-import { DesktopNav } from './components/DesktopNav';
 import { MobileBottomNav } from './components/MobileBottomNav';
 
 // Pages
@@ -86,70 +86,81 @@ export const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-[var(--bg-base)] text-[var(--text-primary)] transition-colors duration-200">
-      {/* 1. Compact Header */}
-      <Header
+    <div className="flex h-screen w-screen overflow-hidden bg-[var(--bg-base)] text-[var(--text-primary)] transition-colors duration-200">
+      {/* 1. Desktop Left Sidebar (Fixed 64px width on desktop) */}
+      <Sidebar
         user={user}
         currentCareerId={careerId}
         onSelectCareer={handleSelectCareer}
-        isDark={isDark}
-        onToggleTheme={() => setIsDark(!isDark)}
-        activeTab={activeTab}
-        onNavigate={(tab) => setActiveTab(tab)}
-      />
-
-      {/* 2. Desktop Navigation Bar */}
-      <DesktopNav
         activeTab={activeTab}
         onNavigate={(tab) => setActiveTab(tab)}
         pendingErrorsCount={pendingErrorsCount}
+        isDark={isDark}
+        onToggleTheme={() => setIsDark(!isDark)}
       />
 
-      {/* 3. Main Content Viewport */}
-      <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 py-4 sm:py-6">
-        {activeTab === 'dashboard' && (
-          <DashboardPage
-            user={user}
-            careerId={careerId}
-            onNavigate={(tab) => setActiveTab(tab)}
-            pendingErrorsCount={pendingErrorsCount}
-            onStartStudy={handleStartStudy}
-          />
-        )}
+      {/* 2. Main Application Viewport (Full Height & Width) */}
+      <div className="flex-1 flex flex-col h-screen overflow-hidden min-w-0">
+        {/* Topbar Header */}
+        <Header
+          user={user}
+          currentCareerId={careerId}
+          onSelectCareer={handleSelectCareer}
+          isDark={isDark}
+          onToggleTheme={() => setIsDark(!isDark)}
+          activeTab={activeTab}
+          onNavigate={(tab) => setActiveTab(tab)}
+          pendingErrorsCount={pendingErrorsCount}
+        />
 
-        {activeTab === 'study' && (
-          <StudyRoomPage careerId={careerId} />
-        )}
+        {/* Scrollable Viewport */}
+        <main className="flex-1 overflow-y-auto p-4 sm:p-6 lg:p-8">
+          <div className="max-w-7xl w-full mx-auto">
+            {activeTab === 'dashboard' && (
+              <DashboardPage
+                user={user}
+                careerId={careerId}
+                onNavigate={(tab) => setActiveTab(tab)}
+                pendingErrorsCount={pendingErrorsCount}
+                onStartStudy={handleStartStudy}
+              />
+            )}
 
-        {activeTab === 'simulados' && (
-          <SimuladosPage careerId={careerId} />
-        )}
+            {activeTab === 'study' && (
+              <StudyRoomPage careerId={careerId} />
+            )}
 
-        {activeTab === 'erros' && (
-          <ErrorNotebookPage careerId={careerId} />
-        )}
+            {activeTab === 'simulados' && (
+              <SimuladosPage careerId={careerId} />
+            )}
 
-        {activeTab === 'redacao' && (
-          <RedacaoPage careerId={careerId} />
-        )}
+            {activeTab === 'erros' && (
+              <ErrorNotebookPage careerId={careerId} />
+            )}
 
-        {activeTab === 'edital' && (
-          <EditalPage careerId={careerId} />
-        )}
+            {activeTab === 'redacao' && (
+              <RedacaoPage careerId={careerId} />
+            )}
 
-        {activeTab === 'flashcards' && (
-          <FlashcardsPage careerId={careerId} />
-        )}
+            {activeTab === 'edital' && (
+              <EditalPage careerId={careerId} />
+            )}
 
-        {activeTab === 'settings' && (
-          <SettingsPage
-            user={user}
-            onUpdateUser={(name) => setUser((prev) => ({ ...prev, name }))}
-          />
-        )}
-      </main>
+            {activeTab === 'flashcards' && (
+              <FlashcardsPage careerId={careerId} />
+            )}
 
-      {/* 4. Mobile Bottom Navigation Bar (Thumb Zone) */}
+            {activeTab === 'settings' && (
+              <SettingsPage
+                user={user}
+                onUpdateUser={(name) => setUser((prev) => ({ ...prev, name }))}
+              />
+            )}
+          </div>
+        </main>
+      </div>
+
+      {/* 3. Mobile Bottom Navigation (Thumb Zone) */}
       <MobileBottomNav
         activeTab={activeTab}
         onNavigate={(tab) => setActiveTab(tab)}

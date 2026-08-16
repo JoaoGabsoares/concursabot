@@ -17,7 +17,7 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
     {
       id: 1,
       front: "Qual é a diferença essencial entre Desvio de Poder e Excesso de Poder?",
-      back: "• Desvio de Poder: Vício de finalidade (o agente atua com fim diverso da lei).\n• Excesso de Poder: Vício de competência (o agente atua além dos limites legais de suas atribuições).",
+      back: "• Desvio de Poder: Vício de finalidade (o agente atua com fim diverso daquele previsto em lei).\n• Excesso de Poder: Vício de competência (o agente atua além dos limites legais de suas atribuições).",
       subject: "Direito Administrativo",
       topic: "Abuso de Poder",
       interval: 1,
@@ -61,17 +61,17 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
   };
 
   return (
-    <div className="space-y-4 sm:space-y-6 pb-24 sm:pb-8 max-w-2xl mx-auto animate-fade-in">
+    <div className="space-y-5 pb-20 md:pb-8 max-w-2xl mx-auto animate-fade-in">
       {/* Header Bar */}
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-2 border-b border-[var(--border-subtle)]">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-[var(--border-subtle)]">
         <div>
           <div className="flex items-center gap-2">
-            <h1 className="text-xl sm:text-2xl font-serif font-bold text-[var(--text-primary)]">
+            <h1 className="text-xl font-bold text-[var(--text-primary)] tracking-tight">
               Flashcards SM-2
             </h1>
-            <Badge variant="success">Repetição Espaçada</Badge>
+            <Badge variant="brand">Repetição Espaçada</Badge>
           </div>
-          <p className="text-xs text-[var(--text-muted)] font-sans">
+          <p className="text-xs text-[var(--text-muted)] mt-0.5">
             Algoritmo inteligente de retenção mnemônica de longo prazo
           </p>
         </div>
@@ -85,7 +85,7 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
       <Card
         hoverable={true}
         onClick={() => setFlipped(!flipped)}
-        className="min-h-[280px] sm:min-h-[320px] flex flex-col justify-between p-6 sm:p-8 cursor-pointer select-none border-2 border-[var(--border-subtle)] bg-[var(--bg-surface)] text-center transition-all shadow-lg"
+        className="min-h-[280px] sm:min-h-[320px] flex flex-col justify-between p-6 sm:p-8 cursor-pointer select-none border border-[var(--border-subtle)] bg-[var(--bg-surface)] text-center transition-all shadow-lg hover:border-[var(--border-focus)]"
       >
         <div className="flex justify-between items-center text-xs font-mono text-[var(--text-muted)]">
           <Badge variant="default">{currentCard.subject}</Badge>
@@ -98,23 +98,23 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
               <span className="text-[11px] font-mono text-[var(--text-muted)] uppercase tracking-wider">
                 Pergunta / Conceito
               </span>
-              <h2 className="text-base sm:text-xl font-serif font-bold text-[var(--text-primary)] leading-relaxed">
+              <h2 className="text-base sm:text-lg font-semibold text-[var(--text-primary)] leading-relaxed">
                 {currentCard.front}
               </h2>
             </div>
           ) : (
             <div className="space-y-3 animate-fade-in">
-              <span className="text-[11px] font-mono text-[var(--accent-gabarito)] uppercase tracking-wider font-bold">
+              <span className="text-[11px] font-mono text-[var(--accent-primary)] uppercase tracking-wider font-bold">
                 Resposta / Gabarito
               </span>
-              <p className="text-xs sm:text-sm font-sans text-[var(--text-primary)] leading-relaxed whitespace-pre-line text-left bg-[var(--bg-elevated)] p-4 rounded-xl border border-[var(--border-subtle)]">
+              <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed whitespace-pre-line text-left bg-[var(--bg-elevated)] p-4 rounded-xl border border-[var(--border-subtle)]">
                 {currentCard.back}
               </p>
             </div>
           )}
         </div>
 
-        <div className="text-[11px] font-sans text-[var(--text-muted)]">
+        <div className="text-[11px] text-[var(--text-muted)]">
           {flipped ? "Avalie sua retenção abaixo:" : "Clique para revelar a resposta"}
         </div>
       </Card>
@@ -148,7 +148,7 @@ export const FlashcardsPage: React.FC<FlashcardsPageProps> = ({ careerId }) => {
           </Button>
           <Button
             size="md"
-            variant="primary"
+            variant="brand"
             onClick={handleNext}
             className="text-xs font-semibold"
           >

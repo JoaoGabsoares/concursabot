@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Card, Button, Badge } from '../../components/UIPrimitives';
 import { getCareerById } from '../../utils/careers';
-import { BookOpen, FileText, CheckCircle2, ChevronRight, Sparkles, MessageSquare, Download, Play, HelpCircle, Award } from 'lucide-react';
+import { BookOpen, FileText, CheckCircle2, ChevronRight, Sparkles, MessageSquare, Download, Play, HelpCircle, Award, Check } from 'lucide-react';
 
 interface StudyRoomPageProps {
   careerId: string;
@@ -11,7 +11,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   const currentCareer = getCareerById(careerId);
   const [selectedSubject, setSelectedSubject] = useState<string>('Direito Constitucional');
   const [activeLesson, setActiveLesson] = useState<number>(1);
-  const [showQuestions, setShowQuestions] = useState<boolean>(false);
+  const [showQuestions, setShowQuestions] = useState<boolean>(true);
   const [userSelectedOption, setUserSelectedOption] = useState<string | null>(null);
   const [answered, setAnswered] = useState<boolean>(false);
 
@@ -42,18 +42,18 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   };
 
   return (
-    <div className="space-y-4 sm:space-y-6 pb-24 sm:pb-8 animate-fade-in">
+    <div className="space-y-5 pb-20 md:pb-8 animate-fade-in">
       {/* Header Bar */}
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-2 border-b border-[var(--border-subtle)]">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-[var(--border-subtle)]">
         <div>
           <div className="flex items-center gap-2">
-            <h1 className="text-xl sm:text-2xl font-serif font-bold text-[var(--text-primary)]">
+            <h1 className="text-xl font-bold text-[var(--text-primary)] tracking-tight">
               Sala de Estudos Split
             </h1>
-            <Badge variant="success">RAG 2.0</Badge>
+            <Badge variant="brand">RAG 2.0</Badge>
           </div>
-          <p className="text-xs text-[var(--text-muted)] font-sans">
-            Teoria sintetizada pelo método Caderno Enxuto com 5 questões de fixação imediata
+          <p className="text-xs text-[var(--text-muted)] mt-0.5">
+            Teoria estruturada pelo método Caderno Enxuto com 5 questões de fixação imediata
           </p>
         </div>
 
@@ -67,12 +67,12 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             Exportar Resumo
           </Button>
           <Button 
-            variant={showQuestions ? "primary" : "secondary"}
+            variant={showQuestions ? "secondary" : "brand"}
             size="sm" 
             icon={HelpCircle}
             onClick={() => setShowQuestions(!showQuestions)}
           >
-            {showQuestions ? "Ocultar Questões" : "Fixação (5 Questões)"}
+            {showQuestions ? "Ocultar Fixação" : "Fixação (5 Questões)"}
           </Button>
         </div>
       </div>
@@ -83,10 +83,10 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
           <button
             key={subj}
             onClick={() => setSelectedSubject(subj)}
-            className={`px-3.5 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-colors border ${
+            className={`px-3 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-colors border ${
               selectedSubject === subj
-                ? 'bg-[var(--btn-primary-bg)] text-[var(--btn-primary-text)] border-[var(--btn-primary-bg)] font-semibold'
-                : 'bg-[var(--bg-surface)] text-[var(--text-muted)] hover:text-[var(--text-primary)] border-[var(--border-subtle)]'
+                ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] font-semibold shadow-xs'
+                : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] border-[var(--border-subtle)] hover:bg-[var(--bg-elevated)]'
             }`}
           >
             {subj}
@@ -95,52 +95,56 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
       </div>
 
       {/* Main Split Layout: Teoria + Questões Dock */}
-      <div className="grid grid-cols-1 lg:grid-cols-12 gap-4 items-start">
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-5 items-start">
         {/* Left / Center: Caderno Enxuto (Teoria Estruturada) */}
         <div className={showQuestions ? "lg:col-span-7 space-y-4" : "lg:col-span-12 space-y-4"}>
-          <Card className="space-y-4">
+          <Card className="p-6 space-y-4">
             <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
               <div>
                 <span className="text-[10px] font-mono text-[var(--text-muted)] uppercase tracking-wider">
                   {selectedSubject} • Aula 0{activeLesson}
                 </span>
-                <h3 className="text-base sm:text-lg font-serif font-bold text-[var(--text-primary)]">
+                <h3 className="text-base font-bold text-[var(--text-primary)] tracking-tight mt-0.5">
                   Princípios Fundamentais & Competências Estruturais
                 </h3>
               </div>
               <Badge variant="warning">Em Estudo</Badge>
             </div>
 
-            {/* Content Body (Editorial Style) */}
-            <div className="prose dark:prose-invert max-w-none text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed space-y-3 font-sans">
-              <p className="bg-[var(--bg-elevated)] p-3 rounded-lg border-l-2 border-[var(--accent-gabarito)] text-[var(--text-primary)] font-medium">
-                🎯 <strong>Ponto de Ouro da Banca ({currentCareer.banca}):</strong> As questões costumam explorar a literalidade dos artigos e as exceções expressas ao princípio da anterioridade e da estrita legalidade.
-              </p>
+            {/* Content Body */}
+            <div className="space-y-4 text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed">
+              <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border-l-2 border-[var(--accent-primary)] text-xs">
+                <span className="font-semibold text-[var(--accent-primary)]">🎯 Ponto de Ouro da Banca ({currentCareer.banca}):</span> As questões costumam explorar a literalidade dos artigos e as exceções expressas ao princípio da anterioridade e da estrita legalidade.
+              </div>
 
-              <h4 className="font-serif font-bold text-sm text-[var(--text-primary)] mt-4">
-                1. Conceito Dogmático & Finalidade
-              </h4>
-              <p className="text-[var(--text-muted)]">
-                A estruturação do ordenamento exige obediência irrestrita aos postulados constitucionais. No âmbito dos concursos públicos, as bancas examinadoras cobram reiteradamente a distinção entre normas de eficácia plena, contida e limitada.
-              </p>
+              <div>
+                <h4 className="font-semibold text-xs sm:text-sm text-[var(--text-primary)] mb-1">
+                  1. Conceito Dogmático & Finalidade
+                </h4>
+                <p className="text-[var(--text-secondary)]">
+                  A estruturação do ordenamento exige obediência irrestrita aos postulados constitucionais. No âmbito dos concursos públicos, as bancas examinadoras cobram reiteradamente a distinção entre normas de eficácia plena, contida e limitada.
+                </p>
+              </div>
 
-              <h4 className="font-serif font-bold text-sm text-[var(--text-primary)] mt-4">
-                2. Esquema Mnemônico de Fixação (Gabarito.AI)
-              </h4>
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs font-mono">
-                <div className="p-2.5 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-                  <div className="text-[var(--accent-gabarito)] font-bold">LIMPE</div>
-                  <div className="text-[var(--text-muted)]">Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência</div>
-                </div>
-                <div className="p-2.5 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-                  <div className="text-amber-400 font-bold">SOCIDIVAPU</div>
-                  <div className="text-[var(--text-muted)]">Soberania, Cidadania, Dignidade, Valores do Trabalho, Pluralismo</div>
+              <div>
+                <h4 className="font-semibold text-xs sm:text-sm text-[var(--text-primary)] mb-1.5">
+                  2. Esquema Mnemônico de Fixação (Gabarito.AI)
+                </h4>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs font-mono">
+                  <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+                    <div className="text-[var(--accent-success)] font-bold text-sm">LIMPE</div>
+                    <div className="text-[var(--text-muted)] text-[11px] mt-0.5">Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência</div>
+                  </div>
+                  <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+                    <div className="text-amber-400 font-bold text-sm">SOCIDIVAPU</div>
+                    <div className="text-[var(--text-muted)] text-[11px] mt-0.5">Soberania, Cidadania, Dignidade, Valores do Trabalho, Pluralismo</div>
+                  </div>
                 </div>
               </div>
             </div>
 
             {/* Bottom Lesson Footer */}
-            <div className="pt-3 border-t border-[var(--border-subtle)] flex items-center justify-between">
+            <div className="pt-4 border-t border-[var(--border-subtle)] flex items-center justify-between">
               <Button 
                 variant="outline" 
                 size="sm"
@@ -166,10 +170,10 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         {/* Right: Questões de Fixação Imediata */}
         {showQuestions && (
           <div className="lg:col-span-5 space-y-3 animate-fade-in">
-            <Card className="space-y-3 border-[var(--accent-gabarito)]/30">
+            <Card className="p-5 space-y-3 border-[var(--border-focus)]">
               <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
                 <div className="flex items-center gap-1.5 text-xs font-semibold text-[var(--text-primary)]">
-                  <Award className="w-4 h-4 text-[var(--accent-gabarito)]" />
+                  <Award className="w-4 h-4 text-[var(--accent-primary)]" />
                   <span>Fixação Imediata (1/5)</span>
                 </div>
                 <Badge variant="info">{currentCareer.banca}</Badge>
@@ -179,18 +183,18 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 {sampleQuestion.question}
               </p>
 
-              {/* Alternatives List (100% width touch-friendly) */}
+              {/* Alternatives List */}
               <div className="space-y-2 pt-1">
                 {Object.entries(sampleQuestion.options).map(([key, text]) => {
                   let styleClass = 'border-[var(--border-subtle)] hover:border-[var(--border-focus)] bg-[var(--bg-elevated)] text-[var(--text-primary)]';
 
                   if (answered) {
                     if (key === sampleQuestion.answer) {
-                      styleClass = 'border-[var(--accent-gabarito)] bg-[var(--accent-gabarito-glow)] text-[var(--accent-gabarito)] font-semibold';
+                      styleClass = 'border-[var(--accent-success)] bg-[var(--accent-success-glow)] text-[var(--accent-success)] font-semibold';
                     } else if (key === userSelectedOption) {
                       styleClass = 'border-[var(--accent-danger)] bg-[var(--accent-danger-glow)] text-[var(--accent-danger)] font-medium';
                     } else {
-                      styleClass = 'opacity-40 border-[var(--border-subtle)] bg-[var(--bg-surface)] text-[var(--text-muted)]';
+                      styleClass = 'opacity-35 border-[var(--border-subtle)] bg-[var(--bg-surface)] text-[var(--text-muted)]';
                     }
                   }
 
@@ -213,10 +217,10 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
               {/* Explanation Reveal */}
               {answered && (
                 <div className="p-3 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] space-y-1.5 animate-fade-in text-xs">
-                  <div className="font-semibold text-[var(--accent-gabarito)] flex items-center gap-1 font-mono">
+                  <div className="font-semibold text-[var(--accent-success)] flex items-center gap-1 font-mono">
                     <CheckCircle2 className="w-4 h-4" /> Gabarito Oficial: Letra {sampleQuestion.answer}
                   </div>
-                  <p className="text-[var(--text-muted)] font-sans leading-relaxed">
+                  <p className="text-[var(--text-secondary)] text-[11px] leading-relaxed">
                     {sampleQuestion.explanation}
                   </p>
                 </div>

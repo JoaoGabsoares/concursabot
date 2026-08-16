@@ -1,48 +1,75 @@
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
 @import "tailwindcss";
 
 :root {
-  --font-serif: 'Fraunces', Georgia, serif;
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
 
-  /* Dark Theme (Default) */
-  --bg-base: #0D0E12;
-  --bg-surface: #14151A;
-  --bg-elevated: #1C1E26;
-  --bg-glass: rgba(20, 21, 26, 0.85);
-  --text-primary: #FAFAFA;
-  --text-muted: #9CA3AF;
-  --border-subtle: #282A33;
-  --border-focus: #4B5563;
-  --accent-gabarito: #00CC66;
-  --accent-gabarito-glow: rgba(0, 204, 102, 0.15);
-  --accent-danger: #F01E3C;
-  --accent-danger-glow: rgba(240, 30, 60, 0.15);
-  --accent-warning: #FFA500;
-  --accent-warning-glow: rgba(255, 165, 0, 0.15);
-  --btn-primary-bg: #FAFAFA;
-  --btn-primary-text: #0D0E12;
+  /* Dark Theme (Default Obsidian / Linear Style) */
+  --bg-base: #090A0F;
+  --bg-surface: #11131A;
+  --bg-elevated: #171A24;
+  --bg-active: #1F2332;
+  --bg-glass: rgba(17, 19, 26, 0.85);
+
+  --text-primary: #F3F4F6;
+  --text-secondary: #9CA3AF;
+  --text-muted: #6B7280;
+
+  --border-subtle: #1C1F2B;
+  --border-focus: #32384D;
+  --border-highlight: #4F46E5;
+
+  --accent-primary: #6366F1;
+  --accent-primary-hover: #4F46E5;
+  --accent-primary-glow: rgba(99, 102, 241, 0.15);
+
+  --accent-success: #10B981;
+  --accent-success-glow: rgba(16, 185, 129, 0.15);
+
+  --accent-warning: #F59E0B;
+  --accent-warning-glow: rgba(245, 158, 11, 0.15);
+
+  --accent-danger: #EF4444;
+  --accent-danger-glow: rgba(239, 68, 68, 0.15);
+
+  --btn-primary-bg: #FFFFFF;
+  --btn-primary-text: #090A0F;
+  --btn-primary-hover: #E5E7EB;
 }
 
 html:not(.dark) {
-  /* Light Theme (Papel Editorial) */
-  --bg-base: #FAFAFA;
+  /* Light Theme (Clean Slate Editorial) */
+  --bg-base: #F8F9FB;
   --bg-surface: #FFFFFF;
-  --bg-elevated: #F1F3F6;
-  --bg-glass: rgba(255, 255, 255, 0.85);
-  --text-primary: #14151A;
-  --text-muted: #5C6170;
-  --border-subtle: #E2E4E9;
-  --border-focus: #9CA3AF;
-  --accent-gabarito: #00A854;
-  --accent-gabarito-glow: rgba(0, 168, 84, 0.12);
-  --accent-danger: #DC2626;
-  --accent-danger-glow: rgba(220, 38, 38, 0.12);
+  --bg-elevated: #F1F3F7;
+  --bg-active: #E4E7ED;
+  --bg-glass: rgba(255, 255, 255, 0.88);
+
+  --text-primary: #0F172A;
+  --text-secondary: #475569;
+  --text-muted: #64748B;
+
+  --border-subtle: #E2E8F0;
+  --border-focus: #CBD5E1;
+  --border-highlight: #6366F1;
+
+  --accent-primary: #4F46E5;
+  --accent-primary-hover: #4338CA;
+  --accent-primary-glow: rgba(79, 70, 229, 0.10);
+
+  --accent-success: #059669;
+  --accent-success-glow: rgba(5, 150, 105, 0.10);
+
   --accent-warning: #D97706;
-  --accent-warning-glow: rgba(217, 119, 6, 0.12);
-  --btn-primary-bg: #14151A;
-  --btn-primary-text: #FAFAFA;
+  --accent-warning-glow: rgba(217, 119, 6, 0.10);
+
+  --accent-danger: #DC2626;
+  --accent-danger-glow: rgba(220, 38, 38, 0.10);
+
+  --btn-primary-bg: #0F172A;
+  --btn-primary-text: #FFFFFF;
+  --btn-primary-hover: #1E293B;
 }
 
 * {
@@ -52,42 +79,50 @@ html:not(.dark) {
   -webkit-tap-highlight-color: transparent;
 }
 
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
 body {
   font-family: var(--font-sans);
   background-color: var(--bg-base);
   color: var(--text-primary);
   line-height: 1.5;
-  overflow-x: hidden;
-  min-height: 100vh;
+  letter-spacing: -0.01em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* Typography Utility Classes */
-.font-serif { font-family: var(--font-serif); }
 .font-sans { font-family: var(--font-sans); }
 .font-mono { font-family: var(--font-mono); }
 
-/* Glassmorphism Acrylic */
+/* Glass Panel Acrylic */
 .glass-panel {
   background-color: var(--bg-glass);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
   border: 1px solid var(--border-subtle);
 }
 
-/* Touch Targets & Transitions */
-button, a, input, select, textarea {
-  font-family: inherit;
-  transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+/* Hairline Card Utility */
+.linear-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: 0.75rem;
+  transition: border-color 0.15s ease, background-color 0.15s ease, box-shadow 0.15s ease;
 }
 
-button:active {
-  transform: scale(0.98);
+.linear-card:hover {
+  border-color: var(--border-focus);
 }
 
 /* Custom Scrollbars */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 5px;
+  height: 5px;
 }
 ::-webkit-scrollbar-track {
   background: transparent;
@@ -102,19 +137,19 @@ button:active {
 
 /* Animations */
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(6px); }
+  from { opacity: 0; transform: translateY(4px); }
   to { opacity: 1; transform: translateY(0); }
 }
 
-@keyframes pulseGabarito {
-  0%, 100% { box-shadow: 0 0 0 0 rgba(0, 204, 102, 0.4); }
-  50% { box-shadow: 0 0 0 8px rgba(0, 204, 102, 0); }
+@keyframes flamePulse {
+  0%, 100% { transform: scale(1); filter: drop-shadow(0 0 4px rgba(245, 158, 11, 0.4)); }
+  50% { transform: scale(1.1); filter: drop-shadow(0 0 10px rgba(245, 158, 11, 0.8)); }
 }
 
 .animate-fade-in {
   animation: fadeIn 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 
-.pulse-gabarito {
-  animation: pulseGabarito 2s infinite;
+.animate-flame {
+  animation: flamePulse 2s infinite ease-in-out;
 }
