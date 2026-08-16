@@ -1,5 +1,5 @@
 import express from 'express';
-import db, { logActivity } from '../database.js';
+import db, { logActivity, recordQuestionError } from '../database.js';
 import { generateJSON } from '../gemini.js';
 import { questionsSystemInstruction, getQuestionsSystemInstruction, questionsPromptTemplate, questionsSchema } from '../prompts/questions.js';
 
@@ -17,6 +17,7 @@ router.post('/generate', async (req, res) => {
         const systemInstruction = getQuestionsSystemInstruction(careerId);
         const generatedData = await generateJSON(prompt, systemInstruction, questionsSchema);
 
+        const rawQuestions = Array.isArray(generatedData) ? generatedData : (generatedData.questions || []);
         const savedQuestions = [];
         const insertStmt = db.prepare(`
             INSERT INTO questions (subject, topic, banca, type, question_text, options, correct_index, explanation)
@@ -24,16 +25,16 @@ router.post('/generate', async (req, res) => {
         `);
 
         db.transaction(() => {
-            for (const q of generatedData) {
+            for (const q of rawQuestions) {
                 const info = insertStmt.run(
                     subject,
                     topic,
                     banca,
                     type,
                     q.question_text,
-                    JSON.stringify(q.options),
-                    q.correct_index,
-                    q.explanation
+                    JSON.stringify(q.options || []),
+                    typeof q.correct_index === 'number' ? q.correct_index : 0,
+                    q.explanation || ''
                 );
                 savedQuestions.push({ id: info.lastInsertRowid, ...q });
             }
@@ -61,11 +62,16 @@ router.post('/answer', (req, res) => {
 
         if (!question) return res.status(404).json({ error: 'Question not found' });
 
+        const isCorrect = Number(selectedAnswer) === Number(question.correct_index);
         const careerId = req.headers['x-exam-id'] || req.body.careerId || req.body.career_id || 'atrfb';
         const ansStmt = db.prepare('INSERT INTO question_answers (question_id, selected_answer, is_correct, user_id, career_id) VALUES (?, ?, ?, ?, ?)');
-        ansStmt.run(questionId, selectedAnswer, isCorrect ? 1 : 0, userId, careerId);
+        ansStmt.run(questionId, Number(selectedAnswer), isCorrect ? 1 : 0, userId, careerId);
 
-        logActivity('question', `Answered question ${questionId} (${isCorrect ? 'Correct' : 'Incorrect'})`, userId, careerId);
+        if (!isCorrect) {
+            recordQuestionError(userId, careerId, questionId, Number(selectedAnswer));
+        }
+
+        logActivity('question', `Questão #${questionId} (${isCorrect ? 'Acerto' : 'Erro'})`, userId, careerId);
 
         res.json({
             isCorrect,

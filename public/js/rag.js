@@ -201,7 +201,18 @@ function setupRAGHandlers() {
   });
 }
 
-// Upload Files directly to API
+// Helper to safely parse JSON response
+async function safeJson(res) {
+  const text = await res.text();
+  if (!text) return {};
+  try {
+    return JSON.parse(text);
+  } catch (e) {
+    return { error: text || `HTTP ${res.status} ${res.statusText}` };
+  }
+}
+
+// Upload Files in resilient smart batches with live progress
 async function handleFilesUpload(files) {
   const pdfFiles = Array.from(files).filter(f => f.name.toLowerCase().endsWith('.pdf'));
 
@@ -217,49 +228,75 @@ async function handleFilesUpload(files) {
   const msgLabel = document.getElementById('rag-upload-msg');
 
   statusBox.style.display = 'block';
-  filenameLabel.textContent = `Processando ${pdfFiles.length} arquivo(s)...`;
-  pctLabel.textContent = '10%';
-  bar.style.width = '10%';
-  msgLabel.textContent = 'Enviando arquivos e extraindo texto com IA...';
+  filenameLabel.textContent = `Iniciando fila de ${pdfFiles.length} arquivo(s)...`;
+  pctLabel.textContent = '0%';
+  bar.style.width = '0%';
+  msgLabel.textContent = 'Preparando envio em lotes inteligentes...';
 
-  const formData = new FormData();
-  pdfFiles.forEach(f => formData.append('pdfs', f));
+  const BATCH_SIZE = 1; // Process 1 PDF per request for absolute reliability and zero timeouts
+  let processedCount = 0;
+  let totalChunksIndexed = 0;
+  let errorCount = 0;
 
-  try {
-    bar.style.width = '40%';
-    pctLabel.textContent = '40%';
+  for (let i = 0; i < pdfFiles.length; i += BATCH_SIZE) {
+    const currentBatch = pdfFiles.slice(i, i + BATCH_SIZE);
+    const batchNames = currentBatch.map(f => f.name).join(', ');
+    const currentPct = Math.round((i / pdfFiles.length) * 100);
 
-    const res = await fetch('/api/rag/upload', {
-      method: 'POST',
-      body: formData
-    });
+    pctLabel.textContent = `${currentPct}%`;
+    bar.style.width = `${currentPct}%`;
+    filenameLabel.textContent = `Processando [${i + 1}/${pdfFiles.length}]: ${currentBatch[0].name}`;
+    msgLabel.textContent = `Extraindo texto e gerando vetores com IA (${processedCount}/${pdfFiles.length} concluídos)...`;
 
-    bar.style.width = '85%';
-    pctLabel.textContent = '85%';
+    const formData = new FormData();
+    currentBatch.forEach(f => formData.append('pdfs', f));
 
-    const data = await res.json();
+    try {
+      const res = await fetch('/api/rag/upload', {
+        method: 'POST',
+        body: formData
+      });
 
-    if (!res.ok) {
-      throw new Error(data.error || 'Falha ao processar PDFs.');
+      const data = await safeJson(res);
+
+      if (!res.ok || data.error) {
+        console.warn(`Erro no lote ${batchNames}:`, data.error);
+        errorCount += currentBatch.length;
+      } else {
+        processedCount += (data.processed || currentBatch.length);
+        totalChunksIndexed += (data.totalChunksIndexed || 0);
+      }
+    } catch (batchErr) {
+      console.error(`Falha no envio do lote ${batchNames}:`, batchErr);
+      errorCount += currentBatch.length;
     }
 
-    bar.style.width = '100%';
-    pctLabel.textContent = '100%';
-    msgLabel.textContent = `✅ ${data.processed} PDF(s) indexados e ${data.totalChunksIndexed} trechos vetoriais criados!`;
-
-    showToast(`🎉 ${data.processed} PDF(s) indexados com sucesso!`, 'success');
-
-    setTimeout(() => {
+    // Refresh intermediate stats every 5 batches
+    if (i % 10 === 0 || i + BATCH_SIZE >= pdfFiles.length) {
       loadRAGStats();
       loadRAGDocuments();
-      statusBox.style.display = 'none';
-    }, 2500);
-
-  } catch (err) {
-    console.error('Upload error:', err);
-    msgLabel.textContent = `❌ Erro: ${err.message}`;
-    showToast(err.message || 'Erro no upload de PDFs.', 'error');
+    }
   }
+
+  // Final status
+  pctLabel.textContent = '100%';
+  bar.style.width = '100%';
+
+  if (errorCount > 0 && processedCount === 0) {
+    msgLabel.textContent = `❌ Falha ao processar os arquivos. Verifique os PDFs e tente novamente.`;
+    showToast('Erro ao processar lote de PDFs.', 'error');
+  } else if (errorCount > 0) {
+    msgLabel.textContent = `⚠️ Concluído: ${processedCount} PDF(s) indexados (${totalChunksIndexed} trechos), ${errorCount} falharam.`;
+    showToast(`⚠️ ${processedCount} PDFs indexados, ${errorCount} ignorados.`, 'warning');
+  } else {
+    msgLabel.textContent = `✅ Sucesso total! ${processedCount} PDF(s) indexados e ${totalChunksIndexed} trechos vetoriais criados!`;
+    showToast(`🎉 Todos os ${processedCount} PDFs foram indexados com sucesso!`, 'success');
+  }
+
+  setTimeout(() => {
+    loadRAGStats();
+    loadRAGDocuments();
+  }, 1000);
 }
 
 // Load RAG Stats

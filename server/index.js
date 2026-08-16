@@ -26,6 +26,8 @@ import benchmarksRoutes from './routes/benchmarks.js';
 import usersRoutes from './routes/users.js';
 import resetRoutes from './routes/reset.js';
 import gamificationRoutes from './routes/gamification.js';
+import cadernoErrosRoutes from './routes/caderno-erros.js';
+import redacaoRoutes from './routes/redacao.js';
 import { generalLimiter, aiRateLimiter } from './middleware/rate-limiter.js';
 import { seedExamBenchmarks } from './seeds/exam_benchmarks_seed.js';
 import { seedUserProfiles } from './seeds/user_profiles_seed.js';
@@ -184,20 +186,22 @@ app.use('/api', inviteAuthMiddleware);
 // Specific AI routes with dedicated AI rate limiter
 app.use('/api/system/logs', systemLogsRoutes);
 app.use('/api/tutor', aiRateLimiter, tutorRoutes);
-app.use('/api/questions', aiRateLimiter, questionsRoutes);
-app.use('/api/simulados', aiRateLimiter, simuladosRoutes);
+app.use('/api/questions', questionsRoutes);
+app.use('/api/simulados', simuladosRoutes);
 app.use('/api/summaries', aiRateLimiter, summariesRoutes);
 app.use('/api/edital', aiRateLimiter, editalRoutes);
-app.use('/api/flashcards', aiRateLimiter, flashcardsRoutes);
-app.use('/api/schedule', aiRateLimiter, scheduleRoutes);
+app.use('/api/flashcards', flashcardsRoutes);
+app.use('/api/schedule', scheduleRoutes);
 app.use('/api/dashboard', dashboardRoutes);
-app.use('/api/study-room', aiRateLimiter, studyRoomRoutes);
+app.use('/api/study-room', studyRoomRoutes);
 app.use('/api/rag', aiRateLimiter, ragRoutes);
 app.use('/api/backlog', backlogRoutes);
 app.use('/api/benchmarks', benchmarksRoutes);
 app.use('/api/users', usersRoutes);
 app.use('/api/study-reset', resetRoutes);
 app.use('/api/gamification', gamificationRoutes);
+app.use('/api/caderno-erros', cadernoErrosRoutes);
+app.use('/api/redacao', aiRateLimiter, redacaoRoutes);
 
 // Basic error handler
 app.use((err, req, res, next) => {
@@ -211,6 +215,17 @@ app.use((err, req, res, next) => {
 // Start server
 const server = app.listen(PORT, () => {
     console.log(`ConcursaBot Backend rodando! Acesse: http://localhost:${PORT}`);
+});
+
+server.on('error', (err) => {
+    if (err.code === 'EADDRINUSE') {
+        console.error(`\n❌ ERRO: A porta ${PORT} já está sendo usada por outra instância do ConcursaBot.`);
+        console.error(`💡 Para resolver, execute: fuser -k ${PORT}/tcp ou killall node\n`);
+    } else {
+        console.error('\n❌ Erro no servidor HTTP:', err.message);
+    }
+    try { db.close(); } catch (e) {}
+    process.exit(1);
 });
 
 // Graceful shutdown
@@ -227,3 +242,8 @@ function gracefulShutdown(signal) {
 
 process.on('SIGINT', () => gracefulShutdown('SIGINT'));
 process.on('SIGTERM', () => gracefulShutdown('SIGTERM'));
+process.on('uncaughtException', (err) => {
+    console.error('❌ Exceção não tratada:', err);
+    try { db.close(); } catch (e) {}
+    process.exit(1);
+});

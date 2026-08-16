@@ -16,6 +16,8 @@ async function request(endpoint, options = {}) {
       ...options,
       headers: {
         'Content-Type': 'application/json',
+        'X-User-Id': 'user_qa_automated_test',
+        'X-Invite-Pin': 'CONCURSA2026',
         ...(options.headers || {})
       }
     });
@@ -304,10 +306,10 @@ async function runAllTests() {
   // 1.9 /api/verify-pin
   const resPinOpen = await request('/api/verify-pin', {
     method: 'POST',
-    body: JSON.stringify({ pin: '1234' })
+    body: JSON.stringify({ pin: 'CONCURSA2026' })
   });
-  recordResult('Auth PIN', 'POST /api/verify-pin (No PIN required in local dev)', 200, resPinOpen, (body) => {
-    return ('valid' in body) ? true : 'Formato de validação de PIN inválido';
+  recordResult('Auth PIN', 'POST /api/verify-pin (Valid Invite / PIN)', 200, resPinOpen, (body) => {
+    return ('valid' in body && body.valid === true) ? true : 'Formato de validação de PIN inválido';
   });
 
   const resPinGet = await request('/api/verify-pin', { method: 'GET' });
@@ -528,6 +530,16 @@ async function runAllTests() {
     passRate: `${((passed / total) * 100).toFixed(1)}%`,
     results: testResults
   }, null, 2));
+
+  // Cleanup test user artifacts
+  try {
+    const cleanupDb = (await import('./server/database.js')).default;
+    cleanupDb.prepare("DELETE FROM question_answers WHERE user_id = 'user_qa_automated_test'").run();
+    cleanupDb.prepare("DELETE FROM simulados WHERE user_id = 'user_qa_automated_test'").run();
+    cleanupDb.prepare("DELETE FROM activity_log WHERE user_id = 'user_qa_automated_test'").run();
+    cleanupDb.prepare("DELETE FROM user_xp_log WHERE user_id = 'user_qa_automated_test'").run();
+    cleanupDb.prepare("DELETE FROM user_achievements WHERE user_id = 'user_qa_automated_test'").run();
+  } catch (e) {}
 
   console.log('\nResults saved to tests_summary.json');
 }

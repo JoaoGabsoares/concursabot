@@ -7,14 +7,14 @@
     "difficulty": "media",
     "question_text": "(Cesgranrio - Banco do Brasil) No âmbito do Sistema Financeiro Nacional (SFN), o Conselho Monetário Nacional (CMN) atua como o órgão deliberativo máximo. Dentre as competências legalmente atribuídas ao CMN, destaca-se:",
     "options": [
-      "Fixar as diretrizes e normas gerais das políticas monetária, creditícia e cambial do País.",
       "Fiscalizar diretamente as instituições financeiras públicas e privadas e aplicar sanções administrativas.",
+      "Fixar as diretrizes e normas gerais das políticas monetária, creditícia e cambial do País.",
       "Emitir papel-moeda e moeda metálica e executar as operações de redesconto de liquidez.",
       "Exercer o monopólio das operações de câmbio e a custódia das reservas internacionais.",
       "Gerir com exclusividade o Fundo Garantidor de Créditos (FGC) e fixar suas taxas de contribuição."
     ],
-    "correct_option": 0,
-    "explanation": "GABARITO: A.\n\nO CMN (Conselho Monetário Nacional) é o órgão exclusivamente normativo e deliberativo máximo do SFN (Lei nº 4.595/1964). Ele fixa diretrizes, metas de inflação e normas gerais das políticas monetária, cambial e creditícia.\n\nAnálise das alternativas incorretas:\n- B: Fiscalizar e aplicar sanções é atribuição do Banco Central do Brasil (BACEN) e da CVM.\n- C: Emitir moeda e realizar redesconto é atribuição executiva do BACEN.\n- D: O BACEN não detém monopólio de câmbio, apenas regulamenta e fiscaliza o mercado.\n- E: O FGC é uma entidade privada sem fins lucrativos mantida pelas próprias instituições participantes.",
+    "correct_option": 1,
+    "explanation": "GABARITO: B.\n\nO CMN (Conselho Monetário Nacional) é o órgão exclusivamente normativo e deliberativo máximo do SFN (Lei nº 4.595/1964). Ele fixa diretrizes, metas de inflação e normas gerais das políticas monetária, cambial e creditícia.\n\nAnálise das alternativas incorretas:\n- A: Fiscalizar e aplicar sanções é atribuição do Banco Central do Brasil (BACEN) e da CVM.\n- C: Emitir moeda e realizar redesconto é atribuição executiva do BACEN.\n- D: O BACEN não detém monopólio de câmbio, apenas regulamenta e fiscaliza o mercado.\n- E: O FGC é uma entidade privada sem fins lucrativos mantida pelas próprias instituições participantes.",
     "source": "Concurso Banco do Brasil - Cesgranrio"
   },
   {
@@ -25,14 +25,14 @@
     "difficulty": "dificil",
     "question_text": "(Cesgranrio - Banco do Brasil) Um investidor pessoa física possui aplicações financeiras distribuídas em três instituições bancárias distintas, sob o mesmo CPF: R$ 200.000 em CDB no Banco X; R$ 180.000 em LCI no Banco Y; e R$ 300.000 em Fundos de Investimento em Ações no Banco Z. Caso as três instituições sofram liquidação extrajudicial decretada pelo BACEN, qual o valor total máximo garantido pelo Fundo Garantidor de Créditos (FGC) para esse investidor?",
     "options": [
-      "R$ 380.000,00",
       "R$ 680.000,00",
       "R$ 250.000,00",
+      "R$ 380.000,00",
       "R$ 450.000,00",
       "R$ 500.000,00"
     ],
-    "correct_option": 0,
-    "explanation": "GABARITO: A (R$ 380.000,00).\n\nRegras do FGC:\n1. O limite ordinário de garantia do FGC é de até R$ 250.000,00 por CPF/CNPJ, por instituição financeira ou conglomerado financeiro (limitado ao teto global de R$ 1 milhão a cada período de 4 anos).\n2. Instrumentos cobertos pelo FGC: Depósitos à vista, Depósitos a prazo (CDB/RDB), Poupança, LCI, LCA, LC, LI.\n3. Instrumentos NÃO cobertos: Fundos de Investimento (de qualquer natureza, inclusive Ações/Renda Fixa), Debêntures, Letras Financeiras (LF) e COE.\n\nCálculo da cobertura:\n- Banco X (CDB de R$ 200.000): Coberto integralmente = R$ 200.000.\n- Banco Y (LCI de R$ 180.000): Coberto integralmente = R$ 180.000.\n- Banco Z (Fundo de Ações de R$ 300.000): NÃO possui garantia do FGC = R$ 0.\nTotal garantido = R$ 200.000 + R$ 180.000 = R$ 380.000,00.",
+    "correct_option": 2,
+    "explanation": "GABARITO: C (R$ 380.000,00).\n\nRegras do FGC:\n1. O limite ordinário de garantia do FGC é de até R$ 250.000,00 por CPF/CNPJ, por instituição financeira ou conglomerado financeiro (limitado ao teto global de R$ 1 milhão a cada período de 4 anos).\n2. Instrumentos cobertos pelo FGC: Depósitos à vista, Depósitos a prazo (CDB/RDB), Poupança, LCI, LCA, LC, LI.\n3. Instrumentos NÃO cobertos: Fundos de Investimento (de qualquer natureza, inclusive Ações/Renda Fixa), Debêntures, Letras Financeiras (LF) e COE.\n\nCálculo da cobertura:\n- Banco X (CDB de R$ 200.000): Coberto integralmente = R$ 200.000.\n- Banco Y (LCI de R$ 180.000): Coberto integralmente = R$ 180.000.\n- Banco Z (Fundo de Ações de R$ 300.000): NÃO possui garantia do FGC = R$ 0.\nTotal garantido = R$ 200.000 + R$ 180.000 = R$ 380.000,00.",
     "source": "Concurso Banco do Brasil - Cesgranrio"
   },
   {
@@ -43,14 +43,14 @@
     "difficulty": "media",
     "question_text": "(Cesgranrio - Banco do Brasil) No contexto das técnicas de vendas consultivas para serviços financeiros (metodologia SPIN Selling), o gerente de relacionamento do Banco do Brasil pergunta ao cliente empresário: 'De que maneira as oscilações inesperadas no fluxo de caixa têm afetado a capacidade da sua empresa de honrar os pagamentos a fornecedores no prazo e qual o custo dos juros incidentes sobre essas pendências?'. Esta pergunta classifica-se como de:",
     "options": [
-      "Implicação, pois explora as consequências e desdobramentos negativos dos problemas identificados.",
       "Situação, pois busca coletar dados cadastrais básicos sobre o faturamento da empresa.",
       "Necessidade de Solução, pois já apresenta diretamente a linha de crédito como resposta.",
       "Fechamento, pois induz a assinatura imediata do contrato de antecipação de recebíveis.",
+      "Implicação, pois explora as consequências e desdobramentos negativos dos problemas identificados.",
       "Problema, pois apenas questiona se a empresa possui ou não fluxo de caixa positivo."
     ],
-    "correct_option": 0,
-    "explanation": "GABARITO: A.\n\nNa metodologia SPIN Selling (Neil Rackham):\n- S (Situação): Coleta fatos e contexto (ex: 'Quantos funcionários sua empresa tem?').\n- P (Problema): Identifica dores ou insatisfações (ex: 'Você tem atrasos no contas a receber?').\n- I (Implicação): Aprofunda a gravidade do problema, fazendo o cliente perceber o impacto financeiro, custos ou riscos gerados (ex: 'De que maneira isso afeta seus fornecedores e quanto custam esses juros?').\n- N (Necessidade de Solução): Conduz o cliente a verbalizar o valor e benefícios da solução (ex: 'Como ajudaria sua empresa se você pudesse antecipar esses valores com taxas pré-fixadas?').",
+    "correct_option": 3,
+    "explanation": "GABARITO: D.\n\nNa metodologia SPIN Selling (Neil Rackham):\n- S (Situação): Coleta fatos e contexto (ex: 'Quantos funcionários sua empresa tem?').\n- P (Problema): Identifica dores ou insatisfações (ex: 'Você tem atrasos no contas a receber?').\n- I (Implicação): Aprofunda a gravidade do problema, fazendo o cliente perceber o impacto financeiro, custos ou riscos gerados (ex: 'De que maneira isso afeta seus fornecedores e quanto custam esses juros?').\n- N (Necessidade de Solução): Conduz o cliente a verbalizar o valor e benefícios da solução (ex: 'Como ajudaria sua empresa se você pudesse antecipar esses valores com taxas pré-fixadas?').",
     "source": "Concurso Banco do Brasil - Cesgranrio"
   },
   {
@@ -79,14 +79,14 @@
     "difficulty": "dificil",
     "question_text": "(Cesgranrio - Banco do Brasil) Um cliente contratou um empréstimo de R$ 60.000,00 junto ao Banco do Brasil, a ser liquidado em 12 prestações mensais pelo Sistema de Amortização Constante (SAC), à taxa de juros compostos de 2% ao mês. Considerando que a primeira prestação vence ao final do primeiro mês, o valor da primeira prestação (P1) e o valor da segunda prestação (P2) serão, respectivamente:",
     "options": [
-      "R$ 6.200,00 e R$ 6.100,00",
       "R$ 5.000,00 e R$ 5.000,00",
       "R$ 6.000,00 e R$ 5.800,00",
       "R$ 6.400,00 e R$ 6.200,00",
-      "R$ 7.200,00 e R$ 7.000,00"
+      "R$ 7.200,00 e R$ 7.000,00",
+      "R$ 6.200,00 e R$ 6.100,00"
     ],
-    "correct_option": 0,
-    "explanation": "GABARITO: A (R$ 6.200,00 e R$ 6.100,00).\n\nPasso a passo no SAC:\n1. Amortização constante (A) = Saldo Devedor Inicial / Número de Parcelas\n   A = R$ 60.000,00 / 12 = R$ 5.000,00 por mês.\n\n2. Cálculo da 1ª Parcela (P1):\n   - Juros do mês 1 (J1) = 2% sobre Saldo Devedor Inicial (R$ 60.000) = 0,02 * 60.000 = R$ 1.200,00.\n   - P1 = Amortização + J1 = 5.000 + 1.200 = R$ 6.200,00.\n   - Saldo devedor após P1 = 60.000 - 5.000 = R$ 55.000,00.\n\n3. Cálculo da 2ª Parcela (P2):\n   - Juros do mês 2 (J2) = 2% sobre Saldo Devedor de R$ 55.000 = 0,02 * 55.000 = R$ 1.100,00.\n   - P2 = Amortização + J2 = 5.000 + 1.100 = R$ 6.100,00.\n\nNo SAC, cada parcela subsequente decresce no valor de (taxa * Amortização) = 0,02 * 5.000 = R$ 100,00.",
+    "correct_option": 4,
+    "explanation": "GABARITO: E (R$ 6.200,00 e R$ 6.100,00).\n\nPasso a passo no SAC:\n1. Amortização constante (A) = Saldo Devedor Inicial / Número de Parcelas\n   A = R$ 60.000,00 / 12 = R$ 5.000,00 por mês.\n\n2. Cálculo da 1ª Parcela (P1):\n   - Juros do mês 1 (J1) = 2% sobre Saldo Devedor Inicial (R$ 60.000) = 0,02 * 60.000 = R$ 1.200,00.\n   - P1 = Amortização + J1 = 5.000 + 1.200 = R$ 6.200,00.\n   - Saldo devedor após P1 = 60.000 - 5.000 = R$ 55.000,00.\n\n3. Cálculo da 2ª Parcela (P2):\n   - Juros do mês 2 (J2) = 2% sobre Saldo Devedor de R$ 55.000 = 0,02 * 55.000 = R$ 1.100,00.\n   - P2 = Amortização + J2 = 5.000 + 1.100 = R$ 6.100,00.\n\nNo SAC, cada parcela subsequente decresce no valor de (taxa * Amortização) = 0,02 * 5.000 = R$ 100,00.",
     "source": "Concurso Banco do Brasil - Cesgranrio"
   },
   {
@@ -97,14 +97,14 @@
     "difficulty": "facil",
     "question_text": "(Cesgranrio - Banco do Brasil) Um cliente recebe um e-mail com a identidade visual do Banco do Brasil solicitando a atualização urgente de seu módulo de segurança sob pena de bloqueio da conta bancária. O e-mail contém um hiperlink que direciona para uma página clonada destinada a capturar senhas e dados do cartão. Esse tipo de ataque cibernético baseado em engenharia social é denominado:",
     "options": [
-      "Phishing",
       "Ransomware",
+      "Phishing",
       "Denial of Service (DoS)",
       "Spyware",
       "Defacement"
     ],
-    "correct_option": 0,
-    "explanation": "GABARITO: A (Phishing).\n\n- Phishing: Técnica de engenharia social que 'pesca' credenciais e dados confidenciais simulando comunicações oficiais legítimas.\n- Ransomware: Software malicioso que sequestra e criptografa arquivos exigindo resgate.\n- DoS: Ataque de negação de serviço para sobrecarregar servidores.\n- Spyware: Software espião que monitora hábitos e digitação sem necessariamente clonar páginas.\n- Defacement: Desfiguração visual de páginas web.",
+    "correct_option": 1,
+    "explanation": "GABARITO: B (Phishing).\n\n- Phishing: Técnica de engenharia social que 'pesca' credenciais e dados confidenciais simulando comunicações oficiais legítimas.\n- Ransomware: Software malicioso que sequestra e criptografa arquivos exigindo resgate.\n- DoS: Ataque de negação de serviço para sobrecarregar servidores.\n- Spyware: Software espião que monitora hábitos e digitação sem necessariamente clonar páginas.\n- Defacement: Desfiguração visual de páginas web.",
     "source": "Concurso Banco do Brasil - Cesgranrio"
   }
 ]

@@ -41,6 +41,11 @@ export async function render(container) {
           <span style="color:var(--text-secondary); font-size:0.75rem;">simulados</span>
         </div>
 
+        <!-- Guide Button -->
+        <a href="#guia" class="btn btn-secondary btn-sm" title="Guia de Uso & Manual de cada Aba" style="text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
+          <span>📖 Guia</span>
+        </a>
+
         <!-- Reset Button -->
         <button class="btn btn-secondary btn-sm" id="btn-dashboard-reset" title="Reiniciar progresso de estudo (dia, semana, mês ou geral)">
           <span>Resetar</span>
@@ -117,8 +122,11 @@ export async function render(container) {
         <button class="btn btn-primary hero-focus-btn" onclick="window.location.hash='#study-room'">
           Estudar Aulas do Edital
         </button>
-        <button class="btn btn-secondary hero-focus-btn" onclick="window.location.hash='#error-notebook'">
-          Caderno de Erros
+        <button class="btn btn-secondary hero-focus-btn" onclick="window.location.hash='#caderno-erros'">
+          🎯 Caderno de Erros
+        </button>
+        <button class="btn btn-secondary hero-focus-btn" onclick="window.location.hash='#redacao'">
+          ✍️ Redação IA
         </button>
       </div>
     </div>
@@ -169,11 +177,11 @@ export async function render(container) {
           <button class="btn btn-secondary" onclick="window.location.hash='#simulados'" style="padding:0.85rem; font-size:0.85rem; font-weight:600; text-align:left;">
             ⏱️ Simulados Oficiais
           </button>
-          <button class="btn btn-secondary" onclick="window.location.hash='#error-notebook'" style="padding:0.85rem; font-size:0.85rem; font-weight:600; text-align:left; border-left:3px solid #EF4444;">
-            📕 Caderno de Erros
+          <button class="btn btn-secondary" onclick="window.location.hash='#caderno-erros'" style="padding:0.85rem; font-size:0.85rem; font-weight:600; text-align:left; border-left:3px solid #EF4444;">
+            🎯 Caderno de Erros
           </button>
-          <button class="btn btn-secondary" onclick="window.location.hash='#schedule'" style="padding:0.85rem; font-size:0.85rem; font-weight:600; text-align:left;">
-            📅 Cronograma Semanal
+          <button class="btn btn-secondary" onclick="window.location.hash='#redacao'" style="padding:0.85rem; font-size:0.85rem; font-weight:600; text-align:left; border-left:3px solid var(--color-primary);">
+            ✍️ Redação Discursiva IA
           </button>
         </div>
       </div>

@@ -4,9 +4,10 @@
 [![SQLite](https://img.shields.io/badge/Database-SQLite%203%20(WAL)-blue.svg)](https://sqlite.org)
 [![Google Gemini](https://img.shields.io/badge/AI-Gemini%203.7%20Flash-orange.svg)](https://aistudio.google.com)
 [![PWA](https://img.shields.io/badge/PWA-Offline%20Ready-purple.svg)](https://web.dev/progressive-web-apps/)
+[![Tests](https://img.shields.io/badge/Tests-74%2F74%20Passing%20(100%25)-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
 
-> **O ConcursaBot é uma plataforma web completa, local, segura e gratuita de preparação para concursos públicos de elite**, integrando leitura de apostilas originais em PDF com **Caderno Enxuto**, análise preditiva de bancas examinadoras, repetição espaçada automática (D+1, D+7, D+30), simulados oficiais, **Caderno de Erros inteligente**, cronograma adaptativo com IA e gamificação com ganho de XP.
+> **O ConcursaBot é uma plataforma web completa, local, segura e gratuita de preparação para concursos públicos de elite**, integrando leitura de apostilas em PDF com **Caderno Enxuto**, Raio-X de incidência da banca (Pareto 80/20), corretor discursivo de redação por IA, repetição espaçada automática (D+1, D+7, D+30), simulados oficiais, **Caderno de Erros inteligente**, cronograma adaptativo com IA e gamificação com ganho de XP.
 
 ---
 
@@ -14,6 +15,7 @@
 
 | Concurso | Cargo Alvo | Banca Examinadora | Status |
 | :--- | :--- | :--- | :--- |
+| **Banco do Brasil (BB)** | Agente Comercial & Agente de Tecnologia (TI) | **Fundação Cesgranrio** | 🟢 Catálogo Oficial Completo |
 | **SES-RJ / IASERJ 2026** | Técnico de Enfermagem & Assistente Administrativo | **Instituto IBDO Projetos** | 🟢 Edital Aberto (287 vagas) |
 | **Marinha do Brasil (SMV)** | Praças Temporários RM2 (Nível Médio e Técnico) | **DEnsM (Ensino da Marinha)** | 🟢 Edital Anual Regular |
 | **Receita Federal (RFB)** | Analista-Tributário (ATRFB) & Auditor-Fiscal (AFRFB) | **FGV (Fundação Getulio Vargas)** | 🟢 Ciclo Completo Wave 1 & 2 |
@@ -21,19 +23,20 @@
 
 ---
 
-## ✨ Principais Funcionalidades
+## 🌟 As 12 Ferramentas do Ecossistema
 
-* 📖 **Biblioteca & Caderno Enxuto**: Estude com a apostila original em PDF lado a lado com a síntese de leis secas, súmulas e pegadinhas geradas pelo **Gemini AI**.
-* ⏱️ **Simulados Oficiais Cronometrados**: Provas reais com contagem regressiva, cálculo de nota líquida (padrão Cebraspe/FGV/IBDO/DEnsM) e gabarito comentado.
-* ⚡ **Simulados de Re-treino dos Erros**: Gere instantaneamente um simulado focado apenas nas questões que você errou anteriormente para garantir 100% de domínio.
-* 📕 **Caderno de Erros Inteligente**: Isola automaticamente as questões que você errou com feedback imediato e explicações fundamentadas em lei.
-* 🗂️ **Flashcards com 1 Clique no Tutor**: Salve qualquer resposta ou síntese do Tutor IA diretamente como um Flashcard de repetição espaçada.
-* 🎯 **Tutor IA com Estilos Pedagógicos**: Personalize o estilo de tutoria entre **Prático & Direto ao Ponto**, **Método Socrático (indução)** e **Foco Cirúrgico em Pegadinhas da Banca**.
-* 🌐 **Hub de Concursos com "Dá pra Conciliar?"**: Matriz de sobreposição de matérias entre editais para orientar sua estratégia de estudos multicarreiras.
-* 🧠 **Repetição Espaçada Automática**: Curva do esquecimento calculada em D+1, D+7 e D+30 para nunca esquecer o conteúdo estudado.
-* 📅 **Cronograma com IA & Exportação .ICS**: Divisão automática de matérias e horas da sua rotina, com sincronização opcional de Google Agenda e download de `.ics` para celulares.
-* ⚙️ **Central de Configurações Unificadas (`#settings`)**: Controle de perfil, avatar emoji, temas Claro/Escuro, sons, estilo do tutor e backups em JSON.
-* 📱 **PWA Offline**: Instalação como aplicativo nativo no iPhone e Android com suporte a estudo sem internet.
+1. 📊 **Dashboard & Início (`#dashboard`)**: Visão consolidada da sua jornada, percentual de acerto geral, progresso no edital e atalhos rápidos.
+2. 📖 **Sala de Estudos (`#study-room`)**: Visualizador de apostilas em PDF lado a lado com Caderno Enxuto e questões imediatas de fixação.
+3. 📝 **Banco de Questões (`#questions`)**: Treino ativo por disciplina e assunto com filtros de banca e gabarito fundamentado.
+4. ⏱️ **Simulados Cronometrados (`#simulados`)**: Provas completas com contagem regressiva, cálculo de nota líquida e estatísticas detalhadas.
+5. 📕 **Caderno de Erros Inteligente (`#caderno-erros`)**: Captura automática de deslizes com botão de re-treino focado até a superação (+15 XP).
+6. ✍️ **Corretor de Redação por IA (`#redacao`)**: Avaliação discursiva em 4 critérios oficiais (Tema, Estrutura, Norma Culta, Argumentação).
+7. 🔍 **Raio-X do Edital & Pareto 80/20 (`#edital`)**: Análise de incidência estatística da banca, tópicos mais cobrados e notas de corte históricas.
+8. 🧠 **Flashcards Anki-Style (`#flashcards`)**: Algoritmo SM-2 de repetição espaçada com revisão rápida por atalhos de teclado (1 a 4).
+9. 📅 **Cronograma Inteligente (`#schedule`)**: Ciclo de estudos balanceado automaticamente por IA com exportação para `.ics` e Google Agenda.
+10. 🤖 **Tutor Socrático IA (`#tutor`)**: Mentor pedagógico com 3 estilos de resposta e gerador de flashcards com 1 clique.
+11. ⚖️ **Comparador "Dá pra Conciliar?" (`#hub`)**: Matriz de sobreposição entre editais para orientar estratégias multicarreira.
+12. 📚 **Resumos & Mapas Mentais (`#summaries`)**: Sínteses de alta densidade estruturadas em Markdown para revisão rápida pré-prova.
 
 ---
 
@@ -44,7 +47,8 @@
 
 ### 1. Clonar o repositório e instalar dependências:
 ```bash
-cd CONCURSO_BOT
+git clone https://github.com/JoaoGabsoares/concursabot.git
+cd concursabot
 npm install
 ```
 
@@ -67,19 +71,25 @@ Acesse no seu navegador: **`http://localhost:3000`** 🎉
 
 ## 🌐 Como Deixar Online de Graça (Zero Custo)
 
-Quer disponibilizar o ConcursaBot para seus amigos testarem no celular sem gastar nada com hospedagem?
-
-Consulte nosso guia completo:
+Consulte nosso guia passo a passo:
 👉 [**`GUIA_DEPLOY_GRATUITO.md`**](GUIA_DEPLOY_GRATUITO.md)
 
-* **Opção 1 (Recomendada)**: **Cloudflare Tunnel** (Túnel HTTPS seguro direto do seu computador, sem abrir portas de roteador).
-* **Opção 2**: **Render.com Free Tier** (Deploy gratuito na nuvem com Docker).
-* **Opção 3**: **Oracle Cloud Always Free** (VPS Linux potente gratuita para sempre).
-* **Proteção**: Ative o `INVITE_PIN=2026` no `.env` para proteger o acesso com senha.
+* **Cloudflare Tunnel (Recomendado)**: Túnel HTTPS seguro direto do seu computador (`cloudflared tunnel --url http://localhost:3000`).
+* **Render.com Free Tier**: Deploy em nuvem com Docker.
+* **Oracle Cloud Always Free**: VPS Linux potente gratuita para sempre.
+* **Proteção por PIN**: Ative o `INVITE_PIN=2026` no `.env` para controle de acesso.
 
 ---
 
-## 📚 Documentação Técnica Completa
+## 📬 Autor & Contato
 
-Para detalhes de arquitetura de software, schemas do SQLite, rotas REST e diretrizes pedagógicas, leia:
+Desenvolvido por **João Gabriel Soares**
+* 📧 **E-mail:** [joao.dev.soares@gmail.com](mailto:joao.dev.soares@gmail.com)
+* 🐙 **GitHub:** [@JoaoGabsoares](https://github.com/JoaoGabsoares)
+
+---
+
+## 📚 Documentação Técnica
+Para detalhes de arquitetura de software, schemas do SQLite e rotas REST:
 👉 [**`DOCUMENTACAO_DO_SISTEMA.md`**](DOCUMENTACAO_DO_SISTEMA.md)
+

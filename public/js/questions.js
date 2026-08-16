@@ -162,12 +162,13 @@ export async function render(container) {
       
       const btns = qCard.querySelectorAll('.question-option');
       btns.forEach(btn => {
-        btn.addEventListener('click', function() {
+        btn.addEventListener('click', async function() {
           if (qCard.classList.contains('answered')) return;
           qCard.classList.add('answered');
           
           const selectedIdx = parseInt(this.getAttribute('data-optindex'), 10);
           const correctIdx = q.correctIndex !== undefined ? q.correctIndex : q.correct_index;
+          const isCorrect = selectedIdx === correctIdx;
           
           btns.forEach(b => {
             const idx = parseInt(b.getAttribute('data-optindex'), 10);
@@ -182,6 +183,18 @@ export async function render(container) {
           });
           
           qCard.querySelector('.explanation').style.display = 'block';
+
+          // Persiste resposta no backend se o ID existir
+          if (q.id) {
+            try {
+              await api.questions.answer(q.id, selectedIdx);
+              if (isCorrect) {
+                showToast('✨ Questão correta! (+10 XP)', 'success');
+              }
+            } catch (err) {
+              console.warn('Erro ao salvar resposta:', err);
+            }
+          }
 
           // Rola suavemente para a próxima questão não respondida se houver
           setTimeout(() => {
@@ -204,8 +217,8 @@ export async function render(container) {
     // Ignora se o usuário estiver digitando em um campo de texto ou select
     if (['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement?.tagName)) return;
     
-    // Ignora se o quiz não estiver visível
-    const quizEl = document.getElementById('questions-quiz');
+    // Suporta tanto quiz-container quanto questions-quiz
+    const quizEl = document.getElementById('quiz-container') || document.getElementById('questions-quiz');
     if (!quizEl || quizEl.style.display === 'none') return;
 
     const key = e.key.toUpperCase();

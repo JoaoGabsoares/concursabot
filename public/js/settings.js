@@ -51,6 +51,12 @@ export async function renderSettings(container) {
         <button class="btn btn-tab" data-tab="logs" id="tab-btn-logs" style="font-weight:600; font-size:0.88rem; padding:0.6rem 1rem; border-radius:var(--radius-sm);">
           📋 Logs & Diagnóstico
         </button>
+        <button class="btn btn-tab" data-tab="guide" id="tab-btn-guide" style="font-weight:600; font-size:0.88rem; padding:0.6rem 1rem; border-radius:var(--radius-sm);">
+          📖 Guia de Uso
+        </button>
+        <button class="btn btn-tab" data-tab="about" id="tab-btn-about" style="font-weight:600; font-size:0.88rem; padding:0.6rem 1rem; border-radius:var(--radius-sm);">
+          ℹ️ Sobre & Contato
+        </button>
       </div>
 
       <!-- Tab Content Area -->
@@ -99,6 +105,12 @@ export async function renderSettings(container) {
   });
 
   function renderActiveTab() {
+    // Cancela qualquer polling ativo ao mudar de aba
+    if (autoRefreshInterval) {
+      clearInterval(autoRefreshInterval);
+      autoRefreshInterval = null;
+    }
+
     const tabContent = document.getElementById('settings-tab-content');
     if (!tabContent) return;
 
@@ -114,7 +126,96 @@ export async function renderSettings(container) {
       renderBackupTab(tabContent);
     } else if (activeTab === 'logs') {
       renderLogsTab(tabContent);
+    } else if (activeTab === 'guide') {
+      renderGuideTab(tabContent);
+    } else if (activeTab === 'about') {
+      renderAboutTab(tabContent);
     }
+  }
+
+  // ==========================================
+  // TAB: GUIA DE USO
+  // ==========================================
+  function renderGuideTab(tabEl) {
+    tabEl.innerHTML = `
+      <div class="card fade-in" style="padding:2rem; border-radius:var(--radius-md); border:1px solid var(--border-color); background:var(--bg-secondary);">
+        <div style="display:flex; align-items:center; gap:0.75rem; margin-bottom:1rem;">
+          <span style="font-size:2rem;">📖</span>
+          <div>
+            <h3 style="margin:0; font-size:1.35rem; color:var(--text-primary);">Manual de Uso & Como Funciona</h3>
+            <p style="margin:0.2rem 0 0 0; font-size:0.85rem; color:var(--text-secondary);">Guia completo de cada uma das 12 ferramentas de estudo do ConcursaBot</p>
+          </div>
+        </div>
+
+        <p style="font-size:0.92rem; color:var(--text-secondary); line-height:1.55; margin-bottom:1.5rem;">
+          Criamos um guia visual interativo detalhando como funciona o fluxo de estudo em 3 passos, o objetivo de cada aba, a tabela de pontuação de XP e a rotina diária recomendada.
+        </p>
+
+        <div style="display:flex; gap:0.8rem; flex-wrap:wrap;">
+          <a href="#guia" class="btn btn-primary" style="padding:0.65rem 1.4rem; text-decoration:none; display:inline-flex; align-items:center; gap:0.4rem;">
+            <span>📖 Abrir Guia de Uso Completo</span>
+          </a>
+          <a href="#sobre" class="btn btn-secondary" style="padding:0.65rem 1.4rem; text-decoration:none; display:inline-flex; align-items:center; gap:0.4rem;">
+            <span>ℹ️ Ver Manifesto & Pilares</span>
+          </a>
+        </div>
+      </div>
+    `;
+  }
+
+  // ==========================================
+  // TAB: SOBRE & CONTATO
+  // ==========================================
+  function renderAboutTab(tabEl) {
+    const contactEmail = 'joao.dev.soares@gmail.com';
+    tabEl.innerHTML = `
+      <div class="card fade-in" style="padding:2rem; border-radius:var(--radius-md); border:1px solid var(--border-color); background:var(--bg-secondary);">
+        <div style="display:flex; align-items:center; gap:0.75rem; margin-bottom:1rem;">
+          <span style="font-size:2rem;">🧠</span>
+          <div>
+            <h3 style="margin:0; font-size:1.35rem; color:var(--text-primary);">Sobre o ConcursaBot</h3>
+            <p style="margin:0.2rem 0 0 0; font-size:0.85rem; color:var(--text-secondary);">Versão 2.5.0 Pro • Plataforma Aberta e Gratuita para Concursos</p>
+          </div>
+        </div>
+
+        <p style="font-size:0.92rem; color:var(--text-secondary); line-height:1.6;">
+          O ConcursaBot é uma solução inovadora de alta performance para concurseiros de alto rendimento. Em vez de perder horas assistindo aulas gravadas extensas, a plataforma une a <strong>leitura direta da apostila em tela dividida</strong> com um <strong>Caderno Enxuto gerado por IA</strong>, repetição espaçada automática (D+1, D+7, D+30), Caderno de Erros inteligente e análise preditiva de bancas examinadoras.
+        </p>
+
+        <div style="margin-top:1.5rem; padding-top:1.5rem; border-top:1px solid var(--border-color);">
+          <h4 style="margin:0 0 0.75rem 0; font-size:1.1rem; color:var(--text-primary); display:flex; align-items:center; gap:0.4rem;">
+            <span>📬</span> Contato & Desenvolvedor
+          </h4>
+          <p style="font-size:0.88rem; color:var(--text-secondary); margin:0 0 1rem 0;">
+            Dúvidas, sugestões de novos editais ou relatórios de melhoria? Envie uma mensagem direta:
+          </p>
+
+          <div style="display:flex; align-items:center; gap:0.75rem; flex-wrap:wrap;">
+            <div style="padding:0.6rem 1rem; background:var(--bg-tertiary); border:1px solid var(--border-color); border-radius:8px; font-family:var(--font-mono); font-size:0.92rem; color:var(--text-primary); font-weight:600;">
+              ${contactEmail}
+            </div>
+
+            <button id="btn-settings-copy-email" class="btn btn-secondary btn-sm" style="padding:0.6rem 1rem; font-weight:600;">
+              <span>📋 Copiar E-mail</span>
+            </button>
+
+            <a href="mailto:${contactEmail}?subject=Contato%20ConcursaBot" class="btn btn-primary btn-sm" style="padding:0.6rem 1rem; font-weight:600;">
+              <span>✉️ Abrir no E-mail</span>
+            </a>
+
+            <a href="#sobre" class="btn btn-secondary btn-sm" style="padding:0.6rem 1rem; font-weight:600;">
+              <span>📖 Ver Apresentação Completa</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    `;
+
+    document.getElementById('btn-settings-copy-email')?.addEventListener('click', () => {
+      navigator.clipboard.writeText(contactEmail).then(() => {
+        showToast('📋 E-mail copiado para a área de transferência!', 'success');
+      });
+    });
   }
 
   // ==========================================

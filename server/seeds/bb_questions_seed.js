@@ -7,11 +7,6 @@ const __dirname = path.dirname(__filename);
 
 export function seedBBQuestions(db) {
   try {
-    const existing = db.prepare("SELECT COUNT(*) as count FROM questions WHERE banca LIKE '%Cesgranrio%'").get();
-    if (existing && existing.count >= 10) {
-      return;
-    }
-
     const comercialPath = path.join(__dirname, '../data/questions/bb_comercial_questions.json');
     const tiPath = path.join(__dirname, '../data/questions/bb_ti_questions.json');
 
@@ -27,6 +22,11 @@ export function seedBBQuestions(db) {
     }
 
     if (allQuestions.length === 0) return;
+
+    const existing = db.prepare("SELECT COUNT(*) as count FROM questions WHERE banca LIKE '%Cesgranrio%'").get();
+    if (existing && existing.count >= allQuestions.length) {
+      return;
+    }
 
     console.log(`[DB Seed] Sincronizando ${allQuestions.length} questões oficiais da Fundação Cesgranrio (Banco do Brasil)...`);
 

@@ -18,7 +18,7 @@
   <link rel="manifest" href="manifest.json">
   
   <!-- Main Stylesheet -->
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style.css?v=2.6.0">
 
   <!-- Immediate Theme Restore (Pre-paint) -->
   <script>
@@ -55,7 +55,7 @@
         <!-- 4 Core Workspace Modes (Clean Institutional Nav) -->
         <nav class="workspace-nav" id="main-workspace-nav" role="navigation" aria-label="Navegação principal">
           <a href="#dashboard" class="workspace-nav-tab active" data-route="dashboard" data-section="hoje">
-            <span class="tab-label">Hoje</span>
+            <span class="tab-label">Início</span>
           </a>
           <a href="#study-room" class="workspace-nav-tab" data-route="study-room" data-section="biblioteca">
             <span class="tab-label">Biblioteca & Aulas</span>
@@ -86,10 +86,23 @@
             <span class="badge-caret" style="font-size:0.65rem; opacity:0.6;">▾</span>
           </a>
 
-          <!-- Settings Button -->
-          <a href="#settings" class="theme-toggle-btn" id="header-settings-btn" title="Central de Configurações" style="padding:0.4rem 0.6rem; text-decoration:none; display:flex; align-items:center; justify-content:center;">
-            <span style="font-size:0.85rem; font-weight:600;">Ajustes</span>
-          </a>
+          <!-- Utility Links Group -->
+          <div class="header-nav-aux">
+            <a href="#settings" class="theme-toggle-btn header-aux-link" id="header-settings-btn" title="Central de Configurações">
+              <span class="aux-icon">⚙️</span>
+              <span class="aux-text">Ajustes</span>
+            </a>
+
+            <a href="#guia" class="theme-toggle-btn header-aux-link" id="header-guide-btn" title="Guia de Uso & Como Funciona">
+              <span class="aux-icon">📖</span>
+              <span class="aux-text">Guia</span>
+            </a>
+
+            <a href="#sobre" class="theme-toggle-btn header-aux-link" id="header-about-btn" title="Sobre o ConcursaBot & Contato">
+              <span class="aux-icon">ℹ️</span>
+              <span class="aux-text">Sobre</span>
+            </a>
+          </div>
         </div>
       </div>
     </header>
@@ -131,6 +144,6 @@
   </div>
 
   <!-- Main App Script -->
-  <script type="module" src="js/app.js"></script>
+  <script type="module" src="js/app.js?v=2.5.0"></script>
 </body>
 </html>

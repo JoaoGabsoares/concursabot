@@ -55,8 +55,8 @@ router.get('/', (req, res) => {
     const profiles = db.prepare(`
       SELECT 
         u.*,
-        (SELECT COUNT(*) FROM study_sessions) as total_sessions,
-        (SELECT COUNT(*) FROM activity_log) as total_activities
+        (SELECT COUNT(*) FROM study_sessions WHERE user_id = u.id) as total_sessions,
+        (SELECT COUNT(*) FROM activity_log WHERE user_id = u.id) as total_activities
       FROM user_profiles u
       ORDER BY u.is_default DESC, u.last_active_at DESC
     `).all();

@@ -38,7 +38,9 @@ router.post('/', (req, res) => {
       desc = 'completo de todo o histórico';
     }
 
-    // Execute atomic reset transaction
+    const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+
+    // Execute atomic reset transaction per user
     const resetTransaction = db.transaction(() => {
       let sessionsDeleted = 0;
       let questionsCleared = 0;
@@ -47,35 +49,36 @@ router.post('/', (req, res) => {
       let simuladosCleared = 0;
 
       if (scope === 'all') {
-        sessionsDeleted = db.prepare('DELETE FROM study_sessions').run().changes;
-        questionsCleared = db.prepare('DELETE FROM question_answers').run().changes;
-        activitiesCleared = db.prepare('DELETE FROM activity_log').run().changes;
-        simuladosCleared = db.prepare('DELETE FROM simulados').run().changes;
-        try { db.prepare('DELETE FROM simulado_questions').run(); } catch(e){}
-        try { db.prepare('DELETE FROM user_achievements').run(); } catch(e){}
-        try { db.prepare('DELETE FROM user_xp_log').run(); } catch(e){}
-        try { db.prepare('DELETE FROM study_reviews').run(); } catch(e){}
-        try { db.prepare('DELETE FROM missed_sessions').run(); } catch(e){}
-        tasksUncompleted = db.prepare('UPDATE schedule_tasks SET completed = 0, completed_at = NULL').run().changes;
-        db.prepare('UPDATE study_materials SET studied_at = NULL, theory_completed = 0, questions_completed = 0').run();
-        db.prepare("UPDATE flashcards SET repetitions = 0, interval_days = 0, next_review = datetime('now')").run();
+        sessionsDeleted = db.prepare('DELETE FROM study_sessions WHERE user_id = ?').run(userId).changes;
+        questionsCleared = db.prepare('DELETE FROM question_answers WHERE user_id = ?').run(userId).changes;
+        activitiesCleared = db.prepare('DELETE FROM activity_log WHERE user_id = ?').run(userId).changes;
+        simuladosCleared = db.prepare('DELETE FROM simulados WHERE user_id = ?').run(userId).changes;
+        try { db.prepare('DELETE FROM user_achievements WHERE user_id = ?').run(userId); } catch(e){}
+        try { db.prepare('DELETE FROM user_xp_log WHERE user_id = ?').run(userId); } catch(e){}
+        try { db.prepare('DELETE FROM caderno_erros WHERE user_id = ?').run(userId); } catch(e){}
+        try { db.prepare('DELETE FROM redacoes WHERE user_id = ?').run(userId); } catch(e){}
+        try { db.prepare('DELETE FROM study_reviews WHERE user_id = ?').run(userId); } catch(e){}
+        try { db.prepare('DELETE FROM missed_sessions WHERE user_id = ?').run(userId); } catch(e){}
+        tasksUncompleted = db.prepare('UPDATE schedule_tasks SET completed = 0, completed_at = NULL WHERE user_id = ?').run(userId).changes;
+        db.prepare('UPDATE study_materials SET studied_at = NULL, theory_completed = 0, questions_completed = 0 WHERE user_id = ?').run(userId);
+        db.prepare("UPDATE flashcards SET repetitions = 0, interval_days = 0, next_review = datetime('now') WHERE user_id = ?").run(userId);
       } else if (scope === 'day') {
-        sessionsDeleted = db.prepare("DELETE FROM study_sessions WHERE date(started_at) = date('now') OR date(completed_at) = date('now')").run().changes;
-        questionsCleared = db.prepare("DELETE FROM question_answers WHERE date(answered_at) = date('now')").run().changes;
-        activitiesCleared = db.prepare("DELETE FROM activity_log WHERE date(created_at) = date('now')").run().changes;
-        tasksUncompleted = db.prepare("UPDATE schedule_tasks SET completed = 0, completed_at = NULL WHERE date(completed_at) = date('now')").run().changes;
-        db.prepare("UPDATE study_materials SET studied_at = NULL, theory_completed = 0, questions_completed = 0 WHERE date(studied_at) = date('now')").run();
+        sessionsDeleted = db.prepare("DELETE FROM study_sessions WHERE user_id = ? AND (date(started_at) = date('now') OR date(completed_at) = date('now'))").run(userId).changes;
+        questionsCleared = db.prepare("DELETE FROM question_answers WHERE user_id = ? AND date(answered_at) = date('now')").run(userId).changes;
+        activitiesCleared = db.prepare("DELETE FROM activity_log WHERE user_id = ? AND date(created_at) = date('now')").run(userId).changes;
+        tasksUncompleted = db.prepare("UPDATE schedule_tasks SET completed = 0, completed_at = NULL WHERE user_id = ? AND date(completed_at) = date('now')").run(userId).changes;
+        db.prepare("UPDATE study_materials SET studied_at = NULL, theory_completed = 0, questions_completed = 0 WHERE user_id = ? AND date(studied_at) = date('now')").run(userId);
       } else if (scope === 'week') {
-        sessionsDeleted = db.prepare("DELETE FROM study_sessions WHERE started_at >= datetime('now', '-7 days')").run().changes;
-        questionsCleared = db.prepare("DELETE FROM question_answers WHERE answered_at >= datetime('now', '-7 days')").run().changes;
-        activitiesCleared = db.prepare("DELETE FROM activity_log WHERE created_at >= datetime('now', '-7 days')").run().changes;
-        tasksUncompleted = db.prepare("UPDATE schedule_tasks SET completed = 0, completed_at = NULL WHERE completed_at >= datetime('now', '-7 days')").run().changes;
+        sessionsDeleted = db.prepare("DELETE FROM study_sessions WHERE user_id = ? AND started_at >= datetime('now', '-7 days')").run(userId).changes;
+        questionsCleared = db.prepare("DELETE FROM question_answers WHERE user_id = ? AND answered_at >= datetime('now', '-7 days')").run(userId).changes;
+        activitiesCleared = db.prepare("DELETE FROM activity_log WHERE user_id = ? AND created_at >= datetime('now', '-7 days')").run(userId).changes;
+        tasksUncompleted = db.prepare("UPDATE schedule_tasks SET completed = 0, completed_at = NULL WHERE user_id = ? AND completed_at >= datetime('now', '-7 days')").run(userId).changes;
       } else if (scope === 'month') {
-        sessionsDeleted = db.prepare("DELETE FROM study_sessions WHERE started_at >= datetime('now', '-30 days')").run().changes;
-        questionsCleared = db.prepare("DELETE FROM question_answers WHERE answered_at >= datetime('now', '-30 days')").run().changes;
-        activitiesCleared = db.prepare("DELETE FROM activity_log WHERE created_at >= datetime('now', '-30 days')").run().changes;
-        simuladosCleared = db.prepare("DELETE FROM simulados WHERE created_at >= datetime('now', '-30 days')").run().changes;
-        tasksUncompleted = db.prepare("UPDATE schedule_tasks SET completed = 0, completed_at = NULL WHERE completed_at >= datetime('now', '-30 days')").run().changes;
+        sessionsDeleted = db.prepare("DELETE FROM study_sessions WHERE user_id = ? AND started_at >= datetime('now', '-30 days')").run(userId).changes;
+        questionsCleared = db.prepare("DELETE FROM question_answers WHERE user_id = ? AND answered_at >= datetime('now', '-30 days')").run(userId).changes;
+        activitiesCleared = db.prepare("DELETE FROM activity_log WHERE user_id = ? AND created_at >= datetime('now', '-30 days')").run(userId).changes;
+        simuladosCleared = db.prepare("DELETE FROM simulados WHERE user_id = ? AND created_at >= datetime('now', '-30 days')").run(userId).changes;
+        tasksUncompleted = db.prepare("UPDATE schedule_tasks SET completed = 0, completed_at = NULL WHERE user_id = ? AND completed_at >= datetime('now', '-30 days')").run(userId).changes;
       }
 
       return {

@@ -238,8 +238,22 @@ export const CAREERS_CATALOG = {
   }
 };
 
+export const NEUTRAL_CAREER = {
+  id: 'neutral',
+  name: 'Escolher Concurso',
+  shortName: 'Concursos',
+  role: 'Selecione seu objetivo no Hub',
+  banca: 'Selecione no Hub',
+  color: 'primary',
+  icon: '🎯',
+  description: 'Selecione uma carreira no Hub de Concursos para carregar o edital, ciclo de estudos e pauta personalizada.',
+  subjects: [],
+  bancas: [],
+  official_lessons: []
+};
+
 export function getActiveCareerId() {
-  return localStorage.getItem('concursa_active_exam') || 'atrfb';
+  return localStorage.getItem('concursa_active_exam') || null;
 }
 
 export function setActiveCareerId(careerId) {
@@ -252,6 +266,9 @@ export function setActiveCareerId(careerId) {
 
 export function getCareerConfig(careerId = null) {
   const cid = careerId || getActiveCareerId();
+  if (!cid || cid === 'neutral') {
+    return NEUTRAL_CAREER;
+  }
   return CAREERS_CATALOG[cid] || CAREERS_CATALOG['atrfb'];
 }
 

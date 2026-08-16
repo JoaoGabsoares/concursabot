@@ -33,6 +33,25 @@ export async function render(container) {
           </div>
         </div>
 
+        <!-- Raio-X 80/20 Pareto Card -->
+        <div id="raiox-pareto-box" style="margin-top:1.25rem; background:var(--bg-tertiary); border:1px solid var(--border-color); border-radius:var(--radius-md); padding:1.25rem;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.75rem; flex-wrap:wrap; gap:0.5rem;">
+            <div style="display:flex; align-items:center; gap:0.5rem;">
+              <span style="font-size:1.25rem;">📊</span>
+              <h4 style="margin:0; color:var(--text-primary); font-size:1.05rem;">Raio-X de Incidência Oficial (Princípio de Pareto 80/20)</h4>
+            </div>
+            <span id="raiox-corte-badge" class="badge" style="background:#3B82F622; color:#3B82F6; font-weight:700;">Corte Histórico: --</span>
+          </div>
+
+          <div id="raiox-insight-banner" style="background:rgba(27, 54, 93, 0.08); border-left:4px solid var(--color-primary); padding:0.75rem 1rem; border-radius:4px; font-size:0.88rem; font-weight:600; color:var(--text-primary); margin-bottom:1rem;">
+            Carregando inteligência da banca...
+          </div>
+
+          <div id="raiox-topics-table" style="display:flex; flex-direction:column; gap:0.5rem;">
+            <!-- Loaded dynamically -->
+          </div>
+        </div>
+
         <!-- Inputs Form -->
         <div style="margin-top:1.25rem;">
           <div class="grid-2">
@@ -161,6 +180,40 @@ async function loadPreset(presetId) {
           chip.classList.remove('active');
         }
       });
+
+      // Load Raio-X Pareto Data
+      const careerId = getCareerIdFromCargo(preset.cargo, presetId);
+      try {
+        const raioxRes = await api.edital.getRaioX(careerId);
+        if (raioxRes.success && raioxRes.raiox) {
+          const rx = raioxRes.raiox;
+          document.getElementById('raiox-corte-badge').textContent = `Corte Histórico: ${rx.corteMedio}`;
+          document.getElementById('raiox-insight-banner').textContent = rx.paretoInsight;
+          
+          const topicsHtml = rx.topicosOuro.map(t => `
+            <div style="background:var(--bg-secondary); padding:0.75rem 1rem; border-radius:6px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem; border-left:3px solid var(--color-primary);">
+              <div>
+                <div style="display:flex; align-items:center; gap:0.5rem;">
+                  <strong style="color:var(--text-primary); font-size:0.95rem;">${t.disciplina}</strong>
+                  <span class="badge badge-primary" style="font-size:0.75rem;">${t.questoes} questões (~${t.peso}% da prova)</span>
+                  <span class="badge" style="background:#EF444422; color:#EF4444; font-weight:700; font-size:0.75rem;">${t.incidencia}</span>
+                </div>
+                <div style="font-size:0.83rem; color:var(--text-secondary); margin-top:0.25rem;">${t.dica}</div>
+              </div>
+              <div style="width:120px; text-align:right;">
+                <div style="font-family:var(--font-mono); font-weight:800; font-size:1.1rem; color:var(--color-primary);">${t.peso}%</div>
+                <div style="background:var(--bg-tertiary); height:4px; border-radius:2px; overflow:hidden; margin-top:2px;">
+                  <div style="background:var(--color-primary); width:${t.peso * 1.8}%; height:100%;"></div>
+                </div>
+              </div>
+            </div>
+          `).join('');
+
+          document.getElementById('raiox-topics-table').innerHTML = topicsHtml;
+        }
+      } catch (err) {
+        console.warn('Raio-X load note:', err);
+      }
     }
   } catch (e) {
     console.error('Error loading preset:', e);
@@ -237,6 +290,8 @@ function getCareerIdFromCargo(cargo = '', presetId = '') {
   if (presetId === 'ses-rj-saude' || cargo.includes('SES-RJ') || cargo.includes('Saúde')) return 'ses_rj';
   if (presetId === 'marinha-rm2-pracas' || cargo.includes('Marinha') || cargo.includes('RM2')) return 'marinha_rm2';
   if (presetId === 'adm-tribunais-fgv' || cargo.includes('Administrativo') || cargo.includes('Tribunais')) return 'adm_tribunais';
+  if (presetId === 'bb-ti-cesgranrio' || cargo.includes('Agente de Tecnologia') || cargo.includes('Tecnologia') || cargo.includes('TI')) return 'bb_ti';
+  if (presetId === 'bb-comercial-cesgranrio' || cargo.includes('Agente Comercial') || cargo.includes('Banco do Brasil') || cargo.includes('Escriturário')) return 'bb_comercial';
   return 'atrfb';
 }
 

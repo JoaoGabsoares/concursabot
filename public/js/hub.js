@@ -150,7 +150,7 @@ export function getExamOverlap(activeId, targetId) {
 }
 
 export function render(container) {
-  const currentActiveId = localStorage.getItem('concursa_active_exam') || 'atrfb';
+  const currentActiveId = localStorage.getItem('concursa_active_exam') || null;
 
   container.innerHTML = `
     <div class="hub-container fade-in">
@@ -411,8 +411,13 @@ function setupHubEvents() {
     btn.addEventListener('click', async (e) => {
       e.stopPropagation();
       const examId = btn.getAttribute('data-id');
-      const exam = EXAM_CATALOG.find(x => x.id === examId) || EXAM_CATALOG[0];
-      const activeUserId = localStorage.getItem('concursa_active_user_id') || 'user_joao';
+      let activeUserId = localStorage.getItem('concursa_active_user_id');
+      if (!activeUserId) {
+        activeUserId = 'user_joao';
+        localStorage.setItem('concursa_active_user_id', activeUserId);
+        localStorage.setItem('concursa_active_user_name', 'João (Titular)');
+        localStorage.setItem('concursa_active_user_avatar', '👨‍💼');
+      }
 
       localStorage.setItem('concursa_active_exam', exam.id);
       localStorage.setItem('concursa_active_exam_title', exam.title);

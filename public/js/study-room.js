@@ -35,6 +35,13 @@ let timerInterval = null;
 let remainingSeconds = 0;
 let timerAudioPlayed = false;
 
+window.addEventListener('app-route-change', () => {
+  if (timerInterval) {
+    clearInterval(timerInterval);
+    timerInterval = null;
+  }
+});
+
 export async function render(container) {
   const activeExamId = getActiveCareerId();
   const careerCfg = getCareerConfig(activeExamId);
@@ -194,9 +201,15 @@ export async function render(container) {
               placeholder="Ex: li até a pág. 25 / conceito de competência privativa">
           </div>
 
-          <div class="session-actions">
+          <div class="session-actions" style="display:flex; gap:0.5rem; align-items:center;">
+            <button class="btn btn-secondary btn-sm" id="btn-toggle-focus-mode" title="Modo Foco Sem Distrações">🎯 Modo Foco</button>
             <button class="btn btn-danger btn-sm" id="btn-finish-session">Concluir e Fixar</button>
           </div>
+        </div>
+
+        <div class="focus-floating-bar" id="focus-floating-bar">
+          <span style="font-size:0.85rem; font-weight:700; color:var(--color-primary);">🎯 Modo Foco Ativo</span>
+          <button class="btn btn-secondary btn-sm" id="btn-exit-focus">Sair do Foco (Esc)</button>
         </div>
 
         <!-- Session Content: Left (Digital Theory / PDF / Summary Tabs) + Right (Chat) -->
@@ -1174,6 +1187,30 @@ function showSessionUI() {
 
   // Finish session handler
   document.getElementById('btn-finish-session').onclick = finishSession;
+
+  // Modo Foco Toggle Handlers
+  const btnToggleFocus = document.getElementById('btn-toggle-focus-mode');
+  const btnExitFocus = document.getElementById('btn-exit-focus');
+
+  function toggleFocus(enable = null) {
+    const isCurrentlyActive = document.body.classList.contains('focus-mode-active');
+    const newState = enable !== null ? enable : !isCurrentlyActive;
+    if (newState) {
+      document.body.classList.add('focus-mode-active');
+      showToast('🎯 Modo Foco ativado! Pressione Esc para sair.', 'info');
+    } else {
+      document.body.classList.remove('focus-mode-active');
+    }
+  }
+
+  if (btnToggleFocus) btnToggleFocus.onclick = () => toggleFocus();
+  if (btnExitFocus) btnExitFocus.onclick = () => toggleFocus(false);
+
+  window.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && document.body.classList.contains('focus-mode-active')) {
+      toggleFocus(false);
+    }
+  });
 }
 
 // ============================================================
@@ -1739,7 +1776,10 @@ function showFixationResults() {
   const total = fixationQuestionsList.length;
 
   fixationQuestionsList.forEach(q => {
-    if (fixationAnswers[q.id] === q.correctIndex) correct++;
+    const ans = fixationAnswers[q.id];
+    if (ans && (ans.isCorrect || ans.selectedAnswer === q.correctIndex || ans === q.correctIndex)) {
+      correct++;
+    }
   });
 
   const pct = Math.round((correct / total) * 100);

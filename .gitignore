@@ -1,8 +1,33 @@
+# Dependências
 node_modules/
+package-lock.json
+
+# Variáveis de Ambiente & Segredos (NUNCA SUBIR AO GITHUB)
 .env
+.env.local
+.env.*.local
+
+# Bancos de Dados Locais SQLite
 concursabot.db
 concursabot.db-wal
 concursabot.db-shm
+concursabot.sqlite*
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+
+# Arquivos de Sistema, Uploads & Logs
 uploads/
-.DS_Store
 *.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Pastas Externas, Sessões de Teste & Relatórios Temporários
+Faculdade_e_Projetos/
+LIVE_TESTING_SESSION.md
+tests_summary.json
+scratch/

@@ -193,7 +193,21 @@ ${contextText}
 });
 
 // POST /upload — Ingest one or more PDFs uploaded directly through UI
-router.post('/upload', upload.array('pdfs', 50), async (req, res) => {
+router.post('/upload', (req, res, next) => {
+  upload.array('pdfs', 100)(req, res, (err) => {
+    if (err) {
+      console.error('Erro no Multer /api/rag/upload:', err.message);
+      if (err.code === 'LIMIT_FILE_COUNT') {
+        return res.status(400).json({ error: 'Limite de arquivos por lote excedido (máximo 100 por envio).' });
+      }
+      if (err.code === 'LIMIT_FILE_SIZE') {
+        return res.status(400).json({ error: 'Arquivo excede o tamanho máximo de 50MB.' });
+      }
+      return res.status(400).json({ error: `Erro no upload: ${err.message}` });
+    }
+    next();
+  });
+}, async (req, res) => {
   try {
     const files = req.files;
     if (!files || files.length === 0) {
@@ -218,7 +232,7 @@ router.post('/upload', upload.array('pdfs', 50), async (req, res) => {
           ? req.body.subject
           : guessSubject(filename, text);
 
-        const chunks = chunkText(text, 1000, 200);
+        const chunks = chunkText(text, 2200, 250);
         if (chunks.length === 0) {
           results.push({ filename, status: 'skipped', reason: 'Texto insuficiente para gerar trechos' });
           continue;
@@ -240,16 +254,29 @@ router.post('/upload', upload.array('pdfs', 50), async (req, res) => {
           VALUES (?, ?, ?, ?)
         `);
 
-        for (let i = 0; i < chunks.length; i++) {
-          const content = chunks[i];
-          let embArray = [];
-          try {
-            embArray = await generateEmbedding(content);
-          } catch (embErr) {
-            console.warn(`Erro ao gerar embedding chunk ${i} de ${filename}:`, embErr.message);
+        const EMBEDDING_CONCURRENCY = 5;
+        for (let i = 0; i < chunks.length; i += EMBEDDING_CONCURRENCY) {
+          const batch = chunks.slice(i, i + EMBEDDING_CONCURRENCY);
+          const embeddings = await Promise.all(
+            batch.map(async (content, idx) => {
+              try {
+                return await generateEmbedding(content);
+              } catch (embErr) {
+                console.warn(`Erro ao gerar embedding chunk ${i + idx} de ${filename}:`, embErr.message);
+                return [];
+              }
+            })
+          );
+
+          for (let j = 0; j < batch.length; j++) {
+            insertChunk.run(docId, i + j, batch[j], JSON.stringify(embeddings[j] || []));
+            totalChunksIndexed++;
           }
-          insertChunk.run(docId, i, content, JSON.stringify(embArray));
-          totalChunksIndexed++;
+
+          // Small delay to respect Google Gemini RPM free tier quota
+          if (i + EMBEDDING_CONCURRENCY < chunks.length) {
+            await new Promise(r => setTimeout(r, 120));
+          }
         }
 
         results.push({ filename, subject, chunksCount: chunks.length, status: 'success' });
@@ -269,7 +296,7 @@ router.post('/upload', upload.array('pdfs', 50), async (req, res) => {
 
   } catch (error) {
     console.error('Erro no upload de PDFs RAG:', error);
-    res.status(500).json({ error: 'Falha no processamento dos PDFs' });
+    res.status(500).json({ error: error.message || 'Falha no processamento dos PDFs' });
   }
 });
 

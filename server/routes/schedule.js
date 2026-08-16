@@ -159,16 +159,17 @@ router.post('/generate', async (req, res) => {
         const data = await generateJSON(prompt, scheduleSystemInstruction, scheduleSchema);
 
         const config = JSON.stringify({ subjects, hoursPerDay, daysPerWeek, examDate, careerId: activeCareerId });
+        const tasksList = Array.isArray(data.tasks) ? data.tasks : (data.schedule_data?.tasks || []);
         
         let scheduleId;
         db.transaction(() => {
             const schedStmt = db.prepare('INSERT INTO schedules (title, config, schedule_data, exam_date, career_id, user_id) VALUES (?, ?, ?, ?, ?, ?)');
-            const info = schedStmt.run(title || `Cronograma ${careerCfg.shortName}`, config, JSON.stringify(data.schedule_data), examDate, activeCareerId, userId);
+            const info = schedStmt.run(title || `Cronograma ${careerCfg.shortName}`, config, JSON.stringify(data.schedule_data || data), examDate, activeCareerId, userId);
             scheduleId = info.lastInsertRowid;
 
             const taskStmt = db.prepare('INSERT INTO schedule_tasks (schedule_id, day_of_week, subject, topic, duration_minutes, user_id) VALUES (?, ?, ?, ?, ?, ?)');
-            for (const t of data.tasks) {
-                taskStmt.run(scheduleId, t.day_of_week, t.subject, t.topic, t.duration_minutes, userId);
+            for (const t of tasksList) {
+                taskStmt.run(scheduleId, t.day_of_week, t.subject, t.topic, t.duration_minutes || 60, userId);
             }
         })();
 

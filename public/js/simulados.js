@@ -384,11 +384,20 @@ function startSimuladoTimer() {
 
     if (remainingSeconds <= 0) {
       clearInterval(simuladoTimerInterval);
+      simuladoTimerInterval = null;
       showToast('⏰ Tempo esgotado! Finalizando simulado...', 'warning');
       submitSimulado();
     }
   }, 1000);
 }
+
+// Limpa timer se o aluno navegar para outra tela
+window.addEventListener('app-route-change', () => {
+  if (simuladoTimerInterval) {
+    clearInterval(simuladoTimerInterval);
+    simuladoTimerInterval = null;
+  }
+});
 
 // ============================================================
 // ACTIVE QUESTION RENDERING
@@ -407,7 +416,12 @@ function renderActiveQuestion() {
   document.getElementById('q-text').innerHTML = renderMarkdown(q.question_text);
 
   const optionsContainer = document.getElementById('q-options');
-  const options = JSON.parse(q.options || '[]');
+  let options = [];
+  try {
+    options = typeof q.options === 'string' ? JSON.parse(q.options || '[]') : (q.options || []);
+  } catch (err) {
+    options = [];
+  }
   const selected = userAnswers[q.id];
 
   optionsContainer.innerHTML = options.map((opt, idx) => {

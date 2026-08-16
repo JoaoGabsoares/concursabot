@@ -217,6 +217,87 @@ router.get('/', (req, res) => {
     }
 });
 
+// Matriz Estratégica 80/20 (Raio-X de Incidência da Banca)
+const RAIOX_DATA = {
+    bb_comercial: {
+        cargo: 'Banco do Brasil • Escriturário (Agente Comercial)',
+        banca: 'Cesgranrio',
+        corteMedio: '74% a 82.5%',
+        topicosOuro: [
+            { disciplina: 'Conhecimentos Bancários', peso: 28, questoes: 15, incidencia: 'Altíssima', dica: 'SFN, Resoluções CMN, Copom, Taxa Selic, PIX, Lavagem de Dinheiro (Lei 9.613).' },
+            { disciplina: 'Vendas e Negociação', peso: 28, questoes: 15, incidencia: 'Altíssima', dica: 'Técnicas de vendas, Ética e Conduta, CDC (Lei 8.078), Ouvidoria e Atendimento inclusivo.' },
+            { disciplina: 'Língua Portuguesa', peso: 15, questoes: 10, incidencia: 'Alta', dica: 'Interpretação textual, Concordância verbal/nominal, Crase e Regência da Cesgranrio.' },
+            { disciplina: 'Matemática Financeira', peso: 10, questoes: 5, incidencia: 'Média/Alta', dica: 'Juros simples e compostos, Taxas proporcionais/equivalentes, Sistemas de Amortização (SAC e Price).' },
+            { disciplina: 'Conhecimentos de Informática', peso: 10, questoes: 15, incidencia: 'Média/Alta', dica: 'Segurança da informação (Phishing/Ransomware), Nuvem, Excel/Calc e Atalhos do Windows.' },
+            { disciplina: 'Atualidades do Mercado Financeiro', peso: 5, questoes: 5, incidencia: 'Média', dica: 'Open Finance, Fintechs, Moedas digitais (Drex) e Meios de pagamento modernos.' },
+            { disciplina: 'Matemática Básica', peso: 4, questoes: 5, incidencia: 'Média', dica: 'Regra de três, Porcentagem, Probabilidade e Funções.' }
+        ],
+        paretoInsight: '🎯 Regra de Ouro (80/20): Apenas 2 disciplinas (Conhecimentos Bancários e Vendas & Negociação) concentram 56% de TODA a pontuação da prova objetiva!'
+    },
+    bb_ti: {
+        cargo: 'Banco do Brasil • Escriturário (Agente de Tecnologia)',
+        banca: 'Cesgranrio',
+        corteMedio: '62% a 70%',
+        topicosOuro: [
+            { disciplina: 'Tecnologia da Informação', peso: 50, questoes: 35, incidencia: 'Crítica / Decisiva', dica: 'Bancos de Dados SQL/NoSQL, Python 3.10+, Java, REST APIs, Git, DevOps, Docker, Teorema CAP e Microsserviços.' },
+            { disciplina: 'Conhecimentos Bancários', peso: 10, questoes: 10, incidencia: 'Alta', dica: 'Estrutura do SFN, Bacen, CVM, Garantias bancárias e Open Banking.' },
+            { disciplina: 'Língua Portuguesa', peso: 10, questoes: 10, incidencia: 'Média/Alta', dica: 'Compreensão de texto, Coesão e Pontuação Cesgranrio.' },
+            { disciplina: 'Probabilidade e Estatística', peso: 10, questoes: 5, incidencia: 'Alta', dica: 'Medidas de dispersão, Distribuição Normal, Regressão linear e Métricas de ML (Acurácia/F1-Score).' },
+            { disciplina: 'Matemática', peso: 10, questoes: 5, incidencia: 'Média', dica: 'Matrizes, Análise combinatória e Probabilidade.' },
+            { disciplina: 'Língua Inglesa', peso: 10, questoes: 5, incidencia: 'Média', dica: 'Vocabulário técnico de computação e leitura rápida de documentação.' }
+        ],
+        paretoInsight: '🎯 Regra de Ouro (80/20): A prova de Tecnologia da Informação vale metade (50%) dos pontos da prova. Dominar SQL, Python e Arquitetura garante sua vaga!'
+    },
+    atrfb: {
+        cargo: 'Receita Federal • Analista Tributário (ATRFB)',
+        banca: 'FGV',
+        corteMedio: '65% a 75%',
+        topicosOuro: [
+            { disciplina: 'Direito Tributário', peso: 18, questoes: 16, incidencia: 'Altíssima', dica: 'CTN arts. 135/151/156, Imunidades, Reforma Tributária (IBS/CBS) e Decadência/Prescrição.' },
+            { disciplina: 'Legislação Tributária Federal', peso: 16, questoes: 14, incidencia: 'Altíssima', dica: 'IRPF/IRPJ (Lucro Real/Presumido), PIS/COFINS e Simples Nacional.' },
+            { disciplina: 'Legislação Aduaneira', peso: 16, questoes: 14, incidencia: 'Altíssima', dica: 'Regimes Especiais (Drawback/Entreposto), Despacho Aduaneiro e Pena de Perdimento.' },
+            { disciplina: 'Direito Previdenciário', peso: 14, questoes: 16, incidencia: 'Alta', dica: 'Financiamento da Seguridade, Salário de Contribuição e Benefícios RGPS.' },
+            { disciplina: 'Fluência em Dados', peso: 14, questoes: 15, incidencia: 'Alta', dica: 'SQL avançado (JOINs/Window functions), ETL, Data Warehouse e LGPD.' },
+            { disciplina: 'Língua Portuguesa', peso: 12, questoes: 15, incidencia: 'Decisiva', dica: 'Interpretação e estilo semântico da FGV, reescritura e paralelismo.' },
+            { disciplina: 'Direito Constitucional & Adm.', peso: 10, questoes: 14, incidencia: 'Média', dica: 'Art. 5º, Processo Legislativo, Art. 37 da CF e Lei 8.112/90.' }
+        ],
+        paretoInsight: '🎯 Regra de Ouro (80/20): Tributário + Legislação Tributária + Aduaneira somam 50% da prova e definem a classificação para a 2ª fase.'
+    },
+    ses_rj: {
+        cargo: 'SES-RJ / IASERJ 2026 • Saúde & Administrativo',
+        banca: 'IBDO',
+        corteMedio: '68% a 76%',
+        topicosOuro: [
+            { disciplina: 'Legislação do SUS & Saúde Pública', peso: 40, questoes: 15, incidencia: 'Altíssima', dica: 'Lei 8.080/90, Lei 8.142/90, Decreto 7.508/11, PNAB, Financiamento e Humanização.' },
+            { disciplina: 'Conhecimentos Específicos do Cargo', peso: 40, questoes: 20, incidencia: 'Altíssima', dica: 'Técnico de Enfermagem (Imunizações/SBV/Biossegurança) ou Assistente Adm (Regime Jurídico RJ e Lei 14.133).' },
+            { disciplina: 'Língua Portuguesa', peso: 20, questoes: 15, incidencia: 'Alta', dica: 'Gramática normativa direta, Concordância, Regência e Crase da banca IBDO.' }
+        ],
+        paretoInsight: '🎯 Regra de Ouro (80/20): Dominar os 10 artigos-chave da Lei 8.080 e os conceitos do Decreto 7.508 garante praticamente toda a prova de SUS!'
+    },
+    marinha_rm2: {
+        cargo: 'Marinha do Brasil • Oficial e Praça RM2 (SMV)',
+        banca: 'ComOpNav',
+        corteMedio: '76% a 88%',
+        topicosOuro: [
+            { disciplina: 'Língua Portuguesa', peso: 50, questoes: 25, incidencia: 'Crítica (50% da Prova)', dica: 'Interpretação textual, Tipologia, Crase, Regência, Sintaxe do Período e Pontuação.' },
+            { disciplina: 'Legislação Militar-Naval', peso: 30, questoes: 15, incidencia: 'Altíssima', dica: 'Estatuto dos Militares (Lei 6.880/80), Lei do Serviço Militar (Lei 4.375) e Hierarquia/Disciplina.' },
+            { disciplina: 'História e Tradições Navais', peso: 20, questoes: 10, incidencia: 'Média/Alta', dica: 'Batalha do Riachuelo, Almirante Tamandaré, Segunda Guerra Mundial e Poder Marítimo.' }
+        ],
+        paretoInsight: '🎯 Regra de Ouro (80/20): Em RM2, Português decide 50% dos pontos da prova. Gabaritar as 25 questões de Português coloca você no topo dos aprovados.'
+    }
+};
+
+// GET /raiox - Retorna análise de incidência e Pareto 80/20 por carreira
+router.get('/raiox', (req, res) => {
+    const careerId = req.query.careerId || req.headers['x-exam-id'] || 'bb_comercial';
+    const data = RAIOX_DATA[careerId] || RAIOX_DATA.bb_comercial;
+    res.json({
+        success: true,
+        careerId,
+        raiox: data
+    });
+});
+
 // GET /:id - Get specific analysis
 router.get('/:id', (req, res) => {
     try {

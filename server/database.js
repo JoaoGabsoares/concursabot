@@ -1,13 +1,55 @@
-import Database from 'better-sqlite3';
+import { DatabaseSync } from 'node:sqlite';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Initialize database
+// Initialize native built-in database (Zero compilation / No C++ addon needed)
 const dbPath = path.join(__dirname, '../concursabot.db');
-const db = new Database(dbPath);
+const db = new DatabaseSync(dbPath);
+
+// Backward compatibility wrapper for prepare to handle undefined -> null gracefully
+const originalPrepare = db.prepare.bind(db);
+db.prepare = function(sql) {
+    const stmt = originalPrepare(sql);
+    const wrapArgs = (args) => args.map(arg => arg === undefined ? null : arg);
+    return {
+        run(...args) {
+            return stmt.run(...wrapArgs(args));
+        },
+        get(...args) {
+            return stmt.get(...wrapArgs(args));
+        },
+        all(...args) {
+            return stmt.all(...wrapArgs(args));
+        }
+    };
+};
+
+// Backward compatibility helper for pragma
+db.pragma = function(str) {
+    if (str.includes('=')) {
+        db.exec(`PRAGMA ${str};`);
+        return;
+    }
+    return db.prepare(`PRAGMA ${str};`).all();
+};
+
+// Backward compatibility helper for transactions
+db.transaction = function(fn) {
+    return function(...args) {
+        db.exec('BEGIN TRANSACTION;');
+        try {
+            const result = fn(...args);
+            db.exec('COMMIT;');
+            return result;
+        } catch (err) {
+            db.exec('ROLLBACK;');
+            throw err;
+        }
+    };
+};
 
 // Enable WAL mode for better concurrency and performance
 db.pragma('journal_mode = WAL');
@@ -261,6 +303,43 @@ function initDB() {
             FOREIGN KEY (document_id) REFERENCES rag_documents(id) ON DELETE CASCADE
         );
 
+        -- Caderno de Erros Automatizado (Smart Error Bank)
+        CREATE TABLE IF NOT EXISTS caderno_erros (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT NOT NULL,
+            career_id TEXT,
+            question_id INTEGER NOT NULL,
+            wrong_answer_index INTEGER,
+            status TEXT DEFAULT 'pending' CHECK(status IN ('pending', 'reviewing', 'mastered')),
+            review_count INTEGER DEFAULT 0,
+            notes TEXT,
+            last_reviewed_at DATETIME,
+            created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+            FOREIGN KEY (question_id) REFERENCES questions(id) ON DELETE CASCADE
+        );
+        CREATE INDEX IF NOT EXISTS idx_caderno_user_status ON caderno_erros(user_id, status);
+        CREATE INDEX IF NOT EXISTS idx_caderno_question ON caderno_erros(question_id);
+
+        -- Corretor de Redação Discursiva IA
+        CREATE TABLE IF NOT EXISTS redacoes (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT NOT NULL,
+            career_id TEXT,
+            banca TEXT,
+            tema TEXT NOT NULL,
+            texto TEXT NOT NULL,
+            word_count INTEGER,
+            line_count INTEGER,
+            nota_total REAL,
+            nota_tema REAL,
+            nota_estrutura REAL,
+            nota_gramatica REAL,
+            nota_argumentacao REAL,
+            feedback_json TEXT,
+            created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+        );
+        CREATE INDEX IF NOT EXISTS idx_redacoes_user ON redacoes(user_id, created_at DESC);
+
         CREATE INDEX IF NOT EXISTS idx_rag_chunks_doc ON rag_chunks(document_id);
         CREATE INDEX IF NOT EXISTS idx_flashcards_deck ON flashcards(deck_id);
         CREATE INDEX IF NOT EXISTS idx_flashcards_next_review ON flashcards(next_review);
@@ -508,6 +587,24 @@ function initDB() {
                 content='questions',
                 content_rowid='id'
             );
+
+            -- Triggers para Sincronização Automática em Tempo Real do FTS5
+            CREATE TRIGGER IF NOT EXISTS questions_ai AFTER INSERT ON questions BEGIN
+              INSERT INTO questions_fts(rowid, question_text, explanation, subject, topic, banca)
+              VALUES (new.id, new.question_text, new.explanation, new.subject, new.topic, new.banca);
+            END;
+
+            CREATE TRIGGER IF NOT EXISTS questions_ad AFTER DELETE ON questions BEGIN
+              INSERT INTO questions_fts(questions_fts, rowid, question_text, explanation, subject, topic, banca)
+              VALUES('delete', old.id, old.question_text, old.explanation, old.subject, old.topic, old.banca);
+            END;
+
+            CREATE TRIGGER IF NOT EXISTS questions_au AFTER UPDATE ON questions BEGIN
+              INSERT INTO questions_fts(questions_fts, rowid, question_text, explanation, subject, topic, banca)
+              VALUES('delete', old.id, old.question_text, old.explanation, old.subject, old.topic, old.banca);
+              INSERT INTO questions_fts(rowid, question_text, explanation, subject, topic, banca)
+              VALUES (new.id, new.question_text, new.explanation, new.subject, new.topic, new.banca);
+            END;
         `);
 
         // Popular e sincronizar FTS5
@@ -523,13 +620,30 @@ function initDB() {
 
 initDB();
 
-// Log activity wrapper
-export function logActivity(type, detail) {
+// Log activity wrapper with multi-user and career context
+export function logActivity(type, detail, userId = 'user_joao', careerId = 'atrfb') {
     try {
-        const stmt = db.prepare('INSERT INTO activity_log (type, detail) VALUES (?, ?)');
-        stmt.run(type, detail);
+        const stmt = db.prepare('INSERT INTO activity_log (type, detail, user_id, career_id) VALUES (?, ?, ?, ?)');
+        stmt.run(type, detail, userId, careerId);
     } catch (err) {
         console.error('Failed to log activity:', err);
+    }
+}
+
+// Record question error in Caderno de Erros (Smart Error Bank)
+export function recordQuestionError(userId = 'user_joao', careerId = 'atrfb', questionId, wrongAnswerIndex = null) {
+    try {
+        if (!questionId) return;
+        const existing = db.prepare('SELECT id, status, review_count FROM caderno_erros WHERE user_id = ? AND question_id = ?').get(userId, questionId);
+        if (existing) {
+            db.prepare("UPDATE caderno_erros SET wrong_answer_index = ?, status = 'pending', review_count = review_count + 1, last_reviewed_at = CURRENT_TIMESTAMP WHERE id = ?")
+              .run(wrongAnswerIndex, existing.id);
+        } else {
+            db.prepare("INSERT INTO caderno_erros (user_id, career_id, question_id, wrong_answer_index, status, review_count) VALUES (?, ?, ?, ?, 'pending', 1)")
+              .run(userId, careerId, questionId, wrongAnswerIndex);
+        }
+    } catch (err) {
+        console.warn('Error saving to Caderno de Erros:', err.message);
     }
 }
 

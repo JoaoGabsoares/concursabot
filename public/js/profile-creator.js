@@ -38,6 +38,20 @@ export const CAREER_OPTIONS = [
     desc: 'Tronco comum administrativo com Nova Lei de Licitações (14.133/21).'
   },
   {
+    id: 'bb_comercial',
+    name: '🏦 Banco do Brasil — Agente Comercial',
+    role: 'Escriturário / Agente Comercial',
+    banca: 'Fundação Cesgranrio',
+    desc: '70 questões (Conhecimentos Bancários, Vendas e Negociação, Informática e RLM).'
+  },
+  {
+    id: 'bb_ti',
+    name: '💻 Banco do Brasil — Agente de Tecnologia',
+    role: 'Escriturário / Agente de TI',
+    banca: 'Fundação Cesgranrio',
+    desc: '70 questões com 35 questões de Tecnologia da Informação (SQL, Python, DevOps, APIs).'
+  },
+  {
     id: 'custom',
     name: '➕ Outro Concurso Personalizado',
     role: 'Cargo Personalizado',

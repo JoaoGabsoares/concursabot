@@ -215,6 +215,29 @@ export const api = {
     }),
     list: () => fetchAPI('/edital'),
     get: (id) => fetchAPI(`/edital/${id}`),
+    getRaioX: (careerId) => fetchAPI(`/edital/raiox${careerId ? `?careerId=${careerId}` : ''}`),
+  },
+
+  cadernoErros: {
+    list: (params = {}) => {
+      const query = new URLSearchParams(params).toString();
+      return fetchAPI(`/caderno-erros${query ? `?${query}` : ''}`);
+    },
+    retry: (id, selectedAnswer) => fetchAPI(`/caderno-erros/${id}/retry`, {
+      method: 'POST', body: JSON.stringify({ selectedAnswer })
+    }),
+    saveNotes: (id, notes) => fetchAPI(`/caderno-erros/${id}/notes`, {
+      method: 'PUT', body: JSON.stringify({ notes })
+    }),
+    delete: (id) => fetchAPI(`/caderno-erros/${id}`, { method: 'DELETE' }),
+  },
+
+  redacao: {
+    getTemas: (careerId) => fetchAPI(`/redacao/temas${careerId ? `?careerId=${careerId}` : ''}`),
+    corrigir: (data) => fetchAPI('/redacao/corrigir', {
+      method: 'POST', body: JSON.stringify(data)
+    }),
+    getHistorico: () => fetchAPI('/redacao/historico'),
   },
   
   flashcards: {

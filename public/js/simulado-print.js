@@ -1,455 +1,320 @@
-// Módulo de Geração de Caderno de Prova Oficial Impresso (PDF / A4 2 Colunas)
+export const generatePrintExamBooklet = (simulado) => printSimulado(simulado);
 
-export function generatePrintExamBooklet(simulado, questions = []) {
-  const printWindow = window.open('', '_blank');
-  if (!printWindow) {
-    alert('Por favor, permita popups neste site para abrir o Caderno de Prova para impressão.');
+export function printSimulado(simulado) {
+  if (!simulado || !simulado.questions || simulado.questions.length === 0) {
+    alert('Não há questões disponíveis para impressão deste simulado.');
     return;
   }
 
-  const banca = (simulado.banca || 'FGV').toUpperCase();
-  const isCebraspe = banca.includes('CEBRASPE') || banca.includes('CESPE');
-  const isIBDO = banca.includes('IBDO');
-  const questionType = isCebraspe ? 'CERTO / ERRADO' : (isIBDO ? 'MÚLTIPLA ESCOLHA (A, B, C, D)' : 'MÚLTIPLA ESCOLHA (A, B, C, D, E)');
-  const totalQuestions = questions.length;
-  const timeLimit = simulado.time_limit_minutes || 60;
-  const examDate = new Date().toLocaleDateString('pt-BR');
+  const printWindow = window.open('', '_blank');
+  if (!printWindow) {
+    alert('Por favor, permita popups no seu navegador para abrir o PDF do simulado.');
+    return;
+  }
 
-  // Constrói HTML das questões em 2 colunas
-  const questionsHtml = questions.map((q, idx) => {
+  const banca = simulado.banca || 'Cesgranrio';
+  const cargo = simulado.cargo || simulado.title || 'Concurso Público Oficial';
+  const dateStr = new Date().toLocaleDateString('pt-BR');
+  const totalQuestions = simulado.questions.length;
+
+  const questionsHtml = simulado.questions.map((q, idx) => {
     let options = [];
     try {
-      options = Array.isArray(q.options) ? q.options : JSON.parse(q.options || '[]');
-    } catch (e) {
-      options = isCebraspe ? ['Certo', 'Errado'] : (isIBDO ? ['A', 'B', 'C', 'D'] : ['A', 'B', 'C', 'D', 'E']);
-    }
-
-    const letters = ['A', 'B', 'C', 'D', 'E'];
-    const optionsHtml = isCebraspe
-      ? `
-        <div class="print-cebraspe-options">
-          <span class="option-pill">( &nbsp; ) CERTO</span>
-          <span class="option-pill">( &nbsp; ) ERRADO</span>
-        </div>
-      `
-      : options.map((opt, oIdx) => `
-        <div class="print-option">
-          <span class="option-letter">(${letters[oIdx] || oIdx + 1})</span>
-          <span class="option-text">${opt}</span>
-        </div>
-      `).join('');
-
-    return `
-      <div class="print-question-item">
-        <div class="print-question-header">
-          <span class="print-q-num">QUESTÃO ${idx + 1}</span>
-          <span class="print-q-subject">${q.subject || ''}</span>
-        </div>
-        <div class="print-question-body">
-          ${q.question_text || q.text || ''}
-        </div>
-        <div class="print-question-options">
-          ${optionsHtml}
-        </div>
-        <div class="print-rascunho-area">
-          <span class="rascunho-tag">Espaço para Rascunho</span>
-        </div>
-      </div>
-    `;
-  }).join('');
-
-  // Constrói Folha de Respostas (Cartão-Resposta)
-  const letters = isCebraspe ? ['C', 'E'] : (isIBDO ? ['A', 'B', 'C', 'D'] : ['A', 'B', 'C', 'D', 'E']);
-  const answerSheetHtml = questions.map((_, idx) => `
-    <div class="bubble-row">
-      <span class="bubble-num">${String(idx + 1).padStart(2, '0')}</span>
-      ${letters.map(l => `<span class="bubble-circle">(${l})</span>`).join('')}
-    </div>
-  `).join('');
-
-  // Constrói Gabarito Comentado
-  const answerKeyHtml = questions.map((q, idx) => {
-    let options = [];
-    try {
-      options = Array.isArray(q.options) ? q.options : JSON.parse(q.options || '[]');
+      options = typeof q.options === 'string' ? JSON.parse(q.options) : q.options;
     } catch (e) {
       options = [];
     }
-    const correctLetter = isCebraspe 
-      ? (q.correct_index === 0 ? 'CERTO' : 'ERRADO')
-      : (letters[q.correct_index] || `Opção ${q.correct_index + 1}`);
 
     return `
-      <div class="gabarito-item">
-        <div class="gabarito-header">
-          <strong>QUESTÃO ${idx + 1}:</strong> <span class="gabarito-badge">${correctLetter}</span> — <em>${q.subject || ''}</em>
+      <div class="question-block">
+        <div class="question-title">
+          <strong>QUESTÃO ${idx + 1}</strong> <span class="question-meta">(${q.subject || 'Conhecimentos Específicos'}${q.topic ? ` • ${q.topic}` : ''})</span>
         </div>
-        <div class="gabarito-exp">
-          ${q.explanation || 'Comentário técnico não disponível.'}
+        <div class="question-text">${q.question_text || q.text}</div>
+        <div class="options-list">
+          ${options.map((opt, optIdx) => {
+            const letter = String.fromCharCode(65 + optIdx);
+            return `
+              <div class="option-item">
+                <span class="opt-letter">(${letter})</span>
+                <span class="opt-text">${opt}</span>
+              </div>
+            `;
+          }).join('')}
         </div>
       </div>
     `;
   }).join('');
 
-  const fullHtml = `
+  // Folha de Respostas (Bolinhas)
+  const answerSheetHtml = Array.from({ length: totalQuestions }).map((_, idx) => `
+    <div class="sheet-row">
+      <span class="sheet-qnum">${String(idx + 1).padStart(2, '0')}</span>
+      <span class="sheet-bubble">A</span>
+      <span class="sheet-bubble">B</span>
+      <span class="sheet-bubble">C</span>
+      <span class="sheet-bubble">D</span>
+      <span class="sheet-bubble">E</span>
+    </div>
+  `).join('');
+
+  // Gabarito e Comentários
+  const answerKeyHtml = simulado.questions.map((q, idx) => {
+    const letter = String.fromCharCode(65 + (Number(q.correct_index) || 0));
+    return `
+      <div class="key-item">
+        <strong>Questão ${idx + 1}:</strong> <span class="badge-gabarito">Opção (${letter})</span>
+        <p class="key-explanation">${q.explanation || 'Resolução comentada no banco do ConcursaBot.'}</p>
+      </div>
+    `;
+  }).join('');
+
+  const docHtml = `
     <!DOCTYPE html>
     <html lang="pt-BR">
     <head>
       <meta charset="UTF-8">
-      <title>Caderno de Prova — Simulado ${banca} (${totalQuestions} Questões)</title>
+      <title>Caderno de Prova — ${cargo}</title>
       <style>
         @page {
           size: A4;
           margin: 12mm 15mm 15mm 15mm;
         }
-
         * {
           box-sizing: border-box;
-          margin: 0;
-          padding: 0;
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
         }
-
         body {
           font-family: 'Times New Roman', Times, serif;
-          color: #111;
+          color: #000;
           background: #fff;
-          font-size: 10.5pt;
+          margin: 0;
+          padding: 0;
+          font-size: 10pt;
           line-height: 1.35;
         }
-
-        .no-print-toolbar {
-          position: fixed;
-          top: 0;
-          left: 0;
-          right: 0;
-          background: #1e293b;
-          color: #fff;
-          padding: 10px 20px;
+        .header-box {
+          border: 2px solid #000;
+          padding: 10px;
+          margin-bottom: 15px;
+        }
+        .header-top {
           display: flex;
           justify-content: space-between;
           align-items: center;
-          z-index: 9999;
-          font-family: sans-serif;
-          box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+          border-bottom: 1px solid #000;
+          padding-bottom: 6px;
+          margin-bottom: 8px;
         }
-
-        .btn-print {
-          background: #2563eb;
-          color: #fff;
-          border: none;
-          padding: 8px 18px;
-          font-size: 14px;
-          font-weight: 600;
-          border-radius: 6px;
-          cursor: pointer;
-        }
-
-        .btn-close {
-          background: #475569;
-          color: #fff;
-          border: none;
-          padding: 8px 14px;
-          font-size: 14px;
-          border-radius: 6px;
-          cursor: pointer;
-        }
-
-        .page-container {
-          padding-top: 50px;
-        }
-
-        @media print {
-          .no-print-toolbar {
-            display: none !important;
-          }
-          .page-container {
-            padding-top: 0 !important;
-          }
-          .page-break {
-            page-break-before: always;
-          }
-        }
-
-        /* CABEÇALHO OFICIAL */
-        .exam-cover-header {
-          border: 2px solid #000;
-          padding: 12px;
-          margin-bottom: 16px;
-          text-align: center;
-        }
-
-        .exam-title-main {
+        .header-title {
           font-size: 14pt;
           font-weight: bold;
           text-transform: uppercase;
-          letter-spacing: 0.5px;
         }
-
-        .exam-subtitle {
+        .header-banca {
           font-size: 11pt;
           font-weight: bold;
-          margin-top: 3px;
         }
-
-        .exam-meta-grid {
+        .candidate-fields {
           display: flex;
-          justify-content: space-between;
-          margin-top: 8px;
-          padding-top: 6px;
-          border-top: 1px solid #333;
-          font-size: 9.5pt;
+          gap: 15px;
+          font-size: 9pt;
         }
-
-        .candidate-box {
-          border: 1px solid #000;
-          padding: 8px;
-          margin-bottom: 16px;
-          font-size: 9.5pt;
-          display: flex;
-          justify-content: space-between;
-        }
-
-        .exam-instructions {
-          border: 1px dashed #444;
-          padding: 8px 12px;
-          margin-bottom: 16px;
-          font-size: 8.5pt;
-          background: #fafafa;
-        }
-
-        .exam-instructions h4 {
-          font-size: 9.5pt;
-          margin-bottom: 4px;
-          text-transform: uppercase;
-        }
-
-        .exam-instructions ul {
-          padding-left: 18px;
-        }
-
-        .exam-instructions li {
-          margin-bottom: 2px;
-        }
-
-        /* DIAGRAMAÇÃO EM 2 COLUNAS */
-        .exam-two-columns {
-          column-count: 2;
-          column-gap: 20px;
-          column-rule: 1px solid #ccc;
-          text-align: justify;
-        }
-
-        .print-question-item {
-          break-inside: avoid;
-          margin-bottom: 16px;
-          padding-bottom: 12px;
-          border-bottom: 1px dotted #aaa;
-        }
-
-        .print-question-header {
-          display: flex;
-          justify-content: space-between;
-          font-weight: bold;
-          font-size: 10pt;
-          margin-bottom: 4px;
-          border-bottom: 1px solid #000;
+        .candidate-field {
+          flex: 1;
+          border-bottom: 1px dotted #444;
           padding-bottom: 2px;
         }
-
-        .print-q-num {
-          text-transform: uppercase;
-        }
-
-        .print-q-subject {
+        .instructions-box {
+          background: #f4f4f4;
+          border: 1px solid #ccc;
+          padding: 8px 12px;
           font-size: 8.5pt;
-          font-style: italic;
-          font-weight: normal;
+          margin-bottom: 15px;
+          line-height: 1.3;
         }
-
-        .print-question-body {
+        .instructions-box ol {
+          margin: 4px 0 0 15px;
+          padding: 0;
+        }
+        
+        /* 2-Column Layout for Questions */
+        .questions-columns {
+          column-count: 2;
+          column-gap: 20px;
+          column-rule: 1px solid #ddd;
+        }
+        .question-block {
+          break-inside: avoid;
+          page-break-inside: avoid;
+          margin-bottom: 14px;
+          padding-bottom: 10px;
+          border-bottom: 1px dotted #ccc;
+        }
+        .question-title {
           font-size: 9.5pt;
-          margin-bottom: 8px;
+          margin-bottom: 4px;
         }
-
-        .print-option {
+        .question-meta {
+          font-size: 8pt;
+          color: #555;
+          font-style: italic;
+        }
+        .question-text {
+          font-size: 9.5pt;
+          text-align: justify;
+          margin-bottom: 6px;
+        }
+        .options-list {
+          display: flex;
+          flex-direction: column;
+          gap: 3px;
+        }
+        .option-item {
           display: flex;
           gap: 6px;
           font-size: 9pt;
-          margin-bottom: 4px;
-          align-items: flex-start;
+          text-align: justify;
         }
-
-        .option-letter {
+        .opt-letter {
           font-weight: bold;
-          min-width: 22px;
+          min-width: 18px;
+        }
+        
+        /* Page Breaks */
+        .page-break {
+          page-break-before: always;
+          break-before: page;
         }
 
-        .print-cebraspe-options {
-          display: flex;
-          gap: 20px;
-          margin: 6px 0;
-          font-weight: bold;
-          font-size: 9pt;
+        /* Folha de Respostas */
+        .sheet-container {
+          padding-top: 15px;
         }
-
-        .print-rascunho-area {
-          margin-top: 8px;
-          border: 1px dashed #ccc;
-          height: 35px;
-          position: relative;
+        .sheet-grid {
+          display: grid;
+          grid-template-columns: repeat(4, 1fr);
+          gap: 10px;
+          margin-top: 15px;
         }
-
-        .rascunho-tag {
-          position: absolute;
-          top: 2px;
-          right: 4px;
-          font-size: 7pt;
-          color: #888;
-          text-transform: uppercase;
-        }
-
-        /* CARTÃO-RESPOSTA / FOLHA DE RESPOSTAS */
-        .answer-sheet-container {
-          border: 2px solid #000;
-          padding: 16px;
-          margin-top: 20px;
-          text-align: center;
-        }
-
-        .answer-sheet-header {
-          border-bottom: 2px solid #000;
-          padding-bottom: 8px;
-          margin-bottom: 12px;
-        }
-
-        .bubble-grid {
-          display: flex;
-          flex-wrap: wrap;
-          gap: 10px 24px;
-          justify-content: center;
-          margin-top: 12px;
-        }
-
-        .bubble-row {
+        .sheet-row {
           display: flex;
           align-items: center;
           gap: 6px;
           font-size: 9pt;
-          width: 140px;
+          font-family: monospace;
         }
-
-        .bubble-num {
+        .sheet-qnum {
           font-weight: bold;
           min-width: 24px;
         }
-
-        .bubble-circle {
-          border: 1px solid #000;
-          border-radius: 50%;
-          width: 18px;
-          height: 18px;
-          display: flex;
+        .sheet-bubble {
+          display: inline-flex;
           align-items: center;
           justify-content: center;
-          font-size: 7pt;
-          font-weight: bold;
+          width: 18px;
+          height: 18px;
+          border-radius: 50%;
+          border: 1px solid #000;
+          font-size: 7.5pt;
         }
 
-        /* GABARITO COMENTADO */
-        .gabarito-container {
-          margin-top: 20px;
-        }
-
-        .gabarito-item {
+        /* Gabarito Final */
+        .key-item {
           margin-bottom: 12px;
           padding-bottom: 8px;
           border-bottom: 1px solid #eee;
-          font-size: 9pt;
+          break-inside: avoid;
         }
-
-        .gabarito-badge {
+        .badge-gabarito {
           background: #000;
           color: #fff;
-          padding: 1px 5px;
+          padding: 1px 6px;
           border-radius: 3px;
           font-weight: bold;
-        }
-
-        .gabarito-exp {
-          margin-top: 4px;
-          color: #333;
           font-size: 8.5pt;
+        }
+        .key-explanation {
+          font-size: 8.5pt;
+          color: #333;
+          margin: 4px 0 0 0;
+          text-align: justify;
         }
       </style>
     </head>
     <body>
-      <div class="no-print-toolbar">
-        <div><strong>Caderno de Prova — Simulado ${banca}</strong> (${totalQuestions} Questões)</div>
-        <div style="display:flex; gap:10px;">
-          <button class="btn-print" onclick="window.print()">🖨️ Imprimir / Salvar PDF</button>
-          <button class="btn-close" onclick="window.close()">✕ Fechar</button>
+      <!-- Capa & Cabeçalho -->
+      <div class="header-box">
+        <div class="header-top">
+          <div class="header-title">${cargo}</div>
+          <div class="header-banca">Banca: ${banca} • Simulado Real</div>
+        </div>
+        <div class="candidate-fields">
+          <div class="candidate-field">NOME DO CANDIDATO: _________________________________________________</div>
+          <div class="candidate-field" style="max-width:180px;">INSCRIÇÃO: ___________________</div>
+          <div class="candidate-field" style="max-width:120px;">DATA: ${dateStr}</div>
         </div>
       </div>
 
-      <div class="page-container">
-        <!-- CABEÇALHO -->
-        <div class="exam-cover-header">
-          <div class="exam-title-main">CONCURSO PÚBLICO SIMULADO — BANCA ${banca}</div>
-          <div class="exam-subtitle">CADERNO DE QUESTÕES OBJETIVAS • ${questionType}</div>
-          <div class="exam-meta-grid">
-            <span><strong>Duração:</strong> ${timeLimit} minutos</span>
-            <span><strong>Total de Questões:</strong> ${totalQuestions}</span>
-            <span><strong>Data:</strong> ${examDate}</span>
+      <div class="instructions-box">
+        <strong>INSTRUÇÕES GERAIS AO CANDIDATO:</strong>
+        <ol>
+          <li>Verifique se este caderno contém <strong>${totalQuestions} questões</strong> objetivas.</li>
+          <li>Utilize caneta esferográfica de tinta <strong>preta ou azul</strong> fabricada em material transparente.</li>
+          <li>Preencha a Folha de Respostas cobrindo inteiramente a bolinha correspondente à sua escolha.</li>
+          <li>O tempo estimado para a resolução desta prova é de <strong>${Math.round(totalQuestions * 3.5)} minutos</strong>.</li>
+        </ol>
+      </div>
+
+      <!-- Caderno de Questões em 2 Colunas -->
+      <div class="questions-columns">
+        ${questionsHtml}
+      </div>
+
+      <!-- Folha de Respostas Destacável -->
+      <div class="page-break sheet-container">
+        <div class="header-box">
+          <div class="header-top">
+            <div class="header-title">FOLHA DE RESPOSTAS (CARTÃO-RESPOSTA)</div>
+            <div class="header-banca">${banca} • ${totalQuestions} Questões</div>
+          </div>
+          <div style="font-size:8pt; margin-bottom:8px;">
+            Preencha integralmente o círculo com caneta esferográfica: <strong>(A) (B) (C) (D) (E)</strong>
           </div>
         </div>
 
-        <div class="candidate-box">
-          <span><strong>NOME DO CANDIDATO:</strong> ____________________________________________________</span>
-          <span><strong>ASSINATURA:</strong> ______________________</span>
+        <div class="sheet-grid">
+          ${answerSheetHtml}
         </div>
+      </div>
 
-        <div class="exam-instructions">
-          <h4>INSTRUÇÕES GERAIS AOS CANDIDATOS:</h4>
-          <ul>
-            <li>Verifique se este caderno contém exatamente ${totalQuestions} questões numeradas sequencialmente.</li>
-            <li>Utilize somente caneta esferográfica de tinta preta ou azul fabricada em material transparente.</li>
-            <li>Preencha a Folha de Respostas ao final do caderno preenchendo integralmente o alvéolo correspondente.</li>
-            <li>O tempo disponível para esta prova é de ${timeLimit} minutos, incluindo a marcação da folha de respostas.</li>
-          </ul>
-        </div>
-
-        <!-- QUESTÕES EM 2 COLUNAS -->
-        <div class="exam-two-columns">
-          ${questionsHtml}
-        </div>
-
-        <!-- FOLHA DE RESPOSTAS (CARTÃO-RESPOSTA DESTACÁVEL) -->
-        <div class="page-break"></div>
-        <div class="answer-sheet-container">
-          <div class="answer-sheet-header">
-            <h3 style="text-transform: uppercase;">FOLHA DE RESPOSTAS (CARTÃO-RESPOSTA)</h3>
-            <p style="font-size: 8.5pt; margin-top: 3px;">Preencha com caneta preta o círculo correspondente à alternativa correta.</p>
-          </div>
-          <div class="bubble-grid">
-            ${answerSheetHtml}
+      <!-- Gabarito Oficial e Resoluções -->
+      <div class="page-break">
+        <div class="header-box" style="background:#f4f4f4;">
+          <div class="header-top">
+            <div class="header-title">GABARITO OFICIAL & RESOLUÇÃO COMENTADA</div>
+            <div class="header-banca">ConcursaBot IA</div>
           </div>
         </div>
 
-        <!-- GABARITO COMENTADO -->
-        <div class="page-break"></div>
-        <div class="gabarito-container">
-          <div style="border-bottom: 2px solid #000; padding-bottom: 6px; margin-bottom: 14px;">
-            <h3 style="text-transform: uppercase;">GABARITO OFICIAL & COMENTÁRIOS ESTRATÉGICOS</h3>
-            <p style="font-size: 8.5pt; color: #555;">Consulte apenas após a conclusão e preenchimento da Folha de Respostas.</p>
-          </div>
+        <div style="column-count: 2; column-gap: 20px;">
           ${answerKeyHtml}
         </div>
       </div>
+
+      <script>
+        window.addEventListener('load', () => {
+          setTimeout(() => {
+            window.print();
+          }, 300);
+        });
+      </script>
     </body>
     </html>
   `;
 
   printWindow.document.open();
-  printWindow.document.write(fullHtml);
+  printWindow.document.write(docHtml);
   printWindow.document.close();
 }

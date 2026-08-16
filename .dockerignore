@@ -6,3 +6,7 @@ npm-debug.log
 .gemini
 backups
 .DS_Store
+concursabot.db*
+server.log
+tests_summary.json
+test_*.js

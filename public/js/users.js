@@ -5,6 +5,8 @@ export const CAREER_LABELS = {
   'ses_rj': '🏥 SES-RJ / IASERJ 2026 (IBDO)',
   'marinha_rm2': '⚓ Marinha do Brasil (Praças RM2)',
   'adm_tribunais': '🏢 Tribunais & Área Administrativa',
+  'bb_comercial': '🏦 Banco do Brasil (Agente Comercial)',
+  'bb_ti': '💻 Banco do Brasil (Agente de TI)',
   'custom': '➕ Concurso Personalizado'
 };
 
@@ -125,6 +127,8 @@ export async function render(container) {
               <option value="ses_rj">🏥 Saúde Pública (SES-RJ)</option>
               <option value="marinha_rm2">⚓ Marinha do Brasil (Praças RM2)</option>
               <option value="adm_tribunais">🏢 Carreiras Administrativas & Tribunais</option>
+              <option value="bb_comercial">🏦 Banco do Brasil — Agente Comercial</option>
+              <option value="bb_ti">💻 Banco do Brasil — Agente de TI</option>
             </select>
           </div>
 

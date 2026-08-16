@@ -2,6 +2,7 @@ import { showToast } from './utils.js';
 import { openResetStudyModal } from './reset-modal.js';
 import { getCareerConfig, getActiveCareerId } from './careers.js';
 import { checkInviteAccess } from './invite-gate.js';
+import { pwaManager } from './pwa-helper.js';
 
 // Workspace Sections & Sub-navigation Mappings
 const WORKSPACE_SECTIONS = {
@@ -12,9 +13,9 @@ const WORKSPACE_SECTIONS = {
   },
   'hoje': {
     mainRoute: 'dashboard',
-    routes: ['dashboard', 'hoje', 'conquistas', 'gamification'],
+    routes: ['dashboard', 'hoje', 'inicio', 'conquistas', 'gamification'],
     subItems: [
-      { hash: 'dashboard', label: '⚡ Pauta de Hoje', icon: '⚡' },
+      { hash: 'dashboard', label: '⚡ Início & Pauta', icon: '⚡' },
       { hash: 'conquistas', label: '🏆 Conquistas & Níveis de XP', icon: '🏆' }
     ]
   },
@@ -28,11 +29,12 @@ const WORKSPACE_SECTIONS = {
   },
   'treino': {
     mainRoute: 'simulados',
-    routes: ['simulados', 'questions', 'error-notebook', 'flashcards', 'treino'],
+    routes: ['simulados', 'questions', 'caderno-erros', 'error-notebook', 'redacao', 'flashcards', 'treino'],
     subItems: [
       { hash: 'simulados', label: '⏱️ Simulados Oficiais', icon: '⏱️' },
       { hash: 'questions', label: '📝 Banco de Questões', icon: '📝' },
-      { hash: 'error-notebook', label: '📕 Caderno de Erros', icon: '📕' },
+      { hash: 'caderno-erros', label: '🎯 Caderno de Erros', icon: '🎯' },
+      { hash: 'redacao', label: '✍️ Redação IA', icon: '✍️' },
       { hash: 'flashcards', label: '🃏 Flashcards de Leis', icon: '🃏' }
     ]
   },
@@ -40,7 +42,7 @@ const WORKSPACE_SECTIONS = {
     mainRoute: 'edital',
     routes: ['edital', 'schedule', 'summaries', 'tutor', 'inteligencia'],
     subItems: [
-      { hash: 'edital', label: '🎯 Tendência de Banca', icon: '🎯' },
+      { hash: 'edital', label: '🎯 Tendência de Banca & Raio-X', icon: '🎯' },
       { hash: 'schedule', label: '📅 Cronograma Semanal', icon: '📅' },
       { hash: 'summaries', label: '📚 Resumos Semanais', icon: '📚' },
       { hash: 'tutor', label: '🤖 Tutor IA 24/7', icon: '🤖' }
@@ -53,8 +55,9 @@ const routes = {
   'hub': { section: 'hub', file: 'hub.js', title: 'Hub de Concursos', subtitle: 'Escolha ou alterne seu objetivo de aprovação' },
   'welcome': { section: 'hub', file: 'hub.js', title: 'Hub de Concursos', subtitle: 'Escolha ou alterne seu objetivo de aprovação' },
 
-  'dashboard': { section: 'hoje', file: 'dashboard.js', title: 'Hoje • Painel de Ação', subtitle: 'Sua meta do dia e pauta de reposição' },
-  'hoje': { section: 'hoje', file: 'dashboard.js', title: 'Hoje • Painel de Ação', subtitle: 'Sua meta do dia e pauta de reposição' },
+  'dashboard': { section: 'hoje', file: 'dashboard.js', title: 'Início • Painel de Ação', subtitle: 'Sua meta do dia e pauta de estudos' },
+  'inicio': { section: 'hoje', file: 'dashboard.js', title: 'Início • Painel de Ação', subtitle: 'Sua meta do dia e pauta de estudos' },
+  'hoje': { section: 'hoje', file: 'dashboard.js', title: 'Início • Painel de Ação', subtitle: 'Sua meta do dia e pauta de estudos' },
   'conquistas': { section: 'hoje', file: 'gamification.js', title: '🏆 Conquistas & Níveis de XP', subtitle: 'Acompanhe seu progresso, medalhas desbloqueadas e streak de estudo' },
   'gamification': { section: 'hoje', file: 'gamification.js', title: '🏆 Conquistas & Níveis de XP', subtitle: 'Acompanhe seu progresso, medalhas desbloqueadas e streak de estudo' },
   
@@ -65,11 +68,13 @@ const routes = {
 
   'simulados': { section: 'treino', file: 'simulados.js', title: 'Simulados Oficiais', subtitle: 'Treino sob pressão com regras reais de pontuação da banca' },
   'questions': { section: 'treino', file: 'questions.js', title: 'Banco de Questões Inéditas', subtitle: 'Fixação de temas e geração contínua por IA' },
-  'error-notebook': { section: 'treino', file: 'error-notebook.js', title: '📕 Caderno de Erros Inteligente', subtitle: 'Retreino focado nas questões que você errou nos simulados' },
+  'caderno-erros': { section: 'treino', file: 'caderno-erros.js', title: '🎯 Caderno de Erros Inteligente', subtitle: 'Refaça questões erradas até dominar 100% dos conceitos' },
+  'error-notebook': { section: 'treino', file: 'caderno-erros.js', title: '🎯 Caderno de Erros Inteligente', subtitle: 'Refaça questões erradas até dominar 100% dos conceitos' },
+  'redacao': { section: 'treino', file: 'redacao.js', title: '📝 Laboratório de Redação Discursiva IA', subtitle: 'Correção automática nos critérios oficiais Cesgranrio e FGV' },
   'flashcards': { section: 'treino', file: 'flashcards.js', title: 'Flashcards de Memorização', subtitle: 'Repetição espaçada para prazos, súmulas e exceções de lei' },
   'treino': { section: 'treino', file: 'simulados.js', title: 'Central de Treino', subtitle: 'Simulados e baterias de fixação' },
 
-  'edital': { section: 'inteligencia', file: 'edital.js', title: 'Tendência de Banca & Edital', subtitle: 'O que sempre cai, o que nunca cai e novidades do edital' },
+  'edital': { section: 'inteligencia', file: 'edital.js', title: 'Tendência de Banca & Raio-X', subtitle: 'O que sempre cai, o que nunca cai e novidades do edital' },
   'schedule': { section: 'inteligencia', file: 'schedule.js', title: 'Cronograma Semanal', subtitle: 'Rotina estratégica de estudo e revisões' },
   'summaries': { section: 'inteligencia', file: 'summaries.js', title: 'Resumos Semanais', subtitle: 'Consolidação e mapas mentais' },
   'tutor': { section: 'inteligencia', file: 'tutor.js', title: 'Tutor IA 24/7', subtitle: 'Tire suas dúvidas conceituais e jurisprudenciais' },
@@ -78,7 +83,14 @@ const routes = {
   'users': { section: 'hub', file: 'users.js', title: 'Perfis de Estudantes', subtitle: 'Selecione quem está estudando para carregar seu concurso' },
   'profile-creator': { section: 'hub', file: 'profile-creator.js', title: 'Criador de Perfil', subtitle: 'Assistente guiado de onboarding e metas de estudo' },
   'settings': { section: 'hub', file: 'settings.js', title: '⚙️ Central de Configurações', subtitle: 'Preferências de estudo, integrações de agenda, IA e backups' },
-  'configuracoes': { section: 'hub', file: 'settings.js', title: '⚙️ Central de Configurações', subtitle: 'Preferências de estudo, integrações de agenda, IA e backups' }
+  'configuracoes': { section: 'hub', file: 'settings.js', title: '⚙️ Central de Configurações', subtitle: 'Preferências de estudo, integrações de agenda, IA e backups' },
+  'sobre': { section: 'hub', file: 'about.js', title: 'Sobre o ConcursaBot', subtitle: 'Propósito, metodologia e contato com o desenvolvedor' },
+  'about': { section: 'hub', file: 'about.js', title: 'Sobre o ConcursaBot', subtitle: 'Propósito, metodologia e contato com o desenvolvedor' },
+  'contato': { section: 'hub', file: 'about.js', title: 'Contato & Suporte', subtitle: 'Envie sugestões ou fale diretamente com o autor' },
+  'guia': { section: 'hub', file: 'guide.js', title: '📖 Guia de Uso Completo', subtitle: 'Manual de alta performance e como usar cada ferramenta' },
+  'como-usar': { section: 'hub', file: 'guide.js', title: '📖 Guia de Uso Completo', subtitle: 'Manual de alta performance e como usar cada ferramenta' },
+  'tutorial': { section: 'hub', file: 'guide.js', title: '📖 Guia de Uso Completo', subtitle: 'Manual de alta performance e como usar cada ferramenta' },
+  'help': { section: 'hub', file: 'guide.js', title: '📖 Guia de Uso Completo', subtitle: 'Manual de alta performance e como usar cada ferramenta' }
 };
 
 // ============================================================
@@ -145,11 +157,23 @@ if (typeof window !== 'undefined') {
 // ============================================================
 
 async function handleRoute() {
-  const rawHash = window.location.hash.substring(1) || 'dashboard';
-  const hash = rawHash.split('/')[0].split('?')[0] || 'dashboard';
-  const route = routes[hash] || routes['dashboard'];
-  const currentSectionKey = route.section || 'hoje';
-  const sectionConfig = WORKSPACE_SECTIONS[currentSectionKey] || WORKSPACE_SECTIONS['hoje'];
+  const hasActiveUser = Boolean(localStorage.getItem('concursa_active_user_id'));
+  let rawHash = window.location.hash.substring(1);
+
+  // No primeiro acesso (aba anônima / novo dispositivo), direcionar para o Hub de Concursos
+  if (!hasActiveUser && (!rawHash || rawHash === 'dashboard' || rawHash === 'hoje')) {
+    rawHash = 'hub';
+    if (window.location.hash !== '#hub') {
+      window.location.hash = '#hub';
+      return;
+    }
+  }
+
+  const defaultRoute = hasActiveUser ? 'dashboard' : 'hub';
+  const hash = (rawHash ? rawHash.split('/')[0].split('?')[0] : defaultRoute) || defaultRoute;
+  const route = routes[hash] || routes[defaultRoute];
+  const currentSectionKey = route.section || (hasActiveUser ? 'hoje' : 'hub');
+  const sectionConfig = WORKSPACE_SECTIONS[currentSectionKey] || WORKSPACE_SECTIONS['hub'];
 
   // Update Top Bar Main Tabs Active State
   document.querySelectorAll('.workspace-nav-tab').forEach(item => {
@@ -188,6 +212,17 @@ async function handleRoute() {
   // Fade out
   container.style.opacity = 0;
 
+  // Limpa listeners globais ao navegar entre rotas
+  if (window._questionsKeyHandler) {
+    window.removeEventListener('keydown', window._questionsKeyHandler);
+    window._questionsKeyHandler = null;
+  }
+  if (window._flashcardKeyHandler) {
+    window.removeEventListener('keydown', window._flashcardKeyHandler);
+    window._flashcardKeyHandler = null;
+  }
+  window.dispatchEvent(new CustomEvent('app-route-change', { detail: { route } }));
+
   try {
     const module = await import(`./${route.file}`);
     setTimeout(async () => {
@@ -215,8 +250,9 @@ window.showToast = showToast;
 export function updateTopBarDisplays() {
   const activeCareerId = getActiveCareerId();
   const careerCfg = getCareerConfig(activeCareerId);
-  const userName = localStorage.getItem('concursa_active_user_name') || 'João (Titular)';
-  const userAvatar = localStorage.getItem('concursa_active_user_avatar') || '👨‍💼';
+  const hasUser = Boolean(localStorage.getItem('concursa_active_user_id'));
+  const userName = localStorage.getItem('concursa_active_user_name') || (hasUser ? 'João' : 'Estudante');
+  const userAvatar = localStorage.getItem('concursa_active_user_avatar') || (hasUser ? '👨‍💼' : '👨‍🎓');
 
   const userAvatarEl = document.getElementById('top-user-avatar');
   const userNameEl = document.getElementById('top-user-name');
@@ -225,7 +261,9 @@ export function updateTopBarDisplays() {
 
   const brandBadge = document.getElementById('header-exam-badge');
   if (brandBadge) {
-    brandBadge.innerHTML = `${careerCfg.name} <span style="font-size:0.65rem; opacity:0.8;">▾</span>`;
+    brandBadge.innerHTML = activeCareerId
+      ? `${careerCfg.name} <span style="font-size:0.65rem; opacity:0.8;">▾</span>`
+      : `🎯 Escolher Concurso <span style="font-size:0.65rem; opacity:0.8;">▾</span>`;
   }
 
   const crumbExamEl = document.getElementById('crumb-exam-name');
@@ -261,7 +299,9 @@ async function initApp() {
   // Verificar se o sistema exige convite de acesso ativo
   const hasAccess = await checkInviteAccess(() => {
     updateTopBarDisplays();
-    if (!window.location.hash) {
+    const hasUser = Boolean(localStorage.getItem('concursa_active_user_id'));
+    const hasExam = Boolean(localStorage.getItem('concursa_active_exam'));
+    if (!window.location.hash || (!hasUser && window.location.hash === '#dashboard') || (!hasExam && window.location.hash === '#dashboard')) {
       window.location.hash = '#hub';
     } else {
       handleRoute();
@@ -269,7 +309,9 @@ async function initApp() {
   });
 
   if (hasAccess) {
-    if (!window.location.hash) {
+    const hasUser = Boolean(localStorage.getItem('concursa_active_user_id'));
+    const hasExam = Boolean(localStorage.getItem('concursa_active_exam'));
+    if (!window.location.hash || (!hasUser && window.location.hash === '#dashboard') || (!hasExam && window.location.hash === '#dashboard')) {
       window.location.hash = '#hub';
     } else {
       handleRoute();
