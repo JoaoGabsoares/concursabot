@@ -22,7 +22,13 @@ import {
   Sparkles,
   HelpCircle,
   Eye,
-  Check
+  Check,
+  ChevronLeft,
+  ChevronRight,
+  Download,
+  Scale,
+  ShieldCheck,
+  FileSearch
 } from 'lucide-react';
 
 interface StudyRoomPageProps {
@@ -45,6 +51,7 @@ interface CustomMaterial {
   questions_completed?: boolean;
   notes?: string;
   created_at?: string;
+  caderno_enxuto?: string;
 }
 
 export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
@@ -57,17 +64,17 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   const [userSelectedOption, setUserSelectedOption] = useState<string | null>(null);
   const [answered, setAnswered] = useState<boolean>(false);
 
-  // View Mode: 'resumo' | 'leitor_pdf'
-  const [viewMode, setViewMode] = useState<'resumo' | 'leitor_pdf'>('resumo');
+  // View Mode: 'pdf' (Visualizador de PDF Original) | 'notebook' (Caderno Editorial Formatado)
+  const [viewMode, setViewMode] = useState<'pdf' | 'notebook'>('notebook');
 
-  // Study Progress State
+  // Study Progress & Page Tracking State
   const [currentPage, setCurrentPage] = useState<number>(1);
   const [totalPages, setTotalPages] = useState<number>(45);
   const [isCompleted, setIsCompleted] = useState<boolean>(false);
   const [studyNotes, setStudyNotes] = useState<string>('');
   const [isSavingProgress, setIsSavingProgress] = useState<boolean>(false);
 
-  // Timer State (60m Leitura | 30m Questões)
+  // Timer State (60m Leitura | 30m Questões | Modo Livre)
   const [timerMode, setTimerMode] = useState<'leitura' | 'questoes' | 'livre'>('leitura');
   const [timerSeconds, setTimerSeconds] = useState<number>(60 * 60); // 60 min default
   const [initialTimerSeconds, setInitialTimerSeconds] = useState<number>(60 * 60);
@@ -153,10 +160,11 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
       setAnswered(false);
       setCurrentPage(1);
       setIsCompleted(false);
+      setViewMode('notebook');
     }
   }, [careerId]);
 
-  // Ao trocar de disciplina, reseta o estado do quiz e limpa material customizado
+  // Ao trocar de disciplina
   const handleSubjectChange = (subjectName: string) => {
     setSelectedSubject(subjectName);
     setSelectedCustomMaterial(null);
@@ -164,19 +172,24 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     setAnswered(false);
     setCurrentPage(1);
     setIsCompleted(false);
-    setViewMode('resumo');
+    setViewMode('notebook');
   };
 
-  // Ao selecionar material customizado, carrega seus dados de página
+  // Ao selecionar material customizado com PDF
   const handleSelectMaterial = (mat: CustomMaterial) => {
     setSelectedCustomMaterial(mat);
     setUserSelectedOption(null);
     setAnswered(false);
     setCurrentPage(mat.current_page || 1);
-    setTotalPages(mat.total_pages || 50);
+    setTotalPages(mat.total_pages || 60);
     setIsCompleted(Boolean(mat.theory_completed));
     setStudyNotes(mat.notes || '');
-    setViewMode('resumo');
+    // Se o material tem link de PDF, abre por padrão no Leitor de PDF Embutido
+    if (mat.pdfUrl) {
+      setViewMode('pdf');
+    } else {
+      setViewMode('notebook');
+    }
   };
 
   const lesson = getLessonContent(selectedSubject);
@@ -187,7 +200,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
     setUserSelectedOption(opt);
     setAnswered(true);
     if (opt === activeQuestion.answer) {
-      success('Resposta Correta!', 'Excelente fixação na banca oficial.', 10);
+      success('Resposta Correta!', 'Excelente fixação no ponto do edital.', 10);
     }
   };
 
@@ -223,18 +236,18 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
     try {
       const result = await api.uploadStudyMaterial(formData, 'user_joao', careerId);
-      success('PDF Processado!', 'Material indexado com sucesso na Sala de Estudos.');
+      success('PDF Indexado!', 'Material carregado na Sala de Estudos.');
       setSelectedFile(null);
       setIsUploadModalOpen(false);
       await loadMaterials();
     } catch (err: any) {
-      setUploadError(err.message || 'Erro ao processar o PDF com a IA.');
+      setUploadError(err.message || 'Erro ao processar o PDF.');
     } finally {
       setIsUploading(false);
     }
   };
 
-  // Salvar Progresso e Concluir Estudo
+  // Salvar Progresso e Marca-Página
   const handleRegisterStudy = async () => {
     setIsSavingProgress(true);
     try {
@@ -249,747 +262,719 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         isCompleted,
         durationMinutes: durationMinutes > 0 ? durationMinutes : 30,
         notes: studyNotes
-      }, 'user_joao', careerId);
+      });
 
-      if (res.success) {
-        success(
-          isCompleted ? '🎉 Aula Concluída!' : '📖 Progresso Salvo!',
-          res.message,
-          res.xpGained
-        );
-
-        if (selectedCustomMaterial) {
-          setSelectedCustomMaterial((prev) => prev ? {
-            ...prev,
-            current_page: currentPage,
-            total_pages: totalPages,
-            theory_completed: isCompleted,
-            notes: studyNotes
-          } : null);
+      if (res && res.success) {
+        if (isCompleted) {
+          success('🏆 Aula Concluída!', `Parabéns! Você concluiu a aula e ganhou +${res.xpGained || 25} XP.`);
+        } else {
+          info('🔖 Marca-Página Salvo!', `Progresso salvo na Página ${currentPage} de ${totalPages}. (+${res.xpGained || 15} XP)`);
         }
-
         await loadMaterials();
       }
     } catch (err: any) {
-      toastError('Erro ao registrar estudo: ' + err.message);
+      toastError('Erro ao registrar progresso: ' + err.message);
     } finally {
       setIsSavingProgress(false);
     }
   };
 
+  // Quick page controls
+  const handlePrevPage = () => {
+    setCurrentPage((prev) => Math.max(1, prev - 1));
+  };
+
+  const handleNextPage = () => {
+    setCurrentPage((prev) => Math.min(totalPages, prev + 1));
+  };
+
+  const progressPercent = Math.min(100, Math.max(1, Math.round((currentPage / (totalPages || 1)) * 100)));
+
   return (
-    <div className="space-y-6 pb-20 font-sans animate-fade-in max-w-6xl mx-auto">
-      {/* Header Bar com Botões Responsivos */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-4 border-b border-[var(--border-subtle)]">
-        <div>
-          <div className="flex items-center gap-3 flex-wrap">
-            <h1 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
-              Sala de Estudos Teórica
-            </h1>
-            <CarimboStatus status="homologado" label="RAG 2.0 OFICIAL" />
+    <div className="space-y-6 animate-fade-in font-sans pb-16">
+      
+      {/* 1. Header & Subject Selector */}
+      <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-4 p-5 rounded-2xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] shadow-sm">
+        <div className="space-y-1">
+          <div className="flex items-center gap-2">
+            <CarimboStatus status="homologado" label="SALA DE ESTUDOS TEÓRICOS" />
+            <span className="text-xs font-mono text-[var(--accent-primary)] font-bold">
+              {currentCareer.name} ({currentCareer.banca})
+            </span>
           </div>
-          <p className="text-xs sm:text-sm text-[var(--text-muted)] mt-1">
-            Doutrina e legislação com leitor integrado e fixação na banca {currentCareer.banca}
+          <h1 className="font-display font-bold text-2xl sm:text-3xl text-[var(--text-primary)] tracking-tight">
+            Leitura de Doutrina & Fixação de Questões
+          </h1>
+          <p className="text-xs sm:text-sm text-[var(--text-muted)]">
+            Ciclo de Alta Retenção: 60 min de Leitura + 30 min de Questões da Banca
           </p>
         </div>
 
-        {/* Botões de Ação com whitespace-nowrap para não quebrar texto */}
-        <div className="flex flex-wrap items-center gap-2">
-          {/* Botão de Upload de PDF */}
-          <Button 
-            variant="brand" 
-            size="sm" 
+        {/* Action: Upload PDF */}
+        <div className="flex items-center gap-2 self-stretch sm:self-auto shrink-0">
+          <Button
+            variant="brand"
+            size="sm"
             onClick={() => setIsUploadModalOpen(true)}
-            className="font-mono text-xs flex items-center gap-1.5 whitespace-nowrap shrink-0"
+            className="font-mono text-xs flex items-center gap-2 shadow-sm whitespace-nowrap"
           >
-            <UploadCloud className="w-4 h-4 shrink-0" />
+            <UploadCloud className="w-4 h-4" />
             <span>+ Subir PDF da Aula</span>
-          </Button>
-
-          <Button 
-            variant="outline" 
-            size="sm" 
-            onClick={() => window.print()}
-            className="font-mono text-xs whitespace-nowrap shrink-0"
-          >
-            Exportar PDF
-          </Button>
-          
-          <Button 
-            variant={showQuestions ? "secondary" : "brand"}
-            size="sm" 
-            onClick={() => setShowQuestions(!showQuestions)}
-            className="font-mono text-xs whitespace-nowrap shrink-0"
-          >
-            {showQuestions ? "Ocultar Fixação" : "Mostrar Fixação"}
           </Button>
         </div>
       </div>
 
-      {/* Widget de Timer de Estudo (1h Leitura + 30m Questões) */}
-      <Card className="p-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
-        <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-          <div className="flex items-center gap-3 w-full sm:w-auto">
-            <div className="w-10 h-10 rounded-xl bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/30 flex items-center justify-center text-[var(--accent-primary)] shrink-0">
-              <Clock className="w-5 h-5" />
-            </div>
-            <div>
-              <div className="text-[10px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider">
-                Ciclo de Estudo Ativo:
-              </div>
-              <div className="flex items-center gap-2">
-                <span className="font-mono font-bold text-xl text-[var(--text-primary)]">
-                  {formatTimer(timerSeconds)}
-                </span>
-                <span className="text-xs text-[var(--accent-primary)] font-mono font-semibold">
-                  ({timerMode === 'leitura' ? 'Bloco 1: Leitura' : timerMode === 'questoes' ? 'Bloco 2: Questões' : 'Modo Livre'})
-                </span>
-              </div>
-            </div>
-          </div>
-
-          {/* Modos do Timer */}
-          <div className="flex items-center gap-2 flex-wrap">
+      {/* 2. Top Navigation: Disciplinas do Edital & PDFs Cadastrados */}
+      <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-thin">
+        <span className="text-[11px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0 pl-1">
+          Disciplinas:
+        </span>
+        {careerSubjects.map((sub) => {
+          const isSelected = selectedSubject === sub.name && !selectedCustomMaterial;
+          return (
             <button
-              onClick={() => handleSetTimer('leitura')}
-              className={`px-3 py-1.5 rounded-lg text-xs font-mono font-bold transition-all border ${
-                timerMode === 'leitura'
-                  ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] shadow-sm'
-                  : 'bg-[var(--bg-elevated)] text-[var(--text-secondary)] border-[var(--border-subtle)] hover:text-[var(--text-primary)]'
+              key={sub.name}
+              type="button"
+              onClick={() => handleSubjectChange(sub.name)}
+              className={`px-3.5 py-1.5 rounded-lg text-xs font-mono font-bold whitespace-nowrap transition-all flex items-center gap-1.5 shrink-0 ${
+                isSelected
+                  ? 'bg-[var(--accent-primary)] text-white shadow-sm'
+                  : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)]'
               }`}
             >
-              📖 Leitura (60m)
+              <span>{sub.name}</span>
             </button>
-            <button
-              onClick={() => handleSetTimer('questoes')}
-              className={`px-3 py-1.5 rounded-lg text-xs font-mono font-bold transition-all border ${
-                timerMode === 'questoes'
-                  ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] shadow-sm'
-                  : 'bg-[var(--bg-elevated)] text-[var(--text-secondary)] border-[var(--border-subtle)] hover:text-[var(--text-primary)]'
-              }`}
-            >
-              ✍️ Questões (30m)
-            </button>
+          );
+        })}
+      </div>
 
-            <div className="h-6 w-[1px] bg-[var(--border-subtle)] mx-1 hidden sm:block" />
-
-            {/* Controles Play/Pause/Reset */}
-            <Button
-              variant={isTimerRunning ? "outline" : "brand"}
-              size="sm"
-              onClick={() => setIsTimerRunning(!isTimerRunning)}
-              className="font-mono text-xs flex items-center gap-1"
-            >
-              {isTimerRunning ? <Pause className="w-3.5 h-3.5" /> : <Play className="w-3.5 h-3.5" />}
-              <span>{isTimerRunning ? 'Pausar' : 'Iniciar'}</span>
-            </Button>
-            <button
-              onClick={() => handleSetTimer(timerMode)}
-              title="Reiniciar Timer"
-              className="p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] hover:text-[var(--text-primary)] text-[var(--text-muted)] transition-colors"
-            >
-              <RotateCcw className="w-3.5 h-3.5" />
-            </button>
-          </div>
-        </div>
-      </Card>
-
-      {/* Disciplinas Selector (Official Filter Badges) */}
-      <div className="space-y-3">
-        <div className="flex items-center justify-between">
-          <div className="text-[11px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider">
-            Disciplinas do Edital ({currentCareer.name.split('—')[0]}):
-          </div>
-          {uploadedMaterials.length > 0 && (
-            <span className="text-[11px] font-mono text-[var(--accent-primary)] font-bold">
-              {uploadedMaterials.length} PDF{uploadedMaterials.length > 1 ? 's' : ''} Pessoais no Acervo
-            </span>
-          )}
-        </div>
-
-        {/* Disciplinas Oficiais */}
-        <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none">
-          {careerSubjects.map((subj) => {
-            const isSelected = selectedSubject === subj.name && !selectedCustomMaterial;
+      {/* Uploaded PDF Shelf if any */}
+      {uploadedMaterials.length > 0 && (
+        <div className="p-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] flex items-center gap-2 overflow-x-auto">
+          <span className="text-[10px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider shrink-0">
+            📁 Meus PDFs Enviados:
+          </span>
+          {uploadedMaterials.map((mat) => {
+            const isSelected = selectedCustomMaterial?.id === mat.id;
             return (
               <button
-                key={subj.name}
-                onClick={() => handleSubjectChange(subj.name)}
-                className={`px-3.5 py-2 rounded-lg text-xs font-semibold whitespace-nowrap transition-all border shadow-sm ${
+                key={mat.id}
+                type="button"
+                onClick={() => handleSelectMaterial(mat)}
+                className={`px-2.5 py-1 rounded-md text-xs font-mono transition-all flex items-center gap-1.5 shrink-0 ${
                   isSelected
-                    ? 'bg-[var(--accent-primary)] text-white border-[var(--accent-primary)] font-bold shadow-md'
-                    : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border-[var(--border-subtle)] hover:border-[var(--border-focus)] hover:text-[var(--text-primary)]'
+                    ? 'bg-[var(--accent-primary)] text-white font-bold'
+                    : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border border-[var(--border-subtle)] hover:text-[var(--text-primary)]'
                 }`}
               >
-                {subj.name}
+                <FileText className="w-3.5 h-3.5" />
+                <span className="max-w-[180px] truncate">{mat.title || mat.filename}</span>
+                {mat.current_page && (
+                  <span className="text-[10px] opacity-80">(pág {mat.current_page}/{mat.total_pages || 50})</span>
+                )}
               </button>
             );
           })}
         </div>
+      )}
 
-        {/* PDFs Carregados pelo Aluno (se existirem) */}
-        {uploadedMaterials.length > 0 && (
-          <div className="p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2">
-            <div className="text-[10px] font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider flex items-center justify-between">
-              <div className="flex items-center gap-1.5">
-                <FileText className="w-3.5 h-3.5 text-[var(--accent-primary)]" />
-                <span>Seus PDFs de Apostilas Enviados (Clique para Estudar):</span>
-              </div>
-            </div>
-            <div className="flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none">
-              {uploadedMaterials.map((mat) => {
-                const isSelected = selectedCustomMaterial?.id === mat.id;
-                const isMatCompleted = Boolean(mat.theory_completed);
-                return (
-                  <button
-                    key={mat.id}
-                    onClick={() => handleSelectMaterial(mat)}
-                    className={`px-3 py-1.5 rounded-md text-xs font-medium whitespace-nowrap transition-all border flex items-center gap-2 ${
-                      isSelected
-                        ? 'bg-[var(--accent-primary-glow)] border-[var(--accent-primary)] text-[var(--accent-primary)] font-bold shadow-sm'
-                        : 'bg-[var(--bg-surface)] text-[var(--text-secondary)] border-[var(--border-subtle)] hover:border-[var(--border-focus)]'
-                    }`}
-                  >
-                    <FileText className="w-3.5 h-3.5 shrink-0" />
-                    <span className="truncate max-w-[180px]">{mat.title || mat.filename}</span>
-                    {isMatCompleted ? (
-                      <span className="px-1.5 py-0.2 rounded bg-emerald-500/20 text-emerald-400 font-mono text-[9px] font-bold">
-                        ✓ LIDO
-                      </span>
-                    ) : mat.current_page && mat.current_page > 1 ? (
-                      <span className="px-1.5 py-0.2 rounded bg-blue-500/20 text-blue-400 font-mono text-[9px] font-bold">
-                        PÁG {mat.current_page}
-                      </span>
-                    ) : null}
-                  </button>
-                );
-              })}
-            </div>
-          </div>
-        )}
-      </div>
-
-      {/* Split Study Grid (Theory Left / Practice Right) */}
-      <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
+      {/* 3. Main Split View Grid: Left = Reader & Page Tracker | Right = Timer & Questions */}
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
         
-        {/* Left Column: Theory & Notes (7 cols) */}
-        <div className="lg:col-span-7 space-y-6">
-          <Card className="p-6 sm:p-8 space-y-6 border-[var(--border-subtle)] bg-[var(--bg-surface)] shadow-md">
+        {/* ============================================================ */}
+        {/* LEFT COLUMN: THE STUDY READER & PAGE TRACKER (7 or 8 cols)  */}
+        {/* ============================================================ */}
+        <div className="lg:col-span-7 xl:col-span-8 space-y-4">
+          
+          <Card className="p-5 sm:p-7 space-y-5 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
             
-            {/* View Mode Toggle (Resumo vs Leitor) */}
-            <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)] flex-wrap gap-2">
-              <div className="flex items-center gap-1.5 bg-[var(--bg-elevated)] p-1 rounded-lg border border-[var(--border-subtle)]">
+            {/* View Mode Bar & PDF Action Links */}
+            <div className="flex flex-wrap items-center justify-between gap-3 pb-4 border-b border-[var(--border-subtle)]">
+              <div className="flex items-center gap-2">
                 <button
-                  onClick={() => setViewMode('resumo')}
-                  className={`px-3 py-1 rounded-md text-xs font-semibold transition-all ${
-                    viewMode === 'resumo'
-                      ? 'bg-[var(--bg-surface)] text-[var(--text-primary)] font-bold shadow-sm'
-                      : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+                  type="button"
+                  onClick={() => setViewMode('pdf')}
+                  disabled={!selectedCustomMaterial?.pdfUrl}
+                  className={`px-3 py-1.5 rounded-lg text-xs font-mono font-bold transition-all flex items-center gap-1.5 ${
+                    viewMode === 'pdf'
+                      ? 'bg-[var(--accent-primary)] text-white shadow-sm'
+                      : selectedCustomMaterial?.pdfUrl
+                      ? 'bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] border border-[var(--border-subtle)]'
+                      : 'opacity-40 cursor-not-allowed bg-[var(--bg-elevated)] text-[var(--text-muted)] border border-transparent'
                   }`}
+                  title={selectedCustomMaterial?.pdfUrl ? "Ler o arquivo PDF original com formatação e grifos" : "Suba um PDF para habilitar este modo"}
                 >
-                  <BookOpen className="w-3.5 h-3.5 inline mr-1" />
-                  Doutrina Esquematizada
+                  <FileSearch className="w-3.5 h-3.5" />
+                  <span>📑 PDF Original</span>
                 </button>
+
                 <button
-                  onClick={() => setViewMode('leitor_pdf')}
-                  className={`px-3 py-1 rounded-md text-xs font-semibold transition-all ${
-                    viewMode === 'leitor_pdf'
-                      ? 'bg-[var(--bg-surface)] text-[var(--text-primary)] font-bold shadow-sm'
-                      : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+                  type="button"
+                  onClick={() => setViewMode('notebook')}
+                  className={`px-3 py-1.5 rounded-lg text-xs font-mono font-bold transition-all flex items-center gap-1.5 ${
+                    viewMode === 'notebook'
+                      ? 'bg-[var(--accent-primary)] text-white shadow-sm'
+                      : 'bg-[var(--bg-elevated)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] border border-[var(--border-subtle)]'
                   }`}
                 >
-                  <Eye className="w-3.5 h-3.5 inline mr-1" />
-                  Leitor de Conteúdo Completo
+                  <BookOpen className="w-3.5 h-3.5" />
+                  <span>📝 Caderno de Doutrina</span>
                 </button>
               </div>
 
+              {/* PDF External Link */}
               {selectedCustomMaterial?.pdfUrl && (
-                <a
-                  href={selectedCustomMaterial.pdfUrl}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-xs font-mono text-[var(--accent-primary)] hover:underline flex items-center gap-1 shrink-0"
-                >
-                  <ExternalLink className="w-3.5 h-3.5" />
-                  <span>Abrir PDF Original</span>
-                </a>
+                <div className="flex items-center gap-3">
+                  <a
+                    href={selectedCustomMaterial.pdfUrl}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="text-xs font-mono text-[var(--accent-primary)] hover:underline flex items-center gap-1 shrink-0"
+                  >
+                    <ExternalLink className="w-3.5 h-3.5" />
+                    <span>Abrir em Nova Aba</span>
+                  </a>
+                  <a
+                    href={selectedCustomMaterial.pdfUrl}
+                    download
+                    className="text-xs font-mono text-[var(--text-muted)] hover:text-[var(--text-primary)] flex items-center gap-1 shrink-0"
+                  >
+                    <Download className="w-3.5 h-3.5" />
+                    <span>Baixar</span>
+                  </a>
+                </div>
               )}
             </div>
 
-            {selectedCustomMaterial ? (
-              /* Custom Material View */
-              <>
-                <div className="space-y-2 pb-2">
-                  <div className="flex items-center justify-between">
-                    <span className="text-xs font-mono text-[var(--accent-primary)] font-bold uppercase tracking-wider">
-                      PDF PESSOAL • {selectedCustomMaterial.subject}
+            {/* Lesson Title & Module Meta */}
+            <div className="space-y-2">
+              <div className="flex items-center justify-between flex-wrap gap-2">
+                <span className="text-xs font-mono text-[var(--accent-primary)] font-bold uppercase tracking-wider flex items-center gap-1.5">
+                  <ShieldCheck className="w-3.5 h-3.5" />
+                  <span>
+                    {selectedCustomMaterial 
+                      ? `PDF DA AULA • ${selectedCustomMaterial.subject}`
+                      : `MÓDULO 0${lesson.lessonNumber} DE ${lesson.totalLessons} • ${lesson.subject}`}
+                  </span>
+                </span>
+
+                <CarimboStatus 
+                  status={isCompleted ? "homologado" : "em_revisao"} 
+                  label={isCompleted ? "AULA CONCLUÍDA" : `EM LEITURA • PÁG ${currentPage}/${totalPages}`} 
+                />
+              </div>
+
+              <h2 className="font-display font-bold text-xl sm:text-2xl text-[var(--text-primary)] tracking-tight">
+                {selectedCustomMaterial ? (selectedCustomMaterial.title || selectedCustomMaterial.filename) : lesson.topic}
+              </h2>
+            </div>
+
+            {/* ============================================================ */}
+            {/* VIEW 1: NATIVE EMBEDDED PDF VIEWER                          */}
+            {/* ============================================================ */}
+            {viewMode === 'pdf' && selectedCustomMaterial?.pdfUrl ? (
+              <div className="space-y-3">
+                <div className="rounded-xl overflow-hidden border border-[var(--border-subtle)] bg-[var(--bg-elevated)] shadow-inner">
+                  <iframe
+                    src={`${selectedCustomMaterial.pdfUrl}#page=${currentPage}&toolbar=1&navpanes=1`}
+                    className="w-full h-[650px] border-0"
+                    title="Leitor de PDF Integrado"
+                  />
+                </div>
+                <div className="flex items-center justify-between text-[11px] font-mono text-[var(--text-muted)] px-1">
+                  <span>Visualizador de Alta Fidelidade com grifos, tabelas e sumário nativo</span>
+                  <span>Use o controle abaixo para salvar sua página de leitura</span>
+                </div>
+              </div>
+            ) : (
+              /* ============================================================ */
+              /* VIEW 2: FORMATTED EDITORIAL DOCTRINE NOTEBOOK                */
+              /* ============================================================ */
+              <div className="space-y-6 text-sm text-[var(--text-secondary)] leading-relaxed font-sans">
+                
+                {/* 1. Banca Trends & Jurisprudence Card */}
+                <div className="p-4 sm:p-5 rounded-xl bg-[var(--bg-elevated)] border-l-4 border-[var(--accent-primary)] space-y-2">
+                  <div className="flex items-center gap-2">
+                    <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold uppercase tracking-wider">
+                      🎯 Tendência da Banca {currentCareer.banca}
                     </span>
-                    <CarimboStatus 
-                      status={selectedCustomMaterial.theory_completed ? "homologado" : "em_revisao"} 
-                      label={selectedCustomMaterial.theory_completed ? "CONCLUÍDO" : `EM ANDAMENTO (PÁG ${currentPage}/${totalPages})`} 
-                    />
+                    <span className="text-[11px] font-mono text-[var(--text-muted)]">
+                      Incidência Histórica Alta
+                    </span>
                   </div>
-                  <h2 className="font-display font-bold text-xl sm:text-2xl text-[var(--text-primary)] tracking-tight">
-                    {selectedCustomMaterial.title || selectedCustomMaterial.filename}
-                  </h2>
+                  <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-sans">
+                    {selectedCustomMaterial 
+                      ? (selectedCustomMaterial.summary || "Resumo e tópicos mais cobrados extraídos da apostila.")
+                      : lesson.jurisprudenceNote}
+                  </p>
                 </div>
 
-                {viewMode === 'resumo' ? (
-                  <div className="space-y-4 text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed font-sans">
-                    <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border-l-4 border-[var(--accent-primary)] text-xs space-y-1">
-                      <span className="font-mono font-bold text-[var(--accent-primary)] uppercase tracking-wider block text-[10px]">
-                        Resumo Estratégico do Material
-                      </span>
-                      <p className="whitespace-pre-line leading-relaxed text-[var(--text-primary)]">
-                        {selectedCustomMaterial.summary || selectedCustomMaterial.content_text?.substring(0, 1200)}
-                      </p>
-                    </div>
+                {/* 2. Structured Section 1 (Doutrina Fundamental) */}
+                <div className="space-y-3 pt-2">
+                  <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
+                    <span className="px-2 py-0.5 rounded bg-[var(--bg-elevated)] text-[var(--text-muted)] font-mono text-[10px] font-bold">
+                      SEÇÃO 01 • TEORIA ESSENCIAL
+                    </span>
+                    <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+                      {lesson.section1Title}
+                    </h3>
+                  </div>
 
-                    {selectedCustomMaterial.caderno_enxuto && (
-                      <div className="space-y-2 pt-2">
-                        <h3 className="font-display font-bold text-base text-[var(--text-primary)] flex items-center gap-1.5">
-                          <Sparkles className="w-4 h-4 text-amber-400" />
-                          Caderno Enxuto Extraído
-                        </h3>
-                        <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-secondary)] whitespace-pre-line leading-relaxed">
-                          {selectedCustomMaterial.caderno_enxuto}
+                  <p className="text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed font-sans">
+                    {selectedCustomMaterial?.content_text 
+                      ? selectedCustomMaterial.content_text.substring(0, 1500)
+                      : lesson.section1Body}
+                  </p>
+                </div>
+
+                {/* 3. Caderno Enxuto / Mnemônicos Estruturados */}
+                <div className="space-y-3 pt-2">
+                  <div className="flex items-center gap-2 pb-1 border-b border-[var(--border-subtle)]">
+                    <span className="px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-mono text-[10px] font-bold">
+                      SEÇÃO 02 • ESQUEMAS DE FIXAÇÃO
+                    </span>
+                    <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+                      {lesson.section2Title || "Mnemônicos e Macetes da Banca"}
+                    </h3>
+                  </div>
+
+                  {selectedCustomMaterial?.caderno_enxuto ? (
+                    <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] whitespace-pre-line leading-relaxed font-sans">
+                      {selectedCustomMaterial.caderno_enxuto}
+                    </div>
+                  ) : (
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 font-mono text-xs">
+                      {lesson.mnemonics.map((m, idx) => (
+                        <div key={idx} className="p-3.5 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-1">
+                          <span className="text-[var(--accent-primary)] font-bold block">{m.code}:</span>
+                          <span className="text-[var(--text-secondary)] font-sans text-xs">{m.meaning}</span>
                         </div>
-                      </div>
-                    )}
-                  </div>
-                ) : (
-                  /* Leitor de Conteúdo Completo */
-                  <div className="space-y-4">
-                    <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] max-h-[500px] overflow-y-auto font-sans text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed space-y-3 whitespace-pre-line">
-                      {selectedCustomMaterial.content_text || selectedCustomMaterial.summary || "Conteúdo de texto não disponível para exibição."}
+                      ))}
                     </div>
-                  </div>
-                )}
+                  )}
+                </div>
 
-                {/* Painel de Controle de Páginas e Continuidade */}
-                <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-4">
-                  <div className="text-xs font-mono font-bold text-[var(--text-primary)] uppercase tracking-wider flex items-center gap-2">
-                    <Bookmark className="w-4 h-4 text-[var(--accent-primary)]" />
-                    <span>Controle de Progresso de Leitura</span>
-                  </div>
+              </div>
+            )}
 
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    <div className="space-y-1.5">
-                      <label className="text-xs text-[var(--text-muted)] font-mono block">
-                        Parei na página:
-                      </label>
-                      <div className="flex items-center gap-2">
-                        <input
-                          type="number"
-                          min="1"
-                          max={totalPages}
-                          value={currentPage}
-                          onChange={(e) => setCurrentPage(parseInt(e.target.value, 10) || 1)}
-                          className="w-20 p-2 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-mono text-sm font-bold text-center text-[var(--text-primary)] outline-none focus:border-[var(--border-focus)]"
-                        />
-                        <span className="text-xs text-[var(--text-muted)] font-mono">
-                          de {totalPages} páginas
-                        </span>
-                      </div>
+            {/* ============================================================ */}
+            {/* 4. SMART PAGE TRACKER & READING BOOKMARK BAR                 */}
+            {/* ============================================================ */}
+            <div className="p-4 sm:p-5 rounded-2xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-4 pt-4 mt-6">
+              
+              <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+                <div className="flex items-center gap-2 font-mono text-xs font-bold text-[var(--text-primary)]">
+                  <Bookmark className="w-4 h-4 text-[var(--accent-primary)]" />
+                  <span>REGISTRO DE PÁGINA & PROGRESSO</span>
+                </div>
+
+                <div className="text-xs font-mono text-[var(--text-muted)] flex items-center gap-2">
+                  <span>Progresso da Aula:</span>
+                  <span className="font-bold text-[var(--accent-primary)]">{progressPercent}%</span>
+                </div>
+              </div>
+
+              {/* Progress Bar */}
+              <ProgressBar progress={isCompleted ? 100 : progressPercent} />
+
+              {/* Page Navigator Controls */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 items-center">
+                
+                {/* Page Increment Buttons */}
+                <div className="space-y-1">
+                  <label className="text-[11px] font-mono text-[var(--text-muted)] block">
+                    Página Atual da Leitura:
+                  </label>
+                  <div className="flex items-center gap-2">
+                    <button
+                      type="button"
+                      onClick={handlePrevPage}
+                      disabled={currentPage <= 1}
+                      className="w-8 h-8 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center justify-center disabled:opacity-40 transition-colors"
+                      title="Página Anterior"
+                    >
+                      <ChevronLeft className="w-4 h-4" />
+                    </button>
+
+                    <div className="flex items-center gap-1.5 font-mono text-xs">
+                      <span>Pág.</span>
+                      <input
+                        type="number"
+                        min="1"
+                        max={totalPages}
+                        value={currentPage}
+                        onChange={(e) => setCurrentPage(Math.max(1, Math.min(totalPages, parseInt(e.target.value, 10) || 1)))}
+                        className="w-16 h-8 text-center rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] font-bold text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                      />
+                      <span className="text-[var(--text-muted)]">de {totalPages}</span>
                     </div>
 
-                    <div className="space-y-1.5">
-                      <label className="text-xs text-[var(--text-muted)] font-mono block">
-                        Status desta aula:
-                      </label>
-                      <div className="flex items-center gap-3 pt-1">
-                        <label className="flex items-center gap-1.5 text-xs text-[var(--text-primary)] cursor-pointer">
-                          <input
-                            type="radio"
-                            name="completion"
-                            checked={!isCompleted}
-                            onChange={() => setIsCompleted(false)}
-                            className="accent-[var(--accent-primary)]"
-                          />
-                          <span>Parcial (Continuar nesta aula)</span>
-                        </label>
-                        <label className="flex items-center gap-1.5 text-xs text-[var(--text-primary)] cursor-pointer">
-                          <input
-                            type="radio"
-                            name="completion"
-                            checked={isCompleted}
-                            onChange={() => setIsCompleted(true)}
-                            className="accent-emerald-500"
-                          />
-                          <span className="font-semibold text-emerald-400">Aula Concluída</span>
-                        </label>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div className="space-y-1.5">
-                    <label className="text-xs text-[var(--text-muted)] font-mono block">
-                      Anotação de Estudo / Artigo de Destaque:
-                    </label>
-                    <input
-                      type="text"
-                      placeholder="Ex: Parei no Art. 150, inciso VI da CF/88 (Imunidades Tributárias)..."
-                      value={studyNotes}
-                      onChange={(e) => setStudyNotes(e.target.value)}
-                      className="w-full p-2.5 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-xs text-[var(--text-primary)] outline-none focus:border-[var(--border-focus)]"
-                    />
+                    <button
+                      type="button"
+                      onClick={handleNextPage}
+                      disabled={currentPage >= totalPages}
+                      className="w-8 h-8 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)] flex items-center justify-center disabled:opacity-40 transition-colors"
+                      title="Próxima Página"
+                    >
+                      <ChevronRight className="w-4 h-4" />
+                    </button>
                   </div>
                 </div>
 
-                <div className="pt-2 flex items-center justify-between flex-wrap gap-2">
+                {/* Status Toggle */}
+                <div className="space-y-1">
+                  <label className="text-[11px] font-mono text-[var(--text-muted)] block">
+                    Status da Lição:
+                  </label>
+                  <div className="flex items-center gap-4 pt-1 text-xs">
+                    <label className="flex items-center gap-1.5 text-[var(--text-primary)] cursor-pointer">
+                      <input
+                        type="radio"
+                        name="lesson_status"
+                        checked={!isCompleted}
+                        onChange={() => setIsCompleted(false)}
+                        className="accent-[var(--accent-primary)]"
+                      />
+                      <span>Em Andamento</span>
+                    </label>
+
+                    <label className="flex items-center gap-1.5 text-[var(--text-primary)] cursor-pointer">
+                      <input
+                        type="radio"
+                        name="lesson_status"
+                        checked={isCompleted}
+                        onChange={() => setIsCompleted(true)}
+                        className="accent-emerald-500"
+                      />
+                      <span className="font-bold text-emerald-400">Aula Finalizada</span>
+                    </label>
+                  </div>
+                </div>
+
+              </div>
+
+              {/* Study Notes */}
+              <div className="space-y-1 pt-1">
+                <label className="text-[11px] font-mono text-[var(--text-muted)] block">
+                  Anotação do Ponto de Parada:
+                </label>
+                <input
+                  type="text"
+                  placeholder="Ex: Parei no Art. 150 da CF/88 (Princípio da Anterioridade Anual vs Nonagesimal)..."
+                  value={studyNotes}
+                  onChange={(e) => setStudyNotes(e.target.value)}
+                  className="w-full h-9 px-3 rounded-lg text-xs bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-[var(--text-primary)] outline-none focus:border-[var(--accent-primary)] shadow-sm"
+                />
+              </div>
+
+              {/* Action Buttons */}
+              <div className="pt-2 flex flex-wrap items-center justify-between gap-3 border-t border-[var(--border-subtle)]">
+                {selectedCustomMaterial && (
                   <Button
                     variant="outline"
                     size="sm"
                     onClick={() => setSelectedCustomMaterial(null)}
                     className="font-mono text-xs"
                   >
-                    ← Voltar à Doutrina do Edital
+                    ← Voltar ao Edital Nativo
                   </Button>
-                  <Button 
-                    variant="brand" 
-                    size="sm" 
-                    disabled={isSavingProgress}
-                    className="font-mono text-xs flex items-center gap-1.5"
-                    onClick={handleRegisterStudy}
-                  >
-                    <Check className="w-3.5 h-3.5" />
-                    <span>{isCompleted ? 'Concluir Aula (+25 XP)' : 'Salvar Progresso (+15 XP)'}</span>
-                  </Button>
-                </div>
-              </>
-            ) : (
-              /* Official Doctrine Lesson View */
-              <>
-                <div className="space-y-2 pb-2">
-                  <div className="flex items-center justify-between">
-                    <span className="text-xs font-mono text-[var(--accent-primary)] font-bold uppercase tracking-wider">
-                      MÓDULO 0{lesson.lessonNumber} DE {lesson.totalLessons} • {lesson.subject}
-                    </span>
-                    <CarimboStatus 
-                      status={isCompleted ? "homologado" : "em_revisao"} 
-                      label={isCompleted ? "CONCLUÍDO" : "PONTO DE EDITAL"} 
-                    />
-                  </div>
-                  <h2 className="font-display font-bold text-xl sm:text-2xl text-[var(--text-primary)] tracking-tight">
-                    {lesson.topic}
-                  </h2>
-                </div>
-
-                {viewMode === 'resumo' ? (
-                  <>
-                    {/* Jurisprudence Banner */}
-                    <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border-l-4 border-[var(--accent-primary)] text-xs text-[var(--text-secondary)] space-y-1">
-                      <span className="font-mono font-bold text-[var(--accent-primary)] uppercase tracking-wider block text-[10px]">
-                        Tendência da Banca {currentCareer.banca}
-                      </span>
-                      <p className="leading-relaxed text-[var(--text-primary)]">
-                        {lesson.jurisprudenceNote}
-                      </p>
-                    </div>
-
-                    {/* Structured Theory Content */}
-                    <div className="space-y-4 text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed font-sans">
-                      <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                        {lesson.section1Title}
-                      </h3>
-                      <p>
-                        {lesson.section1Body}
-                      </p>
-
-                      <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)] pt-2">
-                        {lesson.section2Title}
-                      </h3>
-                      
-                      <div className="space-y-2 font-mono text-xs">
-                        {lesson.mnemonics.map((m, idx) => (
-                          <div key={idx} className="p-3 rounded bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
-                            <span className="text-[var(--accent-primary)] font-bold">{m.code}:</span> {m.meaning}
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  </>
-                ) : (
-                  /* Leitor Completo da Aula */
-                  <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] max-h-[500px] overflow-y-auto font-sans text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed space-y-4">
-                    <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
-                      {lesson.topic}
-                    </h3>
-                    <p>{lesson.section1Body}</p>
-                    <div className="p-4 rounded bg-[var(--bg-surface)] border border-[var(--border-subtle)] space-y-2">
-                      <div className="font-bold text-xs font-mono text-[var(--accent-primary)]">
-                        🎯 PONTOS CRÍTICOS DA BANCA {currentCareer.banca}:
-                      </div>
-                      <p className="text-xs">{lesson.jurisprudenceNote}</p>
-                    </div>
-                    <p>{lesson.section2Title}</p>
-                  </div>
                 )}
 
-                {/* Progress Box */}
-                <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-3">
-                  <div className="flex items-center justify-between text-xs font-mono">
-                    <span className="text-[var(--text-muted)]">Progresso da Aula:</span>
-                    <span className="text-[var(--accent-primary)] font-bold">
-                      {isCompleted ? '100% Concluído' : 'Em Leitura (50%)'}
-                    </span>
-                  </div>
-                  <ProgressBar progress={isCompleted ? 100 : 50} />
-                </div>
-
-                {/* Progress Actions */}
-                <div className="pt-2 flex items-center justify-between">
-                  <span className="text-xs text-[var(--text-muted)] font-mono">
-                    Resumo RAG Consolidado
-                  </span>
-                  <Button 
-                    variant="brand" 
-                    size="sm" 
+                <div className="flex items-center gap-2 ml-auto">
+                  <Button
+                    variant="brand"
+                    size="sm"
                     disabled={isSavingProgress}
-                    className="font-mono text-xs flex items-center gap-1.5"
-                    onClick={async () => {
-                      setIsCompleted(true);
-                      await handleRegisterStudy();
-                    }}
+                    onClick={handleRegisterStudy}
+                    className="font-mono text-xs font-bold flex items-center gap-1.5 shadow-sm"
                   >
                     <Check className="w-3.5 h-3.5" />
-                    <span>Concluir Leitura (+25 XP)</span>
+                    <span>{isCompleted ? 'Concluir Aula (+25 XP)' : 'Salvar Marca-Página (+15 XP)'}</span>
                   </Button>
                 </div>
-              </>
-            )}
+              </div>
+
+            </div>
+
           </Card>
         </div>
 
-        {/* Right Column: Immediate Practice Quiz (5 cols) */}
-        {showQuestions && (
-          <div className="lg:col-span-5 space-y-6">
-            <Card className="p-6 space-y-5 border-[var(--border-subtle)] bg-[var(--bg-surface)] shadow-md">
-              <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
-                <div className="space-y-0.5">
-                  <div className="text-xs font-mono font-bold text-[var(--accent-primary)]">
-                    FIXAÇÃO IMEDIATA
-                  </div>
-                  <div className="font-display font-bold text-sm text-[var(--text-primary)] truncate max-w-[200px]">
-                    {selectedCustomMaterial ? selectedCustomMaterial.subject : selectedSubject}
-                  </div>
-                </div>
-                <CarimboStatus status="em_revisao" label="TREINO ATIVO" />
+        {/* ============================================================ */}
+        {/* RIGHT COLUMN: TIMER & SYNCED FIXATION QUESTIONS (5 or 4 cols)*/}
+        {/* ============================================================ */}
+        <div className="lg:col-span-5 xl:col-span-4 space-y-5">
+          
+          {/* 1. Timer Block (60m Leitura | 30m Questões) */}
+          <Card className="p-5 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-2 text-xs font-mono font-bold text-[var(--text-primary)]">
+                <Clock className="w-4 h-4 text-[var(--accent-primary)]" />
+                <span>TIMER DE FOCO</span>
               </div>
+              <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-[var(--bg-elevated)] text-[var(--accent-primary)] font-bold uppercase">
+                {timerMode === 'leitura' ? '60m Leitura' : timerMode === 'questoes' ? '30m Questões' : 'Livre'}
+              </span>
+            </div>
 
-              {/* Question Body */}
-              <div className="space-y-4">
-                <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-sans font-medium">
-                  {activeQuestion.question}
-                </p>
-
-                {/* Alternatives List */}
-                <div className="space-y-2.5">
-                  {Object.entries(activeQuestion.options).map(([letter, text]) => {
-                    const isSelected = userSelectedOption === letter;
-                    const isCorrect = letter === activeQuestion.answer;
-                    
-                    let btnStyle = "bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-secondary)] hover:border-[var(--border-focus)] hover:text-[var(--text-primary)]";
-                    
-                    if (answered) {
-                      if (isCorrect) {
-                        btnStyle = "bg-[var(--color-status-success-bg)] border-[var(--color-status-success)] text-[var(--color-status-success)] font-semibold";
-                      } else if (isSelected) {
-                        btnStyle = "bg-[var(--color-status-danger-bg)] border-[var(--color-status-danger)] text-[var(--color-status-danger)]";
-                      }
-                    }
-
-                    return (
-                      <button
-                        key={letter}
-                        disabled={answered}
-                        onClick={() => handleSelectOption(letter)}
-                        className={`w-full text-left p-3 rounded-lg border text-xs leading-relaxed transition-all flex items-start gap-2.5 ${btnStyle}`}
-                      >
-                        <span className="font-mono font-bold shrink-0 px-1.5 py-0.5 rounded bg-[var(--bg-surface)] border border-[var(--border-subtle)]">
-                          {letter}
-                        </span>
-                        <span>{text}</span>
-                      </button>
-                    );
-                  })}
-                </div>
-              </div>
-
-              {/* Feedback Commentary */}
-              {answered && (
-                <div className="p-4 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 animate-fade-in text-xs">
-                  <div className="flex items-center justify-between font-mono font-bold">
-                    <span className={userSelectedOption === activeQuestion.answer ? "text-[var(--accent-success)]" : "text-[var(--accent-danger)]"}>
-                      {userSelectedOption === activeQuestion.answer ? "RESPOSTA CORRETA! (+10 XP)" : "GABARITO: LETRA " + activeQuestion.answer}
-                    </span>
-                    <span className="text-[var(--text-muted)] text-[10px]">
-                      ID #{activeQuestion.id}
-                    </span>
-                  </div>
-                  <p className="text-[var(--text-secondary)] leading-relaxed">
-                    {activeQuestion.explanation}
-                  </p>
-                </div>
-              )}
-
-              {/* Bottom Actions */}
-              <div className="pt-3 border-t border-[var(--border-subtle)] flex items-center justify-between">
-                <span className="text-[11px] font-mono text-[var(--text-muted)]">
-                  Item Oficial • Banca {currentCareer.banca}
-                </span>
-                <Button
-                  variant="outline"
-                  size="sm"
-                  onClick={() => {
-                    setUserSelectedOption(null);
-                    setAnswered(false);
-                  }}
-                  className="font-mono text-xs"
-                >
-                  Reiniciar Quiz
-                </Button>
-              </div>
-            </Card>
-          </div>
-        )}
-      </div>
-
-      {/* Modal de Upload de PDF (RAG 2.0) */}
-      {isUploadModalOpen && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
-          <div 
-            className="fixed inset-0 bg-black/80 backdrop-blur-sm animate-fade-in"
-            onClick={() => !isUploading && setIsUploadModalOpen(false)}
-          />
-
-          <Card className="relative w-full max-w-lg p-6 sm:p-8 space-y-6 bg-[var(--bg-surface)] border-[var(--border-focus)] shadow-2xl z-10 animate-fade-in">
-            <div className="flex items-center justify-between pb-4 border-b border-[var(--border-subtle)]">
-              <div className="flex items-center gap-2.5">
-                <div className="w-9 h-9 rounded-lg bg-[var(--accent-primary-glow)] border border-[var(--accent-primary)]/30 flex items-center justify-center text-[var(--accent-primary)]">
-                  <UploadCloud className="w-5 h-5" />
-                </div>
-                <div>
-                  <h3 className="font-display font-bold text-lg text-[var(--text-primary)]">
-                    Subir PDF da Aula (RAG 2.0)
-                  </h3>
-                  <p className="text-[11px] text-[var(--text-muted)] font-mono">
-                    Extração inteligente e leitor integrado
-                  </p>
-                </div>
-              </div>
-
+            {/* Timer Presets */}
+            <div className="grid grid-cols-3 gap-1.5 p-1 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] font-mono text-[11px]">
               <button
-                disabled={isUploading}
-                onClick={() => setIsUploadModalOpen(false)}
-                className="w-8 h-8 rounded-lg border border-[var(--border-subtle)] flex items-center justify-center text-[var(--text-muted)] hover:text-[var(--text-primary)]"
+                type="button"
+                onClick={() => handleSetTimer('leitura')}
+                className={`py-1.5 rounded-md font-bold transition-all ${
+                  timerMode === 'leitura'
+                    ? 'bg-[var(--accent-primary)] text-white shadow-sm'
+                    : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+                }`}
               >
-                <X className="w-4 h-4" />
+                60 min
+              </button>
+              <button
+                type="button"
+                onClick={() => handleSetTimer('questoes')}
+                className={`py-1.5 rounded-md font-bold transition-all ${
+                  timerMode === 'questoes'
+                    ? 'bg-[var(--accent-primary)] text-white shadow-sm'
+                    : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+                }`}
+              >
+                30 min
+              </button>
+              <button
+                type="button"
+                onClick={() => handleSetTimer('livre')}
+                className={`py-1.5 rounded-md font-bold transition-all ${
+                  timerMode === 'livre'
+                    ? 'bg-[var(--accent-primary)] text-white shadow-sm'
+                    : 'text-[var(--text-muted)] hover:text-[var(--text-primary)]'
+                }`}
+              >
+                15 min
               </button>
             </div>
 
-            <form onSubmit={handleUploadSubmit} className="space-y-4">
-              {/* Disciplina de Destino */}
+            {/* Big Countdown Display */}
+            <div className="text-center py-3 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)]">
+              <div className="font-mono font-bold text-4xl sm:text-5xl text-[var(--text-primary)] tracking-widest">
+                {formatTimer(timerSeconds)}
+              </div>
+            </div>
+
+            {/* Controls */}
+            <div className="flex items-center gap-2">
+              <Button
+                variant={isTimerRunning ? "outline" : "brand"}
+                size="sm"
+                fullWidth={true}
+                onClick={() => setIsTimerRunning(!isTimerRunning)}
+                className="font-mono text-xs font-bold flex items-center justify-center gap-2"
+              >
+                {isTimerRunning ? (
+                  <>
+                    <Pause className="w-3.5 h-3.5" />
+                    <span>Pausar</span>
+                  </>
+                ) : (
+                  <>
+                    <Play className="w-3.5 h-3.5" />
+                    <span>{timerSeconds === initialTimerSeconds ? "Iniciar Estudo" : "Continuar"}</span>
+                  </>
+                )}
+              </Button>
+
+              <button
+                type="button"
+                onClick={() => {
+                  setIsTimerRunning(false);
+                  setTimerSeconds(initialTimerSeconds);
+                }}
+                className="p-2 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+                title="Reiniciar Cronômetro"
+              >
+                <RotateCcw className="w-4 h-4" />
+              </button>
+            </div>
+          </Card>
+
+          {/* 2. Synced Questions Block */}
+          <Card className="p-5 space-y-4 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
+            <div className="flex items-center justify-between pb-2 border-b border-[var(--border-subtle)]">
+              <div className="space-y-0.5">
+                <div className="text-xs font-mono font-bold text-[var(--text-primary)] flex items-center gap-1.5">
+                  <Sparkles className="w-4 h-4 text-amber-400" />
+                  <span>QUESTÃO DE FIXAÇÃO DA AULA</span>
+                </div>
+                <div className="text-[10px] font-mono text-[var(--text-muted)]">
+                  Banca {currentCareer.banca} • {selectedSubject}
+                </div>
+              </div>
+
+              <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-[var(--accent-primary-glow)] text-[var(--accent-primary)] font-bold">
+                Q#{activeQuestion.id}
+              </span>
+            </div>
+
+            {/* Question Statement */}
+            <p className="text-xs sm:text-sm text-[var(--text-primary)] leading-relaxed font-sans">
+              {activeQuestion.question}
+            </p>
+
+            {/* Options */}
+            <div className="space-y-2 pt-1 font-sans text-xs">
+              {Object.entries(activeQuestion.options).map(([key, text]) => {
+                const isSelected = userSelectedOption === key;
+                const isCorrect = key === activeQuestion.answer;
+
+                let optionStyles = "bg-[var(--bg-elevated)] border-[var(--border-subtle)] hover:border-[var(--accent-primary)] text-[var(--text-primary)]";
+                if (answered) {
+                  if (isCorrect) {
+                    optionStyles = "bg-emerald-500/10 border-emerald-500 text-emerald-400 font-bold";
+                  } else if (isSelected && !isCorrect) {
+                    optionStyles = "bg-rose-500/10 border-rose-500 text-rose-400";
+                  } else {
+                    optionStyles = "opacity-50 bg-[var(--bg-elevated)] border-[var(--border-subtle)] text-[var(--text-muted)]";
+                  }
+                }
+
+                return (
+                  <button
+                    key={key}
+                    type="button"
+                    disabled={answered}
+                    onClick={() => handleSelectOption(key)}
+                    className={`w-full p-3 rounded-xl border text-left transition-all flex items-start gap-2.5 ${optionStyles}`}
+                  >
+                    <span className="w-5 h-5 rounded-md font-mono font-bold text-xs flex items-center justify-center shrink-0 bg-[var(--bg-surface)] border border-[var(--border-subtle)]">
+                      {key}
+                    </span>
+                    <span className="leading-snug pt-0.5">{text}</span>
+                  </button>
+                );
+              })}
+            </div>
+
+            {/* Explanation / Justification */}
+            {answered && (
+              <div className="p-4 rounded-xl bg-[var(--bg-elevated)] border border-[var(--border-subtle)] space-y-2 animate-fade-in text-xs font-sans">
+                <div className="flex items-center gap-1.5 font-bold font-mono text-[11px] text-[var(--accent-primary)]">
+                  <CheckCircle2 className="w-4 h-4 text-emerald-400" />
+                  <span>GABARITO COMENTADO: LETRA {activeQuestion.answer}</span>
+                </div>
+                <p className="text-[var(--text-secondary)] leading-relaxed">
+                  {activeQuestion.explanation}
+                </p>
+                <div className="pt-2 text-[10px] font-mono text-[var(--text-muted)]">
+                  💡 Este conceito foi abordado diretamente na doutrina desta lição.
+                </div>
+              </div>
+            )}
+          </Card>
+
+        </div>
+
+      </div>
+
+      {/* 4. Upload Modal */}
+      {isUploadModalOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-fade-in overflow-y-auto">
+          <div className="w-full max-w-lg bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-2xl p-6 space-y-5 shadow-2xl animate-fade-in my-auto max-h-[90vh] overflow-y-auto">
+            
+            <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
+              <div>
+                <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
+                  Subir PDF de Aula
+                </h3>
+                <p className="text-xs text-[var(--text-muted)] font-mono">
+                  Indexe apostilas e materiais do seu curso
+                </p>
+              </div>
+              <button
+                onClick={() => setIsUploadModalOpen(false)}
+                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)]"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            <form onSubmit={handleUploadSubmit} className="space-y-4 text-xs sm:text-sm">
+              
               <div className="space-y-1.5">
-                <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
-                  Disciplina Associada:
+                <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
+                  Disciplina da Aula:
                 </label>
                 <select
                   value={uploadSubject}
                   onChange={(e) => setUploadSubject(e.target.value)}
-                  disabled={isUploading}
-                  className="w-full p-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] focus:border-[var(--border-focus)] text-xs text-[var(--text-primary)] outline-none"
+                  className="w-full h-10 px-3 rounded-lg bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none cursor-pointer font-sans"
                 >
                   {careerSubjects.map((s) => (
                     <option key={s.name} value={s.name}>
                       {s.name}
                     </option>
                   ))}
-                  <option value="Geral">Geral / Outra</option>
                 </select>
               </div>
 
-              {/* Arquivo PDF */}
               <div className="space-y-1.5">
-                <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
-                  Arquivo PDF (Apostila Simplificada, Grifada ou Completa):
+                <label className="font-mono text-xs uppercase text-[var(--text-muted)] font-bold">
+                  Arquivo PDF:
                 </label>
-                <input
-                  type="file"
-                  ref={fileInputRef}
-                  onChange={handleFileChange}
-                  accept=".pdf"
-                  disabled={isUploading}
-                  className="hidden"
-                />
-
-                <div 
-                  onClick={() => !isUploading && fileInputRef.current?.click()}
-                  className={`p-6 border-2 border-dashed rounded-lg text-center cursor-pointer transition-all ${
-                    selectedFile 
-                      ? 'border-[var(--accent-primary)] bg-[var(--accent-primary-glow)]' 
-                      : 'border-[var(--border-subtle)] hover:border-[var(--border-focus)] bg-[var(--bg-elevated)]/40'
-                  }`}
+                <div
+                  onClick={() => fileInputRef.current?.click()}
+                  className="p-6 rounded-xl border-2 border-dashed border-[var(--border-subtle)] hover:border-[var(--accent-primary)] bg-[var(--bg-elevated)] text-center cursor-pointer space-y-2 transition-colors"
                 >
-                  {selectedFile ? (
-                    <div className="space-y-1">
-                      <FileText className="w-8 h-8 text-[var(--accent-primary)] mx-auto" />
-                      <div className="text-xs font-bold text-[var(--text-primary)]">
-                        {selectedFile.name}
-                      </div>
-                      <div className="text-[10px] font-mono text-[var(--text-muted)]">
-                        {(selectedFile.size / (1024 * 1024)).toFixed(2)} MB • Clique para trocar
-                      </div>
-                    </div>
-                  ) : (
-                    <div className="space-y-1.5 text-xs text-[var(--text-muted)]">
-                      <UploadCloud className="w-8 h-8 text-[var(--text-muted)] mx-auto" />
-                      <div>
-                        <span className="font-semibold text-[var(--accent-primary)]">Clique para escolher</span> ou arraste o arquivo PDF aqui
-                      </div>
-                      <div className="text-[10px] font-mono">
-                        Apostila Simplificada, Grifada ou Completa (até 50 MB)
-                      </div>
-                    </div>
-                  )}
+                  <UploadCloud className="w-8 h-8 text-[var(--accent-primary)] mx-auto" />
+                  <div className="text-xs font-bold text-[var(--text-primary)]">
+                    {selectedFile ? selectedFile.name : "Clique para selecionar o PDF"}
+                  </div>
+                  <p className="text-[10px] text-[var(--text-muted)] font-mono">
+                    Aceita apostilas resumidas, grifadas ou completas (PDF de até 20MB)
+                  </p>
+                  <input
+                    type="file"
+                    ref={fileInputRef}
+                    onChange={handleFileChange}
+                    accept="application/pdf"
+                    className="hidden"
+                  />
                 </div>
               </div>
 
-              {/* Status & Alerts */}
               {uploadError && (
-                <div className="p-3 rounded-lg bg-[var(--color-status-danger-bg)] border border-[var(--accent-danger)] text-xs text-[var(--accent-danger)] flex items-center gap-2">
-                  <AlertCircle className="w-4 h-4 shrink-0" />
-                  <span>{uploadError}</span>
+                <div className="p-3 rounded-lg bg-[var(--color-status-danger-bg)] border border-[var(--accent-danger)]/30 text-xs text-[var(--accent-danger)] font-mono">
+                  {uploadError}
                 </div>
               )}
 
-              {/* Submit Buttons */}
-              <div className="pt-3 flex items-center justify-end gap-3 border-t border-[var(--border-subtle)]">
+              <div className="pt-2 flex gap-3">
                 <Button
                   type="button"
                   variant="outline"
-                  size="sm"
-                  disabled={isUploading}
+                  size="md"
+                  fullWidth={true}
                   onClick={() => setIsUploadModalOpen(false)}
                   className="font-mono text-xs"
                 >
                   Cancelar
                 </Button>
-
                 <Button
                   type="submit"
                   variant="brand"
-                  size="sm"
-                  disabled={!selectedFile || isUploading}
-                  className="font-mono text-xs flex items-center gap-2"
+                  size="md"
+                  fullWidth={true}
+                  disabled={isUploading || !selectedFile}
+                  className="font-bold font-mono text-xs shadow-md"
                 >
-                  {isUploading ? "Processando e Extraindo PDF..." : "Enviar e Indexar PDF"}
+                  {isUploading ? "Processando..." : "Subir e Indexar PDF"}
                 </Button>
               </div>
+
             </form>
-          </Card>
+
+          </div>
         </div>
       )}
+
     </div>
   );
 };
