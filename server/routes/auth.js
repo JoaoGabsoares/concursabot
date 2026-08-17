@@ -4,9 +4,18 @@ import db from '../database.js';
 
 const router = express.Router();
 
-// Helper: Extract session token from request
+// Helper: Extract session account from request
 export function getSessionAccount(req) {
   try {
+    if (req.account && req.account.id) {
+      return {
+        id: req.account.id,
+        account_id: req.account.id,
+        username: req.account.username,
+        email: req.account.email
+      };
+    }
+
     const authHeader = req.headers['authorization'];
     let token = null;
     if (authHeader && authHeader.startsWith('Bearer ')) {
@@ -17,14 +26,15 @@ export function getSessionAccount(req) {
 
     if (!token) return null;
 
-    const session = db.prepare(`
-      SELECT s.token, s.account_id, s.expires_at, a.id, a.username, a.email
-      FROM auth_sessions s
-      JOIN accounts a ON a.id = s.account_id
-      WHERE s.token = ? AND s.expires_at > CURRENT_TIMESTAMP
-    `).get(token);
+    const data = authService.validateToken(token);
+    if (!data || !data.account) return null;
 
-    return session || null;
+    return {
+      id: data.account.id,
+      account_id: data.account.id,
+      username: data.account.username,
+      email: data.account.email
+    };
   } catch (err) {
     console.error('Error verifying session:', err);
     return null;

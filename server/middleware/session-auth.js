@@ -22,7 +22,8 @@ const PUBLIC_API_ROUTES = new Set([
 
 export function sessionAuthMiddleware(req, res, next) {
   // 1. Obter o path completo da API (ex: /api/auth/login ou /api/study-room/sessions/1/ask)
-  const fullPath = ((req.baseUrl || '') + (req.path || '')).split('?')[0];
+  const rawPath = ((req.baseUrl || '') + (req.path || '')).split('?')[0];
+  const fullPath = rawPath.length > 1 && rawPath.endsWith('/') ? rawPath.slice(0, -1) : rawPath;
 
   // 2. Rotas públicas autorizadas sem exigência de token
   if (PUBLIC_API_ROUTES.has(fullPath)) {

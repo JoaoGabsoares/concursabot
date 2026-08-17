@@ -52,11 +52,11 @@ export class AuthService {
     }
 
     const cleanUsername = username.trim().toLowerCase();
-    const cleanEmail = email && typeof email === 'string' ? email.trim() : null;
+    const cleanEmail = email && typeof email === 'string' && email.trim().length > 0 ? email.trim().toLowerCase() : null;
 
     const existing = db.prepare(`
       SELECT id FROM accounts WHERE LOWER(username) = ? OR (email IS NOT NULL AND LOWER(email) = ?)
-    `).get(cleanUsername, cleanEmail ? cleanEmail.toLowerCase() : null);
+    `).get(cleanUsername, cleanEmail);
 
     if (existing) {
       throw new Error('Nome de usuário ou e-mail já cadastrado.');
@@ -64,7 +64,7 @@ export class AuthService {
 
     const salt = this.generateSalt();
     const passwordHash = this.hashPassword(password, salt);
-    const accountId = 'acc_' + Date.now();
+    const accountId = 'acc_' + Date.now() + '_' + crypto.randomBytes(4).toString('hex');
 
     db.prepare(`
       INSERT INTO accounts (id, username, email, password_hash, salt, created_at, last_login_at)
@@ -117,11 +117,21 @@ export class AuthService {
       if (lockExpiry > now) {
         const remainingMinutes = Math.max(1, Math.ceil((lockExpiry - now) / 60000));
         throw new Error(`Conta temporariamente bloqueada devido a 5 tentativas inválidas consecutivas. Tente novamente em ${remainingMinutes} minuto(s).`);
+      } else {
+        // Se a janela de bloqueio de 15 minutos já expirou, reseta o estado para nova contagem
+        account.failed_attempts = 0;
+        account.locked_until = null;
+        db.prepare('UPDATE accounts SET failed_attempts = 0, locked_until = NULL WHERE id = ?')
+          .run(account.id);
       }
     }
 
     const expectedHash = this.hashPassword(password, account.salt);
-    if (account.password_hash !== expectedHash) {
+    const hashBuf = Buffer.from(account.password_hash, 'utf8');
+    const expectedBuf = Buffer.from(expectedHash, 'utf8');
+    const isPasswordValid = hashBuf.length === expectedBuf.length && crypto.timingSafeEqual(hashBuf, expectedBuf);
+
+    if (!isPasswordValid) {
       const currentAttempts = (account.failed_attempts || 0) + 1;
       if (currentAttempts >= 5) {
         const lockUntil = new Date(Date.now() + 15 * 60 * 1000).toISOString();
@@ -152,7 +162,7 @@ export class AuthService {
     `).run(token, account.id, expiresAt);
 
     const profiles = db.prepare(`
-      SELECT * FROM user_profiles WHERE account_id = ? ORDER BY last_active_at DESC
+      SELECT * FROM user_profiles WHERE account_id = ? ORDER BY is_default DESC, last_active_at DESC
     `).all(account.id);
 
     return {

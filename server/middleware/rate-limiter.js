@@ -1,6 +1,6 @@
 // Sliding-Window In-Memory Rate Limiter Middleware for Express
 
-class RateLimiter {
+export class RateLimiter {
   constructor(windowMs = 60000, maxRequests = 60, message = 'Muitas requisições. Aguarde um momento.') {
     this.windowMs = windowMs;
     this.maxRequests = maxRequests;

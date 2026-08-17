@@ -42,32 +42,45 @@ export function inviteAuthMiddleware(req, res, next) {
     return next();
   }
 
-  // Permite acesso livre aos arquivos estáticos do frontend
-  if (!req.path.startsWith('/api/')) {
+  // 1. Obter o path completo da API
+  const rawPath = ((req.baseUrl || '') + (req.path || '')).split('?')[0];
+  const fullPath = rawPath.length > 1 && rawPath.endsWith('/') ? rawPath.slice(0, -1) : rawPath;
+
+  // Permite acesso livre aos arquivos estáticos fora de /api
+  if (!fullPath.startsWith('/api')) {
     return next();
   }
 
-  // Rotas públicas de verificação de status e saúde
+  // Rotas públicas de autenticação, verificação de status e saúde
   const publicRoutes = [
     '/api/health',
     '/api/verify-pin',
     '/api/auth/status',
-    '/api/auth/verify-invite'
+    '/api/auth/verify-invite',
+    '/api/auth/register',
+    '/api/auth/login'
   ];
 
-  if (publicRoutes.includes(req.path)) {
+  if (publicRoutes.includes(fullPath)) {
+    return next();
+  }
+
+  // Se o usuário possui token de autenticação de sessão, delega a validação para sessionAuthMiddleware
+  const authHeader = req.headers['authorization'];
+  const hasSessionToken = (authHeader && authHeader.startsWith('Bearer ')) || req.headers['x-account-token'];
+  if (hasSessionToken) {
     return next();
   }
 
   const provided = req.headers['x-invite-pin'] || req.headers['x-invite-code'] || req.query.pin || req.query.invite;
 
-  if (!validateInviteCode(provided)) {
-    return res.status(401).json({
-      error: 'Acesso restrito. Código de convite ou PIN inválido.',
-      require_invite: true,
-      require_pin: true
-    });
+  if (validateInviteCode(provided)) {
+    return next();
   }
 
-  next();
+  return res.status(401).json({
+    error: 'Acesso restrito. Código de convite ou PIN inválido.',
+    require_invite: true,
+    require_pin: true
+  });
 }
