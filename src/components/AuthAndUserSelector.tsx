@@ -51,8 +51,18 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
   const [creatingUser, setCreatingUser] = useState<boolean>(false);
   const [createProfileError, setCreateProfileError] = useState<string | null>(null);
 
-  // 1. Check current session on mount
+  // Google Auth State
+  const [googleClientId, setGoogleClientId] = useState<string>('');
+
+  // 1. Check current session and load Google auth config on mount
   useEffect(() => {
+    // Load auth config
+    api.getAuthConfig().then((cfg) => {
+      if (cfg && cfg.googleClientId) {
+        setGoogleClientId(cfg.googleClientId);
+      }
+    }).catch(() => {});
+
     const token = getAuthToken();
     if (!token) {
       setAuthStatus('unauthenticated');
@@ -75,6 +85,58 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
         setAuthStatus('unauthenticated');
       });
   }, []);
+
+  // Handle Google Token Response (1 Click Login/Register)
+  const handleGoogleCredentialResponse = async (response: any) => {
+    if (!response || !response.credential) return;
+    setAuthLoading(true);
+    setAuthError(null);
+    try {
+      const res = await api.loginWithGoogle(response.credential);
+      if (res.success && res.token && res.account) {
+        setAuthToken(res.token);
+        setAccount(res.account);
+        setProfiles(res.profiles || []);
+        setAuthStatus('authenticated');
+        success('Autenticado com Google!', `Bem-vindo, @${res.account.username}`);
+      }
+    } catch (err: any) {
+      setAuthError(err.message || 'Falha ao autenticar com a Conta Google.');
+    } finally {
+      setAuthLoading(false);
+    }
+  };
+
+  // Render Google Button when unauthenticated
+  useEffect(() => {
+    if (authStatus !== 'unauthenticated') return;
+
+    const win = window as any;
+    if (win.google && win.google.accounts && win.google.accounts.id) {
+      try {
+        win.google.accounts.id.initialize({
+          client_id: googleClientId || 'concursabot-app.apps.googleusercontent.com',
+          callback: handleGoogleCredentialResponse,
+          auto_select: false
+        });
+
+        const btnContainer = document.getElementById('googleSignInBtnContainer');
+        if (btnContainer) {
+          btnContainer.innerHTML = '';
+          win.google.accounts.id.renderButton(btnContainer, {
+            theme: 'filled_black',
+            size: 'large',
+            text: 'continue_with',
+            shape: 'pill',
+            width: 280,
+            locale: 'pt-BR'
+          });
+        }
+      } catch (e) {
+        console.warn('Google GSI init notice:', e);
+      }
+    }
+  }, [authStatus, authTab, googleClientId]);
 
   // Handle Login
   const handleLogin = async (e: React.FormEvent) => {
@@ -308,6 +370,19 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                 <UserPlus className="w-3.5 h-3.5" />
                 <span>Criar Conta</span>
               </button>
+            </div>
+
+            {/* Google 1-Click Sign-In Container */}
+            <div className="space-y-3 pt-1">
+              <div id="googleSignInBtnContainer" className="flex justify-center w-full min-h-[44px]"></div>
+
+              <div className="flex items-center gap-3">
+                <div className="flex-1 h-px bg-[var(--border-subtle)]"></div>
+                <span className="text-[10px] font-mono text-[var(--text-muted)] uppercase tracking-wider">
+                  ou {authTab === 'login' ? 'com usuário e senha' : 'cadastre com seu e-mail'}
+                </span>
+                <div className="flex-1 h-px bg-[var(--border-subtle)]"></div>
+              </div>
             </div>
 
             {/* Login Form */}

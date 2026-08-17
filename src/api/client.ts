@@ -38,7 +38,10 @@ export class ApiClient {
    * Método central de requisição HTTP com injeção de headers de segurança.
    */
   public async request<T>(endpoint: string, options: RequestInit = {}): Promise<T> {
-    const isAuthRoute = endpoint.startsWith('/auth/login') || endpoint.startsWith('/auth/register') || endpoint.startsWith('/auth/verify-invite');
+    const isAuthRoute = endpoint.startsWith('/auth/login') || 
+                        endpoint.startsWith('/auth/register') || 
+                        endpoint.startsWith('/auth/google') || 
+                        endpoint.startsWith('/auth/config');
     const token = isAuthRoute ? null : this.getAuthToken();
     const currentUserId = (isAuthRoute || typeof localStorage === 'undefined') ? null : localStorage.getItem('CURRENT_USER_ID');
     const isFormData = typeof FormData !== 'undefined' && options.body instanceof FormData;
@@ -84,6 +87,17 @@ export class ApiClient {
       method: 'POST',
       body: JSON.stringify({ username, password })
     });
+  }
+
+  public loginWithGoogle(credential: string): Promise<AuthResponse> {
+    return this.request<AuthResponse>('/auth/google', {
+      method: 'POST',
+      body: JSON.stringify({ credential })
+    });
+  }
+
+  public getAuthConfig(): Promise<{ googleClientId: string; authMethods: string[] }> {
+    return this.request<{ googleClientId: string; authMethods: string[] }>('/auth/config');
   }
 
   public registerAccount(username: string, password: string, email?: string): Promise<AuthResponse> {

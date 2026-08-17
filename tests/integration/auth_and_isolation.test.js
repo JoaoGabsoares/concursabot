@@ -114,6 +114,30 @@ export async function runAuthAndIsolationTests(baseUrl = 'http://localhost:3000'
   });
   assert.strictEqual(invalidEmailRes.status, 400, 'Cadastro com e-mail inválido deve retornar 400');
   console.log('  ✅ 5. Validação de Formato de E-mail com Regex RFC: PASSOU');
+
+  // 8. Teste de Autenticação com Google Sign-In (1-Click & Cross-Device)
+  const gEmail = `google_aluno_${Date.now()}@gmail.com`;
+  const gMockToken = `mock_google_:${gEmail}:João Concurseiro Google:sub_${Date.now()}`;
+  
+  const gRes1 = await fetch(`${baseUrl}/api/auth/google`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ credential: gMockToken })
+  }).then(r => r.json());
+
+  assert.ok(gRes1.success && gRes1.token, 'Deve autenticar e provisionar conta com Google Sign-In');
+  assert.strictEqual(gRes1.account.email, gEmail, 'E-mail retornado deve coincidir');
+  assert.ok(gRes1.profiles.length >= 1, 'Deve provisionar automaticamente o perfil de estudos inicial');
+
+  // Segundo acesso com o mesmo Google ID (deve fazer login sem duplicar conta)
+  const gRes2 = await fetch(`${baseUrl}/api/auth/google`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ credential: gMockToken })
+  }).then(r => r.json());
+
+  assert.strictEqual(gRes2.account.id, gRes1.account.id, 'Segundo login com Google deve reutilizar a mesma conta existente');
+  console.log('  ✅ 6. Autenticação e Provisionamento com Google Sign-In (Cross-Device): PASSOU');
 }
 
 if (process.argv[1]?.endsWith('auth_and_isolation.test.js')) {

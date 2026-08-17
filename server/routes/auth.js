@@ -71,6 +71,33 @@ router.post('/register', (req, res) => {
   }
 });
 
+// GET /api/auth/config - Expose public auth configuration (e.g. Google Client ID)
+router.get('/config', (req, res) => {
+  res.json({
+    googleClientId: process.env.GOOGLE_CLIENT_ID || '',
+    authMethods: ['password', 'google']
+  });
+});
+
+// POST /api/auth/google - Authenticate with Google Identity Services (1 Click)
+router.post('/google', async (req, res) => {
+  try {
+    const { credential } = req.body;
+    if (!credential) {
+      return res.status(400).json({ error: 'Credencial do Google não fornecida.' });
+    }
+
+    const result = await authService.loginWithGoogle(credential);
+    res.json({
+      success: true,
+      message: 'Autenticado com a Conta Google com sucesso!',
+      ...result
+    });
+  } catch (err) {
+    res.status(400).json({ error: err.message || 'Falha ao autenticar com o Google.' });
+  }
+});
+
 // POST /api/auth/login - Login to isolated account
 router.post('/login', (req, res) => {
   try {

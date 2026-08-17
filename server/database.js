@@ -447,6 +447,8 @@ function initDB() {
                 salt TEXT NOT NULL,
                 failed_attempts INTEGER DEFAULT 0,
                 locked_until DATETIME DEFAULT NULL,
+                google_id TEXT DEFAULT NULL,
+                avatar_url TEXT DEFAULT NULL,
                 created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
                 last_login_at DATETIME
             );
@@ -795,6 +797,15 @@ function initDB() {
         } catch (e) {}
         try {
             db.exec("CREATE UNIQUE INDEX IF NOT EXISTS idx_accounts_email_unique ON accounts(email) WHERE email IS NOT NULL;");
+        } catch (e) {}
+        try {
+            db.exec("ALTER TABLE accounts ADD COLUMN google_id TEXT DEFAULT NULL;");
+        } catch (e) {}
+        try {
+            db.exec("ALTER TABLE accounts ADD COLUMN avatar_url TEXT DEFAULT NULL;");
+        } catch (e) {}
+        try {
+            db.exec("CREATE INDEX IF NOT EXISTS idx_accounts_google_id ON accounts(google_id);");
         } catch (e) {}
     } catch (e) {
         console.warn('Migration note:', e.message);

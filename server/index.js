@@ -150,7 +150,6 @@ app.use('/uploads', (req, res, next) => {
     next();
 }, express.static(uploadsDir));
 
-import { inviteAuthMiddleware, isInviteRequired, validateInviteCode } from './middleware/invite-auth.js';
 import { sessionAuthMiddleware } from './middleware/session-auth.js';
 import systemLogsRoutes from './routes/system-logs.js';
 import logger from './logger.js';
@@ -174,36 +173,6 @@ app.use((req, res, next) => {
 // Global rate limiter for /api
 app.use('/api', generalLimiter);
 
-// Status e Verificação de Convite (Invite Gate / Web Deploy)
-app.get('/api/auth/status', (req, res) => {
-    const required = isInviteRequired();
-    const provided = req.headers['x-invite-pin'] || req.headers['x-invite-code'] || req.query.pin;
-    const authenticated = !required || validateInviteCode(provided);
-    res.json({ required, authenticated });
-});
-
-app.post('/api/auth/verify-invite', (req, res) => {
-    const required = isInviteRequired();
-    if (!required) {
-        return res.json({ success: true, required: false, message: 'Acesso liberado sem exigência de convite.' });
-    }
-    const { code, pin } = req.body;
-    const inputCode = code || pin;
-    if (validateInviteCode(inputCode)) {
-        return res.json({ success: true, required: true, message: 'Convite autorizado com sucesso!' });
-    }
-    return res.status(401).json({ success: false, required: true, error: 'Código de convite ou PIN inválido.' });
-});
-
-// Retrocompatibilidade
-app.post('/api/verify-pin', (req, res) => {
-    const { pin, code } = req.body;
-    if (validateInviteCode(pin || code)) {
-        return res.json({ valid: true, required: isInviteRequired() });
-    }
-    return res.status(401).json({ valid: false, required: true, error: 'PIN ou convite incorreto.' });
-});
-
 // Health check endpoint para monitoramento de contêineres e uptime
 app.get('/api/health', (req, res) => {
     try {
@@ -220,7 +189,6 @@ app.get('/api/health', (req, res) => {
     }
 });
 
-app.use('/api', inviteAuthMiddleware);
 app.use('/api', sessionAuthMiddleware);
 
 // Specific AI routes with dedicated AI rate limiter

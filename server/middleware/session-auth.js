@@ -14,9 +14,9 @@ import db from '../database.js';
 const PUBLIC_API_ROUTES = new Set([
   '/api/auth/login',
   '/api/auth/register',
+  '/api/auth/google',
+  '/api/auth/config',
   '/api/auth/status',
-  '/api/auth/verify-invite',
-  '/api/verify-pin',
   '/api/health'
 ]);
 
