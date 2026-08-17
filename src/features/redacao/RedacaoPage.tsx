@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Card, Button, CarimboStatus } from '../../components/UIPrimitives';
+import { useToast } from '../../components/Toast';
 import { getCareerById } from '../../utils/careers';
 import { CAREER_ESSAY_THEMES } from '../../utils/studyContent';
 import { RedacaoCritique } from '../../types';
@@ -10,6 +11,7 @@ interface RedacaoPageProps {
 }
 
 export const RedacaoPage: React.FC<RedacaoPageProps> = ({ careerId }) => {
+  const { warning, error: toastError, success } = useToast();
   const currentCareer = getCareerById(careerId);
   const defaultTheme = CAREER_ESSAY_THEMES[careerId] || "O papel do Estado e das instituições públicas no desenvolvimento social e econômico.";
   
@@ -29,7 +31,7 @@ export const RedacaoPage: React.FC<RedacaoPageProps> = ({ careerId }) => {
 
   const handleCorrigir = async () => {
     if (!texto.trim() || wordCount < 30) {
-      alert("Escreva pelo menos 30 palavras para enviar para correção discursiva oficial.");
+      warning("Extensão Insuficiente", "Escreva pelo menos 30 palavras para enviar para correção discursiva oficial.");
       return;
     }
 
@@ -37,8 +39,9 @@ export const RedacaoPage: React.FC<RedacaoPageProps> = ({ careerId }) => {
     try {
       const data = await api.corrigirRedacao(tema, texto, currentCareer.id);
       setCritique(data);
+      success("Redação Corrigida!", `Sua nota preliminar é ${data.notaTotal}/100. Confira o espelho de correção abaixo.`);
     } catch (e: any) {
-      alert("Erro ao conectar com a IA: " + e.message);
+      toastError("Falha na Correção", e.message || "Não foi possível conectar ao corretor de IA no momento.");
     } finally {
       setLoading(false);
     }

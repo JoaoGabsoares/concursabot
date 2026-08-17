@@ -23,8 +23,7 @@ export const Header: React.FC<HeaderProps> = ({
   onToggleTheme,
   activeTab,
   onNavigate,
-  pendingErrorsCount = 0,
-  onToggleAudio
+  pendingErrorsCount = 0
 }) => {
   const [mobileDrawerOpen, setMobileDrawerOpen] = useState(false);
   const [careerDropdownOpen, setCareerDropdownOpen] = useState(false);
@@ -41,6 +40,7 @@ export const Header: React.FC<HeaderProps> = ({
     aproveitamento: { title: 'Transição de Editais', category: 'INTELIGÊNCIA' },
     redacao: { title: 'Corretor de Redação', category: 'INTELIGÊNCIA' },
     edital: { title: 'Raio-X do Edital', category: 'INTELIGÊNCIA' },
+    comunidade: { title: 'Comunidade & Tutor IA', category: 'COMUNIDADE' },
     settings: { title: 'Configurações', category: 'SISTEMA' },
     settings_ajustes: { title: 'Ajustes & API', category: 'SISTEMA' },
     settings_guia: { title: 'Guia de Uso & Método', category: 'SISTEMA' },

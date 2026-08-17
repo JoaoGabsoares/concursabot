@@ -579,6 +579,68 @@ export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
     }
   },
 
+  // --- RECEITA FEDERAL: RLM E ESTATÍSTICA ---
+  "Raciocínio Lógico-Matemático e Estatística": {
+    subject: "Raciocínio Lógico-Matemático e Estatística",
+    topic: "Lógica de Proposições, Equivalências Lógicas & Medidas de Tendência Central",
+    lessonNumber: 1,
+    totalLessons: 10,
+    jurisprudenceNote: "FGV ATRFB: Negação do condicional (Regra do MANÉ) e equivalências de Se...então (Contrapositiva e Disjunção 'Neymar'). Em estatística, foco em média, mediana e variância.",
+    section1Title: "1. Equivalências e Negações do Condicional (P -> Q)",
+    section1Body: "No cálculo proposicional FGV, a condicional 'Se P, então Q' (P -> Q) possui duas equivalências fundamentais: 1) Contrapositiva: ~Q -> ~P; 2) Forma Disjuntiva: ~P v Q (Nega a primeira OU mantém a segunda). A NEGAÇÃO da condicional ~(P -> Q) é a conjunção P ^ ~Q (Mantém a primeira E nega a segunda — Regra do MANÉ). Nas medidas estatísticas, a Mediana é o elemento central do rol ordenado, resistente a outliers, enquanto a Média é sensível a valores extremos.",
+    section2Title: "2. Esquema Mnemônico de Lógica FGV",
+    mnemonics: [
+      { code: "NEGAÇÃO DO SE...ENTÃO = MANÉ", meaning: "MAntém a primeira E NEga a segunda: ~(P -> Q) = P ^ ~Q." },
+      { code: "EQUIVALÊNCIA DO SE...ENTÃO = NEYMAR", meaning: "NEga a primeira OU Mantém a segunda: P -> Q = ~P v Q." },
+      { code: "CONTRAPOSITIVA = VOLTA NEGANDO", meaning: "P -> Q equivale a ~Q -> ~P (Inverte e nega ambas)." },
+      { code: "MEDIANA = CENTRO DO ROL", meaning: "Elemento do meio após ordenar a sequência em ordem crescente." }
+    ],
+    question: {
+      id: 205,
+      question: "Considere a afirmação: 'Se o Auditor Tributário lavra o auto de infração, então o contribuinte é notificado'. A negação lógica dessa afirmação é:",
+      options: {
+        A: "Se o Auditor não lavra o auto, então o contribuinte não é notificado.",
+        B: "O Auditor Tributário lavra o auto de infração e o contribuinte não é notificado.",
+        C: "O Auditor Tributário não lavra o auto ou o contribuinte é notificado.",
+        D: "Se o contribuinte não é notificado, então o Auditor não lavrou o auto.",
+        E: "O Auditor não lavra o auto de infração e o contribuinte é notificado."
+      },
+      answer: "B",
+      explanation: "A negação de 'Se P, então Q' é 'P e não Q' (Regra do MANÉ: Mantém a primeira 'Auditor lavra o auto' E Nega a segunda 'contribuinte não é notificado')."
+    }
+  },
+
+  // --- RECEITA FEDERAL: ADMINISTRAÇÃO GERAL E PÚBLICA ---
+  "Administração Geral e Pública": {
+    subject: "Administração Geral e Pública",
+    topic: "Evolução da Administração Pública (Patrimonialista, Burocrática e Gerencial) & Governança",
+    lessonNumber: 1,
+    totalLessons: 10,
+    jurisprudenceNote: "FGV ATRFB: Cobrança dos 3 modelos de gestão pública (PDRAE 1995), accountability (vertical, horizontal e societal) e Balanced Scorecard (BSC).",
+    section1Title: "1. Modelos de Administração Pública e Nova Gestão Pública",
+    section1Body: "A Administração Patrimonialista caracteriza-se pela confusão entre o patrimônio público e o privado (res publica vs res principis), corrupção e nepotismo. A Burocracia Weberiana surge para combater a corrupção através de impessoalidade, legalidade estrita, hierarquia rígida e controle a priori de procedimentos. A Administração Gerencial (NPM) foca no cidadão-cliente, eficiência, descentralização, controle a posteriori por resultados e contratualização de metas (PDRAE 1995 de Bresser-Pereira).",
+    section2Title: "2. Esquema Mnemônico de Modelos de Gestão",
+    mnemonics: [
+      { code: "PATRIMONIALISTA = CONFUSÃO RES PUBLICA", meaning: "Sem distinção entre bem do soberano e bem do Estado (nepotismo)." },
+      { code: "BUROCRÁTICO = CONTROLE A PRIORI DOS MEIOS", meaning: "Foco nos processos, legalidade formal, impessoalidade e combate à corrupção." },
+      { code: "GERENCIAL = CONTROLE A POSTERIORI DOS RESULTADOS", meaning: "Foco no cidadão-usuário, eficiência, eficácia e efetividade dos serviços." },
+      { code: "BSC = 4 PERSPECTIVAS", meaning: "Financeira, Clientes, Processos Internos e Aprendizado/Crescimento." }
+    ],
+    question: {
+      id: 206,
+      question: "O modelo de administração pública que preconiza a descentralização decisória, a contratualização de metas e o controle centrado nos resultados obtidos, em substituição ao controle rígido de processos a priori, é denominado:",
+      options: {
+        A: "Patrimonialista.",
+        B: "Burocrático estrito.",
+        C: "Gerencial (New Public Management).",
+        D: "Tradicional centralizador.",
+        E: "Monárquico institucional."
+      },
+      answer: "C",
+      explanation: "A Administração Pública Gerencial foca nos resultados, na eficiência, na flexibilidade procedimental e na avaliação a posteriori do desempenho."
+    }
+  },
+
   // --- TRANSPETRO & ESTATAIS ---
   "Noções de Administração": {
     subject: "Noções de Administração",

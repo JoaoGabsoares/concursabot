@@ -123,7 +123,12 @@ export const ACHIEVEMENTS_CATALOG = [
 export const CAREER_SUBJECTS = {
   'marinha_rm2': ['Língua Portuguesa', 'Formação Militar-Naval', 'Legislação Militar-Naval', 'Relações Humanas e Liderança', 'História Naval'],
   'ses_rj': ['Legislação do SUS & Saúde Pública', 'Língua Portuguesa', 'Conhecimentos Específicos de Enfermagem', 'Noções de Administração Pública', 'SUS'],
-  'atrfb': ['Direito Tributário', 'Direito Previdenciário', 'Fluência de Dados', 'Direito Constitucional', 'Legislação Tributária', 'Legislação Aduaneira', 'Direito Administrativo', 'Raciocínio Lógico Matemático', 'Contabilidade Geral', 'Estatística', 'Administração Geral e Pública', 'Língua Inglesa'],
+  'atrfb': ['Direito Tributário', 'Legislação Tributária e Aduaneira', 'Legislação Tributária', 'Legislação Aduaneira', 'Direito Constitucional', 'Direito Administrativo', 'Contabilidade Geral', 'Língua Portuguesa', 'Língua Inglesa', 'Raciocínio Lógico-Matemático e Estatística', 'Raciocínio Lógico Matemático', 'Estatística', 'Administração Geral e Pública'],
+  'afrfb': ['Direito Tributário', 'Legislação Tributária e Aduaneira', 'Direito Constitucional', 'Direito Administrativo', 'Contabilidade Geral e Avançada', 'Auditoria', 'Língua Portuguesa', 'Língua Inglesa', 'Raciocínio Lógico-Matemático e Estatística', 'Administração Pública e Economia', 'Tecnologia da Informação'],
+  'transpetro_adm': ['Noções de Administração', 'Legislação e Licitações para Estatais (Lei 13.303/16)', 'Língua Portuguesa', 'Matemática', 'Técnicas de Arquivo e Documentação', 'Ética e Conduta no Setor Público'],
+  'transpetro_log': ['Gestão de Estoques e Almoxarifado', 'Transporte, Movimentação e Modais Logísticos', 'Língua Portuguesa', 'Matemática', 'Gestão de Compras e Fornecedores', 'Legislação de Contratações em Estatais (Lei 13.303/16)'],
+  'bb_comercial': ['Conhecimentos Bancários', 'Atendimento e Técnicas de Vendas', 'Língua Portuguesa', 'Matemática Financeira', 'Conhecimentos de Informática', 'Probabilidade e Estatística'],
+  'bb_ti': ['Tecnologia da Informação', 'Bancos de Dados & SQL', 'Língua Portuguesa', 'Matemática', 'Probabilidade e Estatística', 'Conhecimentos Bancários'],
   'adm_tribunais': ['Direito Administrativo', 'Direito Constitucional', 'Língua Portuguesa', 'Administração Geral e Pública', 'Raciocínio Lógico Matemático']
 };
 

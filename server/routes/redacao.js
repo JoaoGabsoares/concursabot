@@ -188,7 +188,7 @@ Retorne OBRIGATORIAMENTE um JSON válido com esta estrutura exata:
         // Bonificação de XP por redação
         const xpEarned = 50;
         try {
-            db.prepare('INSERT INTO user_xp_log (user_id, xp_amount, reason) VALUES (?, ?, ?)')
+            db.prepare('INSERT INTO user_xp_log (user_id, amount, reason) VALUES (?, ?, ?)')
               .run(userId, xpEarned, `Redação corrigida: ${tema.substring(0, 40)}... (Nota ${notaTotal})`);
         } catch (e) {}
 

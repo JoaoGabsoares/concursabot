@@ -214,7 +214,7 @@ router.post('/responder', (req, res) => {
             }
             try {
                 db.prepare('UPDATE user_profiles SET xp = xp + ? WHERE id = ?').run(xpGained, profileId);
-                db.prepare('INSERT INTO user_xp_log (id, profile_id, xp_amount, reason, created_at) VALUES (?, ?, ?, ?, CURRENT_TIMESTAMP)').run('xp_' + Date.now() + '_' + Math.random().toString(36).substring(7), profileId, xpGained, `Acerto no Caça-Pegadinha de Lei Seca (${item.artigo})`);
+                db.prepare('INSERT INTO user_xp_log (user_id, amount, reason) VALUES (?, ?, ?)').run(profileId, xpGained, `Acerto no Caça-Pegadinha de Lei Seca (${item.artigo})`);
             } catch (e) {
                 // Ignore silent XP error
             }

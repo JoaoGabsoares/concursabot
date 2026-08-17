@@ -67,17 +67,8 @@ router.get('/', (req, res) => {
         WHERE u.account_id = ?
         ORDER BY u.is_default DESC, u.last_active_at DESC
       `).all(session.account_id);
-    } else if (req.query.all === 'true') {
-      profiles = db.prepare(`
-        SELECT 
-          u.*,
-          (SELECT COUNT(*) FROM study_sessions WHERE user_id = u.id) as total_sessions,
-          (SELECT COUNT(*) FROM activity_log WHERE user_id = u.id) as total_activities
-        FROM user_profiles u
-        ORDER BY u.is_default DESC, u.last_active_at DESC
-      `).all();
     } else {
-      // Unauthenticated visitor sees zero profiles (complete privacy)
+      // Unauthenticated visitor sees zero profiles (complete multi-tenant privacy)
       profiles = [];
     }
 

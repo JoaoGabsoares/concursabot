@@ -135,7 +135,7 @@ router.post('/:id/retry', (req, res) => {
             xpEarned = 15; // Re-mastering bonus
             try {
                 db.prepare(`
-                    INSERT INTO user_xp_log (user_id, xp_amount, reason) 
+                    INSERT INTO user_xp_log (user_id, amount, reason) 
                     VALUES (?, ?, ?)
                 `).run(userId, xpEarned, `Superação de Erro: Questão #${errorItem.question_id}`);
             } catch (e) {}

@@ -92,11 +92,15 @@ export function getSubjectsForCareer(careerId: string): SubjectStats[] {
 
   if (careerId.includes('atrfb') || careerId.includes('afrfb')) {
     return [
-      { name: 'Direito Tributário', totalQuestions: 60, correctPercentage: 76, status: 'homologado', statusLabel: 'DOMINADO', weight: '25%' },
-      { name: 'Legislação Tributária e Aduaneira', totalQuestions: 35, correctPercentage: 62, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '20%' },
-      { name: 'Direito Constitucional', totalQuestions: 40, correctPercentage: 84, status: 'homologado', statusLabel: 'DOMINADO', weight: '15%' },
-      { name: 'Direito Administrativo', totalQuestions: 38, correctPercentage: 71, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '15%' },
-      { name: 'Contabilidade Geral', totalQuestions: 30, correctPercentage: 52, status: 'vulneravel', statusLabel: 'VULNERÁVEL', weight: '15%' }
+      { name: 'Direito Tributário', totalQuestions: 60, correctPercentage: 76, status: 'homologado', statusLabel: 'DOMINADO', weight: '20%' },
+      { name: 'Legislação Tributária e Aduaneira', totalQuestions: 35, correctPercentage: 62, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '10%' },
+      { name: 'Direito Constitucional', totalQuestions: 40, correctPercentage: 84, status: 'homologado', statusLabel: 'DOMINADO', weight: '10%' },
+      { name: 'Direito Administrativo', totalQuestions: 38, correctPercentage: 71, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '10%' },
+      { name: 'Contabilidade Geral', totalQuestions: 30, correctPercentage: 52, status: 'vulneravel', statusLabel: 'VULNERÁVEL', weight: '10%' },
+      { name: 'Língua Portuguesa', totalQuestions: 45, correctPercentage: 80, status: 'homologado', statusLabel: 'DOMINADO', weight: '15%' },
+      { name: 'Língua Inglesa', totalQuestions: 20, correctPercentage: 75, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '5%' },
+      { name: 'Raciocínio Lógico-Matemático e Estatística', totalQuestions: 35, correctPercentage: 58, status: 'vulneravel', statusLabel: 'VULNERÁVEL', weight: '10%' },
+      { name: 'Administração Geral e Pública', totalQuestions: 30, correctPercentage: 68, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '10%' }
     ];
   }
 

@@ -151,8 +151,10 @@ async function generateJSON(prompt, systemInstruction = '', schema, model = DEFA
 
 async function* streamChat(history, message, systemInstruction, model = DEFAULT_MODEL) {
     try {
-        const chat = createChat(history, systemInstruction, model);
-        const responseStream = await chat.sendMessageStream({ message: message });
+        const safeMessage = sanitizePromptInput(message);
+        const guardedSystemInstruction = (systemInstruction || '') + '\n' + MANDATORY_SECURITY_GUARD;
+        const chat = createChat(history, guardedSystemInstruction, model);
+        const responseStream = await chat.sendMessageStream({ message: `<user_study_input>\n${safeMessage}\n</user_study_input>` });
         
         for await (const chunk of responseStream) {
             if (chunk && chunk.text) {

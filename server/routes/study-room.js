@@ -859,15 +859,14 @@ router.post('/sessions/:id/ask', async (req, res) => {
       parts: [{ text: m.text }]
     }));
 
-    await streamChat(
+    for await (const chunk of streamChat(
       historyForGemini,
       `${contextPrompt}\n\nPERGUNTA DO ALUNO: ${message}`,
-      (chunk) => {
-        fullResponse += chunk;
-        res.write(`data: ${JSON.stringify({ chunk })}\n\n`);
-      },
       STUDY_ROOM_SYSTEM_PROMPT
-    );
+    )) {
+      fullResponse += chunk;
+      res.write(`data: ${JSON.stringify({ chunk })}\n\n`);
+    }
 
     // Save assistant response
     db.prepare('INSERT INTO session_chat (session_id, role, text) VALUES (?, ?, ?)')

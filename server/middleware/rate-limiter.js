@@ -25,7 +25,7 @@ class RateLimiter {
 
   middleware() {
     return (req, res, next) => {
-      const ip = req.headers['x-forwarded-for'] || req.socket.remoteAddress || '127.0.0.1';
+      const ip = req.ip || req.socket.remoteAddress || '127.0.0.1';
       const now = Date.now();
 
       if (!this.clients.has(ip)) {

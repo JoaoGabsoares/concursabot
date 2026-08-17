@@ -113,8 +113,38 @@ npm start
 2. **Chat de Comunidade de Alta Confiabilidade & Multi-Usuário**: Configurado filtro no middleware de compressão para ignorar rotas SSE (`text/event-stream`), auto-provisionamento sob demanda de canais por carreira, sanitização anti-injection e renderização Optimistic UI no frontend.
 3. **Isolamento Total de Carreiras (Transpetro vs. SUS)**: Catálogo dedicado e lições completas para Transpetro ADM e Transpetro Logística (Lei 13.303/16, Noções de Administração, Gestão de Estoques, Modais) sem fallbacks genéricos de outras carreiras.
 4. **Modais Centralizados na Sala de Estudos**: Popups de Upload de PDF e Cadência renderizados via `createPortal(..., document.body)` com `fixed inset-0 z-[9999] flex items-center justify-center`, eliminando o deslocamento por CSS transforms.
-5. **Leitor de Doutrina/PDF com Modo Tela Cheia**: Adicionado botão de Fullscreen (com suporte a tecla ESC) e removido qualquer truncamento artificial de texto da doutrina formatada.
+5. **Leitor Editorial da Sala de Estudos**: Limpeza de código e remoção de modo fullscreen desproporcional, preservando estabilidade de scroll e iframe em altura proporcional de 650px.
 6. **Alinhamento dos 3 Cards de Simulados**: Reestruturada a grade para distribuição flexível uniforme (`h-full flex flex-col justify-between`), botões alinhados na base (`mt-auto`) e padronização visual dos modos Ágil, Vulnerabilidades e Dia D.
 7. **Matriz de Aproveitamento com Cronograma Semanal Real**: Cálculo de semanas com datas de calendário reais baseado na rotina do concurseiro e botão **⚡ Sincronizar com Meu Cronograma** integrado às tabelas `schedules` e `schedule_tasks` do SQLite.
+
+---
+
+## 🎯 8. Release v3.6: Prontidão Oficial de Estudos (ATRFB FGV) & Auditoria Geral
+
+- **Remoção Definitiva de Tela Cheia na Sala de Estudos**: Eliminação de classes `fixed inset-0 z-[9995]` e estados `isFullscreen` que quebravam o scroll da viewport. Restauração do layout proporcional e limpo de 2 colunas.
+- **Isolamento Curricular do ATRFB (FGV) com 9 Disciplinas**:
+  1. *Língua Portuguesa* (15% peso)
+  2. *Língua Inglesa* (5% peso)
+  3. *Raciocínio Lógico-Matemático e Estatística* (10% peso)
+  4. *Administração Geral e Pública* (10% peso)
+  5. *Direito Constitucional* (10% peso)
+  6. *Direito Administrativo* (10% peso)
+  7. *Direito Tributário* (20% peso)
+  8. *Legislação Tributária e Aduaneira* (10% peso)
+  9. *Contabilidade Geral* (10% peso)
+- **Segurança Reforçada**:
+  - `server/gemini.js`: `streamChat` com sanitização anti-prompt injection e `MANDATORY_SECURITY_GUARD`.
+  - `server/routes/users.js`: Restrição de listagem de perfis exclusivamente à conta da sessão ativa (zero vazamento anônimo).
+  - `server/middleware/rate-limiter.js`: Extração de IP segura via `req.ip`.
+  - `server/routes/study-room.js`: Consumo assíncrono correto de `streamChat` via `for await`.
+  - `server/routes/redacao.js`, `server/routes/caderno-erros.js`, `server/routes/leiseca.js`: Esquema SQL corrigido para inserção em `user_xp_log(user_id, amount, reason)`.
+- **Performance do SQLite**:
+  - Adicionados `PRAGMA busy_timeout = 5000;`, `PRAGMA cache_size = -64000;`, `PRAGMA temp_store = MEMORY;`, `PRAGMA mmap_size = 268435456;` e `BEGIN IMMEDIATE;`.
+  - Novos índices compostos: `idx_activity_log_user_created` e `idx_schedule_tasks_day`.
+- **UI Tokens e Polish**:
+  - Variáveis de cor no `CommunityPage.tsx` migradas para os tokens oficiais `--bg-surface`, `--bg-elevated`, `--border-subtle`, `--accent-primary`.
+  - Barra de progresso na Sala de Estudos corrigida de `progress` para `value={...}`.
+  - Correção de redação discursiva com notificações ricas `useToast` no lugar de alertas nativos do navegador.
+
 
 

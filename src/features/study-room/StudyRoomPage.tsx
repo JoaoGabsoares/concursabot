@@ -33,9 +33,7 @@ import {
   SlidersHorizontal,
   Flame,
   ArrowRight,
-  Trash2,
-  Maximize2,
-  Minimize2
+  Trash2
 } from 'lucide-react';
 
 interface StudyRoomPageProps {
@@ -133,20 +131,6 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   // Custom Uploaded Materials
   const [uploadedMaterials, setUploadedMaterials] = useState<CustomMaterial[]>([]);
   const [selectedCustomMaterial, setSelectedCustomMaterial] = useState<CustomMaterial | null>(null);
-
-  // Fullscreen Mode State
-  const [isFullscreen, setIsFullscreen] = useState<boolean>(false);
-
-  // ESC key listener to exit fullscreen
-  useEffect(() => {
-    const handleKeyDown = (e: KeyboardEvent) => {
-      if (e.key === 'Escape' && isFullscreen) {
-        setIsFullscreen(false);
-      }
-    };
-    window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [isFullscreen]);
 
   // Timer countdown effect
   useEffect(() => {
@@ -550,11 +534,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         {/* ============================================================ */}
         <div className="lg:col-span-7 xl:col-span-8 space-y-4">
           
-          <Card className={`${
-            isFullscreen 
-              ? 'fixed inset-0 z-[9995] rounded-none overflow-y-auto p-6 sm:p-8 bg-[var(--bg-base)] max-h-screen m-0 shadow-2xl' 
-              : 'p-5 sm:p-7'
-          } space-y-5 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm transition-all`}>
+          <Card className="p-5 sm:p-7 space-y-5 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
             
             {/* View Mode Bar & Smart Universal PDF Badges */}
             <div className="flex flex-wrap items-center justify-between gap-3 pb-4 border-b border-[var(--border-subtle)]">
@@ -587,16 +567,6 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 >
                   <BookOpen className="w-3.5 h-3.5" />
                   <span>📝 Caderno de Doutrina</span>
-                </button>
-
-                <button
-                  type="button"
-                  onClick={() => setIsFullscreen(!isFullscreen)}
-                  className="px-3 py-1.5 rounded-lg text-xs font-mono font-bold transition-all flex items-center gap-1.5 bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] text-[var(--text-primary)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] shadow-sm"
-                  title={isFullscreen ? "Sair da Tela Cheia (ESC)" : "Abrir Leitor em Tela Cheia (ESC para sair)"}
-                >
-                  {isFullscreen ? <Minimize2 className="w-3.5 h-3.5 text-[var(--accent-primary)]" /> : <Maximize2 className="w-3.5 h-3.5 text-[var(--accent-primary)]" />}
-                  <span>{isFullscreen ? "Restaurar" : "Tela Cheia"}</span>
                 </button>
               </div>
 
@@ -682,7 +652,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 <div className="rounded-xl overflow-hidden border border-[var(--border-subtle)] bg-[var(--bg-elevated)] shadow-inner">
                   <iframe
                     src={`${selectedCustomMaterial.pdfUrl}#page=${currentPage}&toolbar=1&navpanes=1`}
-                    className={`w-full ${isFullscreen ? 'h-[calc(100vh-250px)]' : 'h-[650px]'} border-0`}
+                    className="w-full h-[650px] border-0"
                     title="Leitor de PDF Integrado"
                   />
                 </div>
@@ -780,7 +750,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
               </div>
 
               {/* Progress Bar */}
-              <ProgressBar progress={isCompleted ? 100 : progressPercent} />
+              <ProgressBar value={isCompleted ? 100 : progressPercent} />
 
               {/* Page Navigator Controls */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 items-center">

@@ -26,7 +26,7 @@ export const App: React.FC = () => {
   });
 
   const [careerId, setCareerId] = useState<string>(() => {
-    return localStorage.getItem('SELECTED_CAREER') || 'bb_comercial';
+    return localStorage.getItem('SELECTED_CAREER') || 'atrfb';
   });
 
   const [activeTab, setActiveTab] = useState<ActiveTab>('dashboard');

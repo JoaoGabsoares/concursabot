@@ -36,10 +36,10 @@ db.pragma = function(str) {
     return db.prepare(`PRAGMA ${str};`).all();
 };
 
-// Backward compatibility helper for transactions
+// Backward compatibility helper for transactions (IMMEDIATE avoids deadlocks in WAL mode)
 db.transaction = function(fn) {
     return function(...args) {
-        db.exec('BEGIN TRANSACTION;');
+        db.exec('BEGIN IMMEDIATE;');
         try {
             const result = fn(...args);
             db.exec('COMMIT;');
@@ -51,10 +51,14 @@ db.transaction = function(fn) {
     };
 };
 
-// Enable WAL mode for better concurrency and performance
+// Enable WAL mode and high performance PRAGMAs for concurrency
 db.pragma('journal_mode = WAL');
 db.pragma('synchronous = NORMAL');
 db.pragma('foreign_keys = ON');
+db.pragma('busy_timeout = 5000');
+db.pragma('cache_size = -64000');
+db.pragma('temp_store = MEMORY');
+db.pragma('mmap_size = 268435456');
 
 // Initialize database schema
 function initDB() {
@@ -354,6 +358,8 @@ function initDB() {
         CREATE INDEX IF NOT EXISTS idx_study_sessions_material ON study_sessions(material_id);
         CREATE INDEX IF NOT EXISTS idx_study_sessions_material_started ON study_sessions(material_id, started_at DESC);
         CREATE INDEX IF NOT EXISTS idx_schedule_tasks_sched ON schedule_tasks(schedule_id);
+        CREATE INDEX IF NOT EXISTS idx_schedule_tasks_day ON schedule_tasks(schedule_id, day_of_week);
+        CREATE INDEX IF NOT EXISTS idx_activity_log_user_created ON activity_log(user_id, created_at DESC);
         CREATE INDEX IF NOT EXISTS idx_missed_sessions_pending ON missed_sessions(status, created_at DESC);
         CREATE INDEX IF NOT EXISTS idx_study_materials_filepath ON study_materials(filepath);
     `);
