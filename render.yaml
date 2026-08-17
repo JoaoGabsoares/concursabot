@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: concursabot
+    name: gabarito-ai
     runtime: node
     plan: free
     region: oregon
