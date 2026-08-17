@@ -42,9 +42,9 @@ export class AuthService {
    * @param {string} email 
    * @returns {object} { account, token, profiles }
    */
-  register(username, password, email = null) {
-    if (!username || !password) {
-      throw new Error('Nome de usuário e senha são obrigatórios.');
+  register(username, password, email) {
+    if (!username || !password || !email) {
+      throw new Error('Nome de usuário, e-mail e senha são obrigatórios.');
     }
 
     if (password.length < 8) {
@@ -52,14 +52,21 @@ export class AuthService {
     }
 
     const cleanUsername = username.trim().toLowerCase();
-    const cleanEmail = email && typeof email === 'string' && email.trim().length > 0 ? email.trim().toLowerCase() : null;
+    const cleanEmail = typeof email === 'string' ? email.trim().toLowerCase() : '';
 
-    const existing = db.prepare(`
-      SELECT id FROM accounts WHERE LOWER(username) = ? OR (email IS NOT NULL AND LOWER(email) = ?)
-    `).get(cleanUsername, cleanEmail);
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!cleanEmail || !emailRegex.test(cleanEmail)) {
+      throw new Error('Por favor, informe um endereço de e-mail válido.');
+    }
 
-    if (existing) {
-      throw new Error('Nome de usuário ou e-mail já cadastrado.');
+    const usernameExists = db.prepare('SELECT id FROM accounts WHERE LOWER(username) = ?').get(cleanUsername);
+    if (usernameExists) {
+      throw new Error('Este nome de usuário já está em uso. Por favor, escolha outro.');
+    }
+
+    const emailExists = db.prepare('SELECT id FROM accounts WHERE LOWER(email) = ?').get(cleanEmail);
+    if (emailExists) {
+      throw new Error('Este e-mail já está cadastrado em outra conta. Faça login ou utilize outro e-mail.');
     }
 
     const salt = this.generateSalt();

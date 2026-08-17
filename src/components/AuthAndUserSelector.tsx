@@ -107,8 +107,14 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
   const handleRegister = async (e: React.FormEvent) => {
     e.preventDefault();
     setAuthError(null);
-    if (!usernameInput.trim() || !passwordInput) {
-      setAuthError('Preencha os campos obrigatórios.');
+    if (!usernameInput.trim() || !emailInput.trim() || !passwordInput) {
+      setAuthError('Preencha todos os campos obrigatórios (usuário, e-mail e senha).');
+      return;
+    }
+
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailRegex.test(emailInput.trim())) {
+      setAuthError('Por favor, digite um e-mail válido (ex: seu_nome@email.com).');
       return;
     }
 
@@ -391,12 +397,13 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
 
                 <div className="space-y-1">
                   <label className="text-xs font-mono font-bold text-[var(--text-muted)] uppercase tracking-wider block">
-                    Email (Opcional):
+                    E-mail do Aluno (Obrigatório):
                   </label>
                   <div className="relative">
                     <Mail className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3" />
                     <input
                       type="email"
+                      required
                       placeholder="seu_email@exemplo.com"
                       value={emailInput}
                       onChange={(e) => setEmailInput(e.target.value)}

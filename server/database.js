@@ -451,6 +451,7 @@ function initDB() {
                 last_login_at DATETIME
             );
             CREATE INDEX IF NOT EXISTS idx_accounts_username ON accounts(username);
+            CREATE UNIQUE INDEX IF NOT EXISTS idx_accounts_email_unique ON accounts(email) WHERE email IS NOT NULL;
 
             CREATE TABLE IF NOT EXISTS auth_sessions (
                 token TEXT PRIMARY KEY,
@@ -791,6 +792,9 @@ function initDB() {
         } catch (e) {}
         try {
             db.exec("ALTER TABLE accounts ADD COLUMN locked_until DATETIME DEFAULT NULL;");
+        } catch (e) {}
+        try {
+            db.exec("CREATE UNIQUE INDEX IF NOT EXISTS idx_accounts_email_unique ON accounts(email) WHERE email IS NOT NULL;");
         } catch (e) {}
     } catch (e) {
         console.warn('Migration note:', e.message);

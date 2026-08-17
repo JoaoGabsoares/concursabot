@@ -86,6 +86,34 @@ export async function runAuthAndIsolationTests(baseUrl = 'http://localhost:3000'
   assert.strictEqual(statsB.questions.totalAnswered, 0);
   assert.notStrictEqual(profA.id, profB.id);
   console.log('  ✅ 3. Isolamento Total Entre Contas e Perfis: PASSOU');
+
+  // 6. Teste de Rejeição de E-mail Duplicado
+  const dupeEmailRes = await fetch(`${baseUrl}/api/auth/register`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      username: `new_user_${Date.now()}`,
+      password: 'SenhaSegura123!',
+      email: `${userA_name}@teste.com` // Mesmo e-mail da Conta A
+    })
+  });
+  const dupeEmailJson = await dupeEmailRes.json();
+  assert.strictEqual(dupeEmailRes.status, 400, 'Cadastro com e-mail duplicado deve retornar 400');
+  assert.ok(dupeEmailJson.error && dupeEmailJson.error.includes('cadastrado'), 'Deve retornar mensagem clara de e-mail já cadastrado');
+  console.log('  ✅ 4. Rejeição de E-mail Duplicado (1 e-mail = 1 conta): PASSOU');
+
+  // 7. Teste de Validação de Formato de E-mail Inválido
+  const invalidEmailRes = await fetch(`${baseUrl}/api/auth/register`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      username: `invalid_user_${Date.now()}`,
+      password: 'SenhaSegura123!',
+      email: 'email_sem_arroba_ponto_com'
+    })
+  });
+  assert.strictEqual(invalidEmailRes.status, 400, 'Cadastro com e-mail inválido deve retornar 400');
+  console.log('  ✅ 5. Validação de Formato de E-mail com Regex RFC: PASSOU');
 }
 
 if (process.argv[1]?.endsWith('auth_and_isolation.test.js')) {

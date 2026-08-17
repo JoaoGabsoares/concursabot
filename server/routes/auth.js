@@ -61,7 +61,12 @@ router.post('/register', (req, res) => {
       ...result
     });
   } catch (err) {
-    const isClientError = err.message.includes('obrigatórios') || err.message.includes('caracteres') || err.message.includes('cadastrado');
+    const isClientError = err.message.includes('obrigatórios') || 
+                          err.message.includes('caracteres') || 
+                          err.message.includes('cadastrado') ||
+                          err.message.includes('uso') ||
+                          err.message.includes('válido') ||
+                          err.message.includes('informe');
     res.status(isClientError ? 400 : 500).json({ error: err.message });
   }
 });

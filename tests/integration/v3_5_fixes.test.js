@@ -31,6 +31,7 @@ export async function runV35FixesTests() {
     body: JSON.stringify({
       username: `test_short_${Date.now()}`,
       name: 'Tester Short',
+      email: `test_short_${Date.now()}@teste.com`,
       password: '1234' // < 8 caracteres
     })
   });
