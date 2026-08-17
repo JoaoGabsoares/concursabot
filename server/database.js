@@ -99,6 +99,8 @@ function initDB() {
 
         CREATE TABLE IF NOT EXISTS question_answers (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT DEFAULT 'user_joao',
+            career_id TEXT DEFAULT 'atrfb',
             question_id INTEGER NOT NULL,
             selected_answer INTEGER NOT NULL,
             is_correct BOOLEAN NOT NULL,
@@ -109,6 +111,8 @@ function initDB() {
         -- Simulados (mock exams)
         CREATE TABLE IF NOT EXISTS simulados (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT DEFAULT 'user_joao',
+            career_id TEXT DEFAULT 'atrfb',
             banca TEXT,
             subjects TEXT NOT NULL, -- JSON array
             question_count INTEGER NOT NULL,
@@ -152,6 +156,8 @@ function initDB() {
         -- Flashcard decks and cards
         CREATE TABLE IF NOT EXISTS flashcard_decks (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT DEFAULT 'user_joao',
+            career_id TEXT DEFAULT 'atrfb',
             topic TEXT NOT NULL,
             subject TEXT,
             created_at DATETIME DEFAULT CURRENT_TIMESTAMP
@@ -160,6 +166,7 @@ function initDB() {
         CREATE TABLE IF NOT EXISTS flashcards (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             deck_id INTEGER NOT NULL,
+            user_id TEXT DEFAULT 'user_joao',
             front TEXT NOT NULL,
             back TEXT NOT NULL,
             ease_factor REAL DEFAULT 2.5,
@@ -173,6 +180,8 @@ function initDB() {
         -- Study schedules
         CREATE TABLE IF NOT EXISTS schedules (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT DEFAULT 'user_joao',
+            career_id TEXT DEFAULT 'atrfb',
             title TEXT,
             config TEXT NOT NULL, -- JSON (subjects, hoursPerDay, etc.)
             schedule_data TEXT NOT NULL, -- JSON (the generated schedule)
@@ -183,6 +192,7 @@ function initDB() {
         CREATE TABLE IF NOT EXISTS schedule_tasks (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             schedule_id INTEGER NOT NULL,
+            user_id TEXT DEFAULT 'user_joao',
             day_of_week INTEGER,
             week_number INTEGER,
             subject TEXT NOT NULL,
@@ -196,6 +206,8 @@ function initDB() {
         -- Daily activity log for dashboard
         CREATE TABLE IF NOT EXISTS activity_log (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT DEFAULT 'user_joao',
+            career_id TEXT DEFAULT 'atrfb',
             type TEXT NOT NULL, -- 'question', 'flashcard', 'simulado', 'summary', 'study', 'material'
             detail TEXT,
             created_at DATETIME DEFAULT CURRENT_TIMESTAMP
@@ -204,14 +216,29 @@ function initDB() {
         -- Study Room: uploaded PDF materials
         CREATE TABLE IF NOT EXISTS study_materials (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT DEFAULT 'user_joao',
+            career_id TEXT DEFAULT 'atrfb',
             filename TEXT NOT NULL,
             filepath TEXT NOT NULL,
             subject TEXT,
-            lesson_number INTEGER,
+            lesson_number INTEGER DEFAULT NULL,
             title TEXT,
             summary TEXT,
             content_text TEXT,       -- Full extracted text for contextual chat
             analysis_json TEXT,      -- JSON analysis from Gemini
+            caderno_enxuto TEXT DEFAULT NULL,
+            is_native_lesson BOOLEAN DEFAULT 0,
+            current_page INTEGER DEFAULT 1,
+            total_pages INTEGER DEFAULT NULL,
+            theory_pages INTEGER DEFAULT NULL,
+            exercise_pages INTEGER DEFAULT NULL,
+            has_exercises BOOLEAN DEFAULT 1,
+            table_of_contents_json TEXT DEFAULT NULL,
+            reading_metrics_json TEXT DEFAULT NULL,
+            notes TEXT DEFAULT NULL,
+            studied_at DATE DEFAULT NULL,
+            theory_completed BOOLEAN DEFAULT 0,
+            questions_completed BOOLEAN DEFAULT 0,
             created_at DATETIME DEFAULT CURRENT_TIMESTAMP
         );
 
@@ -219,6 +246,8 @@ function initDB() {
         CREATE TABLE IF NOT EXISTS study_sessions (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             material_id INTEGER NOT NULL,
+            user_id TEXT DEFAULT 'user_joao',
+            career_id TEXT DEFAULT 'atrfb',
             duration_minutes INTEGER NOT NULL,
             actual_duration_seconds INTEGER,
             status TEXT DEFAULT 'active' CHECK(status IN ('active', 'completed', 'paused')),
@@ -267,6 +296,7 @@ function initDB() {
             target_slot TEXT DEFAULT 'Hoje à noite',
             status TEXT DEFAULT 'pending' CHECK(status IN ('pending', 'completed')),
             user_id TEXT DEFAULT 'user_joao',
+            career_id TEXT DEFAULT 'atrfb',
             created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
             resolved_at DATETIME
         );
@@ -275,6 +305,8 @@ function initDB() {
         CREATE TABLE IF NOT EXISTS study_reviews (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             material_id INTEGER NOT NULL,
+            user_id TEXT DEFAULT 'user_joao',
+            career_id TEXT DEFAULT 'atrfb',
             subject TEXT NOT NULL,
             lesson_number INTEGER,
             review_type TEXT NOT NULL CHECK(review_type IN ('d1', 'd7', 'd30')),
@@ -290,6 +322,7 @@ function initDB() {
         -- RAG Knowledge Base: Documents and vector chunks
         CREATE TABLE IF NOT EXISTS rag_documents (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id TEXT DEFAULT 'user_joao',
             filename TEXT NOT NULL,
             filepath TEXT NOT NULL UNIQUE,
             subject TEXT DEFAULT 'Geral',
