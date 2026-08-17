@@ -47,8 +47,8 @@ export class AuthService {
       throw new Error('Nome de usuário e senha são obrigatórios.');
     }
 
-    if (password.length < 6) {
-      throw new Error('A senha deve ter no mínimo 6 caracteres.');
+    if (password.length < 8) {
+      throw new Error('A senha deve ter no mínimo 8 caracteres.');
     }
 
     const cleanUsername = username.trim().toLowerCase();

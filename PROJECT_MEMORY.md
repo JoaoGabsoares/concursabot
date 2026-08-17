@@ -99,10 +99,22 @@ npm start
 
 ## ⚡ 6. Inovações de Mercado Implementadas (v3.5 Ultra)
 
-- **Comunidade & Salas de Estudo em Tempo Real (SSE + SQLite)**: Canais temáticos por certame com broadcast contínuo, reações emoji instantâneas e invocação de Tutor IA com `@GabaritoAI` ou `@Tutor`.
+- **Comunidade & Salas de Estudo em Tempo Real (SSE + SQLite)**: Canais temáticos por certame com broadcast contínuo (com bypass de gzip SSE), reações emoji instantâneas e invocação de Tutor IA com `@GabaritoAI` ou `@Tutor`.
 - **Exportador do Caderno de Erros (Anki CSV & Folha de Revisão Imprimível)**: Exportação em 1 clique para baralhos do Anki e folha em formato Diário Oficial com caixas para ciclos de revisão espaçada (`[ ] D+1`, `[ ] D+7`, `[ ] D+30`).
 - **Simulado Adaptativo de Vulnerabilidades**: Modo direcionado que monta baterias de treino com base nas fraquezas reais do aluno e no histórico do Caderno de Erros.
 - **Caça-Pegadinhas da Lei Seca**: Gamificação com timer de 15s, identificação de armadilhas da banca e recompensa de +10 a +15 XP.
-- **Matriz de Transição e Aproveitamento**: Análise algorítmica de sobreposição entre as 7 carreiras com trilha passo a passo de complementação.
+- **Matriz de Transição e Aproveitamento**: Análise algorítmica de sobreposição entre editais com geração de datas reais de calendário semanal e sincronização nativa no SQLite (`schedules` e `schedule_tasks`).
+
+---
+
+## 🛠️ 7. Registro do Pacote de 7 Correções & Melhorias (v3.5 Ultra)
+
+1. **Validação de Senha de 8 Caracteres**: Padronizado no frontend e backend (`AuthService.js`, `AuthAndUserSelector.tsx`) com rejeição de senhas com menos de 8 dígitos e placeholders/feedbacks visuais consistentes.
+2. **Chat de Comunidade de Alta Confiabilidade & Multi-Usuário**: Configurado filtro no middleware de compressão para ignorar rotas SSE (`text/event-stream`), auto-provisionamento sob demanda de canais por carreira, sanitização anti-injection e renderização Optimistic UI no frontend.
+3. **Isolamento Total de Carreiras (Transpetro vs. SUS)**: Catálogo dedicado e lições completas para Transpetro ADM e Transpetro Logística (Lei 13.303/16, Noções de Administração, Gestão de Estoques, Modais) sem fallbacks genéricos de outras carreiras.
+4. **Modais Centralizados na Sala de Estudos**: Popups de Upload de PDF e Cadência renderizados via `createPortal(..., document.body)` com `fixed inset-0 z-[9999] flex items-center justify-center`, eliminando o deslocamento por CSS transforms.
+5. **Leitor de Doutrina/PDF com Modo Tela Cheia**: Adicionado botão de Fullscreen (com suporte a tecla ESC) e removido qualquer truncamento artificial de texto da doutrina formatada.
+6. **Alinhamento dos 3 Cards de Simulados**: Reestruturada a grade para distribuição flexível uniforme (`h-full flex flex-col justify-between`), botões alinhados na base (`mt-auto`) e padronização visual dos modos Ágil, Vulnerabilidades e Dia D.
+7. **Matriz de Aproveitamento com Cronograma Semanal Real**: Cálculo de semanas com datas de calendário reais baseado na rotina do concurseiro e botão **⚡ Sincronizar com Meu Cronograma** integrado às tabelas `schedules` e `schedule_tasks` do SQLite.
 
 

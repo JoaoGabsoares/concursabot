@@ -577,6 +577,179 @@ export const STUDY_LESSONS_DB: Record<string, LessonContent> = {
       answer: "C",
       explanation: "O verbo 'visar' com sentido de almejar é transitivo indireto regido pela preposição 'a' (visa ao cargo). 'Aspirar' com sentido de desejar exige 'a', 'assistir' de ver exige 'a', 'desobedecer' exige 'a', e 'preferir' rege 'a' (prefere X a Y, nunca 'do que')."
     }
+  },
+
+  // --- TRANSPETRO & ESTATAIS ---
+  "Noções de Administração": {
+    subject: "Noções de Administração",
+    topic: "Funções Administrativas (PODC) & Estrutura Organizacional",
+    lessonNumber: 1,
+    totalLessons: 10,
+    jurisprudenceNote: "CESGRANRIO: Cobrança clássica da diferença entre Planejamento Estratégico, Tático e Operacional, e Departamentalização.",
+    section1Title: "1. O Processo Administrativo Clássico",
+    section1Body: "O processo administrativo é composto pelas funções de Planejamento (definição de objetivos e meios), Organização (alocação de recursos e divisão do trabalho), Direção (liderança, coordenação e motivação de pessoas) e Controle (monitoramento, medição e correção de desvios). O planejamento estratégico foca no longo prazo e na organização como um todo; o tático foca no médio prazo e em departamentos; o operacional foca no curto prazo e em tarefas específicas.",
+    section2Title: "2. Esquema PODC e Níveis de Planejamento",
+    mnemonics: [
+      { code: "P.O.D.C.", meaning: "Planejar, Organizar, Dirigir e Controlar." },
+      { code: "ESTRATÉGICO = LONGO PRAZO", meaning: "Visão global da alta cúpula e ambiente externo." },
+      { code: "TÁTICO = MÉDIO PRAZO", meaning: "Nível gerencial e departamental." },
+      { code: "OPERACIONAL = CURTO PRAZO", meaning: "Execução diária de atividades e rotinas." }
+    ],
+    question: {
+      id: 201,
+      question: "No contexto da gestão em empresas estatais, o nível de planejamento que define os planos de ação detalhados de curto prazo para execução imediata pelas equipes de chão de fábrica e escritórios operacionais é o:",
+      options: {
+        A: "Estratégico.",
+        B: "Departamental.",
+        C: "Operacional.",
+        D: "Corporativo.",
+        E: "Normativo."
+      },
+      answer: "C",
+      explanation: "O planejamento operacional é voltado para o curto prazo, com foco na execução detalhada das tarefas e processos imediatos da organização."
+    }
+  },
+
+  "Legislação e Licitações para Estatais (Lei 13.303/16)": {
+    subject: "Legislação e Licitações para Estatais (Lei 13.303/16)",
+    topic: "Regime Jurídico, Governança & Licitações nas Empresas Estatais",
+    lessonNumber: 1,
+    totalLessons: 8,
+    jurisprudenceNote: "CESGRANRIO: A Lei 13.303/2016 (Estatuto Jurídico das Estatais) possui regras próprias de dispensa por valor e governança corporativa distintas da Lei 14.133/2021.",
+    section1Title: "1. Princípios e Campo de Aplicação da Lei 13.303/2016",
+    section1Body: "A Lei 13.303/2016 disciplina o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias. Ela estabelece regras rígidas de governança corporativa, transparência, comitê de auditoria estatutário e um regime licitatório simplificado e ágil, com possibilidade de adoção de procedimento de manifestação de interesse e critérios dinâmicos de julgamento (como maior retorno econômico).",
+    section2Title: "2. Mnemônico de Governança das Estatais",
+    mnemonics: [
+      { code: "GOVERNANÇA ESTATAIS", meaning: "Transparência, prestação de contas, equidade e responsabilidade corporativa." },
+      { code: "DISPENSA POR VALOR (13.303)", meaning: "Limites específicos para obras/serviços de engenharia e compras nas estatais." }
+    ],
+    question: {
+      id: 202,
+      question: "À luz da Lei Federal nº 13.303/2016 (Estatuto das Estatais), a celebração de contratos por sociedades de economia mista prestadoras de serviço público rege-se prioritariamente por:",
+      options: {
+        A: "Regulamento interno de licitações e contratos próprio da estatal, observados os ditames da Lei 13.303/2016.",
+        B: "Normas da Lei 8.666/1993 com exclusividade.",
+        C: "Contratos verbais sem necessidade de formalização escrita.",
+        D: "Decretos municipais onde se situa a sede da estatal.",
+        E: "Código de Defesa do Consumidor exclusivamente."
+      },
+      answer: "A",
+      explanation: "Nos termos do art. 40 da Lei 13.303/2016, as empresas estatais devem editar regulamento interno de licitações e contratos próprio, observando as diretrizes da referida lei."
+    }
+  },
+
+  "Gestão de Estoques e Almoxarifado": {
+    subject: "Gestão de Estoques e Almoxarifado",
+    topic: "Classificação ABC, Ponto de Pedido & Dimensionamento de Estoque",
+    lessonNumber: 1,
+    totalLessons: 8,
+    jurisprudenceNote: "CESGRANRIO: Foco rigoroso no Princípio de Pareto (Curva ABC de Materiais: Classe A = 20% dos itens representam 80% do valor financeiro).",
+    section1Title: "1. Curva ABC e Controle de Almoxarifado",
+    section1Body: "A Curva ABC classifica os materiais em três grupos: Classe A (alta relevância financeira, cerca de 80% do valor e 20% dos itens, exigindo controle rígido); Classe B (média relevância, ~15% do valor e ~30% dos itens); e Classe C (baixa relevância financeira, ~5% do valor e ~50% dos itens, permitindo controles mais simplificados). O Ponto de Pedido (PP) é o nível de estoque que, ao ser atingido, dispara a emissão de uma nova ordem de compra (PP = Consumo Médio x Tempo de Reposição + Estoque de Segurança).",
+    section2Title: "2. Mnemônico Curva ABC",
+    mnemonics: [
+      { code: "A = 80% VALOR / 20% ITENS", meaning: "Alta importância financeira • Controle rigoroso e inventário frequente." },
+      { code: "B = 15% VALOR / 30% ITENS", meaning: "Importância intermediária • Controle moderado." },
+      { code: "C = 5% VALOR / 50% ITENS", meaning: "Baixo valor financeiro • Controle simplificado em lote." }
+    ],
+    question: {
+      id: 203,
+      question: "Em uma análise de estoque de uma empresa de logística e transporte de combustíveis utilizando a Curva ABC, os itens classificados como 'Classe A' correspondem a:",
+      options: {
+        A: "Itens de maior quantidade física e menor valor monetário agregado.",
+        B: "Itens que representam a maior parcela do valor financeiro do estoque, embora constituam menor quantidade de itens.",
+        C: "Materiais que não requerem controle nem inventário periódico.",
+        D: "Produtos perecíveis descartados mensalmente.",
+        E: "Equipamentos obsoletos sem valor de mercado."
+      },
+      answer: "B",
+      explanation: "Na Curva ABC (Princípio de Pareto), os itens da Classe A são os mais importantes financeiramente (cerca de 80% do valor), embora representem apenas cerca de 20% do volume físico de itens."
+    }
+  },
+
+  "Transporte, Movimentação e Modais Logísticos": {
+    subject: "Transporte, Movimentação e Modais Logísticos",
+    topic: "Modais de Transporte (Dutoviário, Aquaviário, Ferroviário e Rodoviário)",
+    lessonNumber: 1,
+    totalLessons: 8,
+    jurisprudenceNote: "CESGRANRIO: Foco nas características econômicas, capacidade de carga e eficiência energética dos modais dutoviário e aquaviário (cabotagem).",
+    section1Title: "1. Características dos Modais de Transporte na Logística",
+    section1Body: "O modal dutoviário destaca-se pela alta confiabilidade, segurança e baixo custo operacional unitário para grandes volumes de fluidos e gases (petróleo, derivados e gás natural), embora exija altíssimo investimento inicial de infraestrutura (CAPEX). O modal aquaviário (cabotagem e longo curso) possui altíssima capacidade de carga e baixo consumo energético por tonelada-quilômetro.",
+    section2Title: "2. Mnemônico de Modais Logísticos",
+    mnemonics: [
+      { code: "DUTOVIÁRIO = FLUIDOS & CONTÍNUO", meaning: "Transporte contínuo de petróleo/gás com baixo custo por m³." },
+      { code: "AQUAVIÁRIO = ALTO VOLUME", meaning: "Maior capacidade de carga e excelente eficiência energética." }
+    ],
+    question: {
+      id: 204,
+      question: "O modal de transporte caracterizado pela movimentação contínua de grandes volumes de petróleo, derivados e gás natural em percursos fixos, com alto investimento inicial e baixo custo operacional variável, é o modal:",
+      options: {
+        A: "Rodoviário.",
+        B: "Aeroviário.",
+        C: "Dutoviário.",
+        D: "Ferroviário urbano.",
+        E: "Tracionado animal."
+      },
+      answer: "C",
+      explanation: "O modal dutoviário (oleodutos, gasodutos e polidutos) é a solução primordial para transporte seguro e de baixo custo operacional de hidrocarbonetos fluidos."
+    }
+  },
+
+  "Técnicas de Arquivo e Documentação": {
+    subject: "Técnicas de Arquivo e Documentação",
+    topic: "Teoria das Três Idades & Gestão de Documentos",
+    lessonNumber: 1,
+    totalLessons: 6,
+    jurisprudenceNote: "CESGRANRIO: Cobrança recorrente da Teoria das Três Idades (Corrente, Intermediário e Permanente) e métodos de arquivamento (Alfabético, Geográfico e Numérico).",
+    section1Title: "1. O Ciclo Vital dos Documentos (Teoria das 3 Idades)",
+    section1Body: "Os documentos passam por 3 fases: 1ª Idade ou Arquivo Corrente (documentos em tramitação ou frequentemente consultados); 2ª Idade ou Arquivo Intermediário (documentos que aguardam prazos de guarda precaucionais, com consulta eventual); e 3ª Idade ou Arquivo Permanente (documentos de valor histórico, probatório ou informativo, que NUNCA podem ser eliminados).",
+    section2Title: "2. Mnemônico das 3 Idades do Arquivo",
+    mnemonics: [
+      { code: "1ª IDADE = CORRENTE (USO)", meaning: "Consulta constante para fins administrativos imediatos." },
+      { code: "2ª IDADE = INTERMEDIÁRIO (GUARDA)", meaning: "Aguardando destinação final (eliminação ou recolhimento)." },
+      { code: "3ª IDADE = PERMANENTE (HISTÓRIA)", meaning: "Inalienável, imprescritível e de guarda perpétua (NÃO elimina)." }
+    ],
+    question: {
+      id: 205,
+      question: "De acordo com a Arquivologia e a Lei de Arquivos (Lei nº 8.159/91), os documentos que perderam o valor administrativo primário, mas possuem valor secundário probatório e histórico, são classificados como de:",
+      options: {
+        A: "Arquivo Corrente.",
+        B: "Arquivo Permanente.",
+        C: "Arquivo Provisório.",
+        D: "Arquivo Descartável.",
+        E: "Arquivo Intermediário de eliminação sumária."
+      },
+      answer: "B",
+      explanation: "Os documentos de 3ª Idade (Arquivo Permanente) são dotados de valor secundário (histórico, cultural ou probatório) e são de preservação definitiva."
+    }
+  },
+
+  "Ética e Conduta no Setor Público": {
+    subject: "Ética e Conduta no Setor Público",
+    topic: "Código de Conduta Ética & Prevenção de Conflito de Interesses",
+    lessonNumber: 1,
+    totalLessons: 6,
+    jurisprudenceNote: "CESGRANRIO: Decreto 1.171/94 e Código de Conduta das Estatais (vedação ao uso de informação privilegiada e recebimento de vantagens indevidas).",
+    section1Title: "1. Deveres e Vedações Éticas do Agente Público",
+    section1Body: "A dignidade, o decoro, o zelo, a eficácia e a consciência dos princípios morais são primados maiores que devem nortear o servidor e o empregado público. É expressamente vedado fazer uso de informações privilegiadas obtidas no âmbito do trabalho para benefício próprio ou de terceiros, bem como aceitar presentes ou favores que possam comprometer a imparcialidade do exercício funcional.",
+    section2Title: "2. Mnemônico de Ética Pública",
+    mnemonics: [
+      { code: "DECORO & ZELO", meaning: "A moralidade da conduta pública independe da vida privada mas reflete nela." },
+      { code: "INFORMAÇÃO PRIVILEGIADA = CRIME", meaning: "Vedação absoluta ao uso comercial de dados confidenciais corporativos." }
+    ],
+    question: {
+      id: 206,
+      question: "Constitui dever ético fundamental do empregado e servidor público no exercício de suas atribuições funcionais:",
+      options: {
+        A: "Retardar o andamento de processos para beneficiar conhecidos.",
+        B: "Tratar os cidadãos com presteza, cortesia, urbanidade e respeito irrestrito aos princípios legais.",
+        C: "Utilizar bens da empresa estatal para lazer pessoal aos finais de semana.",
+        D: "Divulgar senhas corporativas em fóruns públicos de discussão.",
+        E: "Recusar-se a prestar informações de transparência pública legalmente exigíveis."
+      },
+      answer: "B",
+      explanation: "O tratamento com urbanidade, respeito, presteza e estrita observância à lei constitui dever basilar e indeclinável de todo agente público."
+    }
   }
 };
 
@@ -623,6 +796,45 @@ export const CAREER_PARETO_DB: Record<string, { topTopics: ParetoTopic[]; cuts: 
       { subject: "Contabilidade Geral", topic: "Estrutura do Balanço Patrimonial, DRE & CPC 00", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" }
     ]
   },
+  "afrfb": {
+    cuts: [
+      { year: 2023, score: "86.0 pontos (FGV - Auditor-Fiscal)" },
+      { year: 2014, score: "81.0 pontos (Esaf - Nacional)" }
+    ],
+    topTopics: [
+      { subject: "Direito Tributário", topic: "Planejamento Tributário, Elisão vs Evasão & CTN", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "20%" },
+      { subject: "Auditoria Fiscal e Digital", topic: "SPED, EFD-Reinf & Procedimentos de Fiscalização", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "20%" },
+      { subject: "Legislação Tributária e Aduaneira", topic: "Valoração Aduaneira e Regimes Especiais", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "15%" },
+      { subject: "Contabilidade Avançada", topic: "Consolidação de Demonstrações & Pronunciamentos CPC", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "15%" },
+      { subject: "Fluência em Dados", topic: "Python, SQL e Mineração de Dados Fiscais", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "10%" }
+    ]
+  },
+  "transpetro_adm": {
+    cuts: [
+      { year: 2023, score: "81.0 pontos (Cesgranrio - Quadro Administrativo)" },
+      { year: 2018, score: "77.5 pontos (Cesgranrio - Nacional)" }
+    ],
+    topTopics: [
+      { subject: "Noções de Administração", topic: "Funções Administrativas (PODC) & Estrutura Organizacional", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "28.5%" },
+      { subject: "Legislação e Licitações para Estatais (Lei 13.303/16)", topic: "Regime Jurídico, Governança & Licitações nas Estatais", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "21.5%" },
+      { subject: "Língua Portuguesa", topic: "Interpretação Textual, Coesão & Sintaxe Cesgranrio", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "14.3%" },
+      { subject: "Técnicas de Arquivo e Documentação", topic: "Teoria das 3 Idades e Métodos de Arquivamento", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "11.4%" },
+      { subject: "Ética e Conduta no Setor Público", topic: "Prevenção a Conflito de Interesses e Conduta Petrobras", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "10.0%" }
+    ]
+  },
+  "transpetro_log": {
+    cuts: [
+      { year: 2023, score: "79.0 pontos (Cesgranrio - Logística e Suprimentos)" },
+      { year: 2018, score: "75.0 pontos (Cesgranrio - Geral)" }
+    ],
+    topTopics: [
+      { subject: "Gestão de Estoques e Almoxarifado", topic: "Classificação ABC, Ponto de Pedido & Dimensionamento", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "28.5%" },
+      { subject: "Transporte, Movimentação e Modais Logísticos", topic: "Modal Dutoviário, Cabotagem & Eficiência Energética", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "21.5%" },
+      { subject: "Língua Portuguesa", topic: "Compreensão de Texto, Conectivos e Concordância", status: "homologado", label: "ALTA INCIDÊNCIA", weight: "14.3%" },
+      { subject: "Gestão de Compras e Fornecedores", topic: "Qualificação de Fornecedores e Matriz Kraljic", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "11.4%" },
+      { subject: "Legislação de Contratações em Estatais (Lei 13.303/16)", topic: "Procedimento de Manifestação de Interesse e Contratos", status: "em_revisao", label: "MÉDIA INCIDÊNCIA", weight: "10.0%" }
+    ]
+  },
   "marinha_rm2": {
     cuts: [
       { year: 2025, score: "84.0 pontos (DEnsM - 1º Distrito Naval RJ)" },
@@ -655,6 +867,9 @@ export const CAREER_ESSAY_THEMES: Record<string, string> = {
   "bb_comercial": "O papel dos bancos públicos, da inteligência artificial e da inclusão bancária no desenvolvimento sustentável brasileiro.",
   "bb_ti": "A segurança da informação e a proteção de dados (LGPD) frente ao avanço do Open Finance e da computação em nuvem.",
   "atrfb": "A reforma tributária sobre o consumo, a simplificação do sistema fiscal e seus impactos no pacto federativo nacional.",
+  "afrfb": "O combate aos crimes fiscais transnacionais, a elisão abusiva e o papel da inteligência artificial na fiscalização da Receita Federal.",
+  "transpetro_adm": "A governança corporativa, o compliance e a sustentabilidade ambiental na gestão de empresas estatais de grande porte.",
+  "transpetro_log": "A eficiência logística, a transição energética e a segurança no transporte multimodal de combustíveis no Brasil.",
   "marinha_rm2": "A importância estratégica e econômica da 'Amazônia Azul' para a soberania e segurança marítima do Brasil.",
   "ses_rj": "Os desafios da regionalização, do financiamento tripartite e da equidade no acesso à saúde pública no SUS."
 };

@@ -177,35 +177,44 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
       {/* Tela Pré-Prova (Seleção de Modo) */}
       {!examRunning && !finished && (
         <div className="space-y-6">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-5 items-stretch">
             {/* Modo 1: Treino Rápido */}
             <Card 
-              className={`p-6 space-y-4 cursor-pointer transition-all border-2 ${
-                modoProva === 'treino_rapido' ? 'border-[var(--accent-primary)] bg-[var(--bg-surface)] shadow-md' : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] opacity-75'
+              className={`p-6 flex flex-col justify-between cursor-pointer transition-all border-2 rounded-2xl ${
+                modoProva === 'treino_rapido' 
+                  ? 'border-[var(--accent-primary)] bg-[var(--bg-surface)] shadow-lg ring-1 ring-[var(--accent-primary)]/30' 
+                  : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:border-[var(--accent-primary)]/50 opacity-90'
               }`}
               onClick={() => setModoModo('treino_rapido')}
             >
-              <div className="flex items-center justify-between">
-                <Badge variant="brand">MODO ÁGIL</Badge>
-                <Clock className="w-5 h-5 text-[var(--accent-primary)]" />
+              <div className="space-y-4">
+                <div className="flex items-center justify-between">
+                  <Badge variant="brand">MODO ÁGIL</Badge>
+                  <div className="p-2 rounded-xl bg-[var(--accent-primary)]/10 text-[var(--accent-primary)]">
+                    <Clock className="w-5 h-5" />
+                  </div>
+                </div>
+                <div>
+                  <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+                    Simulado Rápido de Treino
+                  </h3>
+                  <p className="text-xs text-[var(--text-secondary)] mt-1.5 leading-relaxed">
+                    Resolva as {totalQuestions} questões representativas no seu ritmo com cronômetro progressivo e gabarito comentado imediato.
+                  </p>
+                </div>
               </div>
-              <div>
-                <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                  Simulado Rápido de Treino
-                </h3>
-                <p className="text-xs text-[var(--text-secondary)] mt-1 leading-relaxed">
-                  Resolva as {totalQuestions} questões representativas no seu ritmo com cronômetro progressivo e gabarito imediato.
-                </p>
-              </div>
-              <div className="pt-2">
+              
+              <div className="pt-6 mt-auto">
                 <Button 
                   variant={modoProva === 'treino_rapido' ? 'brand' : 'outline'}
                   fullWidth
-                  onClick={() => {
+                  onClick={(e) => {
+                    e.stopPropagation();
                     setModoModo('treino_rapido');
                     setExamRunning(true);
                     setSecondsElapsed(0);
                   }}
+                  className="font-mono text-xs font-bold"
                 >
                   Iniciar Treino Rápido
                 </Button>
@@ -214,29 +223,37 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
             {/* Modo 2: Treino de Vulnerabilidades */}
             <Card 
-              className={`p-6 space-y-4 cursor-pointer transition-all border-2 ${
-                modoProva === 'vulnerabilidades' ? 'border-rose-500 bg-[var(--bg-surface)] shadow-md' : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] opacity-75'
+              className={`p-6 flex flex-col justify-between cursor-pointer transition-all border-2 rounded-2xl ${
+                modoProva === 'vulnerabilidades' 
+                  ? 'border-rose-500 bg-[var(--bg-surface)] shadow-lg ring-1 ring-rose-500/30' 
+                  : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:border-rose-500/50 opacity-90'
               }`}
               onClick={() => setModoModo('vulnerabilidades')}
             >
-              <div className="flex items-center justify-between">
-                <Badge variant="danger">FOCO EM PONTOS FRACOS</Badge>
-                <AlertTriangle className="w-5 h-5 text-rose-500" />
+              <div className="space-y-4">
+                <div className="flex items-center justify-between">
+                  <Badge variant="danger">FOCO EM PONTOS FRACOS</Badge>
+                  <div className="p-2 rounded-xl bg-rose-500/10 text-rose-500">
+                    <AlertTriangle className="w-5 h-5" />
+                  </div>
+                </div>
+                <div>
+                  <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+                    Radar de Vulnerabilidades
+                  </h3>
+                  <p className="text-xs text-[var(--text-secondary)] mt-1.5 leading-relaxed">
+                    Treino direcionado com base no seu <strong>Caderno de Erros</strong> e disciplinas de maior incidência estatística da banca.
+                  </p>
+                </div>
               </div>
-              <div>
-                <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                  Radar de Vulnerabilidades
-                </h3>
-                <p className="text-xs text-[var(--text-secondary)] mt-1 leading-relaxed">
-                  Treino direcionado com base no seu <strong>Caderno de Erros</strong> e disciplinas de maior incidência da banca.
-                </p>
-              </div>
-              <div className="pt-2">
+
+              <div className="pt-6 mt-auto">
                 <Button 
                   variant={modoProva === 'vulnerabilidades' ? 'brand' : 'outline'}
                   fullWidth
-                  className={modoProva === 'vulnerabilidades' ? 'bg-rose-600 hover:bg-rose-700 text-white' : ''}
-                  onClick={() => {
+                  className={modoProva === 'vulnerabilidades' ? 'bg-rose-600 hover:bg-rose-700 text-white font-mono text-xs font-bold' : 'font-mono text-xs font-bold'}
+                  onClick={(e) => {
+                    e.stopPropagation();
                     setModoModo('vulnerabilidades');
                     setExamRunning(true);
                     setSecondsElapsed(0);
@@ -249,29 +266,37 @@ export const SimuladosPage: React.FC<SimuladosPageProps> = ({ careerId }) => {
 
             {/* Modo 3: Dia D de Prova */}
             <Card 
-              className={`p-6 space-y-4 cursor-pointer transition-all border-2 ${
-                modoProva === 'dia_d' ? 'border-amber-500 bg-[var(--bg-surface)] shadow-lg' : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] opacity-75'
+              className={`p-6 flex flex-col justify-between cursor-pointer transition-all border-2 rounded-2xl ${
+                modoProva === 'dia_d' 
+                  ? 'border-amber-500 bg-[var(--bg-surface)] shadow-lg ring-1 ring-amber-500/30' 
+                  : 'border-[var(--border-subtle)] bg-[var(--bg-surface)] hover:border-amber-500/50 opacity-90'
               }`}
               onClick={() => setModoModo('dia_d')}
             >
-              <div className="flex items-center justify-between">
-                <Badge variant="warning">IMERSÃO TOTAL • 4 HORAS</Badge>
-                <Award className="w-5 h-5 text-amber-500" />
+              <div className="space-y-4">
+                <div className="flex items-center justify-between">
+                  <Badge variant="warning">IMERSÃO TOTAL • 4 HORAS</Badge>
+                  <div className="p-2 rounded-xl bg-amber-500/10 text-amber-500">
+                    <Award className="w-5 h-5" />
+                  </div>
+                </div>
+                <div>
+                  <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
+                    Simulação Oficial "Dia D"
+                  </h3>
+                  <p className="text-xs text-[var(--text-secondary)] mt-1.5 leading-relaxed">
+                    4h contínuas com <strong>Cartão-Resposta Digital</strong> e <strong>Redação Oficial</strong> no mesmo bloco temporal de prova.
+                  </p>
+                </div>
               </div>
-              <div>
-                <h3 className="font-display font-bold text-base sm:text-lg text-[var(--text-primary)]">
-                  Simulação Oficial "Dia D"
-                </h3>
-                <p className="text-xs text-[var(--text-secondary)] mt-1 leading-relaxed">
-                  4h contínuas com <strong>Cartão-Resposta Digital</strong> e <strong>Redação Oficial</strong> no mesmo bloco.
-                </p>
-              </div>
-              <div className="pt-2">
+
+              <div className="pt-6 mt-auto">
                 <Button 
-                  variant="brand"
+                  variant={modoProva === 'dia_d' ? 'brand' : 'outline'}
                   fullWidth
-                  className="bg-amber-600 hover:bg-amber-700 text-white"
-                  onClick={() => {
+                  className={modoProva === 'dia_d' ? 'bg-amber-600 hover:bg-amber-700 text-white font-mono text-xs font-bold' : 'font-mono text-xs font-bold'}
+                  onClick={(e) => {
+                    e.stopPropagation();
                     setModoModo('dia_d');
                     setExamRunning(true);
                     setSecondsRemainingDiaD(4 * 3600);

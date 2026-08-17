@@ -39,11 +39,13 @@ export class ApiClient {
    */
   public async request<T>(endpoint: string, options: RequestInit = {}): Promise<T> {
     const token = this.getAuthToken();
+    const currentUserId = typeof localStorage !== 'undefined' ? localStorage.getItem('CURRENT_USER_ID') : null;
     const isFormData = typeof FormData !== 'undefined' && options.body instanceof FormData;
     
     const headers: Record<string, string> = {
       ...(isFormData ? {} : { 'Content-Type': 'application/json' }),
       ...(token ? { 'Authorization': `Bearer ${token}`, 'x-account-token': token } : {}),
+      ...(currentUserId ? { 'x-user-id': currentUserId } : {}),
       ...(options.headers as Record<string, string> || {})
     };
 
@@ -297,10 +299,29 @@ export class ApiClient {
     return this.request<any>('/aproveitamento/catalogo');
   }
 
-  public compararEditais(origem: string, destino: string): Promise<any> {
+  public compararEditais(origem: string, destino: string, options?: { dailyHours?: number; daysPerWeek?: number; startDate?: string }): Promise<any> {
     return this.request<any>('/aproveitamento/comparar', {
       method: 'POST',
-      body: JSON.stringify({ origemCareerId: origem, destinoCareerId: destino })
+      body: JSON.stringify({ 
+        origemCareerId: origem, 
+        destinoCareerId: destino,
+        dailyHours: options?.dailyHours || 2,
+        daysPerWeek: options?.daysPerWeek || 6,
+        startDate: options?.startDate
+      })
+    });
+  }
+
+  public sincronizarCronogramaAproveitamento(payload: {
+    origemCareerId: string;
+    destinoCareerId: string;
+    cronogramaSemanal: any[];
+    dailyHours?: number;
+    daysPerWeek?: number;
+  }): Promise<{ success: boolean; scheduleId: number; totalTasks: number; totalSemanas: number; message: string }> {
+    return this.request<{ success: boolean; scheduleId: number; totalTasks: number; totalSemanas: number; message: string }>('/aproveitamento/sincronizar-cronograma', {
+      method: 'POST',
+      body: JSON.stringify(payload)
     });
   }
 
@@ -364,17 +385,25 @@ export class ApiClient {
     return this.request<{ success: boolean; messages: any[] }>(`/community/messages/${channelId}?limit=${limit}`);
   }
 
-  public sendCommunityMessage(payload: { channelId: string; messageText: string; userName?: string; userAvatar?: string; careerBadge?: string; careerId?: string }): Promise<{ success: boolean; message: any }> {
+  public sendCommunityMessage(payload: { 
+    channelId: string; 
+    messageText: string; 
+    userName?: string; 
+    userAvatar?: string; 
+    careerBadge?: string; 
+    careerId?: string;
+    userId?: string;
+  }): Promise<{ success: boolean; message: any }> {
     return this.request<{ success: boolean; message: any }>('/community/messages', {
       method: 'POST',
       body: JSON.stringify(payload)
     });
   }
 
-  public reactCommunityMessage(messageId: number, emoji: string, channelId?: string): Promise<{ success: boolean; action: string; reactions: any[] }> {
+  public reactCommunityMessage(messageId: number, emoji: string, channelId?: string, userId?: string): Promise<{ success: boolean; action: string; reactions: any[] }> {
     return this.request<{ success: boolean; action: string; reactions: any[] }>(`/community/messages/${messageId}/react`, {
       method: 'POST',
-      body: JSON.stringify({ emoji, channelId })
+      body: JSON.stringify({ emoji, channelId, userId })
     });
   }
 }

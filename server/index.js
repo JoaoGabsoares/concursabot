@@ -64,8 +64,15 @@ app.disable('x-powered-by');
 // Security Hardening: Confia no primeiro proxy reverso (Cloudflare / Render) para Rate Limiting real
 app.set('trust proxy', 1);
 
-// Enable HTTP Compression (Gzip / Brotli)
-app.use(compression());
+// Enable HTTP Compression (Gzip / Brotli) with exclusion for Server-Sent Events (SSE)
+app.use(compression({
+    filter: (req, res) => {
+        if (req.headers.accept === 'text/event-stream' || (req.path && req.path.includes('/community/stream'))) {
+            return false;
+        }
+        return compression.filter(req, res);
+    }
+}));
 
 // Security Headers Middleware (OWASP Top 10 Hardened)
 app.use((req, res, next) => {

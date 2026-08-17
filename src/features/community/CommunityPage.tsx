@@ -76,47 +76,53 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   };
 
-  // 1. Carrega os canais da carreira
+  // 1. Carrega os canais da carreira com auto-provisionamento
   useEffect(() => {
+    let isMounted = true;
     async function loadChannels() {
       setLoadingChannels(true);
       try {
         const res = await api.getCommunityChannels(careerId);
-        if (res.channels && res.channels.length > 0) {
+        if (isMounted && res.channels && res.channels.length > 0) {
           setChannels(res.channels);
-          setSelectedChannel(res.channels[0]);
+          setSelectedChannel((prev) => {
+            const stillExists = res.channels.find((c: any) => c.id === prev?.id);
+            return stillExists || res.channels[0];
+          });
         }
       } catch (err) {
         console.error('Erro ao carregar canais:', err);
       } finally {
-        setLoadingChannels(false);
+        if (isMounted) setLoadingChannels(false);
       }
     }
     loadChannels();
+    return () => { isMounted = false; };
   }, [careerId]);
 
-  // 2. Carrega histórico de mensagens ao trocar de canal
+  // 2. Carrega histórico de mensagens e conecta ao stream SSE em tempo real
   useEffect(() => {
     if (!selectedChannel) return;
+    let isMounted = true;
 
     async function loadMessages() {
       setLoadingMessages(true);
       try {
         const res = await api.getCommunityMessages(selectedChannel.id, 60);
-        if (res.messages) {
+        if (isMounted && res.messages) {
           setMessages(res.messages);
           setTimeout(scrollToBottom, 100);
         }
       } catch (err) {
         console.error('Erro ao carregar mensagens:', err);
       } finally {
-        setLoadingMessages(false);
+        if (isMounted) setLoadingMessages(false);
       }
     }
 
     loadMessages();
 
-    // 3. Conecta ao stream SSE em tempo real
+    // Conecta ao stream SSE
     if (eventSourceRef.current) {
       eventSourceRef.current.close();
     }
@@ -126,13 +132,22 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
 
     sse.onopen = () => {
       setIsConnected(true);
+      // Re-sincroniza histórico caso tenha ocorrido oscilação de rede
+      api.getCommunityMessages(selectedChannel.id, 60).then((res) => {
+        if (isMounted && res.messages) {
+          setMessages((prev) => {
+            const existingIds = new Set(prev.map(m => m.id));
+            const newOnes = res.messages.filter((m: any) => !existingIds.has(m.id));
+            return newOnes.length > 0 ? [...prev, ...newOnes] : prev;
+          });
+        }
+      }).catch(() => {});
     };
 
     sse.addEventListener('message', (event) => {
       try {
         const newMsg: CommunityMessage = JSON.parse(event.data);
         setMessages((prev) => {
-          // Evita duplicar se já estiver na lista
           if (prev.some((m) => m.id === newMsg.id)) return prev;
           return [...prev, newMsg];
         });
@@ -160,11 +175,12 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
     };
 
     return () => {
+      isMounted = false;
       sse.close();
     };
   }, [selectedChannel?.id]);
 
-  // 4. Envio de Mensagem
+  // 3. Envio de Mensagem com Optimistic UI e Deduplicação Instantânea
   const handleSendMessage = async (e?: React.FormEvent) => {
     if (e) e.preventDefault();
     if (!inputText.trim() || !selectedChannel || sending) return;
@@ -174,31 +190,41 @@ export const CommunityPage: React.FC<CommunityPageProps> = ({ careerId, user }) 
     setSending(true);
 
     try {
-      await api.sendCommunityMessage({
+      const res = await api.sendCommunityMessage({
         channelId: selectedChannel.id,
         messageText: textToSend,
         userName: user?.name || 'Estudante',
-        userAvatar: '👨‍🎓',
+        userAvatar: user?.avatar_emoji || '👨‍🎓',
         careerBadge: currentCareer.name.split('—')[0]?.trim() || 'Concurseiro',
-        careerId
+        careerId,
+        userId: user?.id
       });
+
+      // Optimistic Immediate Update: Renderiza a mensagem no mesmo instante
+      if (res && res.message) {
+        setMessages((prev) => {
+          if (prev.some((m) => m.id === res.message.id)) return prev;
+          return [...prev, res.message];
+        });
+        setTimeout(scrollToBottom, 50);
+      }
     } catch (err: any) {
       toastError('Erro ao enviar mensagem', err.message);
-      setInputText(textToSend); // restaura texto
+      setInputText(textToSend); // Restaura texto caso falhe
     } finally {
       setSending(false);
     }
   };
 
-  // 5. Injetar menção @GabaritoAI
+  // 4. Injetar menção @GabaritoAI
   const handleMentionBot = () => {
     setInputText((prev) => (prev ? `${prev} @GabaritoAI ` : '@GabaritoAI '));
   };
 
-  // 6. Alternar Reação Emoji
+  // 5. Alternar Reação Emoji com ID do Usuário Real
   const handleToggleReaction = async (messageId: number, emoji: string) => {
     try {
-      await api.reactCommunityMessage(messageId, emoji, selectedChannel?.id);
+      await api.reactCommunityMessage(messageId, emoji, selectedChannel?.id, user?.id);
     } catch (err) {
       console.error('Erro ao reagir:', err);
     }

@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import { createPortal } from 'react-dom';
 import { Card, Button, CarimboStatus, ProgressBar } from '../../components/UIPrimitives';
 import { useToast } from '../../components/Toast';
 import { getCareerById } from '../../utils/careers';
@@ -32,7 +33,9 @@ import {
   SlidersHorizontal,
   Flame,
   ArrowRight,
-  Trash2
+  Trash2,
+  Maximize2,
+  Minimize2
 } from 'lucide-react';
 
 interface StudyRoomPageProps {
@@ -130,6 +133,20 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
   // Custom Uploaded Materials
   const [uploadedMaterials, setUploadedMaterials] = useState<CustomMaterial[]>([]);
   const [selectedCustomMaterial, setSelectedCustomMaterial] = useState<CustomMaterial | null>(null);
+
+  // Fullscreen Mode State
+  const [isFullscreen, setIsFullscreen] = useState<boolean>(false);
+
+  // ESC key listener to exit fullscreen
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape' && isFullscreen) {
+        setIsFullscreen(false);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isFullscreen]);
 
   // Timer countdown effect
   useEffect(() => {
@@ -533,7 +550,11 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
         {/* ============================================================ */}
         <div className="lg:col-span-7 xl:col-span-8 space-y-4">
           
-          <Card className="p-5 sm:p-7 space-y-5 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm">
+          <Card className={`${
+            isFullscreen 
+              ? 'fixed inset-0 z-[9995] rounded-none overflow-y-auto p-6 sm:p-8 bg-[var(--bg-base)] max-h-screen m-0 shadow-2xl' 
+              : 'p-5 sm:p-7'
+          } space-y-5 bg-[var(--bg-surface)] border-[var(--border-subtle)] shadow-sm transition-all`}>
             
             {/* View Mode Bar & Smart Universal PDF Badges */}
             <div className="flex flex-wrap items-center justify-between gap-3 pb-4 border-b border-[var(--border-subtle)]">
@@ -566,6 +587,16 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 >
                   <BookOpen className="w-3.5 h-3.5" />
                   <span>📝 Caderno de Doutrina</span>
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => setIsFullscreen(!isFullscreen)}
+                  className="px-3 py-1.5 rounded-lg text-xs font-mono font-bold transition-all flex items-center gap-1.5 bg-[var(--bg-elevated)] hover:bg-[var(--bg-surface)] text-[var(--text-primary)] border border-[var(--border-subtle)] hover:border-[var(--accent-primary)] shadow-sm"
+                  title={isFullscreen ? "Sair da Tela Cheia (ESC)" : "Abrir Leitor em Tela Cheia (ESC para sair)"}
+                >
+                  {isFullscreen ? <Minimize2 className="w-3.5 h-3.5 text-[var(--accent-primary)]" /> : <Maximize2 className="w-3.5 h-3.5 text-[var(--accent-primary)]" />}
+                  <span>{isFullscreen ? "Restaurar" : "Tela Cheia"}</span>
                 </button>
               </div>
 
@@ -651,7 +682,7 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 <div className="rounded-xl overflow-hidden border border-[var(--border-subtle)] bg-[var(--bg-elevated)] shadow-inner">
                   <iframe
                     src={`${selectedCustomMaterial.pdfUrl}#page=${currentPage}&toolbar=1&navpanes=1`}
-                    className="w-full h-[650px] border-0"
+                    className={`w-full ${isFullscreen ? 'h-[calc(100vh-250px)]' : 'h-[650px]'} border-0`}
                     title="Leitor de PDF Integrado"
                   />
                 </div>
@@ -694,9 +725,9 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                     </h3>
                   </div>
 
-                  <p className="text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed font-sans">
+                  <p className="text-xs sm:text-sm text-[var(--text-secondary)] leading-relaxed font-sans whitespace-pre-line">
                     {selectedCustomMaterial?.content_text 
-                      ? selectedCustomMaterial.content_text.substring(0, 1500)
+                      ? selectedCustomMaterial.content_text
                       : lesson.section1Body}
                   </p>
                 </div>
@@ -1048,10 +1079,16 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
 
       </div>
 
-      {/* 4. Cadence Configuration Modal */}
-      {isCadenceModalOpen && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-fade-in">
-          <div className="w-full max-w-md bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-2xl p-6 space-y-5 shadow-2xl animate-fade-in">
+      {/* 4. Cadence Configuration Modal (via Portal) */}
+      {isCadenceModalOpen && typeof document !== 'undefined' && createPortal(
+        <div 
+          className="fixed inset-0 z-[9999] flex items-center justify-center p-4 bg-black/80 backdrop-blur-md animate-fade-in"
+          onClick={() => setIsCadenceModalOpen(false)}
+        >
+          <div 
+            className="relative w-full max-w-md bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-2xl p-6 space-y-5 shadow-2xl text-left"
+            onClick={(e) => e.stopPropagation()}
+          >
             <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
               <div>
                 <h3 className="font-display font-bold text-lg text-[var(--text-primary)] tracking-tight">
@@ -1062,8 +1099,9 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 </p>
               </div>
               <button
+                type="button"
                 onClick={() => setIsCadenceModalOpen(false)}
-                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)]"
+                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors"
               >
                 <X className="w-5 h-5" />
               </button>
@@ -1181,13 +1219,20 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
               </div>
             </div>
           </div>
-        </div>
+        </div>,
+        document.body
       )}
 
-      {/* 5. Upload Modal */}
-      {isUploadModalOpen && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-fade-in overflow-y-auto">
-          <div className="w-full max-w-lg bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-2xl p-6 space-y-5 shadow-2xl animate-fade-in my-auto max-h-[90vh] overflow-y-auto">
+      {/* 5. Upload Modal (via Portal) */}
+      {isUploadModalOpen && typeof document !== 'undefined' && createPortal(
+        <div 
+          className="fixed inset-0 z-[9999] flex items-center justify-center p-4 bg-black/80 backdrop-blur-md animate-fade-in"
+          onClick={() => setIsUploadModalOpen(false)}
+        >
+          <div 
+            className="relative w-full max-w-lg bg-[var(--bg-surface)] border border-[var(--border-focus)] rounded-2xl p-6 space-y-5 shadow-2xl text-left max-h-[90vh] overflow-y-auto"
+            onClick={(e) => e.stopPropagation()}
+          >
             
             <div className="flex items-center justify-between pb-3 border-b border-[var(--border-subtle)]">
               <div>
@@ -1199,8 +1244,9 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
                 </p>
               </div>
               <button
+                type="button"
                 onClick={() => setIsUploadModalOpen(false)}
-                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)]"
+                className="p-1.5 rounded-lg text-[var(--text-muted)] hover:text-[var(--text-primary)] hover:bg-[var(--bg-elevated)] transition-colors"
               >
                 <X className="w-5 h-5" />
               </button>
@@ -1282,7 +1328,8 @@ export const StudyRoomPage: React.FC<StudyRoomPageProps> = ({ careerId }) => {
             </form>
 
           </div>
-        </div>
+        </div>,
+        document.body
       )}
 
     </div>

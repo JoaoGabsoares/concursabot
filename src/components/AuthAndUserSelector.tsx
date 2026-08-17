@@ -108,6 +108,11 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
       return;
     }
 
+    if (passwordInput.length < 8) {
+      setAuthError('A senha deve ter no mínimo 8 caracteres.');
+      return;
+    }
+
     setAuthLoading(true);
     try {
       const res = await api.registerAccount(usernameInput.trim(), passwordInput, emailInput.trim());
@@ -388,7 +393,8 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                     <input
                       type="password"
                       required
-                      placeholder="Mínimo 3 caracteres"
+                      minLength={8}
+                      placeholder="Mínimo 8 caracteres"
                       value={passwordInput}
                       onChange={(e) => setPasswordInput(e.target.value)}
                       className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"

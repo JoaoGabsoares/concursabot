@@ -1,38 +1,83 @@
 import express from 'express';
 import db, { logActivity } from '../database.js';
-import { generateContent } from '../gemini.js';
+import { generateContent, sanitizePromptInput } from '../gemini.js';
 import { CAREERS_CATALOG } from '../careers.js';
+import { getSessionAccount } from './auth.js';
 
 const router = express.Router();
 
 // In-Memory SSE Subscribers Map: channelId -> Set<Response>
 const channelSubscribers = new Map();
 
+/**
+ * Garante que os 4 canais padrões existam para qualquer carreira consultada.
+ */
+function ensureChannelsForCareer(careerId = 'atrfb') {
+    const safeCareerId = String(careerId).trim().toLowerCase();
+    const existing = db.prepare(`
+        SELECT id, career_id, name, description, icon, created_at
+        FROM community_channels
+        WHERE career_id = ? OR career_id = 'all'
+        ORDER BY id ASC
+    `).all(safeCareerId);
+
+    if (existing && existing.length > 0) {
+        return existing;
+    }
+
+    // Gera os 4 canais canônicos se ainda não existirem para esta carreira
+    const channelTemplates = [
+        { suffix: 'geral', name: 'Geral & Estratégia de Edital', icon: '🏛️', desc: 'Discussões gerais, cronogramas e notícias do certame.' },
+        { suffix: 'duvidas', name: 'Dúvidas & Resoluções', icon: '💡', desc: 'Tire dúvidas conceituais e marque @GabaritoAI para respostas com IA.' },
+        { suffix: 'leiseca', name: 'Lei Seca & Pegadinhas', icon: '⚖️', desc: 'Troca de artigos de ouro e alertas de pegadinhas das bancas.' },
+        { suffix: 'redacao', name: 'Discursivas & Redação', icon: '✍️', desc: 'Estruturação de argumentos e temas oficiais de concurso.' }
+    ];
+
+    for (const tpl of channelTemplates) {
+        const channelId = `${safeCareerId}_${tpl.suffix}`;
+        db.prepare(`
+            INSERT OR IGNORE INTO community_channels (id, career_id, name, description, icon)
+            VALUES (?, ?, ?, ?, ?)
+        `).run(channelId, safeCareerId, tpl.name, tpl.desc, tpl.icon);
+    }
+
+    return db.prepare(`
+        SELECT id, career_id, name, description, icon, created_at
+        FROM community_channels
+        WHERE career_id = ? OR career_id = 'all'
+        ORDER BY id ASC
+    `).all(safeCareerId);
+}
+
+/**
+ * Transmite evento via SSE para todos os clientes conectados ao canal com flush imediato.
+ */
 function broadcastToChannel(channelId, eventType, data) {
     const clients = channelSubscribers.get(channelId);
     if (!clients || clients.size === 0) return;
 
     const payload = `event: ${eventType}\ndata: ${JSON.stringify(data)}\n\n`;
-    for (const client of clients) {
+    for (const client of Array.from(clients)) {
         try {
             client.write(payload);
+            if (typeof client.flush === 'function') {
+                client.flush();
+            }
         } catch (e) {
             clients.delete(client);
         }
     }
+
+    if (clients.size === 0) {
+        channelSubscribers.delete(channelId);
+    }
 }
 
-// GET /api/community/channels - List channels for career
+// GET /api/community/channels - List channels for career (with auto-provisioning)
 router.get('/channels', (req, res) => {
     try {
         const { careerId = 'atrfb' } = req.query;
-        const channels = db.prepare(`
-            SELECT id, career_id, name, description, icon, created_at
-            FROM community_channels
-            WHERE career_id = ? OR career_id = 'all'
-            ORDER BY id ASC
-        `).all(careerId);
-
+        const channels = ensureChannelsForCareer(careerId);
         res.json({ success: true, channels });
     } catch (err) {
         res.status(500).json({ error: 'Erro ao listar canais da comunidade: ' + err.message });
@@ -60,7 +105,7 @@ router.get('/messages/:channelId', (req, res) => {
             WHERE m.channel_id = ?
             ORDER BY m.id DESC
             LIMIT ?
-        `).all(channelId, Number(limit));
+        `).all(channelId, Math.min(Number(limit) || 60, 100));
 
         // Aggregate reactions for each message
         const messageIds = messages.map(m => m.id);
@@ -84,7 +129,6 @@ router.get('/messages/:channelId', (req, res) => {
 
         const formatted = messages.reverse().map(m => {
             const reacts = reactionsMap.get(m.id) || [];
-            // Group by emoji
             const summary = {};
             for (const r of reacts) {
                 if (!summary[r.emoji]) summary[r.emoji] = { emoji: r.emoji, count: 0, userIds: [] };
@@ -107,17 +151,23 @@ router.get('/messages/:channelId', (req, res) => {
 // POST /api/community/messages - Send a message and handle @GabaritoAI / @ConcursaBot triggers
 router.post('/messages', async (req, res) => {
     try {
-        const { channelId, messageText, userName, userAvatar, careerBadge, careerId = 'atrfb' } = req.body;
-        const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+        const rawText = req.body.messageText || req.body.content || '';
+        const { channelId, userName, userAvatar, careerBadge, careerId = 'atrfb' } = req.body;
+        const session = getSessionAccount(req);
+        const userId = session?.account_id || req.headers['x-user-id'] || req.body.userId || 'user_anonimo';
 
-        if (!channelId || !messageText || !messageText.trim()) {
+        if (!channelId || !rawText || typeof rawText !== 'string' || !rawText.trim()) {
             return res.status(400).json({ error: 'Canal e texto da mensagem são obrigatórios.' });
         }
 
-        const safeText = messageText.trim();
-        const safeName = userName || 'Estudante';
-        const safeAvatar = userAvatar || '👨‍🎓';
-        const safeBadge = careerBadge || 'Concurseiro';
+        // Proteção contra payload excessivo (máx. 2000 chars)
+        const safeText = rawText.trim().slice(0, 2000);
+        const safeName = String(userName || 'Estudante').slice(0, 50);
+        const safeAvatar = String(userAvatar || '👨‍🎓').slice(0, 10);
+        const safeBadge = String(careerBadge || 'Concurseiro').slice(0, 50);
+
+        // Garante que os canais da carreira existam no SQLite antes de inserir
+        ensureChannelsForCareer(careerId);
 
         // 1. Insert user message
         const insertStmt = db.prepare(`
@@ -150,14 +200,15 @@ router.post('/messages', async (req, res) => {
             // Process AI response in the background
             (async () => {
                 try {
-                    const careerInfo = CAREERS_CATALOG[careerId] || { name: 'Concursos Públicos', banca: 'FGV / Cesgranrio' };
+                    const careerInfo = CAREERS_CATALOG[careerId] || { name: 'Concursos Públicos', banca: 'Oficial' };
+                    const sanitizedInput = typeof sanitizePromptInput === 'function' ? sanitizePromptInput(safeText) : safeText;
                     const aiPrompt = `Você é o Tutor Oficial de Elite do Gabarito.AI na sala de estudos comunitária da carreira: "${careerInfo.name}" (Banca: ${careerInfo.banca || 'Oficial'}).
 O estudante ${safeName} perguntou no grupo:
 """
-${safeText}
+${sanitizedInput}
 """
 
-Responda em formato direto, conciso, de altíssima precisão técnica e com tom encorajador e profissional de banca examinadora. Cite artigos de lei relevantes, mnemônicos ou pegadinhas clássicas da banca examinadora se aplicável. Mantenha a resposta entre 2 e 5 parágrafos curtos.`;
+Responda em formato direto, conciso, de altíssima precisão técnica e com tom encorajador e profissional de banca examinadora. Cite artigos de lei relevantes, mnemônicos ou pegadinhas clássicas da banca examinadora se aplicável. Mantenha a resposta entre 2 e 4 parágrafos curtos.`;
 
                     const aiResponseText = await generateContent(aiPrompt, 'Você é o Tutor IA oficial da plataforma Gabarito.AI no chat da comunidade.');
 
@@ -184,12 +235,17 @@ Responda em formato direto, conciso, de altíssima precisão técnica e com tom 
                         broadcastToChannel(channelId, 'message', botMsg);
                     }
                 } catch (aiErr) {
-                    console.error('Error generating AI community response:', aiErr.message);
+                    console.error('Erro ao gerar resposta do Tutor IA na comunidade:', aiErr.message);
                 }
             })();
         }
 
-        res.json({ success: true, message: createdUserMsg });
+        res.status(200).json({ 
+            success: true, 
+            message: createdUserMsg,
+            id: createdUserMsg.id,
+            content: createdUserMsg.message_text
+        });
     } catch (err) {
         res.status(500).json({ error: 'Erro ao enviar mensagem: ' + err.message });
     }
@@ -200,7 +256,8 @@ router.post('/messages/:id/react', (req, res) => {
     try {
         const messageId = Number(req.params.id);
         const { emoji, channelId } = req.body;
-        const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+        const session = getSessionAccount(req);
+        const userId = session?.account_id || req.headers['x-user-id'] || req.body.userId || 'user_anonimo';
 
         if (!messageId || !emoji) {
             return res.status(400).json({ error: 'messageId e emoji são obrigatórios.' });
@@ -256,9 +313,10 @@ router.get('/stream/:channelId', (req, res) => {
     const { channelId } = req.params;
 
     res.setHeader('Content-Type', 'text/event-stream');
-    res.setHeader('Cache-Control', 'no-cache');
+    res.setHeader('Cache-Control', 'no-cache, no-transform');
     res.setHeader('Connection', 'keep-alive');
     res.setHeader('X-Accel-Buffering', 'no');
+    res.setHeader('Content-Encoding', 'none');
     res.flushHeaders?.();
 
     if (!channelSubscribers.has(channelId)) {
@@ -267,22 +325,33 @@ router.get('/stream/:channelId', (req, res) => {
     const subscribers = channelSubscribers.get(channelId);
     subscribers.add(res);
 
-    // Initial connection ack
+    // Initial connection ack & retry instruction
+    res.write('retry: 3000\n\n');
     res.write(`event: connected\ndata: ${JSON.stringify({ status: 'connected', channelId })}\n\n`);
+    if (typeof res.flush === 'function') res.flush();
 
-    // Heartbeat every 25s
+    // Heartbeat every 20s
     const heartbeat = setInterval(() => {
         try {
             res.write(': heartbeat\n\n');
+            if (typeof res.flush === 'function') res.flush();
         } catch {
             clearInterval(heartbeat);
+            subscribers.delete(res);
         }
-    }, 25000);
+    }, 20000);
 
-    req.on('close', () => {
+    const cleanup = () => {
         clearInterval(heartbeat);
         subscribers.delete(res);
-    });
+        if (subscribers.size === 0) {
+            channelSubscribers.delete(channelId);
+        }
+    };
+
+    req.on('close', cleanup);
+    req.on('error', cleanup);
+    res.on('error', cleanup);
 });
 
 export default router;

@@ -109,11 +109,41 @@ export function getSubjectsForCareer(careerId: string): SubjectStats[] {
     ];
   }
 
-  // Default: Saúde / SES-RJ
+  if (careerId.includes('transpetro_adm')) {
+    return [
+      { name: 'Noções de Administração', totalQuestions: 50, correctPercentage: 80, status: 'homologado', statusLabel: 'DOMINADO', weight: '28.5%' },
+      { name: 'Legislação e Licitações para Estatais (Lei 13.303/16)', totalQuestions: 40, correctPercentage: 72, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '21.5%' },
+      { name: 'Língua Portuguesa', totalQuestions: 35, correctPercentage: 75, status: 'homologado', statusLabel: 'DOMINADO', weight: '14.3%' },
+      { name: 'Matemática', totalQuestions: 30, correctPercentage: 60, status: 'vulneravel', statusLabel: 'VULNERÁVEL', weight: '14.3%' },
+      { name: 'Técnicas de Arquivo e Documentação', totalQuestions: 25, correctPercentage: 84, status: 'homologado', statusLabel: 'DOMINADO', weight: '11.4%' },
+      { name: 'Ética e Conduta no Setor Público', totalQuestions: 20, correctPercentage: 78, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '10.0%' }
+    ];
+  }
+
+  if (careerId.includes('transpetro_log')) {
+    return [
+      { name: 'Gestão de Estoques e Almoxarifado', totalQuestions: 50, correctPercentage: 82, status: 'homologado', statusLabel: 'DOMINADO', weight: '28.5%' },
+      { name: 'Transporte, Movimentação e Modais Logísticos', totalQuestions: 40, correctPercentage: 74, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '21.5%' },
+      { name: 'Língua Portuguesa', totalQuestions: 35, correctPercentage: 75, status: 'homologado', statusLabel: 'DOMINADO', weight: '14.3%' },
+      { name: 'Matemática', totalQuestions: 30, correctPercentage: 60, status: 'vulneravel', statusLabel: 'VULNERÁVEL', weight: '14.3%' },
+      { name: 'Gestão de Compras e Fornecedores', totalQuestions: 25, correctPercentage: 70, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '11.4%' },
+      { name: 'Legislação de Contratações em Estatais (Lei 13.303/16)', totalQuestions: 20, correctPercentage: 68, status: 'vulneravel', statusLabel: 'VULNERÁVEL', weight: '10.0%' }
+    ];
+  }
+
+  if (careerId.includes('ses_rj') || careerId.includes('saude')) {
+    return [
+      { name: 'Legislação do SUS (Leis 8.080 e 8.142)', totalQuestions: 50, correctPercentage: 82, status: 'homologado', statusLabel: 'DOMINADO', weight: '30%' },
+      { name: 'Políticas Públicas de Saúde', totalQuestions: 35, correctPercentage: 70, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '25%' },
+      { name: 'Língua Portuguesa', totalQuestions: 30, correctPercentage: 75, status: 'homologado', statusLabel: 'DOMINADO', weight: '20%' },
+      { name: 'Noções de Administração Pública', totalQuestions: 20, correctPercentage: 55, status: 'vulneravel', statusLabel: 'VULNERÁVEL', weight: '15%' }
+    ];
+  }
+
+  // Default seguro para carreiras genéricas
   return [
-    { name: 'Legislação do SUS (Leis 8.080 e 8.142)', totalQuestions: 50, correctPercentage: 82, status: 'homologado', statusLabel: 'DOMINADO', weight: '30%' },
-    { name: 'Políticas Públicas de Saúde', totalQuestions: 35, correctPercentage: 70, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '25%' },
-    { name: 'Língua Portuguesa', totalQuestions: 30, correctPercentage: 75, status: 'homologado', statusLabel: 'DOMINADO', weight: '20%' },
-    { name: 'Noções de Administração Pública', totalQuestions: 20, correctPercentage: 55, status: 'vulneravel', statusLabel: 'VULNERÁVEL', weight: '15%' }
+    { name: 'Língua Portuguesa', totalQuestions: 35, correctPercentage: 78, status: 'homologado', statusLabel: 'DOMINADO', weight: '30%' },
+    { name: 'Direito Administrativo', totalQuestions: 30, correctPercentage: 70, status: 'em_revisao', statusLabel: 'EM ESTUDO', weight: '35%' },
+    { name: 'Direito Constitucional', totalQuestions: 25, correctPercentage: 65, status: 'vulneravel', statusLabel: 'VULNERÁVEL', weight: '35%' }
   ];
 }
