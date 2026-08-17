@@ -110,12 +110,38 @@ export class AuthService {
       throw new Error('Usuário ou senha incorretos.');
     }
 
-    const expectedHash = this.hashPassword(password, account.salt);
-    if (account.password_hash !== expectedHash) {
-      throw new Error('Usuário ou senha incorretos.');
+    // 1. Checar se a conta está temporariamente bloqueada por força bruta
+    if (account.locked_until) {
+      const lockExpiry = new Date(account.locked_until).getTime();
+      const now = Date.now();
+      if (lockExpiry > now) {
+        const remainingMinutes = Math.max(1, Math.ceil((lockExpiry - now) / 60000));
+        throw new Error(`Conta temporariamente bloqueada devido a 5 tentativas inválidas consecutivas. Tente novamente em ${remainingMinutes} minuto(s).`);
+      }
     }
 
-    db.prepare('UPDATE accounts SET last_login_at = CURRENT_TIMESTAMP WHERE id = ?').run(account.id);
+    const expectedHash = this.hashPassword(password, account.salt);
+    if (account.password_hash !== expectedHash) {
+      const currentAttempts = (account.failed_attempts || 0) + 1;
+      if (currentAttempts >= 5) {
+        const lockUntil = new Date(Date.now() + 15 * 60 * 1000).toISOString();
+        db.prepare('UPDATE accounts SET failed_attempts = ?, locked_until = ? WHERE id = ?')
+          .run(currentAttempts, lockUntil, account.id);
+        throw new Error('Conta bloqueada por 15 minutos devido a 5 tentativas incorretas consecutivas.');
+      } else {
+        db.prepare('UPDATE accounts SET failed_attempts = ? WHERE id = ?')
+          .run(currentAttempts, account.id);
+        const remaining = 5 - currentAttempts;
+        throw new Error(`Usuário ou senha incorretos. (${remaining} tentativa(s) restante(s) antes do bloqueio de 15 minutos)`);
+      }
+    }
+
+    // 2. Login bem-sucedido: zera falhas, destrava conta e atualiza last_login_at
+    db.prepare(`
+      UPDATE accounts 
+      SET failed_attempts = 0, locked_until = NULL, last_login_at = CURRENT_TIMESTAMP 
+      WHERE id = ?
+    `).run(account.id);
 
     const token = this.generateSessionToken();
     const expiresAt = new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toISOString();

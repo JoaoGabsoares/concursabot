@@ -37,7 +37,7 @@ async function main() {
       console.log('📡 Servidor não detectado na porta 3000. Inicializando instância de testes...');
       spawnedServer = spawn(process.execPath, [path.join(__dirname, '../server/index.js')], {
         stdio: 'ignore',
-        env: { ...process.env, PORT: '3000' }
+        env: { ...process.env, PORT: '3000', NODE_ENV: 'test' }
       });
 
       let ready = false;

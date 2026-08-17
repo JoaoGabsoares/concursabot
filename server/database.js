@@ -445,6 +445,8 @@ function initDB() {
                 email TEXT,
                 password_hash TEXT NOT NULL,
                 salt TEXT NOT NULL,
+                failed_attempts INTEGER DEFAULT 0,
+                locked_until DATETIME DEFAULT NULL,
                 created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
                 last_login_at DATETIME
             );
@@ -782,6 +784,14 @@ function initDB() {
         } catch (ftsErr) {
             console.warn('FTS5 sync note:', ftsErr.message);
         }
+
+        // Migrações de segurança para Accounts (Anti-Brute Force Lockout)
+        try {
+            db.exec("ALTER TABLE accounts ADD COLUMN failed_attempts INTEGER DEFAULT 0;");
+        } catch (e) {}
+        try {
+            db.exec("ALTER TABLE accounts ADD COLUMN locked_until DATETIME DEFAULT NULL;");
+        } catch (e) {}
     } catch (e) {
         console.warn('Migration note:', e.message);
     }
