@@ -68,17 +68,17 @@ tests/
 # Instalar dependências:
 npm install
 
-# Executar todos os testes automatizados:
+# Executar todos os testes automatizados (com auto-spawn de backend):
 npm test
 
 # Compilar frontend React 19 (Vite):
 npm run build
 
+# Iniciar ambiente de desenvolvimento completo (Backend na 3000 + Frontend Vite na 5173):
+npm run dev
+
 # Iniciar servidor em produção (porta 3000):
 npm start
-
-# Iniciar ambiente de desenvolvimento com Vite HMR (porta 5173):
-npm run dev
 ```
 
 ---

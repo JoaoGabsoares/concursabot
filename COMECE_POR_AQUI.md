@@ -161,19 +161,17 @@ CONCURSO_BOT/
 # 1. Instalar dependências:
 npm install
 
-# 2. Executar toda a suíte de testes automatizados:
+# 2. Executar toda a suíte de testes automatizados (com auto-spawn de backend):
 npm test
 
 # 3. Compilar o frontend para produção (Vite 8):
 npm run build
 
-# 4. Iniciar o servidor backend (porta 3000):
-node server/index.js
-# ou:
-npm start
-
-# 5. Iniciar o servidor de desenvolvimento com Hot-Reload (porta 5173):
+# 4. Iniciar ambiente de desenvolvimento completo (Backend na 3000 + Frontend Vite na 5173):
 npm run dev
+
+# 5. Iniciar o servidor de produção (SPA + Backend na porta 3000):
+npm start
 ```
 
 ---

@@ -47,10 +47,19 @@ export class ApiClient {
       ...(options.headers as Record<string, string> || {})
     };
 
-    const response = await fetch(`${this.baseUrl}${endpoint}`, {
-      ...options,
-      headers
-    });
+    let response: Response;
+    try {
+      response = await fetch(`${this.baseUrl}${endpoint}`, {
+        ...options,
+        headers
+      });
+    } catch (netErr: any) {
+      const msg = netErr?.message || '';
+      if (msg.includes('Failed to fetch') || msg.includes('NetworkError') || msg.includes('ECONNREFUSED')) {
+        throw new Error('Não foi possível conectar ao servidor backend. Verifique se o servidor está ativo na porta 3000 (execute "npm run dev" ou "npm start").');
+      }
+      throw netErr;
+    }
 
     if (!response.ok) {
       const errData = await response.json().catch(() => ({ error: response.statusText }));
