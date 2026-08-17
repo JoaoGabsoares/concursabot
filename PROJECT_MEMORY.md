@@ -195,4 +195,14 @@ npm start
 - **Suíte de Testes de Pentest Anti-IDOR (`tests/security/pentest_and_ai.test.js`)**:
   - Teste automatizado simulando dois usuários cadastrados (Conta A e Conta B) com tentativa de invasão cruzada de perfil e caderno de erros, validando 100% de isolamento hermético.
 
+---
+
+## 💼 12. Planejamento Estratégico de Monetização & SaaS (Mapeado para Escala)
+
+- **Documento Oficial de Estratégia**: [`plano_monetizacao_estrategica_gabarito_ai.md`](file:///home/joao/.gemini/antigravity-cli/brain/29a39f76-5283-4dac-8ad2-9f74e8cd8814/plano_monetizacao_estrategica_gabarito_ai.md)
+- **Decisão de Gateway**: **Kiwify / Hotmart** como plataforma primária para venda e assinaturas recorrentes via Webhook automatizado.
+- **Unit Economics**: Custo médio de IA (Gemini Flash) de ~R$ 1,20/aluno/mês vs Preço sugerido de R$ 39,90/mês a R$ 79,90/mês (**Margem Bruta > 92%**).
+- **Diretriz de Execução Imediata**: Manter a modelagem de negócios registrada e priorizar **100% o ciclo real de estudos de Analista Tributário da Receita Federal (ATRFB)** e a estabilidade da plataforma para o dia a dia.
+
+
 
