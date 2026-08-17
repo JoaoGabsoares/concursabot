@@ -2,6 +2,7 @@ import express from 'express';
 import db, { logActivity, recordQuestionError } from '../database.js';
 import { generateJSON } from '../gemini.js';
 import { questionsSystemInstruction, getQuestionsSystemInstruction, questionsPromptTemplate, questionsSchema } from '../prompts/questions.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
@@ -50,7 +51,7 @@ router.post('/generate', async (req, res) => {
 // POST /answer - Record an answer with user_id
 router.post('/answer', (req, res) => {
     const { questionId, selectedAnswer } = req.body;
-    const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
 
     if (!questionId || selectedAnswer === undefined) {
         return res.status(400).json({ error: 'Missing parameters' });
@@ -86,7 +87,7 @@ router.post('/answer', (req, res) => {
 // GET /stats - Aggregate stats filtered by user
 router.get('/stats', (req, res) => {
     try {
-        const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const stmt = db.prepare(`
             SELECT 
                 q.subject,
@@ -94,7 +95,7 @@ router.get('/stats', (req, res) => {
                 SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) as total_correct
             FROM question_answers qa
             JOIN questions q ON qa.question_id = q.id
-            WHERE (qa.user_id = ? OR qa.user_id IS NULL)
+            WHERE qa.user_id = ?
             GROUP BY q.subject
         `);
         res.json(stmt.all(userId));
@@ -106,12 +107,12 @@ router.get('/stats', (req, res) => {
 // GET /history - Recent answered questions
 router.get('/history', (req, res) => {
     try {
-        const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const stmt = db.prepare(`
             SELECT qa.*, q.question_text, q.subject, q.topic, q.banca
             FROM question_answers qa
             JOIN questions q ON qa.question_id = q.id
-            WHERE (qa.user_id = ? OR qa.user_id IS NULL)
+            WHERE qa.user_id = ?
             ORDER BY qa.answered_at DESC LIMIT 50
         `);
         res.json(stmt.all(userId));
@@ -186,7 +187,7 @@ router.get('/search', (req, res) => {
 // GET /error-notebook — Caderno de Erros Inteligente para Re-treino
 router.get('/error-notebook', (req, res) => {
     try {
-        const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const { subject, banca } = req.query;
 
         let sql = `
@@ -197,7 +198,7 @@ router.get('/error-notebook', (req, res) => {
                 COUNT(qa.id) as error_count
             FROM question_answers qa
             JOIN questions q ON qa.question_id = q.id
-            WHERE (qa.user_id = ? OR qa.user_id IS NULL) AND qa.is_correct = 0
+            WHERE qa.user_id = ? AND qa.is_correct = 0
         `;
         const params = [userId];
 

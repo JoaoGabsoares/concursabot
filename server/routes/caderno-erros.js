@@ -1,12 +1,13 @@
 import express from 'express';
 import db, { logActivity } from '../database.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
 // GET / - List error notebook items with statistics
 router.get('/', (req, res) => {
     try {
-        const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const { status = 'all', subject, career_id, limit = 50 } = req.query;
 
         let query = `
@@ -103,7 +104,7 @@ router.post('/:id/retry', (req, res) => {
     try {
         const { id } = req.params;
         const { selectedAnswer } = req.body;
-        const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
 
         if (selectedAnswer === undefined) {
             return res.status(400).json({ error: 'selectedAnswer é obrigatório.' });
@@ -163,7 +164,7 @@ router.put('/:id/notes', (req, res) => {
     try {
         const { id } = req.params;
         const { notes } = req.body;
-        const userId = req.headers['x-user-id'] || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
 
         const result = db.prepare(`
             UPDATE caderno_erros 
@@ -185,7 +186,7 @@ router.put('/:id/notes', (req, res) => {
 router.delete('/:id', (req, res) => {
     try {
         const { id } = req.params;
-        const userId = req.headers['x-user-id'] || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
 
         const result = db.prepare('DELETE FROM caderno_erros WHERE id = ? AND user_id = ?').run(id, userId);
         if (result.changes === 0) {

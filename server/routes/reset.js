@@ -1,5 +1,6 @@
 import express from 'express';
 import db from '../database.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
@@ -38,7 +39,7 @@ router.post('/', (req, res) => {
       desc = 'completo de todo o histórico';
     }
 
-    const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
 
     // Execute atomic reset transaction per user
     const resetTransaction = db.transaction(() => {

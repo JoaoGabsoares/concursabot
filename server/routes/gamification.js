@@ -1,12 +1,13 @@
 import express from 'express';
 import { gamificationService } from '../services/GamificationService.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
 // GET /api/gamification/status - Get full gamification status for current user
 router.get('/status', (req, res) => {
   try {
-    const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
     const careerId = req.headers['x-exam-id'] || req.query.careerId || req.query.career_id || null;
     const status = gamificationService.getStatus(userId, careerId);
     res.json(status);
@@ -24,7 +25,7 @@ router.get('/catalog', (req, res) => {
 // POST /api/gamification/claim-daily - Claim daily check-in bonus XP
 router.post('/claim-daily', (req, res) => {
   try {
-    const userId = req.headers['x-user-id'] || req.body.user_id || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
     const result = gamificationService.claimDailyCheckin(userId);
     res.json(result);
   } catch (err) {

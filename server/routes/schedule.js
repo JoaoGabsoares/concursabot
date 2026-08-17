@@ -4,6 +4,7 @@ import { generateJSON } from '../gemini.js';
 import { scheduleSystemInstruction, schedulePromptTemplate, scheduleSchema } from '../prompts/schedule.js';
 import { getTodayEvents } from '../calendar.js';
 import { getCareerConfig } from '../careers.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
@@ -15,7 +16,7 @@ function formatIcsDateTime(date) {
 // GET /today — Get today's scheduled tasks & optional synced calendar
 router.get('/today', async (req, res) => {
     try {
-        const userId = req.headers['x-user-id'] || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const careerId = req.headers['x-exam-id'] || req.query.careerId || 'atrfb';
         const careerCfg = getCareerConfig(careerId);
 
@@ -29,7 +30,7 @@ router.get('/today', async (req, res) => {
         const activeSchedule = db.prepare(`
             SELECT * FROM schedules 
             WHERE (career_id = ? OR career_id IS NULL) 
-              AND (user_id = ? OR user_id = 'user_joao' OR user_id IS NULL)
+              AND user_id = ?
             ORDER BY created_at DESC 
             LIMIT 1
         `).get(careerId, userId);
@@ -94,7 +95,7 @@ router.get('/today', async (req, res) => {
 // POST /calendar/toggle — Enable or disable Google Calendar sync for active user
 router.post('/calendar/toggle', (req, res) => {
     try {
-        const userId = req.headers['x-user-id'] || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const { enabled } = req.body;
         const state = enabled ? 1 : 0;
 
@@ -113,7 +114,7 @@ router.post('/calendar/toggle', (req, res) => {
 // POST /calendar/config — Save Google Calendar iCal URL and optionally enable it
 router.post('/calendar/config', async (req, res) => {
     try {
-        const userId = req.headers['x-user-id'] || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const { url, enable = true } = req.body;
         if (!url || !url.trim()) {
             return res.status(400).json({ error: 'URL é obrigatória' });
@@ -147,7 +148,7 @@ router.post('/calendar/config', async (req, res) => {
 router.post('/generate', async (req, res) => {
     const { title, subjects, hoursPerDay, daysPerWeek, examDate, careerId = 'atrfb' } = req.body;
     const activeCareerId = req.headers['x-exam-id'] || careerId;
-    const userId = req.headers['x-user-id'] || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
     const careerCfg = getCareerConfig(activeCareerId);
 
     if (!subjects || subjects.length === 0) {
@@ -184,12 +185,12 @@ router.post('/generate', async (req, res) => {
 router.get('/', (req, res) => {
     try {
         const careerId = req.headers['x-exam-id'] || req.query.careerId || 'atrfb';
-        const userId = req.headers['x-user-id'] || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const stmt = db.prepare(`
             SELECT id, title, exam_date, career_id, created_at 
             FROM schedules 
             WHERE (career_id = ? OR career_id IS NULL) 
-              AND (user_id = ? OR user_id = 'user_joao' OR user_id IS NULL)
+              AND user_id = ?
             ORDER BY created_at DESC
         `);
         res.json(stmt.all(careerId, userId));
@@ -201,8 +202,9 @@ router.get('/', (req, res) => {
 // GET /:id - Get schedule with tasks
 router.get('/:id', (req, res) => {
     try {
-        const sched = db.prepare('SELECT * FROM schedules WHERE id = ?').get(req.params.id);
-        if (!sched) return res.status(404).json({ error: 'Not found' });
+        const userId = getAuthenticatedUserId(req);
+        const sched = db.prepare('SELECT * FROM schedules WHERE id = ? AND user_id = ?').get(req.params.id, userId);
+        if (!sched) return res.status(404).json({ error: 'Cronograma não encontrado' });
         
         sched.config = JSON.parse(sched.config || '{}');
         sched.schedule_data = JSON.parse(sched.schedule_data || '{}');

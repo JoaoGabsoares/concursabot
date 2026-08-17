@@ -19,6 +19,7 @@ import { CAREERS_CATALOG, getCareerConfig } from '../careers.js';
 import { universalPdfService } from '../services/UniversalPdfService.js';
 import { studyCadenceService } from '../services/StudyCadenceService.js';
 import { processUniversalPdf, sanitizePdfText, calculateReadingMetrics } from '../utils/universal-pdf-parser.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -69,7 +70,7 @@ if (!fs.existsSync(uploadsDir)) {
 // ============================================================
 
 // Agendador automático de Revisões Espaçadas (Curva do Esquecimento: D+1, D+7, D+30)
-export function scheduleSpacedReviews(materialId, subject, lessonNumber, baseDateStr, userId = 'user_joao', careerId = 'atrfb') {
+export function scheduleSpacedReviews(materialId, subject, lessonNumber, baseDateStr, userId = null, careerId = 'atrfb') {
   try {
     const base = new Date(baseDateStr + 'T12:00:00');
     
@@ -108,7 +109,7 @@ router.post('/upload', async (req, res) => {
       return res.status(400).json({ error: 'Nenhum arquivo enviado. Envie um PDF.' });
     }
 
-    const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
     const careerId = req.headers['x-exam-id'] || req.body.careerId || req.body.career_id || 'atrfb';
     const { originalname, filename, path: filepath, size } = req.file;
     const requestedSubject = req.body.subject || 'Geral';
@@ -288,7 +289,7 @@ router.put('/materials/:id/study-status', (req, res) => {
 // POST /register-study — Registra estudo (conclusão ou progresso de páginas) com XP e estatísticas em tempo real
 router.post('/register-study', (req, res) => {
   try {
-    const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
     const careerId = req.headers['x-exam-id'] || req.body.careerId || 'atrfb';
     const { 
       materialId, 
@@ -304,7 +305,6 @@ router.post('/register-study', (req, res) => {
 
     const minutes = parseInt(durationMinutes, 10) || 30;
     const isFinished = Boolean(isCompleted);
-    const xpGained = isFinished ? 25 : 15;
     const now = new Date().toISOString().split('T')[0];
 
     // 1. Registra a sessão de estudo
@@ -328,35 +328,38 @@ router.post('/register-study', (req, res) => {
       `).run(now, isFinished ? 1 : 0, isFinished ? 1 : 0, currentPage || 1, totalPages || null, notes || null, materialId);
     }
 
-    // 3. Atualiza os minutos de estudo e XP do usuário
-    db.prepare(`
-      UPDATE user_profiles
-      SET xp = xp + ?,
-          todayMinutes = todayMinutes + ?
-      WHERE id = ?
-    `).run(xpGained, minutes, userId);
+    // 3. Conceder Gamificação e XP
+    const xpGained = isFinished ? 50 : 20; // 50 XP por conclusão, 20 XP por progresso
+    try {
+      db.prepare(`
+        UPDATE user_profiles
+        SET xp = xp + ?,
+            todayMinutes = todayMinutes + ?
+        WHERE id = ?
+      `).run(xpGained, minutes, userId);
 
-    // 4. Registra no log de atividades
-    db.prepare(`
-      INSERT INTO activity_log (type, detail, user_id)
-      VALUES ('study', ?, ?)
-    `).run(
-      `${isFinished ? 'Aula concluída' : 'Progresso de leitura registrado'}: ${subject || 'Estudo'} - ${title || ''} (${currentPage ? `pág. ${currentPage}/${totalPages || '?'}` : `${minutes} min`})`,
-      userId
-    );
-
-    // 5. Se concluído, agenda revisões espaçadas D+1, D+7, D+30
-    if (isFinished && materialId) {
-      scheduleSpacedReviews(materialId, subject, lessonNumber || 1, now, userId, careerId);
+      db.prepare(`
+        INSERT INTO user_xp_log (user_id, amount, reason) 
+        VALUES (?, ?, ?)
+      `).run(userId, xpGained, isFinished ? `Conclusão de Aula: ${subject || 'Estudo'}` : `Leitura de Páginas: ${subject || 'Estudo'}`);
+    } catch (e) {
+      // Compatibilidade
     }
 
-    const updatedProfile = db.prepare('SELECT id, name, xp, level, todayMinutes, todayQuestions, streakDays FROM user_profiles WHERE id = ?').get(userId);
+    // 4. Log de Atividade
+    logActivity(
+      'study_session', 
+      isFinished 
+        ? `Concluiu estudo de ${subject || 'Geral'}${lessonNumber !== undefined ? ` (Aula ${lessonNumber})` : ''}`
+        : `Estudou ${minutes}min de ${subject || 'Geral'} (pág. ${currentPage || 1}/${totalPages || '?'})`,
+      userId,
+      careerId
+    );
 
     res.json({
       success: true,
       xpGained,
-      isCompleted: isFinished,
-      user: updatedProfile,
+      isFinished,
       message: isFinished 
         ? `Parabéns! Aula de ${subject || 'Estudo'} concluída com sucesso! +${xpGained} XP concedidos.`
         : `Progresso salvo: Página ${currentPage || 1} de ${totalPages || '?'}. Continue assim! +${xpGained} XP concedidos.`
@@ -370,7 +373,7 @@ router.post('/register-study', (req, res) => {
 // GET /materials — List all uploaded materials with study progress
 router.get('/materials', (req, res) => {
   try {
-    const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
     const careerId = req.headers['x-exam-id'] || req.query.careerId || req.query.career_id || null;
 
     let sql = `
@@ -385,9 +388,9 @@ router.get('/materials', (req, res) => {
         COUNT(sq.id) as total_questions,
         SUM(CASE WHEN sq.is_correct = 1 THEN 1 ELSE 0 END) as correct_questions
       FROM study_materials sm
-      LEFT JOIN study_sessions ss ON sm.id = ss.material_id AND (ss.user_id = ? OR ss.user_id IS NULL)
+      LEFT JOIN study_sessions ss ON sm.id = ss.material_id AND ss.user_id = ?
       LEFT JOIN session_questions sq ON ss.id = sq.session_id
-      WHERE (sm.user_id = ? OR sm.user_id IS NULL)
+      WHERE sm.user_id = ?
     `;
     const params = [userId, userId];
 
@@ -419,7 +422,7 @@ router.get('/materials', (req, res) => {
 router.get('/materials/:id/pace', (req, res) => {
   try {
     const { id } = req.params;
-    const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
 
     const pace = studyCadenceService.calculateReadingPace(id, userId);
     res.json(pace);
@@ -432,7 +435,7 @@ router.get('/materials/:id/pace', (req, res) => {
 // GET /catalog — Grouped catalog by Subject for study track overview (dynamic per career)
 router.get('/catalog', (req, res) => {
   try {
-    const userId = req.headers['x-user-id'] || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
     const careerId = req.headers['x-exam-id'] || req.query.careerId || 'atrfb';
     const careerCfg = getCareerConfig(careerId);
 
@@ -446,9 +449,9 @@ router.get('/catalog', (req, res) => {
         COUNT(sq.id) as total_questions,
         SUM(CASE WHEN sq.is_correct = 1 THEN 1 ELSE 0 END) as correct_questions
       FROM study_materials sm
-      LEFT JOIN study_sessions ss ON sm.id = ss.material_id AND (ss.user_id = ? OR ss.user_id IS NULL)
+      LEFT JOIN study_sessions ss ON sm.id = ss.material_id AND ss.user_id = ?
       LEFT JOIN session_questions sq ON ss.id = sq.session_id
-      WHERE (sm.user_id = ? OR sm.user_id = 'user_joao' OR sm.user_id IS NULL)
+      WHERE sm.user_id = ?
       GROUP BY sm.id
       ORDER BY sm.subject ASC, CASE WHEN sm.lesson_number IS NULL THEN 999 ELSE sm.lesson_number END ASC, sm.created_at DESC
     `).all(userId, userId);
@@ -457,7 +460,7 @@ router.get('/catalog', (req, res) => {
     const allReviews = db.prepare(`
       SELECT material_id, review_type, scheduled_date, status
       FROM study_reviews
-      WHERE status = 'pending' AND (user_id = ? OR user_id = 'user_joao' OR user_id IS NULL)
+      WHERE status = 'pending' AND user_id = ?
       ORDER BY scheduled_date ASC
     `).all(userId);
 
@@ -526,7 +529,7 @@ router.get('/catalog', (req, res) => {
 // POST /generate-native-lesson — Modo de Estudo Sem PDF (Aulas Nativas do Edital)
 router.post('/generate-native-lesson', async (req, res) => {
   try {
-    const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
     const careerId = req.headers['x-exam-id'] || req.body.careerId || 'marinha_rm2';
     const { subject, lessonNumber, title, keyTopics } = req.body;
 
@@ -775,7 +778,7 @@ router.delete('/materials/:id', async (req, res) => {
 router.post('/sessions/start', (req, res) => {
   try {
     const { materialId, durationMinutes } = req.body;
-    const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
 
     if (!materialId || !durationMinutes) {
       return res.status(400).json({ error: 'materialId e durationMinutes são obrigatórios.' });

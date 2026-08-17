@@ -1,5 +1,6 @@
 import express from 'express';
 import db, { logActivity } from '../database.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
@@ -193,7 +194,7 @@ router.get('/desafio', (req, res) => {
 router.post('/responder', (req, res) => {
     try {
         const { desafioId, palavraSelecionada, tempoGastoSegundos } = req.body;
-        const profileId = req.headers['x-profile-id'] || req.headers['x-user-id'] || 'default_user';
+        const profileId = getAuthenticatedUserId(req);
 
         const item = LEI_SECA_DB.find(d => d.id === desafioId);
         if (!item) {

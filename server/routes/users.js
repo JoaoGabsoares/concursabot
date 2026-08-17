@@ -82,8 +82,14 @@ router.get('/', (req, res) => {
 // GET /api/users/:id - Get specific user profile
 router.get('/:id', (req, res) => {
   try {
+    const session = getSessionAccount(req);
     const profile = db.prepare('SELECT * FROM user_profiles WHERE id = ?').get(req.params.id);
     if (!profile) return res.status(404).json({ error: 'Perfil não encontrado.' });
+
+    if (session && profile.account_id && profile.account_id !== session.account_id) {
+      return res.status(403).json({ error: 'Acesso não autorizado a este perfil.' });
+    }
+
     res.json(profile);
   } catch (err) {
     console.error('Error fetching user profile:', err);
@@ -177,8 +183,13 @@ router.post('/', (req, res) => {
 router.post('/:id/activate', (req, res) => {
   try {
     const { id } = req.params;
+    const session = getSessionAccount(req);
     const profile = db.prepare('SELECT * FROM user_profiles WHERE id = ?').get(id);
     if (!profile) return res.status(404).json({ error: 'Perfil não encontrado.' });
+
+    if (session && profile.account_id && profile.account_id !== session.account_id) {
+      return res.status(403).json({ error: 'Acesso não autorizado a este perfil.' });
+    }
 
     db.prepare('UPDATE user_profiles SET last_active_at = CURRENT_TIMESTAMP WHERE id = ?').run(id);
 
@@ -194,6 +205,7 @@ router.post('/:id/activate', (req, res) => {
 router.put('/:id', (req, res) => {
   try {
     const { id } = req.params;
+    const session = getSessionAccount(req);
     const { 
       name, 
       avatar_emoji, 
@@ -217,6 +229,10 @@ router.put('/:id', (req, res) => {
 
     const profile = db.prepare('SELECT * FROM user_profiles WHERE id = ?').get(id);
     if (!profile) return res.status(404).json({ error: 'Perfil não encontrado.' });
+
+    if (session && profile.account_id && profile.account_id !== session.account_id) {
+      return res.status(403).json({ error: 'Acesso não autorizado a este perfil.' });
+    }
 
     const newName = name !== undefined ? name.trim() : profile.name;
     const newAvatar = avatar_emoji !== undefined ? avatar_emoji : profile.avatar_emoji;
@@ -259,8 +275,13 @@ router.put('/:id', (req, res) => {
 router.delete('/:id', (req, res) => {
   try {
     const { id } = req.params;
+    const session = getSessionAccount(req);
     const profile = db.prepare('SELECT * FROM user_profiles WHERE id = ?').get(id);
     if (!profile) return res.status(404).json({ error: 'Perfil não encontrado.' });
+
+    if (session && profile.account_id && profile.account_id !== session.account_id) {
+      return res.status(403).json({ error: 'Acesso não autorizado a este perfil.' });
+    }
 
     if (profile.is_default) {
       return res.status(400).json({ error: 'O perfil padrão titular não pode ser removido.' });
@@ -307,8 +328,13 @@ router.delete('/:id', (req, res) => {
 router.get('/:id/export-progress', (req, res) => {
   try {
     const userId = req.params.id;
+    const session = getSessionAccount(req);
     const profile = db.prepare('SELECT * FROM user_profiles WHERE id = ?').get(userId);
     if (!profile) return res.status(404).json({ error: 'Perfil não encontrado.' });
+
+    if (session && profile.account_id && profile.account_id !== session.account_id) {
+      return res.status(403).json({ error: 'Acesso não autorizado a este perfil.' });
+    }
 
     const sessions = db.prepare('SELECT * FROM study_sessions WHERE user_id = ?').all(userId);
     const answers = db.prepare('SELECT * FROM question_answers WHERE user_id = ?').all(userId);

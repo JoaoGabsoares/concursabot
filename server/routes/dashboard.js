@@ -1,12 +1,13 @@
 import express from 'express';
 import db from '../database.js';
 import { CAREER_SUBJECTS } from '../gamification.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
 function getDashboardData(req, res) {
     try {
-        const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const careerId = req.headers['x-exam-id'] || req.query.careerId || req.query.career_id || null;
         const subjects = careerId && CAREER_SUBJECTS[careerId] ? CAREER_SUBJECTS[careerId] : null;
 

@@ -178,3 +178,21 @@ npm start
 - **Encerramento de Túneis Expõem Redes**:
   - Processos expostos do Cloudflare Tunnel finalizados e validação de pentest automatizado no test suite.
 
+---
+
+## 🔒 11. Release v3.9: Blindagem Anti-IDOR (BOLA) & Isolamento Hermético Multi-Tenant
+
+- **Helper Criptográfico de Propriedade (`getAuthenticatedUserId`)**:
+  - Implementado em `server/middleware/session-auth.js` e montado em todas as 15 rotas de negócio do backend.
+  - Verifica no SQLite se o `userId` enviado no header `x-user-id`, `x-profile-id` ou no body/query pertence estritamente ao `account_id` autenticado na sessão (`SELECT id FROM user_profiles WHERE id = ? AND account_id = ?`).
+  - Caso um usuário autenticado envie o ID de outro concurseiro (tentativa de *IDOR / Insecure Direct Object Reference*), o backend neutraliza a requisição e retorna estritamente os dados da **própria conta**, impedindo espionagem de dados.
+- **Eliminação Definitiva de Fallback Legado**:
+  - Removido 100% dos fallbacks para `'user_joao'` em todas as rotas do backend (`dashboard`, `caderno-erros`, `simulados`, `redacao`, `questions`, `flashcards`, `schedule`, `study-room`, `gamification`, `leiseca`, `aproveitamento`, `community`, `reset`, `tutor`).
+- **Bloqueio e Proteção de Rotas Administrativas (`/api/system/logs`)**:
+  - Rota de logs do sistema restrita a conexões de loopback local (`127.0.0.1` / `::1`) com rejeição `403 Forbidden` para qualquer acesso remoto via rede ou internet.
+- **Proteção Estrita de Perfis de Usuário (`/api/users/:id`)**:
+  - Verificação de propriedade de conta em `GET /api/users/:id`, `POST /:id/activate`, `PUT /:id`, `DELETE /:id` e `GET /:id/export-progress`, rejeitando qualquer tentativa de edição ou leitura cruzada com `403 Forbidden`.
+- **Suíte de Testes de Pentest Anti-IDOR (`tests/security/pentest_and_ai.test.js`)**:
+  - Teste automatizado simulando dois usuários cadastrados (Conta A e Conta B) com tentativa de invasão cruzada de perfil e caderno de erros, validando 100% de isolamento hermético.
+
+

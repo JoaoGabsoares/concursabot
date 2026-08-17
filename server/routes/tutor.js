@@ -2,6 +2,7 @@ import express from 'express';
 import db, { logActivity } from '../database.js';
 import { streamChat } from '../gemini.js';
 import { getTutorSystemInstruction } from '../prompts/tutor.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 import crypto from 'crypto';
 
 const router = express.Router();
@@ -9,7 +10,7 @@ const router = express.Router();
 // POST /chat - Streaming chat with SSE
 router.post('/chat', async (req, res) => {
     let { sessionId, message, subject, careerId, tutorStyle } = req.body;
-    const userId = req.headers['x-user-id'] || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
 
     if (!careerId) {
         careerId = req.headers['x-exam-id'] || req.query.careerId || 'atrfb';

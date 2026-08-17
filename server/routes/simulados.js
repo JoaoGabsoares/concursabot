@@ -2,13 +2,14 @@ import express from 'express';
 import db, { logActivity } from '../database.js';
 import { generateJSON } from '../gemini.js';
 import { questionsSystemInstruction, questionsPromptTemplate, questionsSchema } from '../prompts/questions.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
 // POST /create - Generate a full mock exam with parallel subject question generation (Promise.all)
 router.post('/create', async (req, res) => {
     const { banca = 'FGV', subjects, questionCount = 10, timeLimitMinutes = 60 } = req.body;
-    const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
     const careerId = req.headers['x-exam-id'] || req.body.careerId || req.body.career_id || 'atrfb';
 
     if (!subjects || !Array.isArray(subjects) || subjects.length === 0) {
@@ -71,7 +72,7 @@ router.post('/create', async (req, res) => {
 
 // POST /create-from-errors - Build an instant mock exam from error notebook
 router.post('/create-from-errors', (req, res) => {
-    const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+    const userId = getAuthenticatedUserId(req);
     const careerId = req.headers['x-exam-id'] || req.body.careerId || req.body.career_id || 'atrfb';
     const limit = Math.min(parseInt(req.body.limit, 10) || 10, 30);
 
@@ -80,7 +81,7 @@ router.post('/create-from-errors', (req, res) => {
             SELECT q.id, q.subject, q.banca 
             FROM question_answers qa
             JOIN questions q ON qa.question_id = q.id
-            WHERE (qa.user_id = ? OR qa.user_id IS NULL) AND qa.is_correct = 0
+            WHERE qa.user_id = ? AND qa.is_correct = 0
             GROUP BY q.id
             ORDER BY qa.answered_at DESC
             LIMIT ?
@@ -120,10 +121,11 @@ router.post('/create-from-errors', (req, res) => {
 // POST /:id/finish - Submit answers with support for Cebraspe negative penalty
 router.post('/:id/finish', (req, res) => {
     const simuladoId = req.params.id;
+    const userId = getAuthenticatedUserId(req);
     const { answers = {}, timeSpentSeconds = 0 } = req.body; // answers = { question_id: selected_index | -1 }
 
     try {
-        const sim = db.prepare('SELECT * FROM simulados WHERE id = ?').get(simuladoId);
+        const sim = db.prepare('SELECT * FROM simulados WHERE id = ? AND user_id = ?').get(simuladoId, userId);
         if (!sim) return res.status(404).json({ error: 'Simulado não encontrado' });
 
         const isCebraspe = sim.banca && (sim.banca.toUpperCase().includes('CEBRASPE') || sim.banca.toUpperCase().includes('CESPE'));
@@ -144,7 +146,7 @@ router.post('/:id/finish', (req, res) => {
                     emBranco++;
                     updateSq.run(null, null, sq.id);
                 } else {
-                    const isCorrect = selected === sq.correct_index;
+                    const isCorrect = Number(selected) === Number(sq.correct_index);
                     if (isCorrect) {
                         acertos++;
                     } else {
@@ -162,11 +164,24 @@ router.post('/:id/finish', (req, res) => {
             updateSim.run(finalScore, timeSpentSeconds || 0, 'completed', simuladoId);
         })();
 
-        logActivity('simulado', `Concluiu Simulado ${sim.banca}: ${acertos} acertos, ${erros} erros, ${emBranco} em branco (Nota: ${isCebraspe ? acertos - erros : acertos}/${sqs.length})`);
+        // Record answers in central question_answers table
+        const fullSqs = db.prepare('SELECT question_id, selected_answer, is_correct FROM simulado_questions WHERE simulado_id = ?').all(simuladoId);
+        const insertQa = db.prepare(`
+            INSERT INTO question_answers (question_id, selected_answer, is_correct, user_id, career_id) 
+            VALUES (?, ?, ?, ?, ?)
+        `);
+
+        for (const fsq of fullSqs) {
+            if (fsq.selected_answer !== null && fsq.selected_answer !== undefined) {
+                insertQa.run(fsq.question_id, fsq.selected_answer, fsq.is_correct, userId, sim.career_id || 'atrfb');
+            }
+        }
+
+        const careerId = sim.career_id || 'atrfb';
+        logActivity('simulado_complete', `Completou simulado (${acertos}/${sqs.length} acertos)`, userId, careerId);
 
         res.json({
             success: true,
-            banca: sim.banca,
             isCebraspe,
             total: sqs.length,
             acertos,
@@ -185,7 +200,7 @@ router.post('/:id/finish', (req, res) => {
 // GET / and /history - List simulados for user
 const listSimulados = (req, res) => {
     try {
-        const userId = req.headers['x-user-id'] || req.query.user_id || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const careerId = req.headers['x-exam-id'] || req.query.careerId || req.query.career_id || null;
 
         let rows = [];
@@ -206,8 +221,9 @@ router.get('/history', listSimulados);
 // GET /:id - Get full simulado
 router.get('/:id', (req, res) => {
     try {
-        const sim = db.prepare('SELECT * FROM simulados WHERE id = ?').get(req.params.id);
-        if (!sim) return res.status(404).json({ error: 'Not found' });
+        const userId = getAuthenticatedUserId(req);
+        const sim = db.prepare('SELECT * FROM simulados WHERE id = ? AND user_id = ?').get(req.params.id, userId);
+        if (!sim) return res.status(404).json({ error: 'Simulado não encontrado' });
 
         const qs = db.prepare(`
             SELECT sq.id as sq_id, sq.selected_answer, sq.is_correct, q.* 

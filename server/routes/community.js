@@ -3,6 +3,7 @@ import db, { logActivity } from '../database.js';
 import { generateContent, sanitizePromptInput } from '../gemini.js';
 import { CAREERS_CATALOG } from '../careers.js';
 import { getSessionAccount } from './auth.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
@@ -153,8 +154,7 @@ router.post('/messages', async (req, res) => {
     try {
         const rawText = req.body.messageText || req.body.content || '';
         const { channelId, userName, userAvatar, careerBadge, careerId = 'atrfb' } = req.body;
-        const session = getSessionAccount(req);
-        const userId = session?.account_id || req.headers['x-user-id'] || req.body.userId || 'user_anonimo';
+        const userId = getAuthenticatedUserId(req);
 
         if (!channelId || !rawText || typeof rawText !== 'string' || !rawText.trim()) {
             return res.status(400).json({ error: 'Canal e texto da mensagem são obrigatórios.' });
@@ -256,8 +256,7 @@ router.post('/messages/:id/react', (req, res) => {
     try {
         const messageId = Number(req.params.id);
         const { emoji, channelId } = req.body;
-        const session = getSessionAccount(req);
-        const userId = session?.account_id || req.headers['x-user-id'] || req.body.userId || 'user_anonimo';
+        const userId = getAuthenticatedUserId(req);
 
         if (!messageId || !emoji) {
             return res.status(400).json({ error: 'messageId e emoji são obrigatórios.' });

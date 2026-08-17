@@ -1,6 +1,7 @@
 import express from 'express';
 import db, { logActivity } from '../database.js';
 import { generateJSON } from '../gemini.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
@@ -85,7 +86,7 @@ router.get('/temas', (req, res) => {
 router.post('/corrigir', async (req, res) => {
     try {
         const { tema, texto, banca = 'Cesgranrio', careerId = 'bb_comercial' } = req.body;
-        const userId = req.headers['x-user-id'] || req.body.userId || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
 
         if (!texto || texto.trim().length < 150) {
             return res.status(400).json({ error: 'O texto da redação é muito curto para correção (mínimo de 150 caracteres).' });
@@ -217,7 +218,7 @@ Retorne OBRIGATORIAMENTE um JSON válido com esta estrutura exata:
 // GET /historico - List user essays
 router.get('/historico', (req, res) => {
     try {
-        const userId = req.headers['x-user-id'] || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const careerId = req.headers['x-exam-id'];
 
         let query = 'SELECT id, tema, banca, nota_total, word_count, line_count, created_at, feedback_json FROM redacoes WHERE user_id = ?';

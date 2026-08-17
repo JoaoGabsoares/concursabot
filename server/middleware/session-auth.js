@@ -8,6 +8,7 @@
  */
 
 import { authService } from '../services/AuthService.js';
+import db from '../database.js';
 
 // Rotas públicas expressas que não exigem token de autenticação
 const PUBLIC_API_ROUTES = new Set([
@@ -71,3 +72,38 @@ export function sessionAuthMiddleware(req, res, next) {
     });
   }
 }
+
+/**
+ * Helper Anti-IDOR: Retorna estritamente o user_id pertencente à conta autenticada.
+ * Se o cliente enviar um x-user-id forjado pertencente a outro aluno,
+ * a tentativa de spoofing é neutralizada e o perfil da própria conta é retornado.
+ */
+export function getAuthenticatedUserId(req) {
+  const accountId = req.account?.id || req.accountId;
+  
+  const requestedId = req.headers['x-user-id'] || 
+                      req.headers['x-profile-id'] || 
+                      req.query?.user_id || 
+                      req.body?.userId || 
+                      req.body?.user_id;
+
+  if (accountId) {
+    if (requestedId && typeof requestedId === 'string' && requestedId.trim()) {
+      const cleanId = requestedId.trim();
+      if (cleanId === accountId) return cleanId;
+
+      // Verificar se o requestedId pertence aos perfis da conta autenticada
+      const ownedProfile = db.prepare('SELECT id FROM user_profiles WHERE id = ? AND account_id = ?').get(cleanId, accountId);
+      if (ownedProfile) return ownedProfile.id;
+    }
+
+    // Se nenhum ID válido ou se tentou ID de outro usuário, usar o primeiro perfil da própria conta
+    const defaultProfile = db.prepare('SELECT id FROM user_profiles WHERE account_id = ? ORDER BY is_default DESC, last_active_at DESC LIMIT 1').get(accountId);
+    if (defaultProfile) return defaultProfile.id;
+
+    return accountId;
+  }
+
+  return requestedId ? String(requestedId).trim() : 'anonymous_user';
+}
+

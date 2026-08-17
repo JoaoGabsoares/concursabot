@@ -4,6 +4,20 @@ import { logger } from '../logger.js';
 
 const router = express.Router();
 
+// Middleware de proteção estrita: Logs do sistema são restritos a 127.0.0.1
+router.use((req, res, next) => {
+  const ip = req.ip || req.connection?.remoteAddress || '';
+  const isLoopback = ip === '127.0.0.1' || ip === '::1' || ip === '::ffff:127.0.0.1';
+  
+  if (!isLoopback) {
+    return res.status(403).json({
+      success: false,
+      error: 'Acesso negado. Logs do sistema são restritos ao host local por diretriz de segurança.'
+    });
+  }
+  next();
+});
+
 // GET /api/system/logs - Query logs from memory ring buffer with filters
 router.get('/', (req, res) => {
   try {

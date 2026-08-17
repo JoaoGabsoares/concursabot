@@ -1,6 +1,7 @@
 import express from 'express';
 import db from '../database.js';
 import { CAREERS_CATALOG } from '../careers.js';
+import { getAuthenticatedUserId } from '../middleware/session-auth.js';
 
 const router = express.Router();
 
@@ -337,7 +338,7 @@ router.post('/comparar', (req, res) => {
 // POST /api/aproveitamento/sincronizar-cronograma - Persiste o plano de transição no SQLite
 router.post('/sincronizar-cronograma', (req, res) => {
     try {
-        const userId = req.headers['x-user-id'] || 'user_joao';
+        const userId = getAuthenticatedUserId(req);
         const { 
             origemCareerId, 
             destinoCareerId, 
