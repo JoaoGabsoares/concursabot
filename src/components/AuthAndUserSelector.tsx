@@ -15,7 +15,9 @@ import {
   Mail, 
   Sparkles, 
   Trash2,
-  AlertCircle
+  AlertCircle,
+  Eye,
+  EyeOff
 } from 'lucide-react';
 
 interface AuthAndUserSelectorProps {
@@ -29,6 +31,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
   const [authStatus, setAuthStatus] = useState<'checking' | 'unauthenticated' | 'authenticated'>('checking');
   const [authTab, setAuthTab] = useState<'login' | 'register'>('login');
   const [account, setAccount] = useState<AccountInfo | null>(null);
+  const [showPassword, setShowPassword] = useState<boolean>(false);
 
   // Form Inputs
   const [usernameInput, setUsernameInput] = useState<string>('');
@@ -319,13 +322,21 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   <div className="relative">
                     <Lock className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3" />
                     <input
-                      type="password"
+                      type={showPassword ? "text" : "password"}
                       required
                       placeholder="••••••••"
                       value={passwordInput}
                       onChange={(e) => setPasswordInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                      className="w-full h-10 pl-10 pr-10 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
                     />
+                    <button
+                      type="button"
+                      onClick={() => setShowPassword(!showPassword)}
+                      className="absolute right-3 top-3 text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+                      title={showPassword ? "Ocultar senha" : "Ver senha"}
+                    >
+                      {showPassword ? <EyeOff className="w-4 h-4" /> : <Eye className="w-4 h-4" />}
+                    </button>
                   </div>
                 </div>
 
@@ -391,14 +402,22 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
                   <div className="relative">
                     <Lock className="w-4 h-4 text-[var(--text-muted)] absolute left-3 top-3" />
                     <input
-                      type="password"
+                      type={showPassword ? "text" : "password"}
                       required
                       minLength={8}
                       placeholder="Mínimo 8 caracteres"
                       value={passwordInput}
                       onChange={(e) => setPasswordInput(e.target.value)}
-                      className="w-full h-10 pl-10 pr-3 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
+                      className="w-full h-10 pl-10 pr-10 rounded-lg text-xs sm:text-sm bg-[var(--bg-elevated)] border border-[var(--border-subtle)] text-[var(--text-primary)] focus:border-[var(--accent-primary)] outline-none"
                     />
+                    <button
+                      type="button"
+                      onClick={() => setShowPassword(!showPassword)}
+                      className="absolute right-3 top-3 text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+                      title={showPassword ? "Ocultar senha" : "Ver senha"}
+                    >
+                      {showPassword ? <EyeOff className="w-4 h-4" /> : <Eye className="w-4 h-4" />}
+                    </button>
                   </div>
                 </div>
 

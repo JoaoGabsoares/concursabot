@@ -146,5 +146,18 @@ npm start
   - Barra de progresso na Sala de Estudos corrigida de `progress` para `value={...}`.
   - Correção de redação discursiva com notificações ricas `useToast` no lugar de alertas nativos do navegador.
 
+---
 
+## 📱 9. Release v3.7: Responsividade Mobile, Botão de Senha & Deploy Online (TryCloudflare)
 
+- **Botão de Visualizar/Ocultar Senha**: Adicionado toggle com ícones de olho (`Eye` / `EyeOff`) em todos os formulários de autenticação (Login e Cadastro) em `AuthAndUserSelector.tsx`.
+- **Redesenho do Header Mobile & Menu Hambúrguer**:
+  - Reestruturação do `Header.tsx`: espaçamentos balanceados, streak compacto (`🔥 Xd`), tema e atalho direto de Configurações (`⚙️`).
+  - Menu Drawer mobile ampliado com navegação completa pelas **10 seções da plataforma**, seletor de carreira dedicado com lista de bancas e botão de troca de perfil no rodapé.
+  - Prevenção contra cortes de entalhe (Safe Area) e ajuste de padding no `<main>` (`pb-28 lg:pb-8`) evitando sobreposição pelo menu do polegar (`MobileBottomNav`).
+  - Barra de navegação inferior com `backdrop-blur-md` e suporte a `env(safe-area-inset-bottom)`.
+- **Compatibilidade com Deploy TryCloudflare / Multi-Dispositivos**:
+  - Header CSP em `server/index.js` atualizado para permitir conexões `connect-src 'self' https: http: wss: ws: blob: data:`.
+  - Chat comunitário SSE 100% compatível com broadcast simultâneo entre celulares, tablets e computadores conectados através de túneis públicos do Cloudflare (`npx untun` / `cloudflared tunnel`).
+- **Consultoria de Autenticação Google OAuth**:
+  - Documentada a gratuidade total do Google OAuth 2.0 (Google Identity Services) e plano de migração para login social.
