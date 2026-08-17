@@ -441,9 +441,10 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
               </form>
             )}
 
-            <div className="pt-2 border-t border-[var(--border-subtle)] text-center">
-              <span className="text-[10px] font-mono text-[var(--text-muted)]">
-                🔒 Criptografia Scrypt Local • Sem custo • Dados 100% Privados
+            <div className="pt-2.5 border-t border-[var(--border-subtle)] text-center">
+              <span className="text-[11px] text-[var(--text-muted)] flex items-center justify-center gap-1.5">
+                <span className="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+                Conexão Segura • Dados 100% Protegidos
               </span>
             </div>
           </Card>
