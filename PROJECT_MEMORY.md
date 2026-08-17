@@ -40,9 +40,10 @@ O **Gabarito.AI** é uma plataforma web completa de preparação de alta perform
 - Ciclo personalizável de estudo: **60 min de leitura teórica + 30 min de questões**.
 - O sistema salva a página exata de interrupção (ex: pág. 18 de 45), calcula o tempo restante de teoria e permite transitar imediatamente para o bloco de questões com 1 toque.
 
-### 🛡️ 2.4. Segurança, Autenticação & Zero XP para Novos Usuários
-- Contas privadas isoladas com Scrypt.
-- Cada novo usuário registrado inicia com rigorosamente **0 XP, Level 1 Aspirante (0/500), Streak 0 e zero histórico**, sem qualquer vazamento cross-account.
+### 🛡️ 2.4. Segurança, Autenticação, Radar Dinâmico & Zero State para Novos Usuários
+- Contas privadas isoladas com Scrypt e auto-recuperação de sessão.
+- Cada novo usuário registrado inicia com rigorosamente **0 XP, Level 1 Aspirante (0/500), Streak 0 e zero histórico**.
+- **Radar de Disciplinas do Edital**: Todas as matérias iniciam com **0 itens resolvidos**, **0% taxa de acerto** e badge **`[ NÃO INICIADO ]`**, sendo alimentadas e calculadas em tempo real à medida que o aluno responde questões e simulados na plataforma.
 
 ---
 

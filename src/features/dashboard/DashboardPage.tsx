@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { UserProfile, ActiveTab, DailyMission } from '../../types';
 import { getCareerById } from '../../utils/careers';
-import { getConcurseiroRank, getSubjectsForCareer } from '../../utils/gamification';
+import { getConcurseiroRank, getSubjectsForCareer, SubjectStats } from '../../utils/gamification';
 import { getLessonContent } from '../../utils/studyContent';
 import { Card, Button, ProgressBar, CarimboStatus } from '../../components/UIPrimitives';
+import { api } from '../../api/client';
 import { ChevronRight, Flame, Target, Trophy, CheckCircle2, Circle, ArrowRight } from 'lucide-react';
 
 interface DashboardPageProps {
@@ -31,7 +32,39 @@ export const DashboardPage: React.FC<DashboardPageProps> = ({
   const goalMinutes = user?.dailyGoalMinutes || 120;
 
   const currentRank = getConcurseiroRank(userXp);
-  const subjectsList = getSubjectsForCareer(careerId);
+  const [subjectsList, setSubjectsList] = useState<SubjectStats[]>(() => getSubjectsForCareer(careerId));
+
+  useEffect(() => {
+    let isMounted = true;
+    const baseList = getSubjectsForCareer(careerId);
+    setSubjectsList(baseList);
+
+    api.getDashboardStats(user?.id, careerId)
+      .then((data: any) => {
+        if (isMounted && data && Array.isArray(data.subjectBreakdown) && data.subjectBreakdown.length > 0) {
+          const merged = baseList.map(baseSubj => {
+            const found = data.subjectBreakdown.find((b: any) => b.name === baseSubj.name || b.name?.toLowerCase() === baseSubj.name?.toLowerCase());
+            if (found) {
+              return {
+                ...baseSubj,
+                totalQuestions: found.totalQuestions || 0,
+                correctPercentage: found.correctPercentage || 0,
+                status: found.status || (found.totalQuestions > 0 ? 'em_revisao' : 'em_revisao'),
+                statusLabel: found.statusLabel || (found.totalQuestions > 0 ? 'EM ESTUDO' : 'NÃO INICIADO')
+              };
+            }
+            return baseSubj;
+          });
+          setSubjectsList(merged);
+        }
+      })
+      .catch(() => {
+        // Keep base 0 stats safely
+      });
+
+    return () => { isMounted = false; };
+  }, [user?.id, careerId]);
+
   const topSubject = subjectsList[0]?.name || 'Direito Tributário';
   const topLesson = getLessonContent(topSubject);
 

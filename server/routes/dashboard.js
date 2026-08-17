@@ -66,6 +66,45 @@ function getDashboardData(req, res) {
                 ORDER BY correct_pct ASC
             `).all(userId, careerId, ...subjects);
 
+            // Per-subject breakdown for the career edital radar
+            const subjectBreakdown = subjects.map(subj => {
+                const row = db.prepare(`
+                    SELECT 
+                        COUNT(qa.id) as total,
+                        SUM(CASE WHEN qa.is_correct = 1 THEN 1 ELSE 0 END) as correct
+                    FROM question_answers qa
+                    JOIN questions q ON qa.question_id = q.id
+                    WHERE qa.user_id = ? AND (qa.career_id = ? OR qa.career_id IS NULL) AND q.subject = ?
+                `).get(userId, careerId, subj);
+
+                const total = row?.total || 0;
+                const correct = row?.correct || 0;
+                const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
+                let status = 'em_revisao';
+                let statusLabel = 'NÃO INICIADO';
+
+                if (total > 0) {
+                    if (pct >= 75) {
+                        status = 'homologado';
+                        statusLabel = 'DOMINADO';
+                    } else if (pct >= 60) {
+                        status = 'em_revisao';
+                        statusLabel = 'EM ESTUDO';
+                    } else {
+                        status = 'vulneravel';
+                        statusLabel = 'VULNERÁVEL';
+                    }
+                }
+
+                return {
+                    name: subj,
+                    totalQuestions: total,
+                    correctPercentage: pct,
+                    status,
+                    statusLabel
+                };
+            });
+
             // Recent Activity
             recentActivity = db.prepare(`
                 SELECT * FROM activity_log 
@@ -151,6 +190,7 @@ function getDashboardData(req, res) {
             },
             weakSubjects: weakest,
             strongSubjects: strongest,
+            subjectBreakdown: typeof subjectBreakdown !== 'undefined' ? subjectBreakdown : [],
             recentActivity
         });
 
