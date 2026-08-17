@@ -85,6 +85,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
       return;
     }
 
+    setAuthToken(null);
     setAuthLoading(true);
     try {
       const res = await api.login(usernameInput.trim(), passwordInput);
@@ -116,6 +117,7 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
       return;
     }
 
+    setAuthToken(null);
     setAuthLoading(true);
     try {
       const res = await api.registerAccount(usernameInput.trim(), passwordInput, emailInput.trim());
@@ -181,7 +183,15 @@ export const AuthAndUserSelector: React.FC<AuthAndUserSelectorProps> = ({ onSele
         handleSelectExistingUser(newProfile);
       }
     } catch (err: any) {
-      setCreateProfileError(err.message || 'Erro ao criar perfil.');
+      if (err.message && (err.message.includes('Sessão expirada') || err.message.includes('não autorizado') || err.message.includes('401'))) {
+        setAuthToken(null);
+        setAccount(null);
+        setProfiles([]);
+        setAuthStatus('unauthenticated');
+        setAuthError('Sua sessão expirou ou o servidor foi reiniciado. Por favor, entre ou crie sua conta novamente.');
+      } else {
+        setCreateProfileError(err.message || 'Erro ao criar perfil.');
+      }
     } finally {
       setCreatingUser(false);
     }

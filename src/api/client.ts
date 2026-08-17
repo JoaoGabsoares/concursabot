@@ -38,8 +38,9 @@ export class ApiClient {
    * Método central de requisição HTTP com injeção de headers de segurança.
    */
   public async request<T>(endpoint: string, options: RequestInit = {}): Promise<T> {
-    const token = this.getAuthToken();
-    const currentUserId = typeof localStorage !== 'undefined' ? localStorage.getItem('CURRENT_USER_ID') : null;
+    const isAuthRoute = endpoint.startsWith('/auth/login') || endpoint.startsWith('/auth/register') || endpoint.startsWith('/auth/verify-invite');
+    const token = isAuthRoute ? null : this.getAuthToken();
+    const currentUserId = (isAuthRoute || typeof localStorage === 'undefined') ? null : localStorage.getItem('CURRENT_USER_ID');
     const isFormData = typeof FormData !== 'undefined' && options.body instanceof FormData;
     
     const headers: Record<string, string> = {
@@ -64,8 +65,11 @@ export class ApiClient {
     }
 
     if (!response.ok) {
-      if (response.status === 401 && !endpoint.startsWith('/auth/login') && !endpoint.startsWith('/auth/register') && !endpoint.startsWith('/auth/verify-invite')) {
+      if (response.status === 401 && !isAuthRoute) {
         this.setAuthToken(null);
+        if (typeof localStorage !== 'undefined') {
+          localStorage.removeItem('CURRENT_USER_ID');
+        }
       }
       const errData = await response.json().catch(() => ({ error: response.statusText }));
       throw new Error(errData.error || `HTTP error ${response.status}`);
