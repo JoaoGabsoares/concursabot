@@ -151,6 +151,7 @@ app.use('/uploads', (req, res, next) => {
 }, express.static(uploadsDir));
 
 import { inviteAuthMiddleware, isInviteRequired, validateInviteCode } from './middleware/invite-auth.js';
+import { sessionAuthMiddleware } from './middleware/session-auth.js';
 import systemLogsRoutes from './routes/system-logs.js';
 import logger from './logger.js';
 
@@ -220,6 +221,7 @@ app.get('/api/health', (req, res) => {
 });
 
 app.use('/api', inviteAuthMiddleware);
+app.use('/api', sessionAuthMiddleware);
 
 // Specific AI routes with dedicated AI rate limiter
 app.use('/api/system/logs', systemLogsRoutes);

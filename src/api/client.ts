@@ -64,6 +64,9 @@ export class ApiClient {
     }
 
     if (!response.ok) {
+      if (response.status === 401 && !endpoint.startsWith('/auth/login') && !endpoint.startsWith('/auth/register') && !endpoint.startsWith('/auth/verify-invite')) {
+        this.setAuthToken(null);
+      }
       const errData = await response.json().catch(() => ({ error: response.statusText }));
       throw new Error(errData.error || `HTTP error ${response.status}`);
     }

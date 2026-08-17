@@ -3,8 +3,24 @@ import assert from 'node:assert';
 export async function runCommunityAndCadernoErrosTests(baseUrl = 'http://localhost:3000') {
     console.log('\n💬 [TEST SUITE: Comunidade em Tempo Real & Caderno de Erros]');
 
+    // 0. Registrar e Autenticar Usuário de Teste
+    const username = `user_comm_${Date.now()}`;
+    const reg = await fetch(`${baseUrl}/api/auth/register`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ username, password: 'SenhaSegura123!', email: `${username}@teste.com` })
+    }).then(r => r.json());
+    const token = reg.token;
+    const authHeaders = { 'Authorization': `Bearer ${token}`, 'x-account-token': token };
+
+    const prof = await fetch(`${baseUrl}/api/users`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', ...authHeaders },
+        body: JSON.stringify({ name: 'Aluno Comunidade', active_career_id: 'atrfb' })
+    }).then(r => r.json());
+
     // 1. Teste de canais da comunidade
-    const channelsRes = await fetch(`${baseUrl}/api/community/channels?careerId=atrfb`);
+    const channelsRes = await fetch(`${baseUrl}/api/community/channels?careerId=atrfb`, { headers: authHeaders });
     assert.strictEqual(channelsRes.status, 200, 'Deve responder status 200 para canais');
     const channelsData = await channelsRes.json();
     assert.strictEqual(channelsData.success, true);
@@ -16,7 +32,7 @@ export async function runCommunityAndCadernoErrosTests(baseUrl = 'http://localho
     // 2. Teste de envio de mensagem na comunidade
     const sendRes = await fetch(`${baseUrl}/api/community/messages`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'x-user-id': 'test_user_com' },
+        headers: { 'Content-Type': 'application/json', 'x-user-id': prof.id, ...authHeaders },
         body: JSON.stringify({
             channelId: targetChannel.id,
             messageText: 'Mensagem de teste automatizado sobre o edital!',
@@ -34,7 +50,7 @@ export async function runCommunityAndCadernoErrosTests(baseUrl = 'http://localho
     console.log(`  ✅ 2. Envio de Mensagem no Canal #${targetChannel.id}: PASSOU`);
 
     // 3. Teste de listagem de mensagens do canal
-    const msgsRes = await fetch(`${baseUrl}/api/community/messages/${targetChannel.id}`);
+    const msgsRes = await fetch(`${baseUrl}/api/community/messages/${targetChannel.id}`, { headers: authHeaders });
     assert.strictEqual(msgsRes.status, 200);
     const msgsData = await msgsRes.json();
     assert.strictEqual(msgsData.success, true);
@@ -46,7 +62,7 @@ export async function runCommunityAndCadernoErrosTests(baseUrl = 'http://localho
     // 4. Teste de reação emoji na mensagem
     const reactRes = await fetch(`${baseUrl}/api/community/messages/${createdMsgId}/react`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'x-user-id': 'test_user_com' },
+        headers: { 'Content-Type': 'application/json', 'x-user-id': prof.id, ...authHeaders },
         body: JSON.stringify({
             emoji: '💡',
             channelId: targetChannel.id
@@ -62,7 +78,7 @@ export async function runCommunityAndCadernoErrosTests(baseUrl = 'http://localho
 
     // 5. Teste de Caderno de Erros - Listagem
     const errosRes = await fetch(`${baseUrl}/api/caderno-erros?career_id=atrfb`, {
-        headers: { 'x-user-id': 'test_user_com' }
+        headers: { 'x-user-id': prof.id, ...authHeaders }
     });
     assert.strictEqual(errosRes.status, 200);
     const errosData = await errosRes.json();

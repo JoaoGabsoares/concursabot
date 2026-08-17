@@ -161,3 +161,20 @@ npm start
   - Chat comunitário SSE 100% compatível com broadcast simultâneo entre celulares, tablets e computadores conectados através de túneis públicos do Cloudflare (`npx untun` / `cloudflared tunnel`).
 - **Consultoria de Autenticação Google OAuth**:
   - Documentada a gratuidade total do Google OAuth 2.0 (Google Identity Services) e plano de migração para login social.
+
+---
+
+## 🛡️ 10. Release v3.8: Blindagem Zero-Trust & Proteção Total de APIs e Chave Gemini
+
+- **Middleware Global Zero-Trust (`session-auth.js`)**:
+  - Intercepta 100% das requisições em `/api/*` e exige token de sessão criptográfico válido (`Authorization: Bearer <token>` ou `x-account-token`) verificado em `auth_sessions`.
+  - Rejeição instantânea com `401 Unauthorized` para qualquer chamada anônima ou com token forjado.
+- **Whitelist Pública Mínima Estrita**:
+  - Apenas endpoints essenciais permanecem abertos: `POST /api/auth/login`, `POST /api/auth/register`, `GET /api/auth/status`, `POST /api/auth/verify-invite`, `POST /api/verify-pin` e `GET /api/health`.
+- **Proteção Total da Chave Gemini contra Abuso / Bots**:
+  - Endpoints de IA (`/api/tutor`, `/api/study-room/chat`, `/api/redacao/ia-stream`, `/api/rag`, `/api/summaries`, `/api/edital`) agora exigem login ativo e verificação de conta + `aiRateLimiter` associado ao ID do aluno, impossibilitando que terceiros consumam a cota da chave privada.
+- **Tratamento de Sessão Expirada no Frontend (`ApiClient.ts`)**:
+  - Respostas 401 do servidor limpam automaticamente o token de autenticação local e forçam o fluxo de login/troca de perfil limpo.
+- **Encerramento de Túneis Expõem Redes**:
+  - Processos expostos do Cloudflare Tunnel finalizados e validação de pentest automatizado no test suite.
+

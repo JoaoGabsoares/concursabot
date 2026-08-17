@@ -7,6 +7,22 @@ export async function runV35FixesTests() {
   console.log('🧪 TESTES DE INTEGRAÇÃO: PACOTE DE CORREÇÕES v3.5 ULTRA');
   console.log('===============================================================');
 
+  // 0. Registrar e Autenticar Usuário de Teste
+  const username = `test_v35_${Date.now()}`;
+  const reg = await fetch(`${BASE_URL}/auth/register`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ username, password: 'SenhaSegura123!', email: `${username}@teste.com` })
+  }).then(r => r.json());
+  const token = reg.token;
+  const authHeaders = { 'Authorization': `Bearer ${token}`, 'x-account-token': token };
+
+  const prof = await fetch(`${BASE_URL}/users`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', ...authHeaders },
+    body: JSON.stringify({ name: 'Tester v3.5', active_career_id: 'atrfb' })
+  }).then(r => r.json());
+
   // 1. Teste de Senha com Mínimo de 8 Caracteres
   console.log('1️⃣  Validando regra de senha mínima de 8 caracteres...');
   const shortPassRes = await fetch(`${BASE_URL}/auth/register`, {
@@ -29,7 +45,8 @@ export async function runV35FixesTests() {
     method: 'POST',
     headers: { 
       'Content-Type': 'application/json',
-      'x-user-id': 'user_joao'
+      'x-user-id': prof.id,
+      ...authHeaders
     },
     body: JSON.stringify({
       channelId: 'transpetro_adm_geral',
@@ -44,7 +61,7 @@ export async function runV35FixesTests() {
 
   // 3. Teste de Isolamento de Carreira Transpetro
   console.log('3️⃣  Validando catálogo de matérias da Transpetro (Isolamento de Carreiras)...');
-  const catRes = await fetch(`${BASE_URL}/aproveitamento/catalogo`);
+  const catRes = await fetch(`${BASE_URL}/aproveitamento/catalogo`, { headers: authHeaders });
   const catalogo = await catRes.json();
   const transpetroAdm = catalogo.find(c => c.id === 'transpetro_adm');
   const transpetroLog = catalogo.find(c => c.id === 'transpetro_log');
@@ -57,7 +74,7 @@ export async function runV35FixesTests() {
   console.log('4️⃣  Validando cálculo da Matriz de Aproveitamento com Cronograma Semanal...');
   const compRes = await fetch(`${BASE_URL}/aproveitamento/comparar`, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: { 'Content-Type': 'application/json', ...authHeaders },
     body: JSON.stringify({
       origemCareerId: 'bb_comercial',
       destinoCareerId: 'transpetro_adm',
@@ -82,7 +99,8 @@ export async function runV35FixesTests() {
     method: 'POST',
     headers: { 
       'Content-Type': 'application/json',
-      'x-user-id': 'user_joao'
+      'x-user-id': prof.id,
+      ...authHeaders
     },
     body: JSON.stringify({
       origemCareerId: 'bb_comercial',

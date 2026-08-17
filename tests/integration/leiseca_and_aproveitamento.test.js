@@ -3,15 +3,31 @@ import assert from 'assert';
 export async function runLeiSecaAndAproveitamentoTests(baseUrl = 'http://localhost:3000') {
   console.log('\n⚖️ [TEST SUITE: Lei Seca Ativa & Matriz de Aproveitamento]');
 
+  // 0. Registrar e Autenticar Usuário de Teste
+  const username = `user_leiseca_${Date.now()}`;
+  const reg = await fetch(`${baseUrl}/api/auth/register`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ username, password: 'SenhaSegura123!', email: `${username}@teste.com` })
+  }).then(r => r.json());
+  const token = reg.token;
+  const authHeaders = { 'Authorization': `Bearer ${token}`, 'x-account-token': token };
+
+  const prof = await fetch(`${baseUrl}/api/users`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', ...authHeaders },
+    body: JSON.stringify({ name: 'Aluno Lei Seca', active_career_id: 'atrfb' })
+  }).then(r => r.json());
+
   // 1. Artigos de Lei Seca
-  const artRes = await fetch(`${baseUrl}/api/leiseca/artigos?careerId=atrfb`);
+  const artRes = await fetch(`${baseUrl}/api/leiseca/artigos?careerId=atrfb`, { headers: authHeaders });
   const artData = await artRes.json();
   assert.ok(artData.total > 0, 'Deve retornar artigos de lei seca');
   assert.ok(Array.isArray(artData.artigos), 'Artigos deve ser array');
   console.log(`  ✅ 1. Consulta de Artigos de Ouro (${artData.total} artigos): PASSOU`);
 
   // 2. Desafio Caça-Pegadinhas
-  const desRes = await fetch(`${baseUrl}/api/leiseca/desafio?careerId=transpetro_adm`);
+  const desRes = await fetch(`${baseUrl}/api/leiseca/desafio?careerId=transpetro_adm`, { headers: authHeaders });
   const desData = await desRes.json();
   assert.ok(desData.desafioId, 'Deve conter desafioId');
   assert.ok(desData.textoComErro, 'Deve conter texto com erro');
@@ -21,7 +37,7 @@ export async function runLeiSecaAndAproveitamentoTests(baseUrl = 'http://localho
   // 3. Resposta de Desafio com Ganho de XP
   const respRes = await fetch(`${baseUrl}/api/leiseca/responder`, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json', 'x-user-id': 'test_user_audit' },
+    headers: { 'Content-Type': 'application/json', 'x-user-id': prof.id, ...authHeaders },
     body: JSON.stringify({
       desafioId: desData.desafioId,
       palavraSelecionada: 'obrigatoria',
@@ -34,7 +50,7 @@ export async function runLeiSecaAndAproveitamentoTests(baseUrl = 'http://localho
   console.log('  ✅ 3. Validação de Resposta do Caça-Pegadinhas com Explicação: PASSOU');
 
   // 4. Catálogo de Aproveitamento Curricular
-  const catRes = await fetch(`${baseUrl}/api/aproveitamento/catalogo`);
+  const catRes = await fetch(`${baseUrl}/api/aproveitamento/catalogo`, { headers: authHeaders });
   const catData = await catRes.json();
   assert.ok(catData.length >= 7, 'Deve conter pelo menos 7 carreiras');
   console.log(`  ✅ 4. Catálogo de Carreiras para Transição (${catData.length} carreiras): PASSOU`);
@@ -42,7 +58,7 @@ export async function runLeiSecaAndAproveitamentoTests(baseUrl = 'http://localho
   // 5. Comparação de Editais (BB Comercial -> Transpetro ADM)
   const compRes = await fetch(`${baseUrl}/api/aproveitamento/comparar`, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: { 'Content-Type': 'application/json', ...authHeaders },
     body: JSON.stringify({
       origemCareerId: 'bb_comercial',
       destinoCareerId: 'transpetro_adm'
@@ -55,14 +71,14 @@ export async function runLeiSecaAndAproveitamentoTests(baseUrl = 'http://localho
   console.log(`  ✅ 5. Matriz de Aproveitamento BB -> Transpetro (${compData.percentualAproveitamento}% base comum): PASSOU`);
 
   // 6. Súmulas e Jurisprudência dos Tribunais (STF/STJ)
-  const sumRes = await fetch(`${baseUrl}/api/jurisprudencia/sumulas?careerId=atrfb`);
+  const sumRes = await fetch(`${baseUrl}/api/jurisprudencia/sumulas?careerId=atrfb`, { headers: authHeaders });
   const sumData = await sumRes.json();
   assert.ok(sumData.total > 0, 'Deve retornar sumulas vinculantes');
   assert.ok(Array.isArray(sumData.sumulas), 'Sumulas deve ser array');
   console.log(`  ✅ 6. Consulta de Súmulas Vinculantes & Jurisprudência (${sumData.total} súmulas): PASSOU`);
 
   // 7. Desafio de Jurisprudência
-  const desJurRes = await fetch(`${baseUrl}/api/jurisprudencia/desafio?careerId=transpetro_adm`);
+  const desJurRes = await fetch(`${baseUrl}/api/jurisprudencia/desafio?careerId=transpetro_adm`, { headers: authHeaders });
   const desJurData = await desJurRes.json();
   assert.ok(desJurData.numero, 'Deve conter numero da sumula');
   assert.ok(desJurData.pegadinha, 'Deve conter pegadinha da banca examinadora');
