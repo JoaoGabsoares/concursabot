@@ -8,6 +8,7 @@ import { generateJSON, generateContent, streamChat } from '../gemini.js';
 import logger from '../logger.js';
 import {
   MATERIAL_ANALYSIS_PROMPT,
+  getMaterialAnalysisPrompt,
   MATERIAL_ANALYSIS_SCHEMA,
   buildCadernoEnxutoPrompt,
   buildFixationQuestionsPrompt,
@@ -135,8 +136,9 @@ router.post('/upload', async (req, res) => {
     // Análise estruturada via Gemini com fallback local resiliente
     let analysisResponse;
     try {
+      const dynamicPrompt = getMaterialAnalysisPrompt(careerId);
       analysisResponse = await generateJSON(
-        `${MATERIAL_ANALYSIS_PROMPT}\n\nCONTEÚDO DO PDF:\n${textContent.substring(0, 100000)}`,
+        `${dynamicPrompt}\n\nCONTEÚDO DO PDF:\n${textContent.substring(0, 100000)}`,
         'Você é um especialista em análise de materiais de estudo para concursos públicos.',
         MATERIAL_ANALYSIS_SCHEMA
       );
@@ -713,10 +715,10 @@ router.get('/materials/:id', (req, res) => {
   }
 });
 
-// POST /materials/:id/caderno-enxuto — Gera ou retorna o Caderno Enxuto FGV da apostila
+// POST /materials/:id/caderno-enxuto — Gera ou retorna o Caderno Enxuto da apostila com DNA de Banca
 router.post('/materials/:id/caderno-enxuto', async (req, res) => {
   try {
-    const material = db.prepare('SELECT id, title, subject, content_text, caderno_enxuto FROM study_materials WHERE id = ?')
+    const material = db.prepare('SELECT id, title, subject, content_text, caderno_enxuto, career_id FROM study_materials WHERE id = ?')
       .get(req.params.id);
 
     if (!material) {
@@ -732,10 +734,14 @@ router.post('/materials/:id/caderno-enxuto', async (req, res) => {
       return res.status(400).json({ error: 'O conteúdo de texto da apostila não está disponível para gerar o caderno enxuto.' });
     }
 
-    const prompt = buildCadernoEnxutoPrompt(material.content_text, material.subject, material.title);
+    const careerId = material.career_id || 'atrfb';
+    const careerCfg = getCareerConfig(careerId);
+    const bancaName = careerCfg.bancas?.[0]?.name || 'banca oficial';
+
+    const prompt = buildCadernoEnxutoPrompt(material.content_text, material.subject, material.title, careerId);
     const cadernoMarkdown = await generateContent(
       prompt,
-      'Você é um Professor Mentor e Estrategista de Alta Performance para a FGV Receita Federal. Resuma com precisão cirúrgica.'
+      `Você é um Professor Mentor e Estrategista de Alta Performance para ${careerCfg.name} (${bancaName}). Resuma com precisão cirúrgica.`
     );
 
     // Salva no banco de dados para acesso instantâneo futuro

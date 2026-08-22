@@ -47,18 +47,21 @@ export const STUDY_ROOM_SYSTEM_PROMPT = getStudyRoomSystemPrompt('atrfb');
 export function getMaterialAnalysisPrompt(careerId = 'atrfb') {
   const career = getCareerConfig(careerId);
   const bancaName = career.bancas?.[0]?.name || 'banca oficial';
+  const benchmarkCtx = getBenchmarkContextForCareer(careerId);
 
   return `Analise o material de estudo (PDF) fornecido e extraia as seguintes informações de forma estruturada, cruzando com o perfil de cobrança da banca ${bancaName} (${career.name}) e o histórico dos últimos concursos:
+${benchmarkCtx}
 
 1. **Número da Aula**: Identifique o número da aula se presente (ex: Aula 01 -> 1, Aula 00 -> 0)
 2. **Título/Assunto Principal**: Identifique o tema central e detalhado do material
 3. **Matéria**: Identifique a disciplina
 4. **Tópicos Abordados**: Liste todos os tópicos e subtópicos em ordem
-5. **🔥 Tópicos Quentes na Banca (>75%)**: Quais conceitos, regras e teses deste material a banca ${bancaName} mais cobra com frequência alta
-6. **🧊 Tópicos Isca (<15%)**: Quais partes teóricas ou introduções históricas deste material têm baixo retorno e podem ser lidas rapidamente
-7. **🧭 Roteiro Estratégico de Leitura**: Indicação clara de onde o aluno deve começar e focar
+5. **🔥 Tópicos Quentes na Banca (>75%)**: Quais conceitos, regras e teses deste material a banca ${bancaName} mais cobra com frequência alta com base no histórico das últimas provas
+6. **🧊 Tópicos Isca (<15%)**: Quais partes teóricas, introduções históricas ou doutrinas minoritárias deste material têm baixo retorno e podem ser lidas rapidamente
+7. **🧭 Roteiro Estratégico de Leitura**: Indicação clara de onde o aluno deve começar e onde deve focar
 8. **Artigos de Lei & Súmulas Obrigatórias**: Liste os artigos de lei e súmulas citados que o aluno DEVE grifar
-9. **Resumo Estratégico**: Um resumo focado no que mais cai em provas deste concurso
+9. **Dicas de Armadilhas da Banca**: Pegadinhas clássicas que a banca ${bancaName} monta sobre este assunto específico
+10. **Resumo Estratégico**: Um resumo conciso e cirúrgico focado no que mais cai em provas deste concurso
 
 Retorne em formato JSON.`;
 }
